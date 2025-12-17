@@ -2,6 +2,15 @@
 
 Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).
 
+## Voorbeelden
+
+In de `output/` map staan twee concrete voorbeelden van gegenereerde analyses:
+
+| Locatie | Datum | Overzicht |
+|---------|-------|-----------|
+| Waddinxveen (Bethelkerk) | 4 januari 2026 | [00_overzicht.md](output/Waddinxveen_4_januari_2026_Bethelkerk/00_overzicht.md) |
+| Lexmond | 31 december 2025 | [00_overzicht.md](output/Lexmond_31_december_2025_PG/00_overzicht.md) |
+
 ## Achtergrond
 
 Friedrich Niebergall constateerde: *"Menige preek geeft antwoorden op vragen die niemand stelt, en gaat niet in op vragen die iedereen stelt."* Dit script helpt predikanten om hun hoorders beter te kennen door systematisch de context in kaart te brengen.
@@ -74,13 +83,6 @@ Het script genereert een map in `output/` met:
 - `02_waardenorientatie.md` - Analyse van de vijf V's, Motivaction-groepen en trends
 - `03_geloofsorientatie.md` - Religieuze context en geloofstaal
 - `04_interpretatieve_synthese.md` - Integrerende analyse met homiletische aanbevelingen
-
-### Voorbeelden
-
-In de `output/` map staan twee concrete voorbeelden van gegenereerde analyses:
-
-- **Waddinxveen** (Bethelkerk, 4 januari 2026)
-- **Lexmond** (31 december 2025)
 
 ## Projectstructuur
 
