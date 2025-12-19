@@ -12,6 +12,7 @@ In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 | Delft (Vierhovenkerk) | 18 januari 2026 | [00_overzicht.md](output/Delft_18_januari_2026_Vierhovenkerk/00_overzicht.md) |
 | Waddinxveen (Bethelkerk) | 4 januari 2026 | [00_overzicht.md](output/Waddinxveen_4_januari_2026_Bethelkerk/00_overzicht.md) |
 | Lexmond | 31 december 2025 | [00_overzicht.md](output/Lexmond_31_december_2025_PG/00_overzicht.md) |
+| Utrecht (Lutherse Gemeente) | 25 december 2025 | [00_overzicht.md](output/Utrecht_25_december_2025_Lutherse_Gemeente/00_overzicht.md) |
 
 ## Achtergrond
 
