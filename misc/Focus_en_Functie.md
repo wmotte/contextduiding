@@ -1,49 +1,32 @@
-# Focus en Functie: Kern van de Preekvoorbereiding
+# Focus en Functie: De Kern van de Preek
 
-*Gebaseerd op: Van de Leede & Stark*
+*Methodiek gebaseerd op: De Leede & Stark*
 
-Een veelgebruikt instrument om in het hermeneutisch voorbereidingswerk te gaan ordenen, keuzen te maken en weg te leggen wat van de verzamelde stof niet ter zake is, is het formuleren van een **focus** en **functie** van de preek.
+Om structuur aan te brengen in de grote hoeveelheid materiaal uit de exegese en hoordersanalyse, is het essentieel om scherpe keuzes te maken. Het formuleren van een **focus** en **functie** helpt om de kern van de preek vast te houden en ballast overboord te gooien.
 
-## 1. Focus
+## 1. De Focus: Wat wil je zeggen?
 
-De **focus** is het centrale, leidende thema van de preek, waaromheen de verzamelde stof geordend wordt en we keuzen maken waardoor de preek een eenheid wordt. De focus vat in toegespitste zin samen wat de boodschap is die de tekst hier en nu voor deze hoorders wil ontvouwen, verwoorden en betuigen.
+De **focus** vormt het hart van de preek. Het is het centrale thema dat alle onderdelen verbindt tot één samenhangend geheel. In de focus vat je samen welke specifieke boodschap deze tekst, op dit moment, aan deze specifieke hoorders wil overbrengen.
 
-De focus is het vervolg van de zin:
-> *Ik wil op grond van mijn exegese van de tekst voor deze hoorders, in hun context, in deze dienst zeggen … (het ‘wat’, de inhoud).*
+Je kunt de focus formuleren door deze zin af te maken:
+> *"Op basis van de exegese en de context van deze gemeente, wil ik in deze dienst verkondigen dat..."*
 
-De focus moet voor de hoorder overtuigend opkomen uit de tekst en de exegese ervan. De focus is het sturend of leidend thema van de preek, en de preek is de nadere ontvouwing van de focus.
+Een goede focus komt logisch voort uit de tekststudie en fungeert als de 'rode draad' waar de hele preek een ontvouwing van is.
 
-## 2. Functie
+## 2. De Functie: Wat moet de preek doen?
 
-De **functie** is het beoogde doel dat we met de preek willen bereiken, de werking van de preek waardoor de preek voor de hoorder relevant wordt. De functie maakt duidelijk wat er in de preek op het spel staat voor deze hoorders in hun context vanuit deze tekst in deze dienst. De functie maakt duidelijk en voelbaar dat de tekst iets met de hoorder wil, en wát zij wil.
+De **functie** beschrijft de beoogde impact van de preek. Het gaat hier niet om de inhoud, maar om het doel: wat moet er bij de hoorder gebeuren? De functie maakt de preek relevant door aan te geven wat er voor de gemeente op het spel staat.
 
-De functie is de invulling van het vervolg van de formulering van de focus:
-> *Ik wil op grond van mijn exegese van de tekst voor deze hoorders, in hun context, in deze dienst zeggen ... (het ‘wat’, de inhoud), met als doel dat de hoorders … (het ‘waartoe’, het verhoopte doel of effect, en dus de functie).*
+De volledige formule voor de voorbereiding wordt dan:
+> *"Ik wil zeggen dat... (inhoudelijke focus), zodat de hoorders... (beoogde werking of doel)."*
 
-## 3. Anticipatie (De Tussenstap)
+## 3. Anticipatie: De hoorder serieus nemen
 
-Het is belangrijk om tussen het formuleren van de focus en de functie een anticiperende tussenstap te bedenken, waarbij de prediker zich afvraagt wat de eerste reactie van de hoorders op de vanuit de tekst geformuleerde focus zal zijn, zodat deze veronderstelde reactie meegenomen wordt in het formuleren van de functie.
+Een cruciale tussenstap is de **anticipatie**. Voordat je de definitieve functie bepaalt, vraag je jezelf af hoe de gemeente waarschijnlijk zal reageren op de geformuleerde focus. Door vooraf mogelijke weerstand, vragen of vreugde in te schatten, kun je de preek zo insteken dat de hoorder werkelijk bereikt wordt.
 
-Wanneer bijvoorbeeld de focus mogelijke controverse oproept (bijvoorbeeld een oproep tot bekering), dan is het goed dat de prediker zich deze weerstand realiseert en die adresseert omdat er anders een blokkade ontstaat waardoor de hoorder zeker niet meegaat in het proces van het actualiseren van het geloof.
+Als een tekst bijvoorbeeld schuurt of confronteert, moet de prediker die reactie voorzien. Gebeurt dat niet, dan kan een blokkade ontstaan waardoor de eigenlijke boodschap niet meer binnenkomt.
 
-Deze tussenstap kan men als volgt omschrijven:
-> *Ik wil zeggen dat … (focus) en de hoorders zullen zich hiertoe verhouden als … (anticipatie), waarmee ik rekening houd om te komen tot … (formulering van de functie).*
+Het denkproces ziet er als volgt uit:
+> *Ik wil zeggen dat... (focus). Ik verwacht dat de hoorders daarop reageren met... (anticipatie). Daarom kies ik als doel dat... (functie).*
 
-Focus en functie moeten beide opkomen uit het verstaansproces binnen de homiletische driehoek (de ontmoeting van de wereld van tekst, hoorders en prediker). Zij moeten aan elkaar gerelateerd zijn, zodat de beoogde functie opkomt uit de geformuleerde focus. En focus en functie moeten helder, eenvoudig en eenduidig zijn.
-
----
-
-## Voorbeeld
-
-**Context:** Kerkdienst op Weeszondag (zondag tussen Hemelvaart en Pinksteren).
-**Tekst:** Johannes 14:18-31
-**Kerntekst:** "Ik zal jullie niet als wezen achterlaten. Ik kom weer naar jullie toe" (vers 18).
-
-**Focus:**
-Op grond van deze tekst wil ik op deze zondag na Hemelvaart en voor Pinksteren, de Weeszondag, tot de hoorders, die in hun leven als gelovigen in deze wereld dat gevoel van verweesdheid, dat gevoel dat God zo verborgen is, zullen herkennen (= anticipatie), zeggen:
-> *Niet wij worden op pad gestuurd om in deze wereld ‘in de geest van Jezus verder te leven’ en ‘vast te houden wat Hij heeft gezegd en gedaan’, maar Hij is door zijn Geest bij ons om ons telkens opnieuw te vervullen van wijsheid, inspiratie en vertrouwen om met vreugde in zijn vrede te leven. We leven in een godloze wereld onder de belofte van het komende Pinksterfeest: Ik ben bij jullie alle dagen.*
-
-*Kortom:* Jezus verzekert ons van zijn presentie ook na zijn heengaan.
-
-**Functie:**
-> *Ik hoop met mijn preek te bereiken dat de gemeente gesterkt in het geloof de kerk verlaat, in het besef dat de vrede die Jezus nalaat geen opdracht is die wij moeten waarmaken, maar een werkelijkheid waaruit wij kunnen en mogen leven.*
+Focus en functie moeten altijd voortkomen uit de wisselwerking tussen de Bijbeltekst, de situatie van de hoorders en de persoon van de prediker. Samen zorgen ze voor een heldere, eenduidige en krachtige verkondiging.
