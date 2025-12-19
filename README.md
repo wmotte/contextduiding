@@ -43,6 +43,8 @@ Na de basisanalyse kan een verdieping worden uitgevoerd met twee extra analyses:
 
 Deze verdieping leest de output van de basisanalyse (00-05) en gebruikt deze als context.
 
+**Bijbelteksten ophalen:** Het script haalt automatisch de bijbelteksten op van [naardensebijbel.nl](https://www.naardensebijbel.nl/) (de literaire vertaling van Pieter Oussoren). De teksten worden opgeslagen in `bijbelteksten/*.txt` en meegenomen in de exegese-prompt.
+
 ## Installatie
 
 ```bash
@@ -50,7 +52,7 @@ Deze verdieping leest de output van de basisanalyse (00-05) en gebruikt deze als
 cd contextduiding
 
 # Installeer dependencies
-pip install google-genai
+pip install google-genai requests beautifulsoup4
 
 # Stel je Gemini API key in
 export GEMINI_API_KEY='jouw-api-key'
@@ -96,7 +98,11 @@ output/Plaatsnaam_datum_timestamp/
 ├── 04_interpretatieve_synthese.md         # Homiletische aanbevelingen
 ├── 05_actueel_wereldnieuws.md             # Recent wereldnieuws met duiding
 ├── 06_exegese.md                          # Exegese van de Schriftlezingen (via verdieping.py)
-└── 07_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
+├── 07_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
+└── bijbelteksten/                         # Naardense Bijbel teksten (via verdieping.py)
+    ├── jesaja_91-6.txt
+    ├── lucas_21-14.txt
+    └── ...
 ```
 
 ## Projectstructuur
@@ -105,6 +111,7 @@ output/Plaatsnaam_datum_timestamp/
 contextduiding/
 ├── contextduiding.py                       # Hoofdscript basisanalyse
 ├── verdieping.py                           # Verdieping: exegese en kunst/cultuur
+├── naardense_bijbel.py                     # Module voor ophalen bijbelteksten
 ├── prompts/                                # Prompt-bestanden (aanpasbaar)
 │   ├── base_prompt.md                      # Basis rol en werkwijze
 │   ├── 00_zondag_kerkelijk_jaar.md         # Liturgische context (eerst)
@@ -177,9 +184,63 @@ Zes ervaringsgebieden: Schepping, Eindigheid, Menselijk tekort, Lijden, Wijsheid
 - Literaire analyse (genre, structuur, stijlfiguren)
 - Historische context van de tekst
 - Theologische lijnen en intertekstualiteit
+- **Zoekmodellen voor Gods-, mens- en Jezusbeelden** (zie hieronder)
 - Samenhang van de lezingen
 - Receptiegeschiedenis
 - Homiletische doorvertaling
+
+#### Zoekmodellen (Hans Snoek)
+
+De exegese maakt gebruik van de zoekmodellenmethode van Hans Snoek (*Een huis om in te wonen*, 2010). Deze methode biedt een systematische manier om de belangrijkste actanten in de Bijbel — God, mens en Jezus — te analyseren. Het zijn geen rigide rasters, maar heuristische hulpmiddelen die van geval tot geval hun nut moeten bewijzen.
+
+**A. Godsbeelden (OT)**
+
+Het OT kent drie soorten uitspraken over God:
+
+1. *Werkwoordelijke uitspraken* — God bevrijdt, schept, leidt, spreekt (Brueggemann: Israël leerde God kennen in concrete historische gebeurtenissen)
+2. *Metaforische uitspraken* — "De HEER is koning/herder/rechter/vader"
+3. *Uitspraken over eigenschappen* — onderverdeeld in:
+   - Overstijgende (transcendente): almachtig, eeuwig, heilig
+   - Toebuigende (condescendente): barmhartig, trouw, genadig (Berkhof)
+
+```
+            overstijgende eigenschappen
+                        |
+metaforische uitspraken — God — werkwoordelijke uitspraken
+                        |
+            toebuigende eigenschappen
+```
+
+**B. Mensbeelden (OT)**
+
+```
+                    God
+        (gebed, aanbidding, luisteren)
+                    |
+    kwaad doen — mens/mensen — goed doen
+                    |
+                    wereld
+        (zorg voor naaste, belangen)
+```
+
+Gerichtheid op God en wereld sluiten elkaar niet uit — profeten roepen met beroep op Gods wil juist op tot zorg voor de naaste.
+
+**C. Jezusbeelden (NT)**
+
+Gebaseerd op Berkhof, aangepast door Snoek:
+
+```
+            van boven: Zoon van God
+                        |
+van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
+                        |
+            van beneden: mens
+```
+
+- **Van achteren**: geworteld in Israëls traditie, Messias
+- **Van boven**: goddelijke identiteit, zending, pre-existentie
+- **Van beneden**: mens van vlees en bloed, emoties, lijden
+- **Van voren**: uitspraken over Koninkrijk, eeuwig leven, toekomst
 
 ### 7. Kunst en Cultuur (verdieping)
 - Klassieke christelijke kunst (schilderijen, iconen, miniaturen)
@@ -198,6 +259,7 @@ Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery 
 - **NOS, NRC, Trouw, ND** - Nieuws en actualiteit
 - **protestantsekerk.nl** - PKN-informatie, leesrooster
 - **Liedboek 2013** - Liedsuggesties
+- **naardensebijbel.nl** - Naardense Bijbel (Pieter Oussoren)
 - **artbible.info** - Bijbelse kunst database
 - **wga.hu** - Web Gallery of Art
 - **De Bijbel Cultureel** - Barnard & Van der Meiden
@@ -205,6 +267,7 @@ Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery 
 ### Literatuur
 - De Leede, H. & Stark, C. (2017). *Ontvouwen: Protestantse prediking in de praktijk*. Zoetermeer: Boekencentrum, pp. 73-81.
 - Niebergall, F. (1971). 'Die moderne Predigt', in: Hummel, G., *Aufgabe der Predigt*. Darmstadt: Wissenschaftliche Buchgesellschaft.
+- Snoek, H. (2010). *Een huis om in te wonen: Uitleg en interpretatie van de Bijbel*. Kampen: Kok, 2e druk, pp. 180-199. (Zoekmodellen voor Gods-, mens- en Jezusbeelden)
 - Motivaction. *Mentality-model*. https://www.motivaction.nl/mentality
 
 ## API Key

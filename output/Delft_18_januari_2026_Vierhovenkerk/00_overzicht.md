@@ -12,3 +12,5 @@
 - [Geloofsoriëntatie](03_geloofsorientatie.md)
 - [Interpretatieve Synthese](04_interpretatieve_synthese.md)
 - [Actueel Wereldnieuws](05_actueel_wereldnieuws.md)
+- [Exegese van de Schriftlezingen](06_exegese.md)
+- [Kunst, Cultuur en Film](07_kunst_cultuur.md)

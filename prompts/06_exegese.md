@@ -91,37 +91,81 @@ De liturgische gegevens en Schriftlezingen zijn hierboven vermeld. Neem deze als
 - Welke leerstukken raken aan deze tekst?
 - Zijn er klassieke theologische controverses rondom deze tekst?
 
-### 10. Samenhang van de lezingen
-- Hoe verhouden OT-lezing, epistel en evangelie zich tot elkaar?
-- Wat is de rode draad die het leesrooster suggereert?
-- Waar versterken de teksten elkaar?
-- Waar staan ze in spanning of bieden ze een ander perspectief?
-- Welke rol speelt de psalm in dit geheel?
+### 10. Zoekmodellen voor Gods-, mens- en Jezusbeelden (Snoek)
 
-### 11. Receptiegeschiedenis
-- Hoe is deze tekst door de eeuwen heen gelezen?
-- Welke kerkvaders of reformatoren hebben belangrijke uitleg gegeven?
-- Zijn er opmerkelijke verschuivingen in de interpretatie?
-- Welke moderne commentatoren zijn van belang?
-- Zijn er bijzondere liturgische tradities rondom deze tekst?
+Pas de zoekmodellenmethode van Hans Snoek toe om de belangrijkste actanten in de tekst systematisch te analyseren. Voer deze analyse uit voor **elke lezing afzonderlijk**. Gebruik de theoretische kaders hieronder om tot een diepgaande beschrijving te komen.
 
-### 12. Open vragen en exegetische discussies
-- Welke vragen blijven onbeantwoord?
-- Waarover verschillen exegeten van mening?
-- Wat zijn de sterkste argumenten voor verschillende interpretaties?
+**BELANGRIJK:** Vermijd korte bulletpoints. Schrijf een doorlopend betoog per lezing waarin je de assen van het model verkent en de onderzoeksvragen beantwoordt.
 
-## Bronnen om te raadplegen
-- Studiebijbels (NBV Studiebijbel, Studiebijbel OT/NT)
-- Commentarenreeksen (Word Biblical Commentary, Herders Theologischer Kommentar, etc.)
-- Online: Working Preacher, Werkgroep Kerk en Prediking, preekwijzer.nl
-- Klassieke commentaren (Calvijn, Luther)
-- Moderne exegese (bijv. via theologie.nl, JSTOR)
+---
+
+**A. Godsbeelden (bij OT-teksten)**
+
+Er zijn drie soorten uitspraken over God te onderscheiden:
+
+*1. Werkwoordelijke uitspraken*: Zinnen die Gods handelen beschrijven (bevrijdt, schept, spreekt). Benadrukt God als actor in de geschiedenis.
+*2. Metaforische uitspraken*: "De HEER is koning/herder/rechter". Nadruk op wie Hij is.
+*3. Eigenschappen*:
+   - **Overstijgend**: almachtig, eeuwig, heilig (God boven de geschiedenis).
+   - **Toebuigend**: liefdevol, barmhartig, trouw (God betrokken op mensen).
+
+```
+            overstijgende eigenschappen
+                        |
+metaforische uitspraken — God — werkwoordelijke uitspraken
+                        |
+            toebuigende eigenschappen
+```
+
+**Analyseer per tekst:** Welke categorie domineert? Welke spanning ontstaat er? Hoe verhoudt dit zich tot de context van de gemeente?
+
+---
+
+**B. Mensbeelden (bij OT-teksten)**
+
+*Horizontale as*: **Kwaad doen** (zonde, onrecht) vs. **Goed doen** (gerechtigheid, trouw).
+*Verticale as*: **Gericht op God** (gebed, aanbidding, klacht) vs. **Gericht op de wereld** (naastenliefde, strijd tegen onrecht).
+
+```
+                    God
+                    |
+    kwaad doen — mens/mensen — goed doen
+                    |
+                    wereld
+```
+
+**Analyseer per tekst:** Waar bevinden de personages zich? Is er karakterontwikkeling? Hoe beïnvloedt hun gerichtheid hun handelen?
+
+---
+
+**C. Jezusbeelden (bij NT-teksten)**
+
+```
+                van boven: Zoon van God
+                        |
+van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
+                        |
+                van beneden: mens
+```
+
+1. **Van achteren**: Geworteld in de traditie van Israël, Messias, Wet en Profeten.
+2. **Van boven**: Goddelijke identiteit, pre-existentie, verheerlijking.
+3. **Van beneden**: Mens van vlees en bloed, emoties, lijden, dood.
+4. **Van voren**: Eschatologie, Koninkrijk, oordeel en genade.
+
+**Analyseer per tekst:** Welk perspectief domineert? Welke spanning ontstaat er tussen bijvoorbeeld zijn godheid en mensheid in deze specifieke perikoop? Wat betekent dit beeld voor de hoorders nu?
+
+---
+
+### 11. Samenhang van de lezingen
+- Wat is de rode draad? Waar versterken of corrigeren de teksten elkaar?
+
+### 12. Receptiegeschiedenis
+- Belangrijke interpretaties door de eeuwen heen.
+
+### 13. Open vragen voor de predikant
+- Exegetische discussies en prikkelende vragen voor de preek.
 
 ## Gewenste output
 
-Lever een exegese die:
-1. Academisch verantwoord is maar toegankelijk voor de predikant
-2. De tekst grondig analyseert in zijn eigen context
-3. De samenhang van de lezingen verheldert
-4. Meerdere interpretatieve mogelijkheden eerlijk presenteert
-5. De predikant helpt de tekst echt te begrijpen voordat deze gaat preken
+Een rijke, diepgaande exegese (minimaal 1500-2000 woorden) die de predikant echt exegetisch 'voedt'. Gebruik hierbij een **neutrale, zakelijke toon**. Beschrijf de theologische lijnen helder en diepgaand zonder te vervallen in prekerig of overdreven taalgebruik.

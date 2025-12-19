@@ -7,6 +7,7 @@ Dit script bouwt voort op de basisanalyse van contextduiding.py en voegt toe:
 - 07_kunst_cultuur: Kunst, cultuur en film bij de lezingen
 
 Het leest de output van de vorige analyses (00-05) en gebruikt deze als context.
+Voor de exegese worden de bijbelteksten opgehaald van naardensebijbel.nl.
 
 W.M. Otte (w.m.otte@umcutrecht.nl)
 """
@@ -21,6 +22,13 @@ try:
 except ImportError:
     print("FOUT: De nieuwe 'google-genai' library is niet geïnstalleerd.")
     print("Installeer deze met: pip install google-genai")
+    sys.exit(1)
+
+try:
+    from naardense_bijbel import download_lezingen, laad_bijbelteksten
+except ImportError:
+    print("FOUT: naardense_bijbel module niet gevonden.")
+    print("Zorg dat naardense_bijbel.py in dezelfde directory staat.")
     sys.exit(1)
 
 # Configuratie
@@ -323,12 +331,38 @@ def main():
         print("Deze is nodig voor de exegese en kunst/cultuur analyse.")
         sys.exit(1)
 
+    # Download bijbelteksten van de Naardense Bijbel
+    print("\n" + "─" * 50)
+    print("BIJBELTEKSTEN OPHALEN")
+    print("─" * 50)
+
+    bijbelteksten_map = download_lezingen(folder, previous_analyses["liturgische_context"])
+
+    if bijbelteksten_map:
+        print(f"\n✓ {len(bijbelteksten_map)} bijbeltekst(en) opgehaald en opgeslagen")
+    else:
+        print("\n! Geen bijbelteksten kunnen ophalen (exegese gaat door zonder grondtekst)")
+
+    # Laad de bijbelteksten voor de context
+    bijbelteksten = laad_bijbelteksten(folder)
+
     # Initialiseer client
     print("\nGoogle GenAI Client initialiseren...")
     client = get_gemini_client()
 
-    # Bouw context
+    # Bouw context (inclusief bijbelteksten)
     context_string = build_context_string(previous_analyses)
+
+    # Voeg bijbelteksten toe aan de context
+    if bijbelteksten:
+        context_string += f"""
+
+---
+
+## Bijbelteksten (Naardense Bijbel - Pieter Oussoren)
+
+{bijbelteksten}
+"""
 
     # Laad prompts
     base_prompt = load_prompt("base_prompt.md", user_input)
