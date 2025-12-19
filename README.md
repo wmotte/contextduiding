@@ -45,6 +45,18 @@ Deze verdieping leest de output van de basisanalyse (00-05) en gebruikt deze als
 
 **Bijbelteksten ophalen:** Het script haalt automatisch de bijbelteksten op van [naardensebijbel.nl](https://www.naardensebijbel.nl/) (de literaire vertaling van Pieter Oussoren). De teksten worden opgeslagen in `bijbelteksten/*.txt` en meegenomen in de exegese-prompt.
 
+### Naardense Bijbel Tool
+
+Het script `naardense_bijbel.py` is een hulpmiddel dat specifiek is ontwikkeld om bijbelteksten op te halen voor de exegese-fase.
+
+**Functies:**
+- **Automatisch ophalen:** Haalt teksten op van naardensebijbel.nl op basis van referenties (bijv. "Jesaja 9:1-6", "Psalm 121").
+- **Slimme fallback:** Probeert eerst directe vers-URLs; als dat faalt (bijv. bij hele hoofdstukken of afwijkende URL-structuren), gebruikt het de zoekfunctie van de website.
+- **Caching:** Slaat teksten op in de `bijbelteksten/` map binnen de output-directory. Als een tekst al is gedownload, wordt deze niet opnieuw opgehaald om de server te ontlasten en snelheid te winnen.
+- **Ondersteuning:** Werkt voor alle boeken van de protestantse canon, inclusief specifieke versranges en hele hoofdstukken.
+
+Dit script wordt automatisch aangeroepen door `verdieping.py`, maar kan ook standalone worden gebruikt of geïmporteerd in andere scripts.
+
 ## Installatie
 
 ```bash

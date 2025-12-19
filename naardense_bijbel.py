@@ -422,18 +422,13 @@ def haal_bijbeltekst_op(referentie: BijbelReferentie) -> Optional[str]:
         if referentie.boek.lower() in ('psalm', 'psalmen') and referentie.hoofdstuk in PSALM_LENGTES:
             vers_eind = PSALM_LENGTES[referentie.hoofdstuk]
         else:
-            vers_eind = 50  # Max voor hele hoofdstukken
+            vers_eind = 200  # Max voor hele hoofdstukken (bv Psalm 119)
 
     # Probeer eerst de directe vers-URL (sneller, minder server load)
     if slug:
-        if referentie.vers_start and referentie.vers_eind:
-            tekst = haal_verzen_op(slug, referentie.hoofdstuk, vers_start, vers_eind)
-            if tekst:
-                return tekst
-        elif referentie.vers_start:
-            tekst = haal_vers_op(slug, referentie.hoofdstuk, referentie.vers_start)
-            if tekst:
-                return f"**{referentie.hoofdstuk}:{referentie.vers_start}** {tekst}"
+        tekst = haal_verzen_op(slug, referentie.hoofdstuk, vers_start, vers_eind)
+        if tekst:
+            return tekst
 
     # Fallback: gebruik de zoek-URL
     print(f"    -> Fallback naar zoek-URL...")
@@ -535,13 +530,19 @@ def download_lezingen(output_dir: Path, liturgie_tekst: str) -> dict[str, str]:
             print(f"  Kon niet parsen: {ref_str}")
             continue
 
+        # Maak een veilige bestandsnaam
+        safe_name = re.sub(r'[^\w\s-]', '', str(referentie)).replace(' ', '_')
+        bestandspad = bijbel_dir / f"{safe_name}.txt"
+
+        # Check of bestand al bestaat en niet leeg is
+        if bestandspad.exists() and bestandspad.stat().st_size > 0:
+            print(f"  ✓ Reeds gedownload: {bestandspad.name}")
+            resultaten[str(referentie)] = str(bestandspad)
+            continue
+
         tekst = haal_bijbeltekst_op(referentie)
 
         if tekst:
-            # Maak een veilige bestandsnaam
-            safe_name = re.sub(r'[^\w\s-]', '', str(referentie)).replace(' ', '_')
-            bestandspad = bijbel_dir / f"{safe_name}.txt"
-
             # Voeg header toe
             volledige_tekst = f"# {referentie}\n# Bron: Naardense Bijbel (Pieter Oussoren)\n\n{tekst}"
 

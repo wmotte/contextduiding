@@ -163,9 +163,6 @@ van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
 ### 12. Receptiegeschiedenis
 - Belangrijke interpretaties door de eeuwen heen.
 
-### 13. Open vragen voor de predikant
-- Exegetische discussies en prikkelende vragen voor de preek.
-
 ## Gewenste output
 
-Een rijke, diepgaande exegese (minimaal 1500-2000 woorden) die de predikant echt exegetisch 'voedt'. Gebruik hierbij een **neutrale, zakelijke toon**. Beschrijf de theologische lijnen helder en diepgaand zonder te vervallen in prekerig of overdreven taalgebruik.
+Een rijke, diepgaande exegese (minimaal 4500-6000 woorden) die de predikant echt exegetisch 'voedt'. Gebruik hierbij een **neutrale, zakelijke toon**. Beschrijf de theologische lijnen helder en diepgaand zonder te vervallen in prekerig of overdreven taalgebruik.
