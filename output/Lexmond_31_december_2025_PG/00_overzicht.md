@@ -14,3 +14,4 @@
 - [Actueel Wereldnieuws](05_actueel_wereldnieuws.md)
 - [Exegese van de Schriftlezingen](06_exegese.md)
 - [Kunst, Cultuur en Film](07_kunst_cultuur.md)
+- [Focus en Functie](08_focus_en_functie.md)
