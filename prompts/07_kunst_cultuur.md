@@ -17,6 +17,14 @@ De liturgische gegevens, Schriftlezingen en gemeentecontext zijn hierboven verme
 - Vermijd standaardformuleringen in de argumentatie ("dit werk raakt aan...", "de kunstenaar brengt prachtig tot uitdrukking...")
 - Wees concreet en specifiek over wat een werk toevoegt aan het verstaan van de tekst
 
+## Belangrijk: alleen verifieerbare informatie
+- **Verzin GEEN URLs** - geef alleen links die je daadwerkelijk hebt gevonden via Google Search
+- Als je geen werkende link kunt vinden, geef dan een zoekterm waarmee het werk te vinden is (bijv. "zoek: [kunstenaar] [titel] site:rijksmuseum.nl")
+- Controleer of kunstwerken, boeken en films daadwerkelijk bestaan voordat je ze noemt
+- Bij twijfel: noem het werk zonder URL, met instructie hoe te zoeken
+- Vermeld bij boeken: auteur, titel, uitgever/jaar indien bekend
+- Vermeld bij films: regisseur, jaar, zodat het verifieerbaar is
+
 ## Onderzoek en rapporteer over:
 
 ### 1. Moderne en hedendaagse kunst
@@ -104,12 +112,13 @@ Lever een overzicht dat:
    - Titel, kunstenaar, jaartal
    - Korte beschrijving wat het werk laat zien
    - Concreet wat dit werk toevoegt aan het verstaan van de tekst (geen vage formuleringen)
-   - Link naar afbeelding of bron
+   - Alleen een URL als je die via search hebt gevonden, anders een zoekterm
 2. **Minimaal 2-3 film/video suggesties** met:
-   - Titel, regisseur, jaar
+   - Titel, regisseur, jaar (verifieerbaar via IMDB)
    - Relevante scène of fragment
    - Specifiek wat dit fragment kan openen
-3. **Suggesties voor muziek en poëzie** die de dienst kunnen verrijken
-4. **Praktische tips** voor gebruik in {{gemeente}}
+3. **Literatuursuggesties** met auteur, titel, jaar - zodat het te verifiëren is
+4. **Suggesties voor muziek en poëzie** die de dienst kunnen verrijken
+5. **Praktische tips** voor gebruik in {{gemeente}}
 
-Streef naar originaliteit: liever één verrassende vondst dan vijf voorspelbare suggesties.
+Streef naar originaliteit: liever één verrassende vondst dan vijf voorspelbare suggesties. Kwaliteit en verifieerbaarheid boven kwantiteit.

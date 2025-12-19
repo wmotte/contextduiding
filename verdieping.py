@@ -211,9 +211,9 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
             model=MODEL_NAME,
             contents=prompt,
             config=types.GenerateContentConfig(
-                temperature=0.7,
-                top_p=0.95,
-                top_k=40,
+                temperature=0.4,  # Lager voor minder hallucinaties
+                top_p=0.90,
+                top_k=30,
                 max_output_tokens=8192,
                 tools=[types.Tool(
                     google_search=types.GoogleSearch()

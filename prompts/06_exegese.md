@@ -1,56 +1,127 @@
 # Exegese van de Schriftlezingen
 
-Voer een gedegen exegese uit van de Schriftlezingen die horen bij deze zondag/feestdag, met het oog op de preekvoorbereiding.
+Voer een grondige exegese uit van de Schriftlezingen die horen bij deze zondag/feestdag.
 
 ## Context
-De liturgische gegevens en Schriftlezingen zijn hierboven vermeld. Neem deze als uitgangspunt voor de exegese.
+De liturgische gegevens en Schriftlezingen zijn hierboven vermeld. Neem deze als uitgangspunt voor de exegese. Behandel elke lezing afzonderlijk én in samenhang.
 
 ## Werkwijze
 
-### 1. Tekstkritische opmerkingen
+### 1. Afbakening en vertaling
+- Waar begint en eindigt de perikoop? Is de afbakening in het leesrooster logisch?
+- Vergelijk verschillende vertalingen (NBV21, HSV, Naardense Bijbel, Willibrord)
+- Welke vertaalverschillen zijn theologisch significant?
+- Geef waar nodig een eigen werkvertaling van cruciale verzen
+
+### 2. Tekstkritiek
 - Zijn er relevante tekstvarianten in de handschriftelijke overlevering?
-- Welke vertaalkeuzes (NBV21, HSV, Naardense Bijbel) zijn significant?
-- Zijn er belangrijke Hebreeuwse/Griekse termen die aandacht verdienen?
+- Welke handschriften of tekstfamilies zijn hier van belang?
+- Hebben tekstvarianten invloed op de betekenis?
 
-### 2. Literaire analyse
-- **Genre:** Wat voor soort tekst is dit? (narratief, poëzie, profetie, wijsheid, brief, apocalyptiek)
-- **Structuur:** Hoe is de perikoop opgebouwd? Wat zijn de onderdelen?
-- **Stijlfiguren:** Welke literaire middelen worden gebruikt? (chiasme, inclusio, parallellisme, ironie, hyperbool)
-- **Sleutelwoorden:** Welke woorden/begrippen komen herhaaldelijk voor of zijn theologisch geladen?
+### 3. Woordstudie
+- Welke Hebreeuwse of Griekse kernwoorden verdienen aandacht?
+- Wat is de semantische range van deze woorden?
+- Hoe worden deze woorden elders in de Bijbel gebruikt?
+- Zijn er woorden die meerduidig zijn of bewust ambigu?
 
-### 3. Historische context
+### 4. Literaire analyse
+**Genre en vorm:**
+- Wat voor soort tekst is dit? (narratief, poëzie, profetie, wijsheid, brief, apocalyptiek, hymne, gelijkenis, etc.)
+- Welke conventies horen bij dit genre?
+
+**Structuur:**
+- Hoe is de perikoop opgebouwd? Maak een structuuranalyse
+- Waar liggen de cesuren? Wat is het centrum?
+- Is er een chiasme, inclusio, of andere vormgeving?
+
+**Stijl en retoriek:**
+- Welke literaire middelen worden gebruikt? (parallellisme, ironie, hyperbool, metafoor, woordspel)
+- Wat is de retorische strategie van de auteur?
+- Hoe probeert de tekst de lezer/hoorder te bewegen?
+
+**Karakters en plot (bij narratieve teksten):**
+- Wie zijn de personages en hoe worden ze getekend?
+- Wat is de verhaallijn? Conflict, climax, ontknoping?
+- Wat wordt verzwegen of alleen gesuggereerd?
+
+### 5. Directe context
+- Wat gaat er direct aan de perikoop vooraf?
+- Wat volgt er direct op?
+- Hoe functioneert de tekst binnen het grotere geheel van het Bijbelboek?
+- Worden er eerder geïntroduceerde thema's opgepakt of afgesloten?
+
+### 6. Historische context
+**Ontstaanscontext:**
 - Wanneer en waar is de tekst ontstaan?
-- Wat was de oorspronkelijke situatie van auteur en eerste hoorders/lezers?
+- Wat was de situatie van de auteur?
+- Wie waren de oorspronkelijke hoorders/lezers en wat was hun situatie?
+
+**Historische achtergrond:**
 - Welke historische gebeurtenissen of omstandigheden spelen mee?
-- Hoe past deze tekst in het grotere verhaal van Israël of de vroege kerk?
+- Welke politieke, sociale, economische factoren zijn relevant?
+- Wat weten we archeologisch of epigrafisch over deze periode/locatie?
 
-### 4. Theologische lijnen
-- Wat is de theologische boodschap van deze tekst?
-- Welke thema's uit de Bijbelse theologie komen hier samen? (verbond, koninkrijk, verlossing, schepping, etc.)
-- Hoe verhoudt deze tekst zich tot andere Bijbelse teksten? (intertekstualiteit)
-- Welke plaats heeft deze tekst in de canon en in de heilsgeschiedenis?
+**Culturele context:**
+- Welke culturele praktijken, gebruiken of vooronderstellingen zijn van belang?
+- Hoe verhoudt de tekst zich tot de omringende culturen?
 
-### 5. Samenhang van de lezingen
-- Hoe verhouden de verschillende lezingen (OT, epistel, evangelie) zich tot elkaar?
-- Is er een rode draad of thematische eenheid?
-- Waar versterken de teksten elkaar? Waar staan ze in spanning?
+### 7. Oudtestamentische achtergrond (bij NT-teksten)
+- Welke OT-teksten worden geciteerd of gealludeerd?
+- Hoe worden deze OT-teksten gebruikt? (typologisch, profetisch, illustratief)
+- Verschilt het gebruik van de oorspronkelijke betekenis?
+- Welke OT-thema's of motieven klinken door?
+
+### 8. Joodse context en parallellen
+- Zijn er relevante parallellen in intertestamentaire literatuur?
+- Wat zeggen rabbijnse bronnen (Misjna, Talmoed, Midrasj) over deze tekst of dit thema?
+- Hoe verhoudt Jezus' of Paulus' uitleg zich tot tijdgenoten?
+
+### 9. Theologische analyse
+**Centrale boodschap:**
+- Wat is de kern van wat deze tekst zegt?
+- Welk Godsbeeld komt naar voren?
+- Wat zegt de tekst over de mens, de wereld, het heil?
+
+**Bijbels-theologische lijnen:**
+- Welke grote thema's komen hier samen? (verbond, koninkrijk, verlossing, schepping, exodus, ballingschap, etc.)
+- Hoe past deze tekst in de heilsgeschiedenis?
+- Welke spanning of ontwikkeling is er met andere Bijbelse teksten?
+
+**Dogmatische raakvlakken:**
+- Welke leerstukken raken aan deze tekst?
+- Zijn er klassieke theologische controverses rondom deze tekst?
+
+### 10. Samenhang van de lezingen
+- Hoe verhouden OT-lezing, epistel en evangelie zich tot elkaar?
+- Wat is de rode draad die het leesrooster suggereert?
+- Waar versterken de teksten elkaar?
+- Waar staan ze in spanning of bieden ze een ander perspectief?
 - Welke rol speelt de psalm in dit geheel?
 
-### 6. Receptiegeschiedenis
-- Hoe is deze tekst door de eeuwen heen gelezen en uitgelegd?
-- Welke klassieke en moderne commentatoren zijn van belang?
-- Zijn er bijzondere liturgische of spirituele tradities rondom deze tekst?
-- Hoe is de tekst verbeeld in de kunst? (zie ook analyse 07)
+### 11. Receptiegeschiedenis
+- Hoe is deze tekst door de eeuwen heen gelezen?
+- Welke kerkvaders of reformatoren hebben belangrijke uitleg gegeven?
+- Zijn er opmerkelijke verschuivingen in de interpretatie?
+- Welke moderne commentatoren zijn van belang?
+- Zijn er bijzondere liturgische tradities rondom deze tekst?
+
+### 12. Open vragen en exegetische discussies
+- Welke vragen blijven onbeantwoord?
+- Waarover verschillen exegeten van mening?
+- Wat zijn de sterkste argumenten voor verschillende interpretaties?
 
 ## Bronnen om te raadplegen
 - Studiebijbels (NBV Studiebijbel, Studiebijbel OT/NT)
-- Online commentaren (bijv. Working Preacher, Werkgroep Kerk en Prediking)
-- Klassieke commentaren (Calvijn, Luther, Barth)
-- Moderne exegese (bijv. via theologie.nl)
+- Commentarenreeksen (Word Biblical Commentary, Herders Theologischer Kommentar, etc.)
+- Online: Working Preacher, Werkgroep Kerk en Prediking, preekwijzer.nl
+- Klassieke commentaren (Calvijn, Luther)
+- Moderne exegese (bijv. via theologie.nl, JSTOR)
 
 ## Gewenste output
 
 Lever een exegese die:
 1. Academisch verantwoord is maar toegankelijk voor de predikant
-2. De tekst serieus neemt in zijn eigen context
+2. De tekst grondig analyseert in zijn eigen context
 3. De samenhang van de lezingen verheldert
+4. Meerdere interpretatieve mogelijkheden eerlijk presenteert
+5. De predikant helpt de tekst echt te begrijpen voordat deze gaat preken
