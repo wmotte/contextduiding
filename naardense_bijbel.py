@@ -197,67 +197,79 @@ def haal_vers_op(boek_slug: str, hoofdstuk: int, vers: int) -> Optional[str]:
     url = f"https://www.naardensebijbel.nl/vers/{boek_slug}-{hoofdstuk}-{vers}/"
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'nl-NL,nl;q=0.9,en;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
     }
 
-    try:
-        response = requests.get(url, headers=headers, timeout=30)
-        if response.status_code == 404:
-            return None  # Vers bestaat niet
-        response.raise_for_status()
+    max_retries = 3
+    for poging in range(max_retries):
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            if response.status_code == 404:
+                return None  # Vers bestaat niet
+            response.raise_for_status()
 
-        soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Verwijder navigatie, scripts, etc.
-        for tag in soup.find_all(['nav', 'script', 'style', 'header', 'footer', 'aside']):
-            tag.decompose()
+            # Verwijder navigatie, scripts, etc.
+            for tag in soup.find_all(['nav', 'script', 'style', 'header', 'footer', 'aside']):
+                tag.decompose()
 
-        body = soup.find('body')
-        if not body:
+            body = soup.find('body')
+            if not body:
+                return None
+
+            # Haal de tekst op
+            tekst = body.get_text(separator='\n', strip=True)
+
+            # Extraheer alleen de bijbeltekst (na de titel, voor de navigatie)
+            lines = tekst.split('\n')
+            bijbel_lines = []
+            in_tekst = False
+            titel_gevonden = False
+
+            for line in lines:
+                line = line.strip()
+                if not line:
+                    continue
+
+                # Skip header/titel regels
+                if 'Naardense Bijbel' in line:
+                    continue
+                if 'literaire vertaling' in line.lower():
+                    continue
+                if line == '>':
+                    continue
+
+                # Herken de titel (bijv. "Johannes – 1 : 1")
+                if re.match(r'^[A-Za-zëïüéèöä\s\d]+ – \d+ : \d+$', line):
+                    titel_gevonden = True
+                    in_tekst = True
+                    continue
+
+                # Stop bij navigatie links
+                if line.startswith('Lees ') or line.startswith('Bekijk '):
+                    break
+
+                if in_tekst:
+                    bijbel_lines.append(line)
+
+            return ' '.join(bijbel_lines) if bijbel_lines else None
+
+        except (requests.ConnectionError, requests.Timeout, requests.exceptions.ChunkedEncodingError) as e:
+            if poging < max_retries - 1:
+                wait_time = (poging + 1) * 2
+                print(f"  Fout bij ophalen {url}: {e}. Opnieuw proberen in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"  Fout bij ophalen {url} na {max_retries} pogingen: {e}")
+                return None
+        except requests.RequestException as e:
+            print(f"  Fout bij ophalen {url}: {e}")
             return None
-
-        # Haal de tekst op
-        tekst = body.get_text(separator='\n', strip=True)
-
-        # Extraheer alleen de bijbeltekst (na de titel, voor de navigatie)
-        lines = tekst.split('\n')
-        bijbel_lines = []
-        in_tekst = False
-        titel_gevonden = False
-
-        for line in lines:
-            line = line.strip()
-            if not line:
-                continue
-
-            # Skip header/titel regels
-            if 'Naardense Bijbel' in line:
-                continue
-            if 'literaire vertaling' in line.lower():
-                continue
-            if line == '>':
-                continue
-
-            # Herken de titel (bijv. "Johannes – 1 : 1")
-            if re.match(r'^[A-Za-zëïüéèöä\s\d]+ – \d+ : \d+$', line):
-                titel_gevonden = True
-                in_tekst = True
-                continue
-
-            # Stop bij navigatie links
-            if line.startswith('Lees ') or line.startswith('Bekijk '):
-                break
-
-            if in_tekst:
-                bijbel_lines.append(line)
-
-        return ' '.join(bijbel_lines) if bijbel_lines else None
-
-    except requests.RequestException as e:
-        print(f"  Fout bij ophalen {url}: {e}")
-        return None
 
 
 # Mapping van boeknamen naar booknummers voor de zoek-URL
@@ -314,40 +326,51 @@ def haal_verzen_via_zoek(boek: str, hoofdstuk: int, vers_start: int, vers_eind: 
     )
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Connection': 'keep-alive',
     }
 
-    try:
-        response = requests.get(url, headers=headers, timeout=30)
-        response.raise_for_status()
+    max_retries = 3
+    for poging in range(max_retries):
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
 
-        soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(response.text, 'html.parser')
 
-        # De resultaten staan in een table
-        table = soup.find('table')
-        if not table:
+            # De resultaten staan in een table
+            table = soup.find('table')
+            if not table:
+                return None
+
+            # Parse de tabel rij voor rij
+            verzen = []
+            rows = table.find_all('tr')
+
+            for row in rows:
+                cells = row.find_all('td')
+                if len(cells) >= 2:
+                    # Eerste cel is het versnummer, tweede cel is de tekst
+                    vers_nr = cells[0].get_text(strip=True)
+                    vers_tekst = cells[1].get_text(strip=True)
+
+                    if vers_nr.isdigit() and vers_tekst:
+                        verzen.append(f"**{hoofdstuk}:{vers_nr}** {vers_tekst}")
+
+            return '\n\n'.join(verzen) if verzen else None
+
+        except (requests.ConnectionError, requests.Timeout, requests.exceptions.ChunkedEncodingError) as e:
+            if poging < max_retries - 1:
+                wait_time = (poging + 1) * 2
+                print(f"  Fout bij zoeken: {e}. Opnieuw proberen in {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"  Fout bij zoeken na {max_retries} pogingen: {e}")
+                return None
+        except requests.RequestException as e:
+            print(f"  Fout bij zoeken: {e}")
             return None
-
-        # Parse de tabel rij voor rij
-        verzen = []
-        rows = table.find_all('tr')
-
-        for row in rows:
-            cells = row.find_all('td')
-            if len(cells) >= 2:
-                # Eerste cel is het versnummer, tweede cel is de tekst
-                vers_nr = cells[0].get_text(strip=True)
-                vers_tekst = cells[1].get_text(strip=True)
-
-                if vers_nr.isdigit() and vers_tekst:
-                    verzen.append(f"**{hoofdstuk}:{vers_nr}** {vers_tekst}")
-
-        return '\n\n'.join(verzen) if verzen else None
-
-    except requests.RequestException as e:
-        print(f"  Fout bij zoeken: {e}")
-        return None
 
 
 def haal_verzen_op(boek_slug: str, hoofdstuk: int, vers_start: int, vers_eind: int) -> Optional[str]:
