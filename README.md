@@ -34,6 +34,15 @@ Het script voert zes uitgebreide analyses uit met behulp van Gemini API en Googl
 
 De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, zodat bijvoorbeeld het wereldnieuws gerelateerd kan worden aan de Schriftlezingen.
 
+### Verdieping (verdieping.py)
+
+Na de basisanalyse kan een verdieping worden uitgevoerd met twee extra analyses:
+
+6. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
+7. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
+
+Deze verdieping leest de output van de basisanalyse (00-05) en gebruikt deze als context.
+
 ## Installatie
 
 ```bash
@@ -52,6 +61,8 @@ echo "GEMINI_API_KEY=jouw-api-key" > .env
 
 ## Gebruik
 
+### Basisanalyse
+
 ```bash
 python contextduiding.py
 ```
@@ -62,6 +73,14 @@ Het script vraagt interactief om:
 2. **Gemeente** - Welke kerkelijke gemeente?
 3. **Datum** - Wanneer is de preek? (bijv. "25 december 2025")
 4. **Extra context** (optioneel) - Bijzondere dienst, thema, etc.
+
+### Verdieping (exegese en kunst)
+
+```bash
+python verdieping.py
+```
+
+Dit script toont een lijst van beschikbare basisanalyses en laat je er een kiezen. Vervolgens worden de exegese en kunst/cultuur analyses gegenereerd op basis van alle eerdere context.
 
 ## Output
 
@@ -75,14 +94,17 @@ output/Plaatsnaam_datum_timestamp/
 ├── 02_waardenorientatie.md                # Vijf V's, Motivaction, trends
 ├── 03_geloofsorientatie.md                # Religieuze context en geloofstaal
 ├── 04_interpretatieve_synthese.md         # Homiletische aanbevelingen
-└── 05_actueel_wereldnieuws.md             # Recent wereldnieuws met duiding
+├── 05_actueel_wereldnieuws.md             # Recent wereldnieuws met duiding
+├── 06_exegese.md                          # Exegese van de Schriftlezingen (via verdieping.py)
+└── 07_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
 ```
 
 ## Projectstructuur
 
 ```
 contextduiding/
-├── contextduiding.py                       # Hoofdscript
+├── contextduiding.py                       # Hoofdscript basisanalyse
+├── verdieping.py                           # Verdieping: exegese en kunst/cultuur
 ├── prompts/                                # Prompt-bestanden (aanpasbaar)
 │   ├── base_prompt.md                      # Basis rol en werkwijze
 │   ├── 00_zondag_kerkelijk_jaar.md         # Liturgische context (eerst)
@@ -90,7 +112,9 @@ contextduiding/
 │   ├── 02_waardenorientatie.md
 │   ├── 03_geloofsorientatie.md
 │   ├── 04_interpretatieve_synthese.md
-│   └── 05_actueel_wereldnieuws.md
+│   ├── 05_actueel_wereldnieuws.md
+│   ├── 06_exegese.md                       # Exegese (verdieping)
+│   └── 07_kunst_cultuur.md                 # Kunst en cultuur (verdieping)
 ├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
 ├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
 ├── .env                                    # API key (niet in git)
@@ -148,6 +172,25 @@ Zes ervaringsgebieden: Schepping, Eindigheid, Menselijk tekort, Lijden, Wijsheid
 - Pastorale, profetische en diaconale relevantie
 - Relatie tot de Schriftlezingen
 
+### 6. Exegese (verdieping)
+- Tekstkritische opmerkingen en vertaalkeuzes
+- Literaire analyse (genre, structuur, stijlfiguren)
+- Historische context van de tekst
+- Theologische lijnen en intertekstualiteit
+- Samenhang van de lezingen
+- Receptiegeschiedenis
+- Homiletische doorvertaling
+
+### 7. Kunst en Cultuur (verdieping)
+- Klassieke christelijke kunst (schilderijen, iconen, miniaturen)
+- Moderne en hedendaagse kunst
+- Film en documentaire
+- Muziek (klassiek, oratoria, populair)
+- Literatuur en poëzie
+- Praktische tips voor gebruik in de eredienst
+
+Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery of Art
+
 ## Bronnen
 
 ### Gebruikte bronnen door het script
@@ -155,6 +198,9 @@ Zes ervaringsgebieden: Schepping, Eindigheid, Menselijk tekort, Lijden, Wijsheid
 - **NOS, NRC, Trouw, ND** - Nieuws en actualiteit
 - **protestantsekerk.nl** - PKN-informatie, leesrooster
 - **Liedboek 2013** - Liedsuggesties
+- **artbible.info** - Bijbelse kunst database
+- **wga.hu** - Web Gallery of Art
+- **De Bijbel Cultureel** - Barnard & Van der Meiden
 
 ### Literatuur
 - De Leede, H. & Stark, C. (2017). *Ontvouwen: Protestantse prediking in de praktijk*. Zoetermeer: Boekencentrum, pp. 73-81.
