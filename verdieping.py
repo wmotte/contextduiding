@@ -122,6 +122,8 @@ def read_previous_analyses(folder: Path) -> dict:
         ("03_geloofsorientatie.md", "geloofsorientatie"),
         ("04_interpretatieve_synthese.md", "synthese"),
         ("05_actueel_wereldnieuws.md", "wereldnieuws"),
+        ("06_exegese.md", "exegese"),
+        ("07_kunst_cultuur.md", "kunst_cultuur"),
     ]
 
     for filename, key in files_to_read:
@@ -204,6 +206,14 @@ def build_context_string(previous_analyses: dict) -> str:
     if previous_analyses.get("wereldnieuws"):
         sections.append("## Actueel Wereldnieuws\n\n" +
                        previous_analyses["wereldnieuws"])
+
+    if previous_analyses.get("exegese"):
+        sections.append("## Exegese\n\n" +
+                       previous_analyses["exegese"])
+
+    if previous_analyses.get("kunst_cultuur"):
+        sections.append("## Kunst en Cultuur\n\n" +
+                       previous_analyses["kunst_cultuur"])
 
     return "\n\n---\n\n".join(sections)
 
@@ -301,6 +311,7 @@ def update_summary(output_dir: Path):
     new_analyses = [
         ("06_exegese", "Exegese van de Schriftlezingen"),
         ("07_kunst_cultuur", "Kunst, Cultuur en Film"),
+        ("08_focus_en_functie", "Focus en Functie"),
     ]
 
     for name, title in new_analyses:
@@ -389,6 +400,7 @@ def main():
     analysis_definitions = [
         ("06_exegese", "Exegese van de Schriftlezingen"),
         ("07_kunst_cultuur", "Kunst, Cultuur en Film"),
+        ("08_focus_en_functie", "Focus en Functie"),
     ]
 
     for name, title in analysis_definitions:

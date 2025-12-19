@@ -278,6 +278,7 @@ Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery 
 
 ### Literatuur
 - De Leede, H. & Stark, C. (2017). *Ontvouwen: Protestantse prediking in de praktijk*. Zoetermeer: Boekencentrum, pp. 73-81.
+- [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
 - Niebergall, F. (1971). 'Die moderne Predigt', in: Hummel, G., *Aufgabe der Predigt*. Darmstadt: Wissenschaftliche Buchgesellschaft.
 - Snoek, H. (2010). *Een huis om in te wonen: Uitleg en interpretatie van de Bijbel*. Kampen: Kok, 2e druk, pp. 180-199. (Zoekmodellen voor Gods-, mens- en Jezusbeelden)
 - Motivaction. *Mentality-model*. https://www.motivaction.nl/mentality
