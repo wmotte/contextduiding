@@ -10,8 +10,8 @@ De focus is het centrale, leidende thema van de preek. Het vat samen wat de bood
 Een cruciale tussenstap is het anticiperen op de reactie van de hoorders.
 *Vraag:* Hoe zullen de hoorders zich verhouden tot deze focus? Welke weerstand, herkenning, of vraag roept dit op?
 
-**Function**
-De function is het beoogde doel, de werking van de preek. Wat staat er op het spel?
+**Functie**
+De functie is het beoogde doel, de werking van de preek. Wat staat er op het spel?
 *Formule:* "...met als doel dat de hoorders..." (het 'waartoe', het verhoopte effect).
 
 ## Opdracht
@@ -30,9 +30,9 @@ Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in {{plaatsnaa
 De hoorders zullen zich hiertoe verhouden als:
 [Jouw anticipatie op weerstand/herkenning/vragen]
 
-**3. Function**
+**3. Functie**
 ...waarmee ik rekening houd om te komen tot het doel dat de hoorders:
-[Jouw function formulering]
+[Jouw functie formulering]
 
 **4. Toelichting**
 [Korte uitleg waarom deze keuze past bij de exegese en context]
