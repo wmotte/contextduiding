@@ -36,10 +36,11 @@ De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, 
 
 ### Verdieping (verdieping.py)
 
-Na de basisanalyse kan een verdieping worden uitgevoerd met twee extra analyses:
+Na de basisanalyse kan een verdieping worden uitgevoerd met drie extra analyses:
 
 6. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
 7. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
+8. **Focus en Functie** - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
 
 Deze verdieping leest de output van de basisanalyse (00-05) en gebruikt deze als context.
 
