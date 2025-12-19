@@ -13,6 +13,7 @@ W.M. Otte (w.m.otte@umcutrecht.nl)
 
 import os
 import sys
+import re
 from pathlib import Path
 from datetime import datetime
 
@@ -265,6 +266,20 @@ def save_analysis(output_dir: Path, filename: str, content: str, title: str):
 
     if not content.strip().startswith("#"):
         content = f"# {title}\n\n{content}"
+
+    # 1. Zorg voor een lege regel VÓÓR elke kop (behalve de allereerste regel)
+    content = re.sub(r'([^\n])\n(#+ .*)', r'\1\n\n\2', content)
+    
+    # 2. Zorg voor een lege regel NA elke kop
+    content = re.sub(r'^(#+ .*)\n+(?=[^\n])', r'\1\n\n', content, flags=re.MULTILINE)
+    
+    # 3. Zorg voor een lege regel rondom scheidingslijnen (---)
+    content = re.sub(r'([^\n])\n(---)', r'\1\n\n\2', content)
+    content = re.sub(r'(---)\n+(?=[^\n])', r'\1\n\n', content)
+
+    # 4. Zorg dat bullet points op een nieuwe regel staan als ze direct na een dubbele punt of zin komen
+    # Zoekt naar: dubbele punt/punt, optionele spaties, dan een asterisk of streepje met spatie
+    content = re.sub(r'([:.:])\s*(\n*)\s*([\*\-] )', r'\1\n\n\3', content)
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)

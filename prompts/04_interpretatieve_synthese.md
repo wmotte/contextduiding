@@ -42,3 +42,5 @@ Integreer de contextanalyse tot concrete homiletische adviezen voor de predikant
 ## 7. Implicaties voor de preek
 
 Sluit af met een samenvattende sectie "Implicaties voor de preek" waarin je de belangrijkste inzichten uit alle voorgaande analyses bundelt tot concrete, praktische handvatten voor de predikant.
+
+**BELANGRIJK:** Vermijd clichématige afsluitingen of samenvattende zinnen die de waarde van dit overzicht voor de predikant benadrukken (bijv. "Deze synthese biedt de predikant de nodige diepgang om de brug te slaan..."). Stop gewoon bij de inhoudelijke aanbevelingen. Geen meta-tekst over het nut van dit document.

@@ -543,8 +543,11 @@ def download_lezingen(output_dir: Path, liturgie_tekst: str) -> dict[str, str]:
         tekst = haal_bijbeltekst_op(referentie)
 
         if tekst:
-            # Voeg header toe
-            volledige_tekst = f"# {referentie}\n# Bron: Naardense Bijbel (Pieter Oussoren)\n\n{tekst}"
+            # Voeg header toe en zorg voor goede Markdown spacing
+            volledige_tekst = f"# {referentie}\n\n# Bron: Naardense Bijbel (Pieter Oussoren)\n\n{tekst}"
+
+            # Zorg voor lege regel na de kopjes
+            volledige_tekst = re.sub(r'^(#+ .*)\n+(?=[^\n])', r'\1\n\n', volledige_tekst, flags=re.MULTILINE)
 
             with open(bestandspad, 'w', encoding='utf-8') as f:
                 f.write(volledige_tekst)

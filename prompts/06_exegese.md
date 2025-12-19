@@ -166,3 +166,7 @@ van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
 ## Gewenste output
 
 Een rijke, diepgaande exegese (minimaal 4500-6000 woorden) die de predikant echt exegetisch 'voedt'. Gebruik hierbij een **neutrale, zakelijke toon**. Beschrijf de theologische lijnen helder en diepgaand zonder te vervallen in prekerig of overdreven taalgebruik.
+
+**BELANGRIJK:** 
+- Voeg **GEEN** lijst met bronnen, literatuurlijst of 'Bronnen' sectie toe aan het einde van de output. Verwerk verwijzingen naar exegeten of commentaren direct in de lopende tekst.
+- **Vermijd clichématige afsluitingen:** Gebruik geen zinnen die de waarde van de exegese voor de predikant benadrukken (bijv. "Deze exegese biedt de predikant de nodige diepgang om de brug te slaan tussen de eeuwenoude teksten en de complexe realiteit van [Plaats]..."). Stop direct bij de inhoudelijke analyse. Geen meta-tekst over het nut van dit document.

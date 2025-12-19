@@ -122,3 +122,5 @@ Lever een overzicht dat:
 5. **Praktische tips** voor gebruik in {{gemeente}}
 
 Streef naar originaliteit: liever één verrassende vondst dan vijf voorspelbare suggesties. Kwaliteit en verifieerbaarheid boven kwantiteit.
+
+**BELANGRIJK:** Vermijd clichématige afsluitingen of samenvattende zinnen die de waarde van dit overzicht voor de predikant benadrukken (bijv. "Deze kunstsuggesties bieden de predikant de nodige inspiratie om de preek visueel te verrijken..."). Stop gewoon bij de inhoudelijke suggesties. Geen meta-tekst over het nut van dit document.
