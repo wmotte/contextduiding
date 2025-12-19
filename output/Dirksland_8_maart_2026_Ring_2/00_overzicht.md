@@ -1,9 +1,9 @@
 # Contextduiding Preekvoorbereiding
 
 ## Gegevens
-- **Plaatsnaam:** Waddinxveen
-- **Gemeente:** Bethelkerk
-- **Datum preek:** 4 januari 2026
+- **Plaatsnaam:** Dirksland
+- **Gemeente:** Ring 2
+- **Datum preek:** 8 maart 2026
 
 ## Analyses
 - [Zondag van het Kerkelijk Jaar](00_zondag_kerkelijk_jaar.md)

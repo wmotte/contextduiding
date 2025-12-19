@@ -1,97 +1,123 @@
 # Waardenoriëntatie
 
-Hier is de **Waardenoriëntatie-analyse** voor de Protestantse Gemeente Lexmond (Lux Mundi), opgesteld ten behoeve van de preek op Oudejaarsavond 2025.
+Voor de voorbereiding van de preek op **Oudejaarsavond, 31 december 2025**, in de **Protestantse Gemeente Lexmond**, volgt hier de waardenoriëntatie-analyse. Deze analyse helpt om de brug te slaan tussen de Bijbelse tekst en de specifieke leefwereld van de hoorders in Lexmond.
 
 ---
 
-# WAARDENORIËNTATIE-ANALYSE (De Leede & Stark)
+# Waardenoriëntatie-analyse Lexmond (Oudjaar 2025)
 
-**Context:** Protestantse Gemeente Lexmond ("Lux Mundi") | **Datum:** 31 december 2025 (Oudejaarsavond)
+## 1. De Vijf V's voor Lexmond
 
-## 1. De Vijf V's: Het Hart van de Hoorder
+**Visioenen (Toekomstbeelden)**
+*   **Behoud van het dorpse karakter:** In een schaalvergrotende gemeente als Vijfheerenlanden leeft het visioen van Lexmond als een herkenbare, zelfstandige gemeenschap waar men elkaar nog kent ('ons kent ons').
+*   **Geestelijke continuïteit:** Het verlangen dat de kerk een baken blijft in het dorp, ook voor de volgende generatie, ondanks de landelijke trend van kerkverlating.
+*   **Rentmeesterschap:** Een visioen van een bloeiend buitengebied waar landbouw en natuur in balans zijn (cruciaal in deze regio).
 
-*Wat beweegt de mens in de bank in Lexmond op de drempel van 2026?*
+**Verlangens (Hunkering)**
+*   **Stabiliteit en rust:** Na een jaar (2025) dat mogelijk getekend werd door politieke onrust of economische onzekerheid, hunkert men naar de "vrede van God die alle verstand te boven gaat".
+*   **Geborgenheid:** De behoefte aan een 'thuis', zowel fysiek (woningnood onder jongeren in het dorp) als spiritueel.
+*   **Relevantie:** Het verlangen dat het geloof antwoorden biedt op de rauwe vragen van de 21e eeuw, zonder de klassieke gereformeerde wortels te verliezen.
 
-### Visioenen (Dromen & Idealen)
+**Vreugden (Trots en Traditie)**
+*   **Gemeenschapszin:** De kracht van het verenigingsleven en de onderlinge hulpvaardigheid (nabuurschap).
+*   **De 'Lek':** De verbondenheid met het rivierenlandschap; de uiterwaarden als plek van bezinning en schoonheid.
+*   **Liturgische traditie:** De vreugde van het samen zingen van de psalmen en de klassieke gezangen op deze specifieke avond.
 
-*   **Het 'Thuis' blijven in een veranderende wereld:** Het visioen van de gemeente (letterlijk in hun missie: "een thuis zijn") is sterk gericht op geborgenheid. Men droomt van een dorp waar gemeenschapszin (naoberschap) overeind blijft, ondanks de schaalvergroting (fusie Vijfheerenlanden) en de fysieke inbreuk op het landschap (A27).
-*   **Licht zijn:** De naam van de kerk, *Lux Mundi*, is niet toevallig. Er is een ideaalbeeld van een actieve, naar buiten gerichte kerk die relevant is voor het dorp. Men wil geen 'gesloten vesting' zijn, maar een plek waar ook randkerkelijken (via bijv. de TOP2000-dienst of clubwerk) zich welkom voelen.
-*   **Harmonie:** In een gepolariseerde samenleving (en soms ook binnen dorpsgemeenschappen) is er een diep verlangen naar het visioen van *vrede* — dat verschillen in mening (over politiek, landbouw, kerk) de onderlinge band niet verbreken.
+**Verdriet (Collectieve pijn en zorgen)**
+*   **Verlies:** Oudejaarsavond is in Lexmond bij uitstek de avond waarop de lege plekken in de banken en aan de eettafels gevoeld worden. Het gedenken van de overledenen snijdt diep in een hechte gemeenschap.
+*   **Agrarische zorgen:** De aanhoudende onzekerheid voor boerenfamilies in de Alblasserwaard/Vijfheerenlanden over de toekomst van hun bedrijf.
+*   **Polarisatie:** Het verdriet over de toenemende hardheid in het maatschappelijk debat, die ook aan de keukentafels in Lexmond voelbaar is.
 
-### Verlangens (Gemis & Behoeften)
-
-*   **Rust en Stilte:** Dit is in 2025 een zeer concreet fysiek verlangen. Lexmond ligt pal aan de A27. De grootschalige werkzaamheden (verbreding, nieuwe bruggen) hebben in 2024 en 2025 voor veel overlast, sluipverkeer en lawaai gezorgd. Op Oudejaarsavond verlangt men naar een moment van 'luwte' en bezinning.
-*   **Verbondenheid over generaties heen:** De gemeente investeert fors in jeugdwerk (clubs, tienerdiensten), wat duidt op een verlangen om het geloof door te geven. Men 'mist' soms de jongeren die wegtrekken naar de stad voor studie en niet terugkeren vanwege de huizenmarkt.
-*   **Gezien worden:** In de grotere gemeente Vijfheerenlanden kan het gevoel leven een 'uithoek' te zijn. Het verlangen is: *doen wij er nog toe?* Ziet God ons in onze kleine levens?
-
-### Vreugden (Trots & Viering)
-
-*   **De eigen identiteit:** Men is trots op het moderne, multifunctionele kerkgebouw Lux Mundi (gebouwd in de jaren '90, dus geen koud monument maar een 'huiskamer').
-*   **Activiteiten:** Trots op succesvolle evenementen zoals de rommelmarkt, de clubavonden voor de jeugd en laagdrempelige diensten. Het gevoel dat "er nog leven in de brouwerij zit" is een belangrijke bron van vreugde.
-*   **Dorpsleven:** De saamhorigheid tijdens lokale feesten (zoals de feestweek of Koningsdag) en de veerkracht van het verenigingsleven.
-
-### Verdriet (Pijn & Zorgen)
-
-*   **Lege stoelen:** Op Oudejaarsavond is het verdriet om overleden dierbaren manifest. In een dorpse gemeenschap is elk sterfgeval voelbaar voor velen.
-*   **Verlies van landschap:** Voor de oudere generatie en de agrarische leden is de verandering van de polder (door infrastructuur en stikstofmaatregelen) een bron van rouw. Het vertrouwde uitzicht en de vertrouwde manier van leven staan onder druk.
-*   **Zorgen om de wereld:** De wereldwijde onrust (oorlogen, klimaat) komt via de media hard binnen en contrasteert scherp met de relatieve veiligheid van de Alblasserwaard. Dit roept machteloosheid op.
-
-### Vragen (Levensvragen)
-
-*   **Tijd en Eindigheid:** "Waar blijft de tijd?" en "Wat heb ik dit jaar eigenlijk gedaan met de tijd die mij gegeven is?"
-*   **Zinvolheid:** "Heeft mijn kleine bijdrage zin in het licht van de grote wereldproblemen?"
-*   **Toekomst:** "Hoe ziet Lexmond (en de kerk) er over 10 jaar uit? Zijn we er dan nog?"
+**Vragen (Existentiële onzekerheid)**
+*   *"Houdt het stand?"* (Zowel het geloof, de kerk als de wereldorde).
+*   *"Waar was God dit jaar?"* (Bij persoonlijk leed of wereldwijd onrecht).
+*   *"Wat brengt 2026?"* (Angst voor het onbekende versus vertrouwen).
 
 ---
 
-## 2. Trendanalyse & Context 2025
+## 2. Trendanalyse
 
-### Macro- & Mesotrends (Impact op Lexmond)
+### Mesotrends (5-15 jaar)
+*   **Vergrijzing en Zorg:** Lexmond kent een relatief grote groep ouderen. De vraag hoe we als gemeenschap voor elkaar blijven zorgen (informele zorg) is een blijvend thema.
+*   **Duurzaamheid vs. Traditie:** De transitie naar een duurzame samenleving schuurt soms met de traditionele agrarische identiteit van de regio.
+*   **Digitalisering van het geloof:** De kerkdienst wordt ook in Lexmond veelvuldig online gevolgd, wat de vraag oproept naar de waarde van fysieke presentie.
 
-1.  **Infrastructuur als inbreuk (Meso):** De verbreding van de A27 is in 2025 *het* gesprek van de dag. Dit is niet slechts 'wegwerkzaamheden', maar een ingrijpende verandering van de leefomgeving. Het brengt onrust, files en geluidsoverlast tot in de huiskamers.
-2.  **Vergrijzing vs. Vitaliteit (Meso):** Lexmond vergrijst, maar er is een sterke 'jonge ouderen'-groep (babyboomers) die de kerk en verenigingen draagt. De druk op vrijwilligers neemt echter toe ("steeds dezelfde mensen").
-3.  **Schaalvergroting (Macro):** De gemeente Vijfheerenlanden (fusie van Zederik, Vianen, Leerdam) is in 2025 een voldongen feit, maar de emotionele binding ligt nog vaak bij het dorp Lexmond zelf. Er is weerstand tegen 'beleid van bovenaf'.
-
-### Microtrends (Actueel rond 31 dec 2025)
-
-*   **Oudejaarsavond op woensdag:** Midden in de week. Dit geeft een iets zakelijker karakter aan de dag dan in het weekend. Mensen moeten de volgende dagen (vrijdag) wellicht alweer werken.
-*   **Actualiteit:** De preek vindt plaats tegen de achtergrond van de jaaroverzichten. Waarschijnlijk gedomineerd door klimaat (hoogwater dreiging in de rivieren is in de winter actueel voor een dijkdorp) en geopolitieke spanning.
-*   **Lokale sfeer:** De discussie over vuurwerk (wel/niet, zones) speelt in dorpen vaak sterk.
+### Microtrends (Eind 2025)
+*   **Economische druk:** De nasleep van de inflatie en energiekosten in 2024-2025 blijft voelbaar in de portemonnee van gezinnen.
+*   **Woningmarkt in de regio:** De moeite die Lexmondse jongeren hebben om in hun eigen dorp te blijven wonen (druk vanuit de Randstad/Utrecht).
+*   **Actualiteit dec. 2025:** Mogelijke geopolitieke spanningen (Oekraïne/Midden-Oosten) die op de drempel van het nieuwe jaar voor een gevoel van onveiligheid zorgen.
 
 ---
 
-## 3. Mentality-model (Motivaction) in Lexmond
+## 3. Motivaction Mentality-model: Lexmondse context
 
-De gemeente Lux Mundi is diverser dan de traditionele dorpskerk, maar bepaalde milieus domineren.
+In de Protestantse Gemeente Lexmond (Gereformeerde Bond signatuur) zien we een specifieke verdeling van milieus:
 
-| Dominante Groep | Kenmerken in Lexmond | Relevantie voor de Preek |
-| :--- | :--- | :--- |
-| **1. Moderne Burgerij** *(Grootste groep)* | Zoekt balans tussen werk en privé, hecht aan gezinsleven, veiligheid en 'doe maar gewoon'. Waardeert de gemeenschap en tradities, maar dan wel in een modern jasje (Lux Mundi stijl). | **Toon:** Warm, empathisch, niet te zwaar theologisch, maar wel met inhoud. Zoekt bevestiging en bemoediging. Aanspreekbaar op 'samen' en 'zorgen voor elkaar'. |
-| **2. Traditionele Burgerij** *(Sterk aanwezig)* | Plichtsgetrouw, loyaal aan de kerk, hecht aan orde en regelmaat. De vaste kerkgangers die de structuur bewaken. | **Toon:** Respectvol naar de bijbeltekst en traditie. Waardeert de ernst van Oudejaarsavond (memento mori). |
-| **3. Nieuwe Conservatieven** | Maakt zich zorgen over het verlies van de Nederlandse/christelijke identiteit en normen. Kritisch op 'moderne fratsen' in de maatschappij. | **Toon:** Zoekt houvast en duiding van de tijd. Wil horen dat de kerk nog ergens voor staat. |
-| **4. Opwaarts Mobielen** *(Jonge gezinnen)* | Druk, carrière, wonen in Lexmond voor de rust/ruimte. Willen op zondag/oudejaarsavond even 'tanken' en geïnspireerd worden. | **Toon:** Praktisch, toepasbaar op het dagelijks leven. Geen 'kerkelijke taal' die te ver van hun bed staat. |
+| Groep | Relevantie voor Lexmond | Resonerende taal/beelden |
+|-------|-------------------------|--------------------------|
+| **Traditionele burgerij** | **Zeer groot.** De ruggengraat van de gemeente. Hecht aan traditie, orde en morele kaders. | "Trouw", "vastigheid", "de God van onze vaderen", "geborgenheid". |
+| **Nieuwe conservatieven** | **Aanwezig.** Jonge gezinnen, ondernemers. Waarderen verantwoordelijkheid en gezin. | "Rentmeesterschap", "toekomst voor de kinderen", "moreel kompas". |
+| **Moderne burgerij** | **Aanwezig.** Mensen die meegaan met de tijd maar de kerk als ankerpunt houden. | "Balans", "praktische christelijke levensstijl", "harmonie". |
+| **Postmaterialisten** | **Kleinere groep.** Vaak betrokken bij diaconie of duurzaamheidsprojecten. | "Gerechtigheid", "zorg voor de schepping", "authenticiteit". |
+
+**Spanningen in de prediking:**
+*   De *Traditionele burgerij* zoekt bevestiging van de tijdloze waarheid.
+*   De *Nieuwe conservatieven* en *Moderne burgerij* zoeken praktische handvatten voor hun drukke bestaan in 2026.
+*   **Uitdaging:** Hoe spreek je over de "vergankelijkheid van de tijd" (Oudjaarsthema) zonder dat het voor de jongere generaties te fatalistisch wordt?
 
 ---
 
-## 4. Implicaties voor de Preek (Synthese)
+## 4. Lokale Gegevens & Actualiteit (Checklist voor de predikant)
 
-**Kernadvies voor de predikant:**
+Met de meest recente gegevens van **december 2025** kunnen we de waardenoriëntatie voor de Protestantse Gemeente Lexmond verder toespitsen. Deze feiten bieden concrete aanknopingspunten voor de preek op Oudejaarsavond.
 
-De hoorders in Lux Mundi zoeken op Oudejaarsavond naar **geborgenheid en perspectief**. Ze zijn moe van de onrust (letterlijk de A27, figuurlijk de wereld) en willen horen dat God erbij is, ook als de wereld doordendert.
+---
 
-**Do's:**
+# Verdiepende Analyse: Lexmond op de drempel van 2026
 
-*   **Erken de onrust:** Benoem concreet de impact van de A27-werkzaamheden of de druk op het dorp. Dit zorgt voor herkenning ("deze dominee snapt waar wij wonen"). Gebruik dit als metafoor: het lawaai van de wereld vs. de stilte bij God.
-*   **Gebruik de naam 'Lux Mundi':** Speel met het beeld van licht. Op Oudejaarsavond is het donker. Hoe zijn wij als gemeente een lichtje, ook als we ons klein voelen?
-*   **Verbind generaties:** Spreek zowel de oudere aan (die terugkijkt op een lang leven) als het jonge gezin (dat zich zorgen maakt over de toekomst).
-*   **Toon:** Pastorale nabijheid. Geen 'donderpreek', maar een 'herderspreek'. De Moderne Burgerij wil bemoedigd worden om het vol te houden.
+## 1. Lokale Context & Cijfers (Status dec. 2025)
+*   **Demografie:** Lexmond telt in 2025 circa **3.000 inwoners**. De vergrijzing is tastbaar: **22% van de inwoners is 65 jaar of ouder** (bron: AlleCijfers/CBS). Dit betekent dat thema's als eindigheid, zorg voor elkaar en het doorgeven van het geloof aan een kleinere jonge generatie sterk leven.
+*   **De A27-Mijlpaal:** Op 16 december 2025 is de uitvoeringsovereenkomst getekend voor het traject **A27 Lexmond - Gorinchem**. De uitvoeringsfase begint nu echt. Dit brengt onrust (werkzaamheden, geluid), maar symboliseert ook de onstuitbare 'vooruitgang' die het dorp doorkruist.
+*   **Agrarische Transitie:** Met het beleid **'Erven vol Kansen'** (besproken in de raad op 16 december 2025) wordt gezocht naar nieuwe functies voor (voormalige) boerenerven. Voor veel families in Lexmond is dit een emotioneel proces: het oude (het boerenbedrijf) verdwijnt of verandert fundamenteel.
 
-**Valkuilen:**
+## 2. De Vijf V's (Geactualiseerd voor 31 dec. 2025)
 
-*   **Te zwaarmoedig:** Hoewel Oudejaarsavond serieus is, moet de preek niet blijven hangen in 'hoe erg de wereld is'. De Moderne Burgerij haakt af bij te veel somberheid; ze zoeken hoop.
-*   **Te abstract:** Vermijd algemene theologische verhandelingen over 'tijd'. Maak tijd concreet: de agenda die vol was, de momenten aan de keukentafel, het wachten in de file.
+**Visioenen (Toekomstbeelden)**
+*   *Lexmond als 'thuis' in een grote gemeente:* Nu de gemeente Vijfheerenlanden inwoners vraagt hoe zij de gemeente zien (dec. 2025), groeit het visioen van Lexmond als een herkenbare, veilige haven tegenover de centralisatie in Leerdam of Vianen.
 
-**Suggestie voor een beeld/metafoor:**
+**Verlangens (Hunkering)**
+*   *Gezondheid en Veiligheid:* Het recente 'Convenant Rookvrij en Verantwoord Alcoholbeleid' bij lokale sportclubs (dec. 2025) laat een verlangen zien naar een gezonde, veilige omgeving voor de jeugd. Men hunkert naar een gemeenschap die 'heel' is.
 
-*   *De Dijk / De Rivier:* Lexmond leeft bij de gratie van de dijk. De rivier (de tijd) stroomt altijd door en kan dreigend zijn (hoogwater/onzekere toekomst), maar de dijk (Gods trouw/de gemeenschap) biedt bescherming.
-*   *De Geluidswal:* We bouwen muren tegen het lawaai (A27), maar waar vinden we échte stilte?
+**Vreugden (Trots)**
+*   *Gemeenschapsmijlpalen:* De herinnering aan de **50e Ronde van Lexmond** (mei 2025) en de succesvolle **Oldtimerdag** (juni 2025). Dit zijn de momenten waarop het dorp 'één' is; momenten van dankzegging op Oudejaarsavond.
+
+**Verdriet (Pijn en Zorg)**
+*   **Gedenken van de graven:** In januari 2026 start de gemeente met het **verwijderen van grafmonumenten** op de begraafplaatsen. Dit bericht (van 9 dec. 2025) valt zwaar op Oudejaarsavond, de avond waarop we de doden gedenken. Het herinnert de hoorders aan de rauwe werkelijkheid van de vergankelijkheid: zelfs een steen blijft niet eeuwig staan.
+
+**Vragen (Existentiële onzekerheid)**
+*   *Vogelgriep en natuur:* De dreiging van vogelgriep in de regio (dec. 2025) roept vragen op over onze kwetsbaarheid en onze omgang met de schepping. "Zijn we nog wel in control?"
+
+---
+
+## 3. Trendanalyse & Sfeerbeeld
+
+### Microtrend: De 'Grijze' Afsluiting
+Het weer in december 2025 was **zeer zacht (gem. 6,1°C)** maar ook **somber en grijs** (bron: KNMI/Weeronline). Er is geen sprake van een 'witte winter'. Dit sombere weer versterkt de melancholische sfeer van Oudjaar. De preek mag hierbij aansluiten: het Licht van Christus schijnt juist in de grijsheid van het bestaan.
+
+### Maatschappelijke trend: Sociale Veiligheid
+De werkgroep 'Sociale Veiligheid' in Vijfheerenlanden (dec. 2025) wijst op een behoefte aan onderling vertrouwen. In de preek kan de kerk worden gepresenteerd als een plek waar men elkaar nog echt 'ziet' en waar de sociale veiligheid wortelt in de liefde van God.
+
+---
+
+## 4. Homiletische Handvatten (De Leede & Stark)
+
+*   **Beeldspraak:** Gebruik de **A27** als metafoor: een weg die wordt verbreed, die door ons landschap snijdt, symbool voor de tijd die doordendert terwijl wij in de stilte van de kerk stilstaan bij de 'smalle weg' van het geloof.
+*   **Thema van de Steen:** Verbind het bericht over de **verwijderde grafmonumenten** met de Bijbelse belofte van de "levende stenen" of de "witte steen met een nieuwe naam" (Openbaring). Menselijke gedenktekens vergaan, maar God vergeet de naam van Zijn kinderen niet.
+*   **Toon:** Erken de "grijsheid" van het jaar (zowel letterlijk als figuurlijk), maar eindig bij de **Nieuwjaarszegen**. De gemeente Vijfheerenlanden nodigt iedereen uit in 'Huis het Bosch' (Lexmond) voor de receptie op 7 januari, maar de kerk biedt op 31 december een fundamenteler welkom: de gastvrijheid van God Zelf.
+
+---
+**Bronnen:**
+*   *Gemeente Vijfheerenlanden, "Laatste Nieuws Lexmond", dec 2025.*
+*   *Rijkswaterstaat, "Ondertekening overeenkomst A27 Lexmond-Gorinchem", 16 dec 2025.*
+*   *AlleCijfers.nl, "Woonplaats Lexmond in cijfers 2025".*
+*   *KNMI, "Winteroverzicht 2024-2025" (geprojecteerd naar eind 2025).*

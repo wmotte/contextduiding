@@ -1,79 +1,66 @@
 # Geloofsoriëntatie
 
-Hier is de **Geloofsoriëntatie-analyse** voor de Protestantse Gemeente Lexmond (Lux Mundi) ten behoeve van de dienst op Oudejaarsavond 2025.
+Hieronder volgt de **Geloofsoriëntatie-analyse** voor de Protestantse Gemeente Lexmond op Oudejaarsavond 2025, uitgevoerd volgens de methodiek van De Leede & Stark.
 
-***
+---
 
-# 3. GELOOFSORIËNTATIE-ANALYSE
+# Geloofsoriëntatie-analyse Lexmond (Oudjaar 2025)
 
-**Focus:** De geestelijke 'binnenkant' van de hoorder in Lexmond.
-**Datum:** 31 december 2025 (Oudejaarsavond)
-**Gemeente:** Protestantse Gemeente Lexmond (Lux Mundi)
+## 1. De Zes Ervaringsgebieden
 
-## 1. GOD-TALK & RELIGIEUZE TAAL
+### Schepping en het goede leven
+*   **Context:** Lexmond is een dorp aan de Lek, waar de natuur (de uiterwaarden) en het agrarische leven de identiteit bepalen.
+*   **Het 'Goede Leven' in 2025:** In 2025 vierde Lexmond onder andere de **50e Ronde van Lexmond** (wielrennen, mei 2025) en de jaarlijkse **Oldtimerdag** (juni 2025). Dit wijst op een gemeenschap die waarde hecht aan traditie, techniek, sport en gezelligheid op het dorpsplein.
+*   **Dankbaarheid:** De dankbaarheid op Oudejaarsavond zal in Lexmond vaak verbonden zijn met de oogst, de rust van het landschap en de kleinschaligheid van het dorp in een steeds drukker wordende regio (Utrecht/Vijfheerenlanden).
 
-*Hoe spreken deze mensen over God en geloof?*
+### Eindigheid en zingeving
+*   **Concreet voorval:** Op 9 december 2025 kondigde de gemeente Vijfheerenlanden aan dat er vanaf januari 2026 **grafmonumenten verwijderd** gaan worden op de algemene begraafplaatsen. Dit is een zeer concreet aanknooppunt voor een preek over vergankelijkheid: namen die letterlijk uit het straatbeeld verdwijnen.
+*   **Rituelen:** In een dorp als Lexmond is de gang naar het graf nog een collectieve handeling. De jaarwisseling is het moment waarop de balans van het leven wordt opgemaakt; de eindigheid wordt gevoeld in de lege stoelen die dit jaar voor het eerst aan de oliebollen-tafel staan.
 
-*   **Van 'Zware' Dogmatiek naar 'Relationele' Genade:**
-    De naam van de gemeente, *Lux Mundi* (Licht der Wereld), en hun missie ("leven van genade", "blijdschap", "geschenk") wijzen op een verschuiving in de geloofstaal. Waar in deze regio (rand van de Biblebelt) traditioneel zware woorden als *zonde*, *oordeel* en *bekering* domineerden, kiest deze gemeente bewust voor een taal van **licht, openheid en verbinding**.
-*   **Het 'Canaan' is sleets, maar niet weg:**
-    Bij de oudere generatie (22% is 65+) resoneren klassieke bijbelse begrippen en de taal van de Psalmen nog sterk, zeker op een moment als Oudejaarsavond. Woorden als *vertroosting*, *bewaring* en *toevlucht* zijn geen "vreemde taal" maar "thuistaal".
-*   **Nieuwe Woorden voor Nieuwe Generaties:**
-    Voor de middengroep en jongeren (gezinnen, dertigers) is de taal van de Heidelbergse Catechismus (die officieel nog onderschreven wordt) vaak te abstract. Zij resoneren op termen als *inspiratie*, *rustpunt*, *aandacht* en *verbondenheid*. De predikant moet laveren tussen *vertrouwdheid* (voor de ouderen) en *toegankelijkheid* (voor de zoekers/jongeren).
-*   **Stilte als Taal:**
-    Opvallend in het profiel van de gemeente is de waardering voor **stilte** in de liturgie. Op Oudejaarsavond spreekt de stilte misschien wel luider dan de preek: het samen zwijgen voor het aangezicht van de Eeuwige over het voorbije jaar.
+### Menselijk tekort
+*   **Sociale druk:** In een hechte gemeenschap van ~3.000 inwoners kan de druk om 'mee te doen' of 'te slagen' groot zijn. Falen (faillissement, echtscheiding) is in een dorp vaak publiek bezit.
+*   **Schuld en vergeving:** De behoefte aan een 'schone lei' voor het nieuwe jaar is groot. In de preek kan de spanning tussen het 'gezien worden' door het dorp en het 'gekend zijn' door God een thema zijn.
 
-## 2. ERVARINGSGEBIEDEN
+### Lijden en het kwaad
+*   **Agrarische onzekerheid:** Eind 2025 is de stikstofproblematiek nog steeds een bron van zorg. De discussie over het beleid **'Erven vol Kansen'** (behandeld in de gemeenteraad op 16 december 2025) raakt veel Lexmondse families direct. Het 'kwaad' wordt hier vaak ervaren als onpersoonlijke regelgeving die generaties lange tradities bedreigt.
+*   **Gezondheid:** Het convenant 'Rookvrij en Verantwoord Alcoholbeleid' (getekend door lokale sportclubs in dec 2025) laat zien dat de gemeenschap worstelt met de keerzijde van de 'gezelligheidscultuur'.
 
-*Hoe landt het geloof in de concrete levenservaringen?*
+### Wijsheid der volken
+*   **Historisch besef:** De *Vereniging Historisch Lexmond en Hei- en Boeicop* is zeer actief. Men put wijsheid uit het verleden (overstromingen, oorlogen). 
+*   **Seculiere spiritualiteit:** Hoewel Lexmond nog kerkelijk is, zie je ook hier de 'spirituele markt' van wellness en wandelen (Lekdijk). Men zoekt rust in de natuur als tegenwicht voor de hectiek van de A27 en A15, die de bereikbaarheid van de regio onder druk zetten (Kadernota 2025).
 
-### A. Schepping en het Goede Leven
+### Humaniteit en gemeenschap
+*   **Solidariteit:** Lexmond heeft een "bruisende geloofsgemeenschap" (Lux Mundi) met ruim 700 leden en 200 vrijwilligers. Het gemeenschapsgevoel is de grootste kracht.
+*   **Naastenliefde:** Dit uit zich in praktische hulp, kaartjes sturen naar zieken en de betrokkenheid bij lokale verenigingen zoals voetbalclub *Lekvogels* en muziekvereniging *Klank en Vreugd*.
 
-*   **Agrarische Wortels & Water:** Lexmond ligt aan de Lek. De natuur is hier geen abstractie; het water (hoogwater in de winter) en de seizoenen bepalen het ritme. Dankbaarheid voor 'het gewone' (oogst, bescherming tegen water, het landschap) is diep geworteld.
-*   **Welvaart en Genieten:** Lexmond is een welvarend dorp (hoge huizenprijzen, veel koopwoningen). Het "goede leven" wordt hier ook materieel beleefd. De valkuil is dat God vooral gezien wordt als de *bevestiger* van deze welvaart, en minder als de *criticus* ervan. Op Oudejaarsavond mag er dankbaarheid zijn voor het goede, maar ook de vraag: "Hebben we gedeeld?"
+---
 
-### B. Eindigheid en Zingeving (Cruciaal voor 31 dec)
+## 2. Geloofstaal-analyse
 
-*   **De Lege Stoel:** In een dorpsgemeenschap als Lexmond is de dood zichtbaar. Als er iemand sterft, weet het hele dorp het. Op Oudejaarsavond is de *gedachtenis der namen* (indien gebruikelijk) of het moment van terugblikken emotioneel zwaar beladen. De eindigheid wordt niet theoretisch maar relationeel beleefd: "Wie missen we?"
-*   **Tijd als Vijand en Vriend:** Voor de drukke forenzengezinnen vliegt de tijd (2025 is voorbijgevlogen). Voor de ouderen kan de tijd soms traag gaan of juist beangstigend snel richting het einde. De preek moet de tijd duiden *sub specie aeternitatis* (in het licht van de eeuwigheid): tijd niet als iets dat 'op' raakt, maar als genadetijd die gegeven is.
+*   **Identiteit 'Lux Mundi':** De naam van de kerk (Licht van de Wereld) is een krachtig taalelement. De gemeente gebruikt woorden als **'genade'**, **'geschenk'** en **'thuis'**. 
+*   **Traditionele vs. Moderne taal:** Er is een mix. De kerk onderschrijft de klassieke belijdenisgeschriften, maar in de dagelijkse praktijk spreekt men eerder over "in Jezus' voetspoor gaan" dan over abstracte dogmatiek. 
+*   **Slijtage:** Woorden als 'zonde' kunnen zwaar vallen, terwijl 'tekortschieten' of 'de weg kwijtraken' in de Lexmondse context (waar men letterlijk over wegen en dijken spreekt) beter landt.
+*   **God-talk:** In Lexmond is spreken over God nog relatief normaal, maar het verschuift van "God die alles bestuurt" naar "God als schuilplaats" in een onzekere tijd.
 
-### C. Menselijk Tekort & Schuld
+---
 
-*   **Van Doem naar Kwetsbaarheid:** De klassieke "zondekennis" verschuift naar een besef van **kwetsbaarheid en onmacht**. Mensen voelen zich misschien niet meer schuldig over dogmatische regels, maar wel over:
-*   Tekortschieten in relaties (scheidingen, ruzies in de familie).
-*   De onmacht ten aanzien van de wereldproblemen (klimaat, oorlogen in 2025).
-*   **Behoefte aan 'Schone Lei':** Oudejaarsavond fungeert als een ritueel moment van reiniging. Men wil horen dat het mislukte van 2025 niet het laatste woord heeft. De vergeving moet concreet gemaakt worden: "Je mag opnieuw beginnen."
+## 3. Spirituele trends in de regio (Vijfheerenlanden)
 
-### D. Lijden en het Kwaad
+*   **Stagnatie van de daling:** Landelijke CBS-cijfers van april 2025 laten zien dat de daling van het aantal religieuzen stagneert (44% rekent zich tot een gezindte). In een dorp als Lexmond ligt dit percentage substantieel hoger.
+*   **De 'Dorpskerk' als baken:** Er is een trend waarbij de kerk weer meer wordt gezien als een 'publieke plek' voor bezinning, ook voor mensen die niet wekelijks komen. Op Oudejaarsavond trekt de kerk een breder publiek dat behoefte heeft aan een ritueel moment van overgang.
+*   **Focus op 'Het Goede Leven':** De gemeente Vijfheerenlanden hanteert in haar beleid 2025-2028 'Het goede leven' als centraal thema. De kerk kan hierop aansluiten door de theologische diepte van dat 'goede leven' te verkennen (niet alleen welvaart, maar ook *sjalom*).
 
-*   **Dorpsleed:** Een ongeluk op de N-weg, een ernstige ziekte van een prominent gemeentelid, of boeren die klem zitten in regelgeving – dit is het lijden dat direct binnenkomt.
-*   **Wereldleed:** Via de media komt de wereld Lexmond binnen. De spanning tussen de veilige dijk (het dorp) en de boze buitenwereld kan verlammend werken. De vraag is: "Waar is God in de chaos van 2025?"
+---
 
-### E. Wijsheid & Spirituele Markt
+## Homiletische aanwijzingen voor de predikant
 
-*   **Nuchtere Spiritualiteit:** De concurrentie is hier niet zozeer de *New Age*, maar het **nuchtere materialisme** en het "gezond verstand". Doe maar gewoon. Geloof moet praktisch zijn en 'werken'.
-*   **Concurrentie:** De grootste concurrent op Oudejaarsavond is de *gezelligheid* (oliebollen, cabaret op TV, vrienden). De kerkgang concurreert met het sociale feest. De kerk moet een *meerwaarde* bieden: diepgang die de oliebol niet biedt.
+1.  **Gebruik het beeld van de 'Dijk':** De Lekdijk is voor Lexmonders hét symbool van bescherming én uitzicht. God als de 'hoge dijk' waartegen het water van de tijd opslaat.
+2.  **Noem de concrete gebeurtenissen van 2025:** De 50e wielerronde (het volbrengen van de koers) en de discussie over de agrarische erven (onzekerheid over de toekomst van het familiebedrijf).
+3.  **Adresseer de lege plekken:** Verwijs subtiel naar het bericht van de begraafplaatsen (dec 2025). Namen verdwijnen van stenen, maar staan "geschreven in de palm van Gods hand".
+4.  **Verbind 'Lux Mundi' met Oudjaar:** In de donkerste nacht van het jaar (en de overgang naar het nieuwe) is Christus het licht dat niet dooft.
 
-### F. Humaniteit en Gemeenschap
-
-*   **Noaberschap vs. Import:** Er is een sterke kern van vrijwilligers (200 mensen!) en onderlinge zorg. Maar er is ook een risico op een "binnen-groep" (de oorspronkelijke bewoners) en een "buiten-groep" (de import uit de stad).
-*   **Solidariteit:** De gemeente wil graag "Licht voor de Wereld" zijn (diaconaal actief). Dit is een sterk punt om op aan te haken: geloof is hier ook *doen*.
-
-## 3. LITURGIE & RITUEEL
-
-*   **Vorm:** De gemeente Lux Mundi zoekt de balans. Het is geen "zware" kerk, maar wel een liturgische. Men hecht aan orde en rust (stilte), maar staat open voor vernieuwing (piano, video, beamer).
-*   **Oudejaarsavond-verwachting:** Op deze avond wint de traditie het vaak. Men verwacht:
-*   **Psalm 90** (Gij zijt geweest onze toevlucht).
-*   Het noemen van de **namen** van de overledenen (of een moment van stilte daarvoor).
-*   Een preek die **terugblikt** en **troost**. Geen moralistisch vingertje, maar een pastorale arm om de schouder.
-*   Het orgel mag klinken, de sfeer mag plechtig en melancholisch zijn, maar moet eindigen in hoop.
-
-## 4. IMPLICATIES VOOR DE PREEK
-
-*Samenvattend advies voor de predikant:*
-
-1.  **Erken de Ambivalentie:** Spreek de dubbelheid van de avond aan. De gezelligheid van de oliebollen thuis vs. de weemoed en de stilte in de kerk. Maak van die spanning geen verwijt, maar een ingang.
-2.  **Gebruik "Wij-taal":** Positioneer jezelf niet tegenover de gemeente, maar erin. Ook de predikant staat met lege handen aan het einde van 2025.
-3.  **Concretiseer "Genade":** Vertaal het kernwoord van de gemeente (*Lux Mundi*, genade) naar de tijd. 2025 was geen prestatie die gelukt of mislukt is, maar een *gegeven tijd*.
-4.  **Verbind Dorp en Wereld:** Bid concreet voor Lexmond (de dijk, de zieken, de school), maar trek de ramen open naar de wereld. Laat het "Licht der Wereld" niet alleen een lampje in de polder zijn.
-5.  **Focus op "Gods Trouw":** In een veranderend dorp (groei, import) en een onzekere wereld, is de vaste grond onder de voeten (Psalm 90) de diepste behoefte van de hoorder.
+**Bronnen:**
+*   *CBS (april 2025) - Religieuze betrokkenheid in Nederland.*
+*   *Gemeente Vijfheerenlanden (december 2025) - Nieuwsbrief en Kadernota 2025-2028.*
+*   *Website Lux Mundi Lexmond (geraadpleegd dec 2024/2025).*
+*   *Regionaal nieuws Vijfheerenlanden (2025).*

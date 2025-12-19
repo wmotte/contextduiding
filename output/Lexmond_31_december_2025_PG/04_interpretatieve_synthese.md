@@ -1,92 +1,49 @@
 # Interpretatieve Synthese
 
-Hier volgt de **Interpretatieve Synthese** (stap 4) voor de Oudejaarsdienst in de Protestantse Gemeente Lexmond op 31 december 2025. Deze analyse integreert de demografische, sociaal-maatschappelijke en geloofsmatige inzichten tot concrete homiletische handvatten.
+Hieronder volgt de **Interpretatieve Synthese** en de **Implicaties voor de preek** voor de dienst op Oudejaarsavond 31 december 2025 in de Protestantse Gemeente Lexmond (Lux Mundi), gebaseerd op de methodiek van De Leede & Stark.
 
 ---
 
-# Interpretatieve Synthese: Preekvoorbereiding Oudejaarsavond Lexmond
-
-**Datum:** 31 december 2025
-**Locatie:** Protestantse Gemeente Lexmond (Kerkgebouw: Lux Mundi of de monumentale Dorpskerk, afhankelijk van de setting)
-**Context:** Oudejaarsavond / Oudjaar
+# Interpretatieve Synthese: Lexmond op de drempel van 2026
 
 ## 1. Congruentie-analyse
+*   **Officieel vs. Geleefd geloof:** De gemeente profileert zich als *Lux Mundi* ('Licht der Wereld') en benadrukt een open, gastvrije gemeenschap waar "iedereen tot bloei mag komen". In de praktijk van een dorp als Lexmond (ca. 3.000 inwoners) staat dit ideaal onder druk van de dorpsrealiteit: een vergrijzende kern, jongeren die wegtrekken voor studie, en de spanning tussen traditie en vernieuwing (bijv. de rol van de piano naast het orgel).
+*   **Spanning:** Men belijdt dat God "tijd en eeuwigheid in Zijn hand houdt", maar de lokale onrust over de toekomst van agrarische erven (het beleid *'Erven vol Kansen'* dat in december 2025 door de raad van Vijfheerenlanden is besproken) zorgt voor reële economische en existentiële zorgen bij gemeenteleden.
 
-*Waar zit de spanning tussen de leer en het leven in Lexmond?*
+## 2. Verbindingspunten
+*   **De Lek en de Tijd:** De rivier de Lek is een constante in het Lexmondse landschap. Het beeld van stromend water als metafoor voor de tijd die voorbijgaat (Heraclitus’ *Panta Rhei*) resoneert hier sterk. 
+*   **De A27 en de 'Brug':** De grootschalige werkzaamheden aan de A27 bij Lexmond (start 2025/2026) zijn een dagelijkse realiteit. De 'brug' tussen het oude en het nieuwe jaar is hier geen abstract concept, maar een fysiek symbool van transitie en hinder, maar ook van verbinding.
+*   **Agrarische wortels:** De transitie van "boerenerf naar nieuwe kansen" (lokale actualiteit dec 2025) biedt een krachtig beeld voor Prediker 3: "een tijd om te planten en een tijd om te rooien".
 
-**De spanning tussen 'Providentia' en 'Maakbaarheid'**
+## 3. Confrontatiepunten
+*   **Memento Mori:** De aankondiging van de gemeente Vijfheerenlanden (december 2025) dat in januari 2026 gestart wordt met het **verwijderen van grafmonumenten** op de begraafplaatsen, confronteert de hoorder direct met de vergankelijkheid. Wat blijft er van ons over als zelfs onze gedenktekens verdwijnen?
+*   **Wereldtoneel vs. Dorpsrust:** 2025 was het jaar van de terugkeer van Trump in het Witte Huis en de NAVO-top in Den Haag. De preek moet de spanning adresseren tussen de veilige Lexmondse 'stolp' en de schurende wereldpolitiek.
 
-In een dorp als Lexmond, met sterke agrarische wortels en een reformatorische onderstroom (Traditionele Burgerij en Nieuwe Conservatieven), belijdt men met de mond sterk de *voorzienigheid Gods*. "De mens wikt, maar God beschikt" is een bekend adagium.
+## 4. De werkelijke versus veronderstelde hoorder
+*   **De 'Pelgrim':** De gemeente omschrijft zichzelf als "pelgrims onderweg". De predikant moet niet uitgaan van een statische hoorder die 'veilig binnen' zit, maar van mensen die zich ontheemd voelen in een snel veranderende maatschappij (digitalisering, AI-hype 2025, politieke polarisatie).
+*   **Onzichtbare hoorder:** De agrariër die zich afvraagt of er voor zijn kinderen nog een toekomst is op het erf, en de eenzame oudere die op Oudejaarsavond de namen van generatiegenoten hoort wegvallen.
 
-*   **De paradox:** In de praktijk van 2025 wordt het leven echter gedomineerd door 'maakbaarheid' en regelgeving. De boeren in de Vijfheerenlanden worstelen met stikstof- en waterregels; de forenzen die de A27 opgaan, leven bij de klok en de agenda.
-*   **De onbewuste aanname:** "Als wij maar hard genoeg werken en ons aan de regels houden (burgerlijk en kerkelijk), dan houden we het onheil buiten de deur."
-*   **Het conflict:** Oudejaarsavond confronteert de hoorder met het feit dat tijd *niet* maakbaar is. Het jaar is voorbij gegleden, ondanks alle planning. Ziekte, overlijden of maatschappelijke onrust (denk aan coalitieperikelen of wereldwijde spanningen in 2025) breken door de illusie van controle heen.
+## 5. Specifiek voor 31 december 2025
+*   **Actualiteit:** Het jaar 2025 eindigt met een gevoel van "wisseling van de wacht" (nieuwe paus, nieuwe politieke verhoudingen). 
+*   **Lokaal:** De discussie over "Rookvrij en verantwoord alcoholbeleid" bij lokale sportclubs (vv Lekvogels) versus de traditionele oliebollen en gezelligheid. De preek kan raken aan de vraag: wat is werkelijk 'gezond' leven voor de ziel?
 
-**Gemeenschapszin vs. Individualisering**
+---
 
-Lexmond kent een hecht verenigingsleven. Men zorgt voor elkaar (noaberschap/diaconaat).
+# Concrete Homiletische Aanbevelingen
 
-*   **Schaduwzijde:** Er is een spanning tussen de *zichtbare* gemeenschap (in de kerk, op het dorp) en de *onzichtbare* eenzaamheid achter de voordeuren, zeker bij ouderen wiens netwerk krimpt, of bij import-gezinnen die de aansluiting missen. De preek moet oppassen het "wij-gevoel" niet te romantiseren, waardoor de eenzamen zich nog meer buitengesloten voelen.
+*   **Toon:** Pastoraal-waakzaam. Erken de weemoed van het voorbijgaande (de graven, de erven), maar eindig in de 'Lux Mundi'-kracht: het licht dat niet dooft.
+*   **Taal:** Gebruik nuchtere, dorpse taal gecombineerd met krachtige bijbelse beelden. Vermijd abstracte theologie; spreek over 'de stroom van de Lek' en 'het fundament onder het erf'.
+*   **Beelden:** 
+    *   *De Brug:* De overgang van de A27 als symbool voor de overgang naar 2026 (hinder vs. hoop).
+    *   *Het Erf:* God als de 'Grondbezitter' die ons een erfdeel geeft dat niet vergaat.
+*   **Balans:** 60% troost (Gods trouw) en 40% profetische scherpte (onze verantwoordelijkheid voor de schepping – 'Groene Kerk' – en voor elkaar).
 
-## 2. Verbindings- en Confrontatiepunten
+---
 
-*Waar raakt het Evangelie de grond in Lexmond?*
+# Implicaties voor de preek
 
-### Verbindingspunten (Aansluiting)
-
-*   **De Rivier (De Lek):** De Lek is de levensader en de grens van het dorp. Het water stroomt altijd door, net als de tijd. Dit is een oersterk, lokaal beeld. In de winter kan het water hoog staan (dreiging), in de zomer is het recreatie (vreugde). Gebruik de rivier als metafoor voor Gods trouw die doorgaat ("O God die droeg ons voorgeslacht") of juist voor de onstuitbare tijdstroom.
-*   **Drempelervaring:** Oudejaarsavond is in de *Mentality*-groepen van de Traditionele Burgerij een 'heilig moment'. Men komt om de balans op te maken. De behoefte aan *erkenning* van wat zwaar was (rouw, verlies, zorgen over de wereld) is groot. De preek moet pastorale nabijheid bieden.
-*   **Dankbaarheid:** Ondanks zorgen is er in deze regio vaak een basale dankbaarheid voor 'het gewone'. Dat er brood op de plank was, dat het dak niet lekte. Sluit aan bij het agrarische ritme: zaaien en oogsten.
-
-### Confrontatiepunten (Schuren)
-
-*   **De afgod van de Zekerheid:** De neiging om vast te houden aan wat was (nostalgie). De bijbelse boodschap roept vaak op om *los te laten* en in vertrouwen de toekomst (het nieuwe jaar) tegemoet te treden. Durft men in Lexmond te vertrouwen op God, ook als de kerkbanken leger worden of het dorp verandert?
-*   **Oordeel en Genade:** Oudejaarsavond heeft traditioneel een boete-karakter. Waar hebben we het laten liggen? Niet om de hoorders een schuldcomplex aan te praten, maar om de *bevrijding* van vergeving te verkondigen. De confrontatie zit in de vraag: "Waarop baseer jij je bestaansrecht voor 2026? Op je successen van 2025, of op Gods genade?"
-
-## 3. Diversiteit: De Hoorders
-
-*Wie zit er in de bank en wat hebben zij nodig?*
-
-| Doelgroep | Mentality (Motivaction) | Levensgevoel & Behoefte |
-| :--- | :--- | :--- |
-| **De Trouwe Ouderen** | Traditionele Burgerij | **Gevoel:** Melancholie, dankbaarheid, zorg over de kerk/jeugd.<br>**Behoefte:** Herkenning in de taal (Psalmen), troost bij het noemen van de namen van overledenen, bevestiging van Gods trouw. |
-| **De Gezinnen / Dertigers** | Moderne Burgerij / Nieuwe Conservatieven | **Gevoel:** Druk, vermoeid na de decembermaand, zorgen over de maatschappij/toekomst kinderen.<br>**Behoefte:** Rustpunt. Geen zware dogmatiek, maar een "anker" voor het nieuwe jaar. Perspectief: hoe houden we hoop in een complexe wereld? |
-| **De Agrarische sector / Ondernemers** | Opwaarts mobielen / Trad. Burgerij | **Gevoel:** Onzekerheid over regelgeving en toekomst bedrijf.<br>**Behoefte:** Erkenning voor hun werk/zorgen. Horen dat hun waarde niet afhangt van economisch succes. |
-| **De Randkerkelijke** | Gemaksgeoriënteerden / Post-modern | **Gevoel:** Komt uit traditie of voor de sfeer ("even bezinnen").<br>**Behoefte:** Een begrijpelijk verhaal zonder al te veel jargon. Een universele boodschap over tijd en zingeving die landt in hun leven. |
-
-## 4. Homiletische Adviezen
-
-*Concreet advies voor de predikant.*
-
-### Toon en Sfeer
-
-*   **Toon:** Plechtig maar warm. "Eben-Haëzer" (tot hiertoe heeft de Here ons geholpen) is de grondtoon, maar vermijd een te zware, sombere "memento mori" sfeer. Laat het licht van Kerst (dat net achter ons ligt) doorschijnen naar het nieuwe jaar.
-*   **Houding:** Wees als voorganger een *reisgenoot*. Sta niet boven de gemeente met antwoorden, maar sta naast hen op de drempel van de tijd, ook met uw eigen onzekerheden en hoop.
-
-### Taal en Beeldspraak
-
-*   **Gebruik de lokale context:**
-*   Verwijs naar de **Lekdijk**: "We staan op de dijk en kijken terug over het water, en vooruit naar de bocht waar we nog niet voorbij kunnen kijken."
-*   Verwijs naar de **A27**: "Het geraas van de wereld dat maar doorgaat, terwijl wij hier even stilstaan."
-*   Speel met de naam van de kerk **Lux Mundi** (Licht der Wereld): "Buiten is het donker, het jaar dooft uit, maar hier brandt het Licht dat niet dooft."
-*   **Woordgebruik:** Meng de klassieke "tale Kanaäns" (die de ouderen koesteren) met hedendaagse beelden. Woorden als *genade*, *zegen* en *vertrouwen* zijn essentieel, maar leg ze uit aan de hand van concrete situaties (een ziekenhuisbed, een keukentafelgesprek, een nieuwsbericht uit 2025).
-
-### Liturgische Suggesties
-
-*   **Het noemen van de namen:** Als het gebruikelijk is in Lexmond om op Oudejaarsavond de overledenen te herdenken, doe dit dan met grote zorgvuldigheid. Dit is voor velen het emotionele zwaartepunt van de dienst.
-*   **Liedkeuze:**
-*   *Klassiek:* Psalm 90 ("Gij zijt geweest, o Heer, en Gij zult wezen"), Gezang 393 (Liedboek '73) / Lied 273 (Liedboek 2013) "De dag, door uwe gunst ontvangen".
-*   *Brug:* Een lied van Sela of Opwekking dat gaat over vertrouwen en toekomst, om ook de jongere generatie en gezinnen aan te spreken.
-*   *Stilte:* Maak ruimte voor een lang moment van stilte om persoonlijk terug te kijken.
-
-### Valkuilen
-
-*   **Te somber:** 2025 kan een zwaar jaar zijn geweest (wereldwijd of lokaal). Trap niet in de valkuil om alleen maar te klagen over "deze boze tijd". De preek moet eindigen in *hoop*.
-*   **Te politiek:** Hoewel de zorgen van boeren en burgers reëel zijn, moet de preek geen politiek pamflet worden. Benoem de *zorgen* (de existentiële laag), niet de *standpunten* (de politieke laag).
-*   **De "onzichtbare" vergeten:** Richt u niet alleen tot de families en de gevestigde orde. Noem ook de alleenstaande, de nieuwkomer, de twijfelaar.
-
-### Samenvattend Kernadvies
-
-Preek vanuit **Psalm 121** of **Psalm 90**, maar leg dit over de kaart van Lexmond heen.
-*"Onze hulp is niet in onze dijken, niet in onze economie, en niet in onze tradities alleen. Onze hulp is in de Naam van de Heer."*
-Laat de hoorders naar huis gaan met het gevoel: "Ik weet niet wat 2026 brengt, maar ik weet Wie er met mij meegaat."
+1.  **Start bij de rivier:** Begin de preek met het beeld van de Lek op deze donkere decemberavond. Het water stroomt weg, zoals 2025 wegstroomt. Noem concreet de gebeurtenissen: de NAVO-top, de Amerikaanse verkiezingen, maar ook de raadsvergadering over de Lexmondse erven.
+2.  **De paradox van Prediker:** Verbind Prediker 3 ("er is een tijd voor alles") aan de actualiteit van de begraafplaats in Lexmond. Het verwijderen van stenen herinnert ons eraan dat we onze naam niet in steen, maar in Gods handpalm moeten graveren.
+3.  **Matteüs 6 als tegengif:** De hoorder in 2025 is bezorgd over inflatie en geopolitiek. Gebruik de evangelielezing ("Maak je geen zorgen") niet als een goedkoop cliché, maar als een radicale keuze voor vertrouwen in een onzekere tijd.
+4.  **Lux Mundi:** Sluit af met de naam van de kerk zelf. In de nacht van Oud naar Nieuw is de kerk geen museum van het verleden, maar een vuurtoren voor 2026. Geef de gemeente de opdracht mee om 'lichtdragers' te zijn op de plekken waar in Lexmond het duister toeslaat (eenzaamheid, onzekerheid over werk/erf).
+5.  **Slotakkoord:** Gebruik Lied 511 ("Door goede machten") als een protestlied tegen de angst. De "goede machten" zijn reëler dan de machten in Washington of Den Haag.

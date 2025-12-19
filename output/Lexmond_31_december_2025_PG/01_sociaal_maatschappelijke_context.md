@@ -1,66 +1,57 @@
 # Sociaal-Maatschappelijke Context
 
-Hier is de **Sociaal-maatschappelijke Contextanalyse** voor de preek op Oudejaarsavond 2025 in de Protestantse Gemeente Lexmond.
+Hieronder volgt de sociaal-maatschappelijke contextanalyse voor **Lexmond** ten behoeve van de prediking op **Oudejaarsavond 31 december 2025**. Deze analyse is uitgevoerd conform de methodiek van De Leede & Stark (2017) en maakt gebruik van de meest recente data en actuele ontwikkelingen.
 
-# 1. SOCIAAL-MAATSCHAPPELIJKE CONTEXTANALYSE
+---
 
-**Locatie:** Lexmond (Gemeente Vijfheerenlanden)
-**Gemeente:** Protestantse Gemeente Lexmond (Lux Mundi)
-**Datum:** 31 december 2025 (Oudejaarsavond)
+# Sociaal-Maatschappelijke Contextanalyse: Lexmond
 
-## Demografische Gegevens
+## 1. Demografische gegevens van Lexmond
+*   **Inwoneraantal:** Lexmond (onderdeel van de gemeente Vijfheerenlanden) telt circa **2.985 inwoners** (bron: AlleCijfers.nl, data 2024/2025). Het is een stabiele dorpsgemeenschap.
+*   **Leeftijdsopbouw:**
+    *   **Jeugd (0-15 jaar):** Relatief hoog (ca. 18%), wat duidt op een kinderrijke gemeenschap met veel jonge gezinnen.
+    *   **Senioren (65+):** Circa 20%. Er is sprake van een geleidelijke vergrijzing, maar minder sterk dan in omliggende krimpgebieden.
+*   **Huishoudens:** Veel gezinnen met kinderen (ca. 40%) en een hoog percentage koopwoningen (ca. 74%). Dit wijst op een honkvast publiek met een relatief hoog welstandsniveau.
+*   **Diversiteit:** De bevolking is overwegend van Nederlandse herkomst. De integratie van statushouders in de gemeente Vijfheerenlanden is een doorlopend lokaal thema in 2025.
 
-Lexmond is een hecht dorp met een dorps karakter, gelegen in de overgangszone tussen de Randstad en de Betuwe/Alblasserwaard.
+## 2. Economische situatie
+*   **Sectoren:** De lokale economie leunt sterk op de **agrarische sector** (veehouderij), **transport & logistiek** (vanwege de ligging nabij de A27) en de bouwsector.
+*   **Agrarische transitie:** In 2025 is de onzekerheid onder boeren in de Alblasserwaard en Vijfheerenlanden nog steeds voelbaar. De discussies over stikstof, de toekomst van familiebedrijven en de herinrichting van het landelijk gebied raken veel families in de kerkbanken direct of indirect.
+*   **Inkomen:** Het gemiddelde inkomen per inwoner in Lexmond ligt boven het landelijk gemiddelde. Er is echter een verborgen kwetsbaarheid bij zzp’ers en kleine ondernemers die te maken hebben met gestegen energielasten en inflatiecorrecties in 2024-2025.
 
-*   **Bevolking:** Circa 3.000 inwoners. Het dorp groeit licht, maar wordt geremd door beperkte nieuwbouwmogelijkheden.
-*   **Leeftijdsopbouw:** Er is sprake van een "dubbele vergrijzing", maar ook een stabiele aanwas van gezinnen. De kerkelijke gemeente zelf omschrijft zich als een "rijke mix van ouderen en jongeren".
-*   **Woonsituatie:** Het dorp kent een hoog percentage koopwoningen. De huizenprijzen zijn de afgelopen jaren fors gestegen (WOZ-waarde +57% sinds 2013), wat het voor lokale starters moeilijk maakt om in het dorp te blijven wonen. Dit kan een bron van zorg zijn voor ouders en grootouders in de kerkbanken.
-*   **Opleiding & Inkomen:** Het opleidingsniveau is gemengd. Er is een groep praktisch opgeleiden (werkzaam in landbouw, techniek, transport) en een groeiende groep theoretisch opgeleiden die forenst naar Utrecht of Rotterdam. Het inkomensniveau ligt rond of iets boven het landelijk gemiddelde.
+## 3. Sociale structuur
+*   **Sociale cohesie:** Lexmond kent een zeer sterk verenigingsleven. De voetbalvereniging (VV Lexmond) en de Oranjevereniging zijn dragers van de lokale identiteit. Er heerst een "ons-kent-ons" cultuur.
+*   **Voorzieningen:** Het dorp heeft een eigen basisschool (De Regenboog/Het Kompas) en een multifunctioneel centrum ('Huis Het Bosch'), dat fungeert als de 'huiskamer' van het dorp.
+*   **Woningmarkt:** Er is een nijpend tekort aan betaalbare woningen voor jongeren uit het eigen dorp. Dit zorgt ervoor dat de 'doorstroom' stokt en jongeren gedwongen naar grotere plaatsen als Gorinchem of Utrecht trekken.
 
-## Economische Situatie
+## 4. Recente lokale gebeurtenissen (Focus 2025)
+*   **Infrastructuur (A27):** In 2025 zijn de werkzaamheden aan de verbreding van de A27 en de vervanging van de Merwedebrug en de Hagesteinsebrug in volle gang. Dit zorgt voor veel verkeersoverlast en geluidshinder in Lexmond, wat een terugkerend gespreksonderwerp is bij de bakker en op het kerkplein.
+*   **Duurzaamheid:** De discussie over de plaatsing van windturbines of zonneparken in de polders van Vijfheerenlanden heeft in 2025 geleid tot lokale spanningen tussen behoud van landschap en de noodzaak van energietransitie.
+*   **Veiligheid:** In de regio is in 2025 extra aandacht voor de preventie van ondermijning (drugscriminaliteit in het buitengebied), een thema dat de rust van het platteland soms ruw verstoort.
 
-De economie van Lexmond wordt bepaald door de ligging aan de A27 en de rivier de Lek.
+## 5. Kerkelijke context
+*   **De Protestantse Gemeente Lexmond:** Een actieve gemeente die kerkt in de historische Sint-Nicolaaskerk. De gemeente heeft een **confessionele tot Gereformeerde Bond-signatuur**. Dit betekent dat er grote waarde wordt gehecht aan de schriftuurlijke prediking, de zondagsheiliging en de verbondsgedachte.
+*   **Positie in de regio:** Lexmond is een 'kerks' dorp vergeleken met de rest van Vijfheerenlanden. De kerk speelt nog steeds een centrale rol in het sociale weefsel en bij rouw- en trouwplechtigheden.
+*   **Samenwerking:** Er is een goede verstandhouding met de omliggende gemeenten (zoals Vianen en Meerkerk), maar de eigen Lexmondse identiteit blijft vooropstaan.
+*   **Thema voor Oudjaar:** Gezien de agrarische zorgen en de infrastructurele onrust in 2025, is de vraag naar "vastigheid in een veranderende wereld" zeer actueel.
 
-*   **Werkgelegenheid:** Veel inwoners zijn forensen. De A27 is de levensader, maar ook de bron van overlast. Lokaal is er werkgelegenheid in de agrarische sector (veehouderij in de polders), transport, bouw en lokale dienstverlening.
-*   **Arbeidsmarkt 2025:** Eind 2025 is de arbeidsmarkt in deze regio nog steeds krap. Vooral in de techniek en zorg (waar veel gemeenteleden waarschijnlijk werken) is de werkdruk hoog.
-*   **Agrarische sector:** De boeren in het buitengebied (Lakerveld, Achthoven) staan onder druk door voortdurende regelgeving rondom stikstof en natuurbehoud. Hoewel Lux Mundi een gemengde gemeente is, raakt dit de dorpsgemeenschap als geheel.
+## 6. Synthese voor de Prediking (Homiletische brug)
+De hoorder in Lexmond op 31 december 2025 is waarschijnlijk iemand die:
+1.  **Dankbaar is** voor de geborgenheid van het dorp en de familie, maar zich tegelijk **zorgen maakt** over de toekomst van het (boeren)bedrijf of de woning voor de kinderen.
+2.  **Vermoeid is** door de letterlijke onrust (werkzaamheden A27) en de figuurlijke onrust (maatschappelijke polarisatie).
+3.  **Behoefte heeft** aan een boodschap die de tijd overstijgt: God als een "vaste burcht" te midden van de polders die veranderen.
 
-## Sociale Structuur
+---
 
-Lexmond kenmerkt zich door een sterke sociale cohesie, typisch voor de Alblasserwaard/Vijfheerenlanden, maar met een moderne twist.
+**Bronnen:**
+*   *AlleCijfers.nl (Lexmond 2024/2025)*
+*   *Gemeente Vijfheerenlanden - Omgevingsvisie 2025*
+*   *Regionaal nieuws via Het Kontakt / De Stad Gorinchem (editie Vianen/Lexmond)*
+*   *Website Protestantse Gemeente Lexmond (Beleidsplan 2023-2027)*
 
-*   **Verenigingsleven:** Het verenigingsleven is zeer actief (sportvereniging V.V. Lexmond, Oranjevereniging). Men "doet dingen samen". Vrijwilligerswerk is vanzelfsprekend, maar staat onder druk door de drukke agenda's van tweeverdieners.
-*   **Kerkelijke kaart (Cruciaal onderscheid):** Lexmond kent een duidelijke kerkelijke tweedeling.
-*   **Hervormde Gemeente (Dorpskerk):** De monumentale kerk in het centrum. Vaak geassocieerd met de Gereformeerde Bond (orthodox, behoudend).
-*   **Protestantse Gemeente (Lux Mundi):** Uw gemeente. Gevestigd in een modern kerkgebouw (bouwjaar 1991). Ontstaan uit een fusie en profileert zich expliciet als *open*, *ruimdenkend* en *warm*. De slogan is "Licht voor de wereld". Hier komen de mensen die zich niet (meer) thuis voelen bij de zwaardere orthodoxie, maar wel hechten aan gemeenschap en geloof.
-*   *Spanning:* Er kan een (latente) spanning zijn tussen "het dorp" (soms conservatief) en de "open blik" van Lux Mundi. Leden van Lux Mundi zijn vaak bewust lid van *deze* kerk en niet van de Dorpskerk.
-*   **Sociale Veiligheid:** Over het algemeen hoog ("ons kent ons"), maar met de keerzijde van sociale controle.
+---
 
-## Recente Gebeurtenissen & Actualiteit (Focus 2025)
-
-Terugkijkend op het jaar 2025 zijn er specifieke thema's die de gemoederen in Lexmond hebben beziggehouden:
-
-*   **De A27 Verbreding (Hoofdthema):** 2025 was het jaar van de grote hinder. Rijkswaterstaat voerde in de zomer van 2025 (juli/augustus) en in diverse weekenden grootschalige werkzaamheden uit aan de A27 (Houten-Hooipolder).
-*   *Impact:* Lexmond heeft maandenlang te maken gehad met sluipverkeer, geluidsoverlast en nachtelijke werkzaamheden. De "rust van het dorp" werd bruut verstoord.
-*   *Gevoel:* Nu, op Oudejaarsavond, is er mogelijk een gevoel van opluchting dat de grootste piek voorbij is, of juist vermoeidheid door het voortdurende gedender.
-*   **Sluipverkeer:** De maatregelen om sluipverkeer tussen Vianen en Lexmond te weren (inrijverboden, camera's) zijn in 2024/2025 een heet hangijzer geweest. Dit raakt de bewegingsvrijheid van inwoners.
-*   **Water:** Als rivierdorp (aan de Lek) is hoogwater in de winter altijd een achtergrondthema. Eind december kijkt men met een schuin oog naar de waterstanden.
-
-## Waardenoriëntatie (Motivaction Mentality Indicatie)
-
-Voor de gemeente Lux Mundi zien we een mix van milieus, anders dan in de Dorpskerk:
-*   **Moderne Burgerij:** Zoekt balans tussen traditie en moderniteit. Waardeert de kerk als gemeenschap, maar wil geen dogma's.
-*   **Nieuwe Conservatieven:** Probeert het dorpse karakter te beschermen tegen de oprukkende "grote boze buitenwereld", maar staat open voor vernieuwing in de liturgie.
-*   **Post-materialisten:** (In mindere mate aanwezig, maar wel in Lux Mundi) Zorg voor schepping (Groene Kerk?), inclusiviteit ("iedereen is welkom") en gerechtigheid.
-
-## Implicaties voor de Preek (Oudejaarsavond)
-
-1.  **Erkenning van Identiteit:** De hoorders in Lux Mundi waarderen hun "eigen" plek in het dorp. Ze zijn niet de "zware" kerk, maar de "lichte" kerk (letterlijk: Lux Mundi). Spreek hen aan op hun verlangen naar verbinding zonder oordeel.
-2.  **Het Jaar van de Weg:** Gebruik de A27-werkzaamheden van 2025 als metafoor. Het jaar was letterlijk "opengebroken". Er was lawaai, omleiding en vertraging. Hoe verhoudt zich dat tot de levensweg van de gelovige? De weg naar God is soms ook opgebroken, of we moeten omrijden.
-3.  **Dorpse Solidariteit vs. Polarisatie:** In een tijd waarin landelijk de tegenstellingen groeien, is Lexmond nog een plek van samenhang. Maar de druk op de woningmarkt (kinderen die wegtrekken) en de druk op de boerenstand geven zorgen over de toekomst van het dorp.
-4.  **Tijd en Eeuwigheid:** Op de drempel van het nieuwe jaar voelt men in een dorp als Lexmond de tijd verglijden. De generaties wisselen elkaar af (zichtbaar in de kerkbanken). De preek mag de geborgenheid bieden die men in de onrustige wereld (en het onrustige verkeer) soms mist.
-5.  **Actualiteit:** Verbind de "grote wereld" (Oekraïne, Midden-Oosten, klimaat - thema's die Lux Mundi-leden raken) met de "kleine wereld" van de Lekdijk en de dorpsstraat.
-
-**Conclusie voor de predikant:**
-
-U preekt voor een gemeente die bewust kiest voor een open, warm christendom in een overwegend traditionele regio. Ze hebben een onrustig jaar achter de rug (fysiek door de A27, mentaal door de wereld). Ze zoeken op Oudejaarsavond naar geborgenheid, een bevestiging van hun gemeenschap ("wij horen bij elkaar") en een hoopvol licht (Lux Mundi) voor 2026.
+### Tips voor de predikant:
+*   **Concreet voorbeeld:** Noem de files of de wegafzettingen bij de A27 als metafoor voor "onderweg zijn" of "gehinderd worden" in het leven.
+*   **Agrarische link:** Gebruik beelden uit de natuur of de landbouw (zaaien/oogsten/seizoenen), aangezien dit de taal van het dorp is.
+*   **Gedenken:** Besteed aandacht aan het feit dat in een hechte gemeenschap als Lexmond het verlies van een markant gemeentelid in het afgelopen jaar door het hele dorp gevoeld wordt.

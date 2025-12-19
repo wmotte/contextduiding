@@ -8,6 +8,7 @@ In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 
 | Locatie | Datum | Overzicht |
 |---------|-------|-----------|
+| Dirksland (Ring 2) | 8 maart 2026 | [00_overzicht.md](output/Dirksland_8_maart_2026_Ring_2/00_overzicht.md) |
 | Delft (Vierhovenkerk) | 18 januari 2026 | [00_overzicht.md](output/Delft_18_januari_2026_Vierhovenkerk/00_overzicht.md) |
 | Waddinxveen (Bethelkerk) | 4 januari 2026 | [00_overzicht.md](output/Waddinxveen_4_januari_2026_Bethelkerk/00_overzicht.md) |
 | Lexmond | 31 december 2025 | [00_overzicht.md](output/Lexmond_31_december_2025_PG/00_overzicht.md) |

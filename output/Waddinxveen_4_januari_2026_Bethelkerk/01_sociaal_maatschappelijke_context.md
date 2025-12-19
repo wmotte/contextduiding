@@ -1,68 +1,51 @@
 # Sociaal-Maatschappelijke Context
 
-Hier is de **Sociaal-Maatschappelijke Contextanalyse** voor de preek in de Bethelkerk te Waddinxveen op zondag 4 januari 2026.
+Hieronder volgt een sociaal-maatschappelijke contextanalyse van Waddinxveen, specifiek toegespitst op de hoorders van de Bethelkerk voor de dienst op **4 januari 2026**. Deze analyse vormt de tweede stap in de homiletische voorbereiding volgens De Leede & Stark.
 
-***
+# Sociaal-Maatschappelijke Contextanalyse Waddinxveen
 
-# 1. SOCIAAL-MAATSCHAPPELIJKE CONTEXTANALYSE
+De hoorders in de Bethelkerk leven in een dorp dat een snelle transformatie ondergaat van een traditioneel 'dorp aan de Gouwe' naar een moderne, groeiende gemeente in de Randstad.
 
-**Locatie:** Waddinxveen | **Gemeente:** Bethelkerk (Hervormde Wijkgemeente Noord) | **Datum:** 4 januari 2026
+## 1. Demografische gegevens: Een groeiende gemeenschap
+*   **Inwonersaantal:** Waddinxveen telt in januari 2026 circa **35.031 inwoners** (bron: AlleCijfers.nl, prognose 2025/2026). Dit is een aanzienlijke stijging ten opzichte van een decennium geleden (~25.000).
+*   **Leeftijdsopbouw:** De gemiddelde leeftijd is **39,8 jaar** (per 2025). Hoewel er sprake is van landelijke vergrijzing, trekt Waddinxveen door grootschalige nieuwbouw relatief veel jonge gezinnen aan uit de omliggende steden (Gouda, Rotterdam, Den Haag).
+*   **Diversiteit:** Hoewel Waddinxveen van oudsher een 'witte' gemeente is, neemt de diversiteit toe door de instroom van nieuwe bewoners en arbeidsmigranten (veelal werkzaam in de logistieke sector).
+*   **Opleiding:** Er is een gezonde mix van praktisch en theoretisch geschoolden, waarbij de zakelijke dienstverlening in de regio een grote rol speelt.
 
-## 1. Demografische Situatie: Een Groeigemeente
+## 2. Economische situatie: Logistiek hart en bedrijvigheid
+*   **Sectoren:** De economie van Waddinxveen drijft op de **Groot- en detailhandel** (ca. 5.120 banen) en de **Logistiek** (bron: LISA/incijfers.nl 2024/2025). De strategische ligging aan de A12 en N209 maakt het een logistiek knooppunt.
+*   **Werkgelegenheid:** De werkloosheid is laag, maar er is een voortdurende spanning tussen de behoefte aan bedrijventerreinen (zoals Coenecoop) en de kwaliteit van de leefomgeving.
+*   **Actueel (2025):** De gemeente zet sterk in op de **circulaire economie**. In de begroting 2025-2028 wordt nadrukkelijk geïnvesteerd in duurzame bedrijventerreinen en het ondersteunen van inwoners bij de energietransitie (bron: Programmabegroting Waddinxveen 2025).
 
-Waddinxveen is geen slaperig dorp meer, maar een van de snelst groeiende gemeenten in de Randstad. De demografie is de afgelopen jaren sterk veranderd door grootschalige nieuwbouw.
+## 3. Sociale structuur: Park Triangel als 'nieuwe wereld'
+*   **Woningmarkt:** De wijk **Park Triangel** is de belangrijkste sociale factor. In 2025 en begin 2026 worden de laatste fasen (zoals Park Vredenburgh) opgeleverd of gestart. Dit creëert een tweedeling in de beleving: het 'oude' Waddinxveen (met sterke sociale cohesie in de wijken rond de Bethelkerk) en het 'nieuwe' Waddinxveen (zoekend naar gemeenschap).
+*   **Voorzieningen:** De druk op scholen en zorg is merkbaar door de snelle groei. Recent (december 2025) was er veel aandacht voor het behoud van speelruimte in de wijken, waarbij burgerparticipatie een grote rol speelde (bron: RTV Midden Holland).
+*   **Verenigingsleven:** Waddinxveen heeft een zeer rijk verenigingsleven, met name op sportief en kerkelijk gebied, wat fungeert als het sociale cement van het dorp.
 
-*   **Bevolking:** Circa 35.000 inwoners (stand jan. 2026).
-*   **Leeftijdsopbouw:** Relatief jong vergeleken met omliggende gemeenten. De gemiddelde leeftijd ligt rond de 40 jaar. Er is een sterke instroom van dertigers en jonge gezinnen, met name in de nieuwe wijk *Park Triangel*.
-*   **Gezinssamenstelling:** Waddinxveen is een echte gezinsgemeente. Bijna 70% van de woningen betreft eengezinswoningen. Het percentage huishoudens met kinderen ligt boven het landelijk gemiddelde.
-*   **Opleidingsniveau:** Gemengd. Er is een grote groep praktisch opgeleiden (mbo) werkzaam in de lokale logistiek en techniek, maar door de nieuwbouw is er een toename van hoger opgeleide forenzen (hbo/wo) die werken in de regio Rotterdam/Den Haag/Utrecht.
+## 4. Recente lokale gebeurtenissen (Focus 2024-2025)
+*   **Woningnood en leegstand:** In 2024 en 2025 heeft wethouder Albert Kersies onderzoek laten doen naar woningleegstand (ca. 2,4% van de woningen) om de woningnood aan te pakken. Dit is een gevoelig thema voor jongeren uit de gemeente die geen woning kunnen vinden.
+*   **Veiligheid:** In de lokale politiek is er in 2025 veel aandacht voor verkeersveiligheid op de ontsluitingswegen en de aanpak van ondermijnende criminaliteit op bedrijventerreinen.
+*   **Sociaal Platform:** Er is discussie geweest over de financiering van het Sociaal Platform Waddinxveen, wat invloed heeft op de ondersteuning van kwetsbare inwoners.
 
-## 2. Economische Situatie: Harde Werkers en Logistiek
+## 5. Kerkelijke context: De Bethelkerk
+*   **Karakter:** De Bethelkerk (wijkgemeente Noord) is een vitale, confessionele wijkgemeente binnen de Hervormde Gemeente (PKN). De gemeente is geworteld in de traditie, maar zoekt ook naar relevantie in een veranderende tijd.
+*   **Liturgie:** Men zingt uit de **Psalmberijming van 1773** en de bundel **Weerklank**. Dit wijst op een eerbiedige, schriftgetrouwe sfeer.
+*   **Positie:** De kerk staat fysiek in de wijken Groenswaard en Vondelwijk (gebouwd in 1969/1970). Deze wijken kennen een mix van trouwe kerkleden en mensen die de kerk volledig uit het oog zijn verloren.
+*   **Predikant:** Ds. M. Zeeman is de huidige predikant (2025/2026).
+*   **Verhouding:** Er is een goede samenwerking met de andere wijkgemeenten (Brugkerk, Morgenster, Hoeksteen), maar de Bethelkerk behoudt haar eigen identiteit in het noordelijke deel van Waddinxveen.
 
-Waddinxveen is economisch zeer actief en kent een mentaliteit van "aanpakken".
+---
 
-*   **Sectoren:** De economie leunt zwaar op **logistiek, handel en distributie** (vanwege de ligging aan de A12) en de **glastuinbouw** (Greenport). Bedrijventerreinen zoals *LogistiekPark A12* en *Glasparel* zijn grote werkgevers.
-*   **Werkgelegenheid:** De arbeidsparticipatie is hoog. Werkloosheid is laag. Veel gemeenteleden zullen werkzaam zijn in het bedrijfsleven, de zorg of het onderwijs.
-*   **Welvaart:** Er is sprake van een brede middenklasse. De nieuwbouwwijken trekken tweeverdieners aan. Echter, de inflatie van de afgelopen jaren (2024-2025) en hoge energieprijzen raken ook hier de huishoudens, zeker in de oudere, minder goed geïsoleerde wijken buiten de nieuwbouw.
+### Homiletische brug naar Epifanie (4 januari 2026)
+Voor de preek op deze eerste zondag van het jaar, met de wijzen uit het oosten (Matteüs 2:1-12) als thema, bieden deze gegevens concrete aanknopingspunten:
 
-## 3. Sociale Structuur: Oud en Nieuw
+1.  **De reis van de 'nieuwe bewoners':** Zoals de wijzen van ver kwamen naar een onbekend land, zo zijn de duizenden nieuwe bewoners van Park Triangel 'reizigers' in Waddinxveen. Hoe vinden zij het 'Licht' in dit dorp? Is de Bethelkerk een 'ster' die de weg wijst?
+2.  **Licht in de logistiek:** In een dorp dat draait op transport, distributie en 24-uurs economie, is de rust van de zondag en de verschijning van Christus een krachtig tegen-narratief.
+3.  **Zoektocht naar een 'Thuis':** De politieke focus op 'Thuis in Waddinxveen' (Collegeprogramma) kan verbonden worden aan de wijzen die op zoek zijn naar de ware Koning om echt thuis te komen.
+4.  **Drempel van het jaar:** Op 4 januari staan mensen op de drempel van 2026. De onzekerheid over woningmarkt, economie en wereldvrede (Epifanie als wereldwijd feest) maakt de boodschap van een God die Zichzelf manifesteert zeer actueel.
 
-Er is een interessante dynamiek zichtbaar tussen het "oude" en het "nieuwe" Waddinxveen.
-
-*   **Twee werelden:**
-*   *Het Oude Dorp:* Rondom de hefbrug, de Gouwe en de Kerkweg. Hier heerst nog sterk het "ons kent ons" gevoel.
-*   *De Nieuwbouw (Noord & Triangel):* Hier wonen veel "import", vaak wel met een kerkelijke achtergrond (bijv. uit de Biblebelt of omliggende steden), die bewust kiezen voor een rustige, veilige omgeving.
-*   **Sociale Cohesie:** De sociale samenhang is relatief groot, maar speelt zich sterk af binnen de eigen "zuilen". Het verenigingsleven bloeit, en de kerken spelen hierin nog een centrale, verbindende rol.
-*   **Politiek Klimaat:** De *Protestantse Combinatie Waddinxveen (PCW)* is traditioneel de grootste of een van de grootste partijen. Dit onderstreept het christelijke stempel op het dorp. Met de gemeenteraadsverkiezingen op komst (maart 2026), begint de politieke temperatuur in het dorp te stijgen.
-
-## 4. Kerkelijke Context: De Bethelkerk
-
-De Bethelkerk is niet zomaar "een kerk", maar heeft een specifiek profiel binnen de Protestantse Kerk in Nederland (PKN).
-
-*   **Identiteit:** Hervormde Wijkgemeente van bijzondere aard (Gereformeerde Bond signatuur). De gemeente is orthodox-confessioneel. De Bijbel als Woord van God staat centraal.
-*   **Ligging & Wijk:** De kerk staat in Waddinxveen-Noord (wijk Groenswaard/Vondelwijk). Dit is een wijk uit de jaren '70/'80, die nu langzaam verjongt, maar ook vergrijzing kent. De gemeente trekt echter leden uit heel Waddinxveen.
-*   **Liturgie:** Traditioneel maar betrokken. Gebruik van Psalmen (1773) en de bundel Weerklank. Twee diensten per zondag (ochtend en middag/avond) is de norm.
-*   **Vitaliteit:** Het is een relatief jonge en levende gemeente. Er is veel jeugdwerk en er zijn veel jonge gezinnen. De betrokkenheid is groot, wat zich uit in veel vrijwilligers en kringen.
-
-## 5. Actuele Gebeurtenissen (Microtrends Jan 2026)
-
-Wat houdt de gemoederen in Waddinxveen bezig rond de preekdatum?
-
-*   **Verkiezingen op komst:** De lijsten voor de gemeenteraadsverkiezingen van maart 2026 zijn net bekendgemaakt (december 2025). De PCW profileert zich. Dit leeft onder de hoorders: hoe verhoudt mijn geloof zich tot de lokale politiek?
-*   **Verkeersinfarcten:** De verkeersdrukte op de A12 en de N207 blijft een hoofdpijndossier. De "Gouwe-kruisingen" (Hefbrug/Coenecoopbrug) zorgen dagelijks voor frustratie bij forenzen.
-*   **Lokale veranderingen:** Het verdwijnen van bekende gezichten of bedrijven (zoals de recente sluiting/overgang van Shell Boonstoppel eind 2025) markeert het verstrijken van de tijd in het dorp.
-*   **Woningnood vs. Bouw:** Hoewel er gebouwd wordt (Park Triangel), blijft het voor starters uit de eigen gemeente lastig om een betaalbare woning te vinden.
-
-## Implicaties voor de Preek (Homiletische vertaalslag)
-
-1.  **Herkenning bieden:** De hoorders zijn veelal hardwerkende mensen met gezinnen (drukke agenda's). De preek moet "landen" in een leven dat vol zit met werk, zorgtaken en reistijd.
-*   *Tip:* Gebruik voorbeelden uit het gezinsleven of de werkvloer, niet alleen uit de studeerkamer.
-2.  **Verbinding Oud & Nieuw:** In de Bethelkerk zitten zowel de "oorspronkelijke" Waddinxveners als de nieuwe import.
-*   *Tip:* Vermijd taalgebruik dat te exclusief "binnenkerkelijk jargon" is voor de nieuwkomers, maar behoud de diepgang die de vaste kern waardeert.
-3.  **Thema "Houvast":** Op 4 januari (eerste zondag van het jaar) en in een snel groeiend dorp waar weilanden veranderen in woonwijken, is er behoefte aan stabiliteit.
-*   *Tip:* De boodschap van een onveranderlijke God in een veranderend dorp (en een onzekere wereld anno 2026) zal resoneren.
-4.  **Maatschappelijke Betrokkenheid:** Gezien de naderende verkiezingen en de sterke PCW-achterban, mag de preek best een lijntje leggen naar de verantwoordelijkheid van de christen in de maatschappij (zonder partijpolitiek te worden).
-*   *Tip:* Hoe ben je "zout en licht" in je nieuwe straat in Park Triangel of op je werk in de logistiek?
-
-***
-*Deze analyse is gebaseerd op actuele data van CBS, AlleCijfers, lokale nieuwsbronnen en kerkelijke profielschetsen, geëxtrapoleerd naar de situatie van januari 2026.*
+**Bronnen:**
+*   *AlleCijfers.nl (Waddinxveen 2025/2026).*
+*   *Gemeente Waddinxveen, Programmabegroting 2025-2028.*
+*   *RTV Midden Holland / WaddinxveenKrant.nl (Nieuwsarchief 2024-2025).*
+*   *Website Hervormde Gemeente Waddinxveen (hgpknwaddinxveen.nl).*
