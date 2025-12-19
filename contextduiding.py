@@ -27,26 +27,40 @@ except ImportError:
 
 # Configuratie
 SCRIPT_DIR = Path(__file__).parent.resolve()
-SYSTEM_PROMPT_FILE = SCRIPT_DIR / "system_prompt_contextduiding.md"
 OUTPUT_DIR = SCRIPT_DIR / "output"
+PROMPTS_DIR = SCRIPT_DIR / "prompts"
 
-# Model keuze: Gemini 3
-MODEL_NAME = "gemini-3-pro-preview"
+# Model keuze: Gemini 3 flash (i.p.v. pro)
+MODEL_NAME = "gemini-3-flash-preview"
 
-def load_system_prompt() -> str:
-    """Laad het system prompt uit het markdown bestand."""
-    if not SYSTEM_PROMPT_FILE.exists():
-        # Fallback als bestand niet bestaat, zodat script toch werkt
-        return "Je bent een deskundige homileet en socioloog die predikanten helpt met contextanalyse."
 
-    with open(SYSTEM_PROMPT_FILE, "r", encoding="utf-8") as f:
-        return f.read()
+def load_prompt(filename: str, user_input: dict) -> str:
+    """Laad een prompt uit een markdown bestand en vervang placeholders.
+
+    Placeholders:
+        {{plaatsnaam}} - wordt vervangen door user_input['plaatsnaam']
+        {{gemeente}}   - wordt vervangen door user_input['gemeente']
+        {{datum}}      - wordt vervangen door user_input['datum']
+    """
+    filepath = PROMPTS_DIR / filename
+    if not filepath.exists():
+        raise FileNotFoundError(f"Prompt bestand niet gevonden: {filepath}")
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Vervang placeholders
+    content = content.replace("{{plaatsnaam}}", user_input.get("plaatsnaam", ""))
+    content = content.replace("{{gemeente}}", user_input.get("gemeente", ""))
+    content = content.replace("{{datum}}", user_input.get("datum", ""))
+
+    return content
 
 
 def get_user_input() -> dict:
     """Vraag de gebruiker om de benodigde informatie."""
     print("\n" + "=" * 60)
-    print("CONTEXTDUIDING VOOR PREEKVOORBEREIDING (Gemini 3.0)")
+    print("CONTEXTDUIDING VOOR PREEKVOORBEREIDING")
     print("Gebaseerd op de homiletische methodiek van De Leede & Stark")
     print("=" * 60 + "\n")
 
@@ -107,8 +121,14 @@ def get_gemini_client() -> genai.Client:
     return genai.Client(api_key=api_key)
 
 
-def build_analysis_prompts(user_input: dict, system_prompt: str) -> list[dict]:
-    """Bouw de prompts voor elke analyse."""
+def build_first_analysis(user_input: dict) -> dict:
+    """Bouw de eerste analyse: Zondag van het Kerkelijk Jaar.
+
+    Deze wordt eerst uitgevoerd zodat de lezingen en liturgische context
+    beschikbaar zijn voor de andere analyses.
+    """
+    base_prompt = load_prompt("base_prompt.md", user_input)
+
     context_info = f"""
 ## Preekgegevens
 - **Plaatsnaam:** {user_input['plaatsnaam']}
@@ -118,90 +138,67 @@ def build_analysis_prompts(user_input: dict, system_prompt: str) -> list[dict]:
     if user_input.get('extra_context'):
         context_info += f"- **Extra context:** {user_input['extra_context']}\n"
 
-    # Hieronder volgen de prompts (ongewijzigd qua inhoud, alleen structuur)
-    analyses = [
-        {
-            "name": "01_sociaal_maatschappelijke_context",
-            "title": "Sociaal-Maatschappelijke Context",
-            "prompt": f"""
-{system_prompt}
-{context_info}
-## Jouw Taak
-Voer de **SOCIAAL-MAATSCHAPPELIJKE CONTEXTANALYSE** uit (pijler 1 De Leede & Stark).
-Doorzoek het internet grondig naar:
-1. **Demografie:** Leeftijd, opleiding in {user_input['plaatsnaam']}.
-2. **Economie:** Werk, sectoren, inkomen.
-3. **Sociale structuur:** Verenigingen, cohesie.
-4. **Relaties:** Gezinnen, alleenstaanden.
-5. **Kerkelijke context:** Kerkelijke kaart, positie {user_input['gemeente']}.
-6. **Actueel:** Recent lokaal nieuws.
+    task_prompt = load_prompt("00_zondag_kerkelijk_jaar.md", user_input)
+    full_prompt = f"{base_prompt}\n\n{context_info}\n\n{task_prompt}"
 
-Gebruik Google Search. Wees specifiek. Vermeld bronnen.
+    return {
+        "name": "00_zondag_kerkelijk_jaar",
+        "title": "Zondag van het Kerkelijk Jaar",
+        "prompt": full_prompt
+    }
+
+
+def build_remaining_analyses(user_input: dict, kerkelijk_jaar_context: str) -> list[dict]:
+    """Bouw de overige analyses, inclusief de liturgische context.
+
+    Args:
+        user_input: De gebruikersinvoer (plaatsnaam, gemeente, datum)
+        kerkelijk_jaar_context: De output van de eerste analyse (lezingen, etc.)
+    """
+    base_prompt = load_prompt("base_prompt.md", user_input)
+
+    # Context info nu inclusief de liturgische informatie
+    context_info = f"""
+## Preekgegevens
+- **Plaatsnaam:** {user_input['plaatsnaam']}
+- **Gemeente:** {user_input['gemeente']}
+- **Datum:** {user_input['datum']}
 """
-        },
-        {
-            "name": "02_waardenorientatie",
-            "title": "Waardenoriëntatie",
-            "prompt": f"""
-{system_prompt}
-{context_info}
-## Jouw Taak
-Voer de **WAARDENORIËNTATIE-ANALYSE** uit (pijler 2).
-### De Vijf V's
-1. Visioenen (dromen)
-2. Verlangens (gemis)
-3. Vreugden (trots)
-4. Verdriet (pijn)
-5. Vragen (levensvragen)
+    if user_input.get('extra_context'):
+        context_info += f"- **Extra context:** {user_input['extra_context']}\n"
 
-### Trends & Mentaliteit
-- Macro/Meso/Micro trends
-- Dominante Motivaction Mentality-groepen in {user_input['plaatsnaam']}.
+    # Voeg de liturgische context toe
+    context_info += f"""
+## Liturgische Context (uit eerder onderzoek)
 
-Gebruik Google Search om actuele sfeer te proeven.
+{kerkelijk_jaar_context}
 """
-        },
-        {
-            "name": "03_geloofsorientatie",
-            "title": "Geloofsoriëntatie",
-            "prompt": f"""
-{system_prompt}
-{context_info}
-## Jouw Taak
-Voer de **GELOOFSORIËNTATIE-ANALYSE** uit (pijler 3).
-### Analysepunten
-1. **God-talk:** Is er nog religieuze taal?
-2. **Ervaringsgebieden:** Schepping, Eindigheid, Schuld, Lijden, Wijsheid, Gemeenschap.
-3. **Spirituele markt:** Concurrentie, zoektochten.
-4. **Liturgie:** Hoe landt de traditie?
 
-Gebruik Google Search voor kerkelijke trends in de regio.
-"""
-        },
-        {
-            "name": "04_interpretatieve_synthese",
-            "title": "Interpretatieve Synthese",
-            "prompt": f"""
-{system_prompt}
-{context_info}
-## Jouw Taak
-Voer de **INTERPRETATIEVE SYNTHESE** uit (pijler 4).
-Integreer alles tot homiletische adviezen.
-
-1. **Congruentie:** Spanning officieel geloof vs. praktijk.
-2. **Verbinding & Confrontatie:** Waar sluit het Evangelie aan? Waar botst het?
-3. **Diversiteit:** Hoe spreek je verschillende groepen aan?
-4. **Advies:** Toon, taal, beeldspraak, balans pastoraal/profetisch.
-
-Geef concreet advies aan de predikant.
-"""
-        }
+    # De overige analyses (01-05)
+    analysis_definitions = [
+        ("01_sociaal_maatschappelijke_context", "Sociaal-Maatschappelijke Context"),
+        ("02_waardenorientatie", "Waardenoriëntatie"),
+        ("03_geloofsorientatie", "Geloofsoriëntatie"),
+        ("04_interpretatieve_synthese", "Interpretatieve Synthese"),
+        ("05_actueel_wereldnieuws", "Actueel Wereldnieuws"),
     ]
+
+    analyses = []
+    for name, title in analysis_definitions:
+        task_prompt = load_prompt(f"{name}.md", user_input)
+        full_prompt = f"{base_prompt}\n\n{context_info}\n\n{task_prompt}"
+
+        analyses.append({
+            "name": name,
+            "title": title,
+            "prompt": full_prompt
+        })
+
     return analyses
 
 
 def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
-    """Voer een analyse uit met Gemini 2.0 en Google Search (Nieuwe SDK)."""
+    """Voer een analyse uit met Taalmodel en Search."""
     print(f"\n{'─' * 50}")
     print(f"Analyseren: {title}")
     print(f"{'─' * 50}")
@@ -283,7 +280,6 @@ def create_summary(output_dir: Path, user_input: dict, analyses: list[dict]):
 - **Plaatsnaam:** {user_input['plaatsnaam']}
 - **Gemeente:** {user_input['gemeente']}
 - **Datum preek:** {user_input['datum']}
-- **Model:** {MODEL_NAME}
 """
     summary += "\n## Analyses\n"
     for analysis in analyses:
@@ -305,26 +301,50 @@ def main():
                     k, v = line.strip().split("=", 1)
                     os.environ[k.strip()] = v.strip().strip('"\'')
 
-    system_prompt = load_system_prompt()
     user_input = get_user_input()
 
     print("\nGoogle GenAI Client (v1.0+) initialiseren...")
     client = get_gemini_client()
-    
+
     output_dir = create_output_directory(user_input['plaatsnaam'], user_input['datum'])
     print(f"Output directory: {output_dir}")
-
-    analyses = build_analysis_prompts(user_input, system_prompt)
 
     print("\n" + "=" * 60)
     print(f"STARTEN MET MODEL: {MODEL_NAME}")
     print("=" * 60)
 
-    for analysis in analyses:
+    # FASE 1: Eerst de liturgische context ophalen
+    print("\n" + "─" * 60)
+    print("FASE 1: Liturgische context verzamelen")
+    print("─" * 60)
+
+    first_analysis = build_first_analysis(user_input)
+    kerkelijk_jaar_result = run_analysis(
+        client,
+        first_analysis['prompt'],
+        first_analysis['title']
+    )
+    save_analysis(
+        output_dir,
+        first_analysis['name'],
+        kerkelijk_jaar_result,
+        first_analysis['title']
+    )
+
+    # FASE 2: De overige analyses met de liturgische context
+    print("\n" + "─" * 60)
+    print("FASE 2: Contextanalyses met liturgische informatie")
+    print("─" * 60)
+
+    remaining_analyses = build_remaining_analyses(user_input, kerkelijk_jaar_result)
+
+    all_analyses = [first_analysis] + remaining_analyses
+
+    for analysis in remaining_analyses:
         result = run_analysis(client, analysis['prompt'], analysis['title'])
         save_analysis(output_dir, analysis['name'], result, analysis['title'])
 
-    create_summary(output_dir, user_input, analyses)
+    create_summary(output_dir, user_input, all_analyses)
 
     print("\n" + "=" * 60)
     print("KLAAR")

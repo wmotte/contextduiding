@@ -1,13 +1,14 @@
 # Contextduiding voor Preekvoorbereiding
 
-Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).
+Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding in de PKN, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).
 
 ## Voorbeelden
 
-In de `output/` map staan twee concrete voorbeelden van gegenereerde analyses:
+In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 
 | Locatie | Datum | Overzicht |
 |---------|-------|-----------|
+| Delft (Vierhovenkerk) | 18 januari 2026 | [00_overzicht.md](output/Delft_18_januari_2026_Vierhovenkerk/00_overzicht.md) |
 | Waddinxveen (Bethelkerk) | 4 januari 2026 | [00_overzicht.md](output/Waddinxveen_4_januari_2026_Bethelkerk/00_overzicht.md) |
 | Lexmond | 31 december 2025 | [00_overzicht.md](output/Lexmond_31_december_2025_PG/00_overzicht.md) |
 
@@ -15,35 +16,21 @@ In de `output/` map staan twee concrete voorbeelden van gegenereerde analyses:
 
 Friedrich Niebergall constateerde: *"Menige preek geeft antwoorden op vragen die niemand stelt, en gaat niet in op vragen die iedereen stelt."* Dit script helpt predikanten om hun hoorders beter te kennen door systematisch de context in kaart te brengen.
 
-## Documentatie
-
-| Document | Beschrijving |
-|----------|--------------|
-| [Homiletisch Kader](homiletisch_kader_hoordersanalyse.md) | Uitgebreide samenvatting van de vier pijlers van hoordersanalyse volgens De Leede & Stark |
-| [System Prompt](system_prompt_contextduiding.md) | De instructies voor het taalmodel inclusief Motivaction-model en bronnen |
-
 ## Wat doet dit script?
 
-Het script voert vier uitgebreide analyses uit met behulp van een taalmodel (Gemini API met Google Search):
+Het script voert zes uitgebreide analyses uit met behulp van Gemini API en Google Search, in twee fasen:
 
-1. **Sociaal-maatschappelijke context** - Demografische, economische en sociale gegevens (via CBS, AlleCijfers, NOS)
+### Fase 1: Liturgische context
+0. **Zondag van het Kerkelijk Jaar** - Lezingen, liturgische kleur, thematiek, liedsuggesties (PKN/Liedboek 2013)
+
+### Fase 2: Contextanalyses (met liturgische informatie)
+1. **Sociaal-maatschappelijke context** - Demografische, economische en sociale gegevens
 2. **Waardenoriëntatie** - De vijf V's en Motivaction Mentality-analyse
 3. **Geloofsoriëntatie** - Hoe staan de hoorders geloofsmatig in het leven?
 4. **Interpretatieve synthese** - Duiding en vertaling naar homiletische handvatten
+5. **Actueel wereldnieuws** - Schokkend nieuws van de afgelopen dagen dat hoorders bezighoudt
 
-### Gebruikte bronnen en modellen
-
-- **NOS.nl** - Actueel landelijk en regionaal nieuws
-- **CBS / AlleCijfers** - Demografische en statistische gegevens
-- **Motivaction Mentality-model** - Acht sociale milieus voor waardenoriëntatie:
-  - Traditionele burgerij
-  - Gemaksgeoriënteerden
-  - Moderne burgerij
-  - Nieuwe conservatieven
-  - Kosmopolieten
-  - Postmaterialisten
-  - Postmoderne hedonisten
-  - Opwaarts mobielen
+De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, zodat bijvoorbeeld het wereldnieuws gerelateerd kan worden aan de Schriftlezingen.
 
 ## Installatie
 
@@ -52,7 +39,7 @@ Het script voert vier uitgebreide analyses uit met behulp van een taalmodel (Gem
 cd contextduiding
 
 # Installeer dependencies
-pip install -r requirements.txt
+pip install google-genai
 
 # Stel je Gemini API key in
 export GEMINI_API_KEY='jouw-api-key'
@@ -78,71 +65,100 @@ Het script vraagt interactief om:
 
 Het script genereert een map in `output/` met:
 
-- `00_overzicht.md` - Samenvattend overzicht
-- `01_sociaal_maatschappelijke_context.md` - Demografische en sociale analyse
-- `02_waardenorientatie.md` - Analyse van de vijf V's, Motivaction-groepen en trends
-- `03_geloofsorientatie.md` - Religieuze context en geloofstaal
-- `04_interpretatieve_synthese.md` - Integrerende analyse met homiletische aanbevelingen
+```
+output/Plaatsnaam_datum_timestamp/
+├── 00_overzicht.md                        # Samenvattend overzicht met links
+├── 00_zondag_kerkelijk_jaar.md            # Liturgische context, lezingen, liederen
+├── 01_sociaal_maatschappelijke_context.md # Demografische en sociale analyse
+├── 02_waardenorientatie.md                # Vijf V's, Motivaction, trends
+├── 03_geloofsorientatie.md                # Religieuze context en geloofstaal
+├── 04_interpretatieve_synthese.md         # Homiletische aanbevelingen
+└── 05_actueel_wereldnieuws.md             # Recent wereldnieuws met duiding
+```
 
 ## Projectstructuur
 
 ```
 contextduiding/
-├── contextduiding.py                    # Hoofdscript
-├── system_prompt_contextduiding.md      # Instructies voor Gemini (NOS, Motivaction, etc.)
-├── homiletisch_kader_hoordersanalyse.md # Theoretisch kader De Leede & Stark
-├── requirements.txt                     # Python dependencies
-├── .env                                 # API key (niet in git)
-└── output/                              # Gegenereerde analyses
+├── contextduiding.py                       # Hoofdscript
+├── prompts/                                # Prompt-bestanden (aanpasbaar)
+│   ├── base_prompt.md                      # Basis rol en werkwijze
+│   ├── 00_zondag_kerkelijk_jaar.md         # Liturgische context (eerst)
+│   ├── 01_sociaal_maatschappelijke_context.md
+│   ├── 02_waardenorientatie.md
+│   ├── 03_geloofsorientatie.md
+│   ├── 04_interpretatieve_synthese.md
+│   └── 05_actueel_wereldnieuws.md
+├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
+├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
+├── .env                                    # API key (niet in git)
+└── output/                                 # Gegenereerde analyses
 ```
+
+## Prompts aanpassen
+
+De prompts staan als losse markdown-bestanden in de `prompts/` map. Je kunt deze bewerken zonder de Python code aan te passen.
+
+**Placeholders** die automatisch worden vervangen:
+- `{{plaatsnaam}}` - De ingevoerde plaatsnaam
+- `{{gemeente}}` - De ingevoerde gemeente
+- `{{datum}}` - De ingevoerde datum
 
 ## Methodiek
 
-De analyse is gebaseerd op de vier pijlers van hoordersanalyse volgens De Leede & Stark (2017):
+De analyse is gebaseerd op de vier pijlers van hoordersanalyse volgens De Leede & Stark (2017), aangevuld met liturgische context en actueel nieuws:
+
+### 0. Zondag van het Kerkelijk Jaar (PKN)
+- Positie in het kerkelijk jaar (A/B/C cyclus)
+- Lezingen volgens Gemeenschappelijk Leesrooster
+- Liturgische kleur en sfeer
+- Liedsuggesties uit Liedboek 2013
+- Bijzondere zondagen (Israëlzondag, Vredeszondag, etc.)
 
 ### 1. Sociaal-maatschappelijke context
 - Demografische gegevens (CBS, AlleCijfers)
 - Economische situatie
 - Sociale structuur
-- Recente gebeurtenissen (NOS, regionale media)
+- Recente lokale gebeurtenissen
 - Kerkelijke context
 
 ### 2. Waardenoriëntatie
-**De vijf V's:**
-- Visioenen, Verlangens, Vreugden, Verdriet, Vragen
+**De vijf V's:** Visioenen, Verlangens, Vreugden, Verdriet, Vragen
 
 **Motivaction Mentality-groepen:**
-- Analyse welke sociale milieus vertegenwoordigd zijn
-- Implicaties voor taal, beelden en benadering
+- Traditionele burgerij, Gemaksgeoriënteerden, Moderne burgerij
+- Nieuwe conservatieven, Kosmopolieten, Postmaterialisten
+- Postmoderne hedonisten, Opwaarts mobielen
 
-**Trendanalyse:**
-- Mesotrends (5-15 jaar)
-- Microtrends (actueel nieuws via NOS)
+**Trendanalyse:** Meso- en microtrends
 
 ### 3. Geloofsoriëntatie
-Zes fundamentele ervaringsgebieden:
-
-1. Schepping en het goede leven
-2. Eindigheid en zingeving
-3. Menselijk tekort (falen, schuld)
-4. Lijden en het kwaad
-5. Wijsheid der volken
-6. Humaniteit en gemeenschap
+Zes ervaringsgebieden: Schepping, Eindigheid, Menselijk tekort, Lijden, Wijsheid der volken, Humaniteit
 
 ### 4. Interpretatieve synthese
-- Congruentie tussen officieel geloof en geleefde praktijk
-- Verbindingspunten voor de preek
-- Confrontatiepunten
-- Context van de specifieke datum
-- Aanbevelingen per Mentality-groep
+- Congruentie officieel geloof vs. praktijk
+- Verbindings- en confrontatiepunten
+- Homiletische aanbevelingen (toon, taal, beelden)
 
-## API Key
-
-Je hebt een Gemini API key nodig. Deze kun je verkrijgen via:
-https://aistudio.google.com/app/api-keys
+### 5. Actueel wereldnieuws
+- Schokkende wereldgebeurtenissen (3-5 dagen)
+- Theologische en existentiële vragen
+- Pastorale, profetische en diaconale relevantie
+- Relatie tot de Schriftlezingen
 
 ## Bronnen
 
+### Gebruikte bronnen door het script
+- **CBS / AlleCijfers** - Demografische statistieken
+- **NOS, NRC, Trouw, ND** - Nieuws en actualiteit
+- **protestantsekerk.nl** - PKN-informatie, leesrooster
+- **Liedboek 2013** - Liedsuggesties
+
+### Literatuur
 - De Leede, H. & Stark, C. (2017). *Ontvouwen: Protestantse prediking in de praktijk*. Zoetermeer: Boekencentrum, pp. 73-81.
 - Niebergall, F. (1971). 'Die moderne Predigt', in: Hummel, G., *Aufgabe der Predigt*. Darmstadt: Wissenschaftliche Buchgesellschaft.
 - Motivaction. *Mentality-model*. https://www.motivaction.nl/mentality
+
+## API Key
+
+Je hebt een Gemini API key nodig: https://aistudio.google.com/app/apikey
