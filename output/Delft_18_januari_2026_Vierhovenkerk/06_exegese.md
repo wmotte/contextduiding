@@ -1,179 +1,228 @@
 # Exegese van de Schriftlezingen: 18 januari 2026
 
-De Schriftlezingen voor de tweede zondag na Epifanie (Jaar A) vormen een thematisch weefsel waarin de openbaring van Gods heerlijkheid (*doxa*) centraal staat. De overgang van de 'oude' orde naar de 'nieuwe' overvloed wordt gemarkeerd door beelden van huwelijk, herstel en eenheid. In deze exegese worden de perikopen uit Jesaja 62, Psalm 96, Johannes 2 en Efeziërs 4 geanalyseerd in hun taalkundige, historische en theologische gelaagdheid.
+Deze exegese behandelt de Schriftlezingen voor de tweede zondag na Epifanie (Jaar A), tevens de start van de Week van Gebed voor de Eenheid van de Christenen. De focus ligt op de thematiek van openbaring, transformatie en de eenheid van het lichaam van Christus, bezien vanuit de exegetische traditie en de specifieke context van de Vierhovenkerk in Delft.
 
 ---
 
 ## 1. Jesaja 62:1-5 – De transformatie van identiteit
 
-### Afbakening en vertaling
+### 1.1 Afbakening en vertaling
 
-De perikoop Jesaja 62:1-5 vormt het begin van een grotere eenheid die de herstelbelofte voor Sion bezingt. De afbakening is logisch omdat vers 1 de motivatie van de spreker introduceert ("Om Sions wil zal ik niet zwijgen") en vers 5 de climax vormt van de huwelijksmetafoor. De Naardense Bijbel vertaalt vers 4 zeer pregnant: "Men zal u niet meer noemen 'Verlatene' (...) maar u zal men noemen 'Mijn-welbehagen-is-in-haar' (*Hephzibah*)". In de NBV21 wordt gekozen voor een meer vloeiende weergave, maar de Naardense Bijbel behoudt de kracht van de naamgeving, wat essentieel is voor de exegese: identiteit in het Oude Testament is onlosmakelijk verbonden met de naam.
+De perikoop Jesaja 62:1-5 vormt het begin van een groter tekstcomplex (62:1-12) dat handelt over het herstel van Sion. De afbakening in het leesrooster is logisch omdat deze vijf verzen de kern van de naamsverandering en de huwelijksmetafoor bevatten. 
 
-### Tekstkritiek en woordstudie
+In de Naardense Bijbel valt de nadruk op de actieve houding van de spreker: "Omwille van Sion zal ik niet zwijgen". Waar de NBV21 kiest voor "Ik zal niet zwijgen over Sion", suggereert de Naardense vertaling een dwingender innerlijke noodzaak. Het cruciale vers 4 toont een scherp contrast tussen de oude namen (*Azoeva* - Verlatene, *Sjemama* - Woestenij) en de nieuwe namen (*Chefsi-ba* - Mijn welbehagen is in haar, *Beoela* - Gehuwde). De Willibrordvertaling vertaalt *Beoela* met "Mijn Bruid", wat de affectieve lading versterkt, maar de juridische status van het 'eigendom' (het land dat weer een heer heeft) in het Hebreeuws minder belicht.
 
-De Masoretische Tekst (MT) vertoont in deze verzen weinig significante varianten. Een cruciaal woord is *tsedeq* (gerechtigheid) in vers 1. Hier functioneert het niet als een morele categorie, maar als 'heil' of 'overwinning' die als een lichtglans verschijnt. Het Hebreeuwse *no-gah* (lichtglans) refereert aan de dageraad, wat naadloos aansluit bij de Epifanie-thematiek. 
+### 1.2 Tekstkritiek
 
-In vers 4 zien we de namen *Azoevah* (Verlatene) en *Sjemamah* (Woestenij). Dit zijn niet slechts beschrijvingen, maar juridische statussen van een land of vrouw zonder beschermer. De transformatie naar *Hephzibah* (Mijn welbehagen is in haar) en *Beulah* (Gehuwde) markeert de overgang van marginalisering naar volledige rechtsgeldigheid en gemeenschap.
+De tekst van Jesaja 62 is in de Masoretische Tekst (MT) goed bewaard gebleven. In de Septuaginta (LXX) wordt in vers 1 "gerechtigheid" vertaald met *dikaiosunē*, wat in de vroege kerk vaak christologisch werd geduid als de komst van de Messias. Er zijn geen significante varianten in de Qumran-rollen (1QIsa-a) die de fundamentele betekenis van deze verzen wijzigen, wat de stabiliteit van deze belofte in de joodse traditie onderstreept.
 
-### Literaire en historische analyse
+### 1.3 Woordstudie
 
-De tekst behoort tot Trito-Jesaja (hoofdstuk 56-66), ontstaan in de periode na de Babylonische ballingschap (ca. 530-510 v.Chr.). De historische context is die van een gedesillusioneerde gemeenschap in een geruïneerd Jeruzalem. De herbouw vordert moeizaam en de sociale cohesie is zwak. De profeet treedt hier op als een 'wachtpost' of pleitbezorger die God herinnert aan Zijn beloften.
+- **Tsedek (Gerechtigheid):** In vers 1 is *tsedek* niet slechts een morele categorie, maar een heilstoestand. Het gaat om het 'in het gelijk gesteld worden' van Sion voor de ogen van de volkeren.
 
-De structuur is opgebouwd rond de beweging van duisternis naar licht en van eenzaamheid naar verbintenis. De retoriek maakt gebruik van de 'koninklijke diadeem' (vers 3) als symbool voor de herwonnen waardigheid van het volk. Sion is niet langer een vazalstaat, maar een sieraad in de hand van de Ene.
+- **Chefsi-ba (Mijn welbehagen is in haar):** Dit is een persoonsnaam (ook de moeder van Manasse heette zo, 2 Koningen 21:1). Het woord *chefets* duidt op een diep verlangen of plezier. God vindt vreugde in zijn volk.
 
-### Zoekmodel Godsbeeld (Snoek)
+- **Beoela (Gehuwde):** Afgeleid van *ba'al* (heer, echtgenoot). Het land is niet langer 'heerloos' of overgeleverd aan vreemde machten, maar heeft weer een legitieme beschermer.
 
-In Jesaja 62 domineert een **toebuigend Godsbeeld**, gevat in werkwoordelijke en metaforische uitspraken. God wordt getekend als de Bruidegom die zich verheugt over Zijn bruid (vers 5). Dit is een antropomorfisme dat de diepe affectieve betrokkenheid van de Ene bij Zijn volk onderstreept. Tegelijkertijd blijft God de actor die de gerechtigheid 'doet opgaan' (werkwoordelijk). De spanning zit in het feit dat God enerzijds de soevereine Schepper is die namen uitdeelt, maar anderzijds Zichzelf bindt aan de emotionele dynamiek van een huwelijk. Voor de hoorders in Delft-Zuid, die soms kampen met een gevoel van maatschappelijke onzichtbaarheid, is dit beeld van een God die 'niet zwijgt' totdat de waardigheid van de mens zichtbaar wordt, van grote betekenis.
+### 1.4 Literaire analyse
 
-### Zoekmodel Mensbeeld (Snoek)
+**Genre en structuur:** De tekst behoort tot Trito-Jesaja en is een profetische heilsbelofte in poëtische vorm. De structuur is opgebouwd rond de beweging van duisternis naar licht en van schande naar eer.
 
-De mens (Sion) wordt hier getekend op de verticale as als **gericht op God**, maar aanvankelijk in een passieve, lijdende rol. De mens is de ontvanger van een nieuwe identiteit. Er is sprake van een radicale karakterontwikkeling: van de status 'Verlatene' naar 'Gehuwde'. De horizontale as (goed/kwaad doen) is hier ondergeschikt aan de ontologische status van de mens. De mens is hier degene die 'als een kroon' in Gods hand ligt – een beeld van kwetsbare kostbaarheid.
+- Vers 1: De profeet (of God zelf) kondigt een niet-aflatende inzet aan.
 
----
+- Vers 2-3: De publieke erkenning door de volkeren; Sion als een koninklijke kroon.
 
-## 2. Psalm 96 – Het kosmische lied van de Koning
+- Vers 4: De kern: de naamsverandering (identiteitstransformatie).
 
-### Afbakening en structuur
+- Vers 5: De climax: de vergelijking met de vreugde van een bruidegom.
 
-Psalm 96 is een klassieke lofpreek of 'enthronement psalm'. De perikoop omvat de gehele psalm. De structuur is drieledig:
-1.  **Vers 1-6:** De oproep tot een nieuw lied en de verkondiging van Gods grootheid boven de afgoden.
-2.  **Vers 7-10:** De oproep aan de volken (families van gemeenschappen) om eer te bewijzen in de voorhoven.
-3.  **Vers 11-13:** De kosmische jubel van hemel, aarde, zee en woud vanwege de komst van de Rechter.
+**Stijl:** De tekst maakt gebruik van een krachtige huwelijksmetafoor. Het parallellisme in vers 4 ("Niet langer... maar...") versterkt de radicale breuk met het verleden. De metafoor van de "sierlijke kroon" (*ateret tif'eret*) in de hand van de HEER suggereert dat Sion Gods sieraad is, iets waar Hij trots op is.
 
-### Woordstudie en stijl
+### 1.5 Context (Direct en Historisch)
 
-Het kernwoord is *sjier chadasj* (nieuw lied). In de bijbelse context is een 'nieuw lied' niet slechts een nieuwe compositie, maar een lied dat gezongen wordt na een nieuwe heilservaring (zoals de Exodus of de terugkeer uit ballingschap). 
+**Directe context:** Hoofdstuk 62 volgt op het visioen van de gezalfde die het goede nieuws brengt (Jesaja 61). Het is de uitwerking van het herstel: de rouwende van Sion krijgt een sieraad in plaats van as.
+**Historische context:** De tekst is ontstaan in de periode na de Babylonische ballingschap (ca. 538-520 v.Chr.). De terugkeer naar Jeruzalem was moeizaam; de stad lag in puin en de bevolking was gedemoraliseerd. De namen 'Verlatene' en 'Woestenij' waren geen abstracties, maar de dagelijkse realiteit. De profetie dient om de identiteit van een getraumatiseerd volk te herstellen.
 
-Een ander cruciaal begrip is *eliliem* (vers 5), door Oussoren treffend vertaald als 'godjes van niks'. Het is een woordspel met *elohiem* (God). Waar de afgoden 'nietsheden' zijn, is de Ene de 'Maker van de hemel'. De stijl is hymmisch en maakt gebruik van parallellismen die de universaliteit van Gods heerschappij benadrukken.
+### 1.6 Theologische analyse
 
-### Historische en culturele context
+De kernboodschap is de onvoorwaardelijke trouw van God aan zijn land en volk. God wordt getekend als een minnaar die zijn bruid niet kan opgeven. De transformatie is niet alleen innerlijk, maar ook politiek en zichtbaar ("voor de ogen van alle koningen"). 
+**Dogmatisch raakvlak:** De leer van de verkiezing. God kiest niet voor wat al mooi is, maar maakt mooi wat Hij kiest. In de christelijke traditie is dit beeld van het huwelijk tussen God en volk de opmaat naar de verhouding tussen Christus en de Kerk (Efeziërs 5).
 
-De psalm deelt veel materiaal met 1 Kronieken 16, waar het gezongen wordt bij de overbrenging van de ark naar Jeruzalem. De context is die van de cultus in de Tweede Tempel. De psalm daagt de omringende culturen uit: de goden van de volken hebben geen macht; de geschiedenis is in de hand van de God van Israël. De 'rechte maten' (vers 10) refereren aan de kosmische orde (*Ma'at* in Egypte, maar hier getransponeerd naar de *Tsedeq* van JHWH) die stabiliteit brengt in een wankelende wereld.
+### 1.7 Zoekmodel Gods- en mensbeelden (Snoek)
 
-### Zoekmodel Godsbeeld (Snoek)
+**Godsbeeld:** In Jesaja 62 domineert een God die spreekt en handelt (werkwoordelijk: "Ik zal niet zwijgen", "de HEER heeft welbehagen"). Hij is de actor die de identiteit van de mens verandert. Tegelijkertijd is er een sterke metaforische component: God als de Bruidegom. Dit combineert overstijgende eigenschappen (Hij is de soevereine Koning die kronen uitdeelt) met toebuigende eigenschappen (Hij verheugt zich over zijn volk zoals een jongeman over zijn bruid). De spanning zit in de 'hand van de HEER': God houdt Sion vast als een kostbaar object, maar de relatie is diep persoonlijk. Voor de hoorders in Delft-Zuid, die soms kampen met een gevoel van marginalisering, biedt dit een beeld van een God die niet passief toekijkt, maar actief de eer van de mens herstelt.
 
-Hier domineert het **overstijgende Godsbeeld**. God is de Koning, de Maker en de Rechter. De werkwoordelijke uitspraken ("Hij komt om te richten") benadrukken Zijn soevereiniteit over de gehele kosmos. De metafoor van de Koning plaatst God boven de geschiedenis. Toch is er een toebuigend element in de 'trouw' (*emoenah*) waarmee Hij de gemeenschappen richt. God is niet een grillige tiran, maar een betrouwbare rechter. In de context van de Vierhovenkerk, waar de 'wankelende wereld' (oorlogen, klimaat) direct gevoeld wordt, biedt dit beeld van een God die de wereld 'vastzet' (vers 10) een noodzakelijk tegenwicht aan de chaoservaring.
-
-### Zoekmodel Mensbeeld (Snoek)
-
-De mens wordt hier primair getekend als **aanbidder** (gericht op God). De 'families van de gemeenschappen' worden opgeroepen om gaven te brengen. Er is geen sprake van individuele zonde of deugd, maar van de collectieve verantwoordelijkheid van de mensheid om de werkelijkheid van Gods koningschap te erkennen. De mens is hier de 'boodschapper' (vers 2) die van dag tot dag het reddende werk verkondigt.
+**Mensbeeld:** De mens (gesymboliseerd door Sion) wordt getekend in een beweging van passiviteit naar een nieuwe status. In de horizontale as bevindt de mens zich aanvankelijk in de staat van 'kwaad' (niet moreel, maar als slachtoffer van onheil/verlating). De transformatie brengt de mens naar de positie van 'goed doen' in de zin van het weerspiegelen van Gods glorie. De verticale as laat een mens zien die volledig afhankelijk is van Gods toespreken. De mens is hier niet de strijder, maar de ontvanger van een nieuwe naam. Dit mensbeeld spreekt over de fundamentele behoefte aan erkenning en de overtuiging dat onze ware identiteit niet bepaald wordt door onze omstandigheden (woestenij), maar door Gods spreken over ons.
 
 ---
 
-## 3. Johannes 2:1-11 – Het begin van de tekenen
+## 2. Psalm 96 – Een nieuw gezang voor de Koning
 
-### Afbakening en vertaling
+### 2.1 Afbakening en vertaling
 
-De perikoop Johannes 2:1-11 is de klassieke tekst voor de tweede zondag na Epifanie. De afbakening is scherp: het begint "op de derde dag" (een verwijzing naar de opstanding en de Sinaï-theofanie) en eindigt met de conclusie dat dit het begin van de tekenen was. Een cruciaal vertaalpunt is vers 4. De Naardense Bijbel vertaalt: "Wat is er tussen mij en u, vrouw? Mijn uur is nog niet gekomen." De term 'vrouw' (*gunai*) is in het Grieks niet onbeleefd, maar wel afstandelijk en plechtig. Het markeert dat Jezus' handelen niet langer bepaald wordt door familiale banden, maar door Zijn messiaanse zending.
+Psalm 96 is een klassieke lofprijzing die de universele heerschappij van de HEER bezingt. De Naardense Bijbel vertaalt vers 10 zeer pregnant: "Zegt bij de volkeren: de Ene werd koning". Dit benadrukt het moment van de troonsbestijging. Waar de NBV21 spreekt over "De HEER is koning", suggereert het Hebreeuwse *malak* een actieve gebeurtenis: Hij heeft het koningschap aanvaard.
 
-### Tekstkritiek en woordstudie
+### 2.2 Tekstkritiek en literaire analyse
 
-Er zijn geen grote tekstkritische problemen, maar de woordkeuze is theologisch geladen.
-*   **Sēmeion (Teken):** Johannes gebruikt nooit het woord 'wonder' (*teras*), maar altijd 'teken'. Een teken verwijst naar een diepere werkelijkheid.
-*   **Doxa (Heerlijkheid):** In vers 11 staat dat Jezus Zijn heerlijkheid openbaarde. Dit is de kern van Epifanie: de goddelijke presentie wordt zichtbaar in het menselijke.
-*   **Metrētas (Maat):** De zes stenen watervaten bevatten elk twee of drie 'maten'. Dit komt neer op een totaal van circa 600 liter wijn. De hyperbool van de hoeveelheid is een essentieel kenmerk van de messiaanse overvloed (vgl. Amos 9:13).
+De psalm is nauw verwant aan 1 Kronieken 16:23-33. Het genre is een 'troonsbestijgingspsalm' (JHWH-Malak psalm). 
+**Structuur:**
+1. Vers 1-3: Oproep tot lofzang (imperatieven: zingt, zegent, boodschapt).
+2. Vers 4-6: De motivatie: Gods grootheid versus de nietigheid van de afgoden.
+3. Vers 7-9: Oproep aan de volkeren om offers te brengen.
+4. Vers 10-13: De kosmische vreugde over Gods komst als rechter.
 
-### Literaire analyse en structuur
+**Stijl:** De psalm gebruikt kosmische taal (hemel, aarde, zee, veld, bomen). Het parallellisme is synoniem, wat een accumulatief effect geeft van groeiende vreugde.
 
-Het genre is een narratief met een sterk symbolische inslag. De structuur volgt een klassiek patroon:
-1.  **Expositie (1-2):** De bruiloft, de aanwezigheid van Jezus, Zijn moeder en de leerlingen.
-2.  **Conflict (3-5):** De wijn is op; de dialoog tussen Maria en Jezus.
-3.  **Handeling (6-8):** Het vullen van de vaten en het scheppen.
-4.  **Ontknoping (9-10):** De reactie van de tafelmeester; de verbazing over de kwaliteit.
-5.  **Theologische duiding (11):** De conclusie van de verteller.
+### 2.3 Historische en culturele context
 
-De ironie is een belangrijk stijlmiddel: de tafelmeester weet niet waar de wijn vandaan komt, maar de 'dienaren' (*diakonoi*) weten het wel. Dit is een motief in Johannes: de insiders (vaak de marginalen) zien wat de officiële instanties missen.
+De psalm stamt waarschijnlijk uit de na-ballingschapsperiode, waarin de confrontatie met de goden van de wereldmachten (Perzië, Babylon) leidde tot een scherpe polemiek. De "godjes van niks" (*elilim*) is een woordspel met *elohim* (goden). De *elilim* zijn letterlijk 'nietigheden' of 'afgodjes'. Dit was een gedurfde claim in een tijd waarin Israël politiek onbeduidend was.
 
-### Directe en historische context
+### 2.4 Theologische analyse
 
-De perikoop volgt direct op de roeping van de eerste leerlingen, waar Jezus belooft dat zij "grotere dingen" zullen zien (Joh. 1:51). Kana is de eerste inlossing van die belofte. De historische context van de bruiloft in het Nabije Oosten is cruciaal: het opraken van de wijn was een sociale catastrofe en een juridische schande voor de bruidegom. 
-
-De 'zes stenen watervaten voor de reiniging' (vers 6) zijn symbolisch geladen. Steen werd gebruikt omdat het volgens de rabbijnse wetten niet onrein kon worden. Het getal zes (één minder dan het volmaakte getal zeven) suggereert dat het systeem van de joodse reinigingswetten weliswaar solide is, maar incompleet zonder de vervulling door Christus.
-
-### Oudtestamentische achtergrond
-
-Johannes alludeert hier sterk op de profetische beelden van het messiaanse banket. De overvloed aan wijn is een direct citaat van de belofte uit Joël 4:18 ("de bergen zullen druipen van jonge wijn") en Jesaja 25:6. Het huwelijk zelf is de vervulling van de metafoor uit Jesaja 62. Jezus presenteert Zichzelf hier impliciet als de ware Bruidegom die de 'goede wijn' bewaart tot het laatst.
-
-### Zoekmodel Jezusbeeld (Snoek)
-
-In Johannes 2 zien we een complexe vervlechting van de vier perspectieven op Jezus:
-*   **Van achteren:** Jezus is geworteld in de joodse traditie (aanwezigheid bij de reinigingsvaten), maar Hij transformeert deze. Hij is de vervulling van de Wet en de Profeten.
-*   **Van boven:** Zijn *doxa* (heerlijkheid) wordt zichtbaar. Hij heeft macht over de elementen en Zijn handelen wordt bepaald door Zijn 'uur' (de goddelijke timing).
-*   **Van beneden:** Hij is een mens onder de mensen, te gast op een bruiloft, onderhevig aan de sociale dynamiek en de vragen van Zijn moeder. Hij drinkt en viert mee.
-*   **Van voren:** Hij is de aankondiger van het Koninkrijk. De wijn is het eschatologische voorschot op het feestmaal van de eindtijd.
-
-De spanning tussen Zijn godheid (macht over de schepping) en Zijn mensheid (gast zijn) wordt opgelost in het concept van het 'teken'. Voor de hoorders in Delft betekent dit dat Jezus niet ver boven de alledaagse nood (geen wijn meer, tekort) staat, maar deze van binnenuit transformeert tot overvloed.
+De psalm verbindt schepping en oordeel. God is koning omdat Hij de maker is van de hemel (v. 5), maar zijn koningschap wordt pas echt zichtbaar in zijn rechtvaardig oordeel (v. 13). Dit oordeel is geen dreiging, maar een bevrijding: de wereld wordt "vastgezet" zodat zij niet meer wankelt.
+**Zoekmodel Godsbeeld:** God is hier de overstijgende Schepper en Rechter. De werkwoordelijke uitspraken ("Hij maakte de hemel", "Hij komt om te richten") domineren. De metafoor van de Koning staat centraal. Het is een beeld van soevereiniteit dat de hoorder uitdaagt om over de eigen grenzen heen te kijken naar een wereldwijd perspectief.
 
 ---
 
-## 4. Efeziërs 4:1-13 – De architectuur van de eenheid
+## 3. Efeziërs 4:1-13 – De organische eenheid
 
-### Afbakening en vertaling
+### 3.1 Afbakening en vertaling
 
-Deze perikoop is gekozen vanwege de Week van Gebed voor de Eenheid. De afbakening 1-13 is essentieel omdat het de brug slaat tussen de ethische oproep tot eenheid (1-6) en de charismatische structuur van de gemeente (7-13). De Naardense Bijbel vertaalt vers 1 heel direct: "Ik roep u dan ook op, ik die gebonden ben omwille van de Heer...". Het woord 'gebonden' (*desmios*) herinnert de lezer aan de gevangenschap van de auteur, wat gewicht geeft aan zijn oproep.
+De perikoop markeert de overgang van het dogmatische deel van de brief (hfst. 1-3) naar het vermanende, ethische deel (hfst. 4-6). De afbakening tot vers 13 is essentieel omdat het de beweging beschrijft van de individuele roeping naar de volwassenheid van het gehele lichaam van Christus.
+Cruciaal is vers 3: "de eenheid van de Geest te bewaren". Het Griekse *tērein* betekent bewaken of bewaren wat er al is. De eenheid hoeft niet gemaakt te worden, maar moet worden onderhouden. In vers 13 spreekt de Naardense Bijbel over "tot een volkomen mens-zijn", wat een betere weergave is van *andra teleion* dan de NBV21 ("de volmaakte mens"), omdat het duidt op volwassenheid en rijpheid van de gemeenschap als geheel.
 
-### Woordstudie en retoriek
+### 3.2 Woordstudie
 
-*   **Tapeinophrosunē (Nederigheid):** In de Grieks-Romeinse wereld was dit een negatief begrip (slaafs). In de christelijke context wordt het een deugd: de bereidheid om de minste te zijn ter wille van de ander.
-*   **Henotēs (Eenheid):** Dit woord komt in het NT alleen hier voor (vers 3 en 13). Het is geen statische eenvormigheid, maar een dynamisch proces van 'houden' en 'komen tot'.
-*   **Metron (Maat):** In vers 7 en 13 wordt gesproken over de 'maat' van de gave en de 'volle maat' van Christus. Eenheid betekent niet dat iedereen hetzelfde is, maar dat iedereen zijn specifieke 'maat' bijdraagt aan het geheel.
+- **Tapeinophrosunē (Nederigheid):** In de Grieks-Romeinse wereld was dit een negatief begrip (slaafs). Paulus herdefinieert dit als een christelijke deugd, essentieel voor gemeenschapsvorming.
 
-### Literaire analyse en structuur
+- **Henotēs (Eenheid):** Dit woord komt in het NT alleen hier (v. 3 en 13) voor. Het duidt op een organische verbondenheid, niet op een louter organisatorische fusie.
 
-De brief aan de Efeziërs is een 'leerrede' of een circulaire brief. Hoofdstuk 4 markeert de overgang van de dogmatiek (hfdst. 1-3) naar de paraenese (vermaning, hfdst. 4-6).
-De structuur van de perikoop:
-1.  **De basis van de eenheid (1-3):** De houding van de gelovige (zachtheid, lankmoedigheid).
-2.  **De zevenvoudige eenheid (4-6):** Een liturgische hymne opgebouwd rond het woord 'één' (één lichaam, geest, hoop, Heer, geloof, doop, God).
-3.  **De diversiteit van gaven (7-11):** De opgestane Christus die gaven uitdeelt.
-4.  **Het doel (12-13):** Toerusting, opbouw en volwassenheid.
+- **Charis (Genade/Gave):** In vers 7 is genade gekoppeld aan de "maat van de gave". Iedereen heeft een specifieke functie gekregen ten dienste van het geheel.
 
-### Historische en theologische context
+### 3.3 Literaire analyse en structuur
 
-De brief is waarschijnlijk geschreven aan een netwerk van gemeenten in Klein-Azië waar spanningen bestonden tussen gelovigen uit de joden en uit de heidenen. De eenheid is hier geen luxe, maar een overlevingsvoorwaarde en een getuigenis naar de machten. De 'nederdaling naar de nederste delen der aarde' (vers 9) wordt vaak uitgelegd als de incarnatie of de nederdaling ter helle; in beide gevallen onderstreept het dat Christus de gehele kosmos (hoogte en diepte) heeft vervuld.
+De tekst is een vermaning (*paraklesis*). 
+**Structuur:**
+- Vers 1-3: De houding van de gelovige (nederigheid, zachtheid).
 
-### Zoekmodel Jezusbeeld (Snoek)
+- Vers 4-6: De zevenvoudige eenheid (één lichaam, geest, hoop, heer, geloof, doop, God). Dit is een vroege liturgische of confessionele formule.
 
-In Efeziërs 4 domineert het beeld van de **verheerlijkte Christus (Van boven)**. Hij is degene die is opgevaren en nu als Heer van de kerk gaven uitdeelt. Tegelijkertijd is Hij de 'Gezalfde' (Van achteren), de Messias die de beloften van Psalm 68 vervult. Zijn beeld is hier ecclesiologisch: Hij is het hoofd van het lichaam. De spanning zit in het feit dat de eenheid er enerzijds al *is* (door de doop), maar anderzijds nog *bereikt* moet worden (vers 13). Jezus is hier de 'maatstaf' voor menselijke rijpheid.
+- Vers 7-11: De diversiteit aan gaven (apostelen, profeten, etc.) gebaseerd op de opgestane Christus.
 
-### Zoekmodel Mensbeeld (Snoek)
+- Vers 12-13: Het doel: toerusting en opbouw tot volwassenheid.
 
-De mens wordt hier getekend op de horizontale as als **gericht op de wereld/gemeenschap** (goed doen door dienstbetoon). De verticale as is echter de motor: de mens is 'geroepen' door God. Er is een sterke nadruk op groei: de mens moet van een 'onmondig kind' toegroeien naar een 'volkomen mens-zijn'. Dit mensbeeld is collectief: ik word pas een volkomen mens in verbinding met de ander.
+### 3.4 Historische context
+
+De brief aan de Efeziërs is waarschijnlijk een rondzendbrief. De hoorders waren christenen uit de volkeren die hun plek moesten vinden in een beweging die joodse wortels had. De spanning tussen eenheid en diversiteit was de dagelijkse realiteit in de vroege huisgemeenten.
+
+### 3.5 Theologische analyse
+
+De tekst biedt een ecclesiologie van 'eenheid in verscheidenheid'. De eenheid is gefundeerd in de trinitarische structuur van vers 4-6 (Geest, Heer/Zoon, Vader). De gaven zijn niet bedoeld voor individuele eer, maar voor het "werk van dienstbetoon" (*diakonia*).
+**Dogmatisch raakvlak:** De leer van de Kerk als Lichaam van Christus. De eenheid is een eschatologisch doel ("totdat wij allen komen tot..."), maar ook een huidige opdracht.
+
+### 3.6 Zoekmodel Jezusbeeld (Snoek)
+
+In Efeziërs 4 zien we een Jezusbeeld dat sterk **'van boven'** en **'van voren'** is georiënteerd.
+
+- **Van boven:** Hij is de opgevaren Heer die gaven uitdeelt aan de mensen (v. 8-10). Hij vervult het heelal. Er is een kosmische dimensie aan zijn heerschappij.
+
+- **Van voren:** Hij is de maatstaf van de volwassenheid waar de kerk naar onderweg is (v. 13). Hij is het eschatologische doel.
+
+- **Van achteren:** De verwijzing naar Psalm 68 wortelt Hem in de traditie van Israël als de triomferende overwinnaar.
+
+- **Van beneden:** Het "nederdalen naar de nederste delen van de aarde" (v. 9) herinnert aan zijn menswording en lijden.
+De spanning in deze tekst ligt tussen de verheerlijkte Christus die ver boven alles staat en zijn actieve betrokkenheid bij de opbouw van een zeer menselijke, soms kwetsbare gemeenschap op aarde. Voor de hoorder in de Vierhovenkerk betekent dit dat Christus niet een verre historische figuur is, maar de actieve kracht die de verschillende groepen in de kerk (migranten, studenten, ouderen) tot één organisme smeedt.
+
+---
+
+## 4. Johannes 2:1-11 – Het teken van de overvloed
+
+### 4.1 Afbakening en vertaling
+
+De perikoop van de bruiloft te Kana is een afgerond narratief. Het vormt de opening van de reeks 'tekenen' in het Johannesevangelie. 
+In vers 4 is de aanspreekvorm "Vrouw" (*gunai*) door Jezus tot zijn moeder cruciaal. In de Naardense Bijbel blijft dit staan, wat de afstandelijkheid en de nieuwe verhouding benadrukt. Het is geen onbeleefdheid, maar een markering dat de natuurlijke familiebanden ondergeschikt zijn aan Jezus' goddelijke zending. De vertaling van *architriklinos* als "tafelmeester" of "leider van het feest" is belangrijk: hij is de seculiere getuige van de kwaliteit van het wonder.
+
+### 4.2 Tekstkritiek
+
+De tekst is tekstkritisch stabiel. Interessant is vers 1: "Op de derde dag". Sommige handschriften variëren hier niet, maar de symboliek is evident. In de joodse traditie was de dinsdag (de derde dag van de week) een dag van dubbele zegen (twee keer "God zag dat het goed was" in Genesis 1). Voor de christelijke lezer verwijst het onvermijdelijk naar de opstanding.
+
+### 4.3 Woordstudie
+
+- **Sēmeion (Teken):** Johannes gebruikt nooit het woord 'wonder' (*dunamis*), maar altijd 'teken'. Het gaat niet om de verbazing over het feit, maar om de verwijzing naar de identiteit van Jezus.
+
+- **Hora (Uur):** "Mijn uur is nog niet gekomen". In Johannes verwijst het 'uur' altijd naar de passie, de verheerlijking aan het kruis. Het wonder in Kana is een voorschot op dat uur.
+
+- **Metrētas (Maat):** De vaten bevatten twee of drie 'maten'. Dit komt neer op ongeveer 80 tot 120 liter per vat. In totaal zo'n 600 liter wijn. Dit is de 'overvloed' van de Messiaanse tijd.
+
+### 4.4 Literaire analyse
+
+**Genre:** Een narratief met een sterk symbolische lading.
+**Structuur:**
+1. Setting: Bruiloft, tekort aan wijn (v. 1-3).
+2. Dialoog: Jezus en Maria (v. 3-5).
+3. Handeling: De vaten, het water, de transformatie (v. 6-8).
+4. Reactie: De tafelmeester en de bruidegom (v. 9-10).
+5. Conclusie: De openbaring van de heerlijkheid en het geloof van de leerlingen (v. 11).
+
+**Stijl:** Johannes gebruikt ironie. De tafelmeester weet niet waar de wijn vandaan komt, maar de dienaren (de laagsten in rang) weten het wel. De "goede wijn" die tot het laatst bewaard is, is een metafoor voor het Evangelie dat de oude bedeling (het water voor de reiniging) overtreft.
+
+### 4.5 Directe context
+
+Kana volgt direct op de roeping van de eerste leerlingen (hfst. 1). Jezus had tegen Natanaël gezegd: "Je zult nog grotere dingen zien". Kana is het eerste van die 'grotere dingen'. Het zet de toon voor het hele evangelie: Jezus brengt leven en overvloed waar de religieuze systemen (de vaten voor de reiniging) leeg of ontoereikend zijn geworden.
+
+### 4.6 Historische en culturele context
+
+Een bruiloft in het oude Nabije Oosten was een sociaal evenement van enorme proporties, dat vaak zeven dagen duurde. Het opraken van de wijn was een sociale catastrofe en een juridische schande voor de bruidegom. De zes stenen watervaten verwijzen naar de joodse reinigingswetten. Steen werd als ritueel zuiver beschouwd (in tegenstelling tot aardewerk). Dat Jezus juist *deze* vaten gebruikt, is een krachtig statement over de vervulling en transformatie van de Wet.
+
+### 4.7 Oudtestamentische achtergrond
+
+De overvloed aan wijn is een klassiek profetisch beeld voor de komst van de Messiaanse tijd (Amos 9:13, Joël 3:18). De bruiloft zelf verwijst naar het verbond tussen God en Israël (zoals in Jesaja 62). Jezus treedt hier op als de eigenlijke Bruidegom die de wijn schenkt.
+
+### 4.8 Joodse context en parallellen
+
+In de rabbijnse literatuur wordt de komst van de Messias vaak geassocieerd met een feestmaal. Er is een parallel met de traditie dat Mozes water in bloed veranderde (een teken van oordeel); Jezus verandert water in wijn (een teken van genade en vreugde).
+
+### 4.9 Theologische analyse
+
+**Centrale boodschap:** In Jezus breekt de heerlijkheid van God door in het alledaagse leven. Het christelijke leven is niet een zaak van rituele reiniging (het water), maar van deelname aan het feest van het Koninkrijk (de wijn).
+**Dogmatisch raakvlak:** De Christologie. Jezus openbaart zijn *doxa* (heerlijkheid). Dit is de essentie van Epifanie: de onzichtbare God wordt zichtbaar in de daden van de Zoon.
+
+### 4.10 Zoekmodel Jezusbeeld (Snoek)
+
+In Johannes 2 is het Jezusbeeld een complexe weving van alle vier de perspectieven:
+
+- **Van achteren:** Hij is de Joodse gast op een bruiloft, die de stenen vaten van de traditie gebruikt. Hij handelt binnen de kaders van de Messiaanse verwachting van Israël.
+
+- **Van boven:** Hij beschikt over een soevereine macht over de materie. Hij openbaart zijn "heerlijkheid" (*doxa*), een term die in het OT gereserveerd is voor de aanwezigheid van God in de tabernakel.
+
+- **Van beneden:** Hij is de zoon die door zijn moeder wordt aangesproken, die meefeest, die deel uitmaakt van een menselijk sociaal netwerk. Zijn menselijkheid is de 'plaats' waar het wonder gebeurt.
+
+- **Van voren:** Hij verwijst naar zijn "uur" (het kruis) en brengt de eschatologische overvloed van het Koninkrijk nu al in de tijd.
+De spanning zit in de dialoog met Maria: Jezus weigert te handelen op basis van menselijke aandrang ("Wat heb ik met u te maken?"), maar handelt vervolgens vanuit zijn eigen goddelijke autoriteit. Voor de hoorder in Delft betekent dit dat Jezus niet simpelweg een 'probleemoplosser' is voor onze tekorten, maar degene die ons uitnodigt in een totaal nieuwe werkelijkheid van genade.
 
 ---
 
 ## 5. Samenhang van de lezingen
 
-De rode draad door deze vier teksten is de **transformatie van schaarste naar overvloed door de openbaring van God**.
+De rode draad door deze lezingen op de tweede zondag na Epifanie is de **transformatie van schaarste naar overvloed door de openbaring van Gods nabijheid.**
 
-1.  **Jesaja 62** zet de toon met de belofte van een nieuwe naam en een nieuw huwelijk. De schande van de verlatenheid wordt opgeheven.
-2.  **Psalm 96** breidt dit uit naar de gehele kosmos: de God die Sion herstelt, is de Koning van de gehele aarde. Het 'nieuwe lied' is de literaire parallel aan de 'nieuwe naam'.
-3.  **Johannes 2** concretiseert dit in een 'teken'. De bruiloft van Jesaja vindt plaats in Kana. De stenen vaten van de oude orde worden gevuld met de nieuwe wijn van het Koninkrijk. De heerlijkheid die Jesaja profeteerde, wordt hier in Jezus zichtbaar.
-4.  **Efeziërs 4** vertaalt deze theologische werkelijkheid naar de praktijk van de gemeente. De overvloed van Kana (de wijn) vindt zijn parallel in de overvloed aan gaven die Christus uitdeelt. De eenheid waar de Week van Gebed om vraagt, is de sociale vorm van de 'goede wijn'.
+1.  **Jesaja 62** zet het decor: de schande van de verlatenheid wordt opgeheven door een nieuwe naam en een huwelijk met God. De identiteit van het volk wordt hersteld.
+2.  **Psalm 96** bezingt de universele reikwijdte van dit herstel: heel de schepping en alle volkeren delen in de vreugde van Gods koningschap.
+3.  **Johannes 2** concretiseert dit: wat Jesaja profeteerde (het huwelijk, de vreugde, de nieuwe wijn) wordt in Jezus werkelijkheid. De stenen vaten van de oude religiositeit worden gevuld met de nieuwe wijn van het Koninkrijk.
+4.  **Efeziërs 4** trekt de consequenties voor de gemeenschap: de overvloed aan gaven die de opgevaren Heer schenkt, is bedoeld om de eenheid van het lichaam te realiseren. De 'nieuwe wijn' van Kana moet zichtbaar worden in de 'band van de vrede' in de kerk.
 
-De teksten corrigeren elkaar ook: waar Johannes 2 het gevaar van een puur individueel 'wonder-geloof' in zich draagt, herinnert Efeziërs 4 eraan dat de gaven bedoeld zijn voor de opbouw van het geheel. Waar Jesaja 62 zich concentreert op Sion, trekt Psalm 96 de cirkel open naar alle volken.
-
----
-
-## 6. Receptiegeschiedenis en dogmatische raakvlakken
-
-### De bruiloft te Kana
-
-In de vroege kerk (o.a. bij Augustinus) werd de bruiloft te Kana vaak allegorisch uitgelegd: het water staat voor de letter van de Wet, de wijn voor de geest van het Evangelie. De zes vaten werden verbonden met de zes tijdperken van de wereldgeschiedenis. In de Reformatie (Luther, Calvijn) verschoof de aandacht naar de christologie: Jezus als de ware gastheer en de kritiek op de roomse opvatting van het huwelijk als sacrament op basis van deze tekst (hoewel men de heiligheid van het huwelijk bleef benadrukken).
-
-### De eenheid in Efeziërs
-
-Deze tekst heeft een centrale rol gespeeld in de oecumenische beweging van de 20e eeuw. De 'zeven eenheden' van vers 4-6 vormden de basis voor de *Faith and Order* conferenties. Dogmatisch raakt dit aan de leer van de *notae ecclesiae* (de kenmerken van de kerk): de kerk is één, heilig, katholiek en apostolisch. De spanning tussen de 'onzichtbare eenheid' en de 'zichtbare verdeeldheid' blijft een klassiek theologisch strijdpunt, waarbij Efeziërs 4 telkens als kritische instantie fungeert.
-
-### De nieuwe naam in Jesaja
-
-In de bevrijdingstheologie is Jesaja 62 een sleuteltekst voor de herwinning van waardigheid door gemarginaliseerde groepen. Het 'niet meer zwijgen' van de profeet wordt daar een model voor politiek-profetisch handelen. Dogmatisch raakt dit aan de leer van de rechtvaardiging: God die de mens een nieuwe status verleent, onafhankelijk van zijn verleden ('Verlatene').
+In de context van de Week van Gebed voor de Eenheid corrigeren deze teksten een te smalle, organisatorische blik op oecumene. Eenheid is geen menselijk project van 'water bij de wijn doen', maar een geschenk van de Geest die ons allen doet drinken uit die ene bron van overvloed. De 'schaamte' van de verdeeldheid (zoals de schaamte van het tekort in Kana) wordt door Christus weggenomen door ons een nieuwe identiteit te geven als "één lichaam".
 
 ---
 
-## 7. Exegetische focuspunten voor de prediking in Delft
+## 6. Receptiegeschiedenis
 
-*   **De stenen vaten in de Hoven:** De zes stenen vaten in Kana kunnen symbool staan voor de structuren en tradities die we in de Vierhovenkerk koesteren, maar die 'leeg' dreigen te raken. De exegese nodigt uit om te vragen: wat is het 'water' van onze gewoontes dat door Christus tot 'wijn' van bezieling moet worden gemaakt?
-*   **De schaamte van het tekort:** In een wijk als de Voorhof, waar armoede en sociale uitsluiting reëel zijn, spreekt de 'wijn is op' taal van Johannes 2 direct tot de verbeelding. De exegese van Jesaja 62 versterkt dit: God is degene die de naam 'Verlatene' doorstreept.
-*   **Eenheid als gavenstructuur:** De Week van Gebed in een diverse wijk als Delft-Zuid vraagt niet om eenheid als eenvormigheid, maar om de erkenning van de 'maten' (Efeziërs 4:7). De aanwezigheid van de Eritrese en Syrische christenen in het gebouw is geen toeval, maar een van de 'gaven' die Christus aan de stad Delft heeft gegeven voor de opbouw van Zijn lichaam.
-*   **Het 'uur' en de timing:** Jezus' antwoord aan Maria ("Mijn uur is nog niet gekomen") herinnert de gemeente eraan dat transformatie niet afdwingbaar is. Het is een genadegave (Epifanie) die verschijnt op Gods tijd, maar die wel vraagt om de gehoorzaamheid van de 'waterdragers' ("Doe maar wat Hij u zegt").
+De bruiloft te Kana is door de eeuwen heen op diverse wijzen geïnterpreteerd:
+
+- **Augustinus** zag in de zes watervaten de zes tijdperken van de wereldgeschiedenis die door Christus tot vervulling worden gebracht.
+
+- **Luther** benadrukte de heiliging van het alledaagse leven en het huwelijk: God openbaart zich niet in een klooster, maar op een dorpsfeest.
+
+- **De bevrijdingstheologie** legt de nadruk op de transformatie van de sociale werkelijkheid: Jezus staat aan de kant van degenen die 'geen wijn' (geen levensvreugde, geen rechten) meer hebben.
+
+- **In de oecumenische beweging** is Efeziërs 4:1-6 de 'Magna Charta' geworden. De Armeense traditie (relevant voor 2026) heeft een sterke nadruk op de *transfiguratie*: de hele schepping is bestemd om doorstraald te worden door het goddelijke licht, zoals het water in Kana wijn werd.

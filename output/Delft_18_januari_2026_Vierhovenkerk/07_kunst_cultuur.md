@@ -1,73 +1,111 @@
 # Kunst, Cultuur en Film bij de Schriftlezingen: 18 januari 2026
 
-Hieronder volgt een overzicht van kunst- en cultuuruitingen die de Schriftlezingen voor de 2e zondag na Epifanie (Johannes 2:1-11 en Jesaja 62:1-5) en de start van de Week van Gebed voor de Eenheid (Armenië) verdiepen voor de gemeente van de Vierhovenkerk in Delft.
+Onderstaande analyse biedt kunstzinnige en culturele aanknopingspunten voor de dienst op de tweede zondag na Epifanie in de Vierhovenkerk te Delft. De focus ligt op de transformatie van schaarste naar overvloed (Johannes 2), de herwaardering van de miskende mens (Jesaja 62) en de oecumenische verbondenheid met Armenië (Week van Gebed 2026).
 
----
+## 1. Moderne en hedendaagse kunst
 
-## 1. Beeldende Kunst (Modern & Hedendaags)
+### Makoto Fujimura – "The Wedding at Cana" (2011)
 
-### A. Arcabas (Jean-Marie Pirot), *Les Noces de Cana* (1989)
-*   **Beschrijving:** Een kleurrijk, bijna abstract-figuratief werk uit de basiliek van Notre-Dame de la Salette. Het schilderij focust niet op de gezichten van Jezus of Maria, maar op de **handen van de dienaren** en de enorme, goudkleurige watervaten.
-*   **Toegevoegde waarde:** In de Vierhovenkerk (een 'Buurtkerk') ligt de nadruk vaak op het dienen. Dit werk laat zien dat het wonder gebeurt in de handen van degenen die het water aandragen. De goudkleurige vaten suggereren dat het 'gewone' water al heilig is voordat het wijn wordt.
-*   **Zoekterm:** `Arcabas Les Noces de Cana Notre-Dame de la Salette`
+*   **Beschrijving:** Een abstract werk uit de serie *The Four Holy Gospels*. Fujimura gebruikt de traditionele Japanse *Nihonga*-techniek met verpulverde edelstenen, goud en zilver op handgeschept papier. Het werk toont geen figuren, maar een explosie van diepblauw en goud-oranje.
 
-### B. He Qi, *Wedding at Cana* (Hedendaags)
-*   **Beschrijving:** Een werk van de Chinese kunstenaar He Qi, die bijbelse taferelen schildert met invloeden uit de Chinese volkskunst en glas-in-loodtradities. Het is een explosie van kleur en vreugde, waarbij de bruid en bruidegom centraal staan in een dansende beweging.
-*   **Toegevoegde waarde:** Gezien de superdiversiteit in Delft-Zuid (Voorhof/Buitenhof) doorbreekt dit werk het eurocentrische beeld van de Bijbel. Het benadrukt de **feestelijke overvloed** van het Koninkrijk, wat een krachtig tegenwicht biedt aan de grijze januari-realiteit in de wijk.
-*   **Zoekterm:** `He Qi Wedding at Cana art`
+*   **Homiletische waarde:** Dit werk vermijdt de anekdotische weergave van de bruiloft. Het visualiseert de *substantie* van de verandering: van het kleurloze water naar de rijke, gelaagde 'wijn' van Gods heerlijkheid. Voor de hoorder in Delft-Zuid (vaak geconfronteerd met de 'grijze' realiteit van beton en schaarste) biedt dit abstracte werk een venster naar een andere werkelijkheid zonder in clichés te vervallen.
 
-### C. Sadao Watanabe, *Wedding at Cana* (1968)
-*   **Beschrijving:** Een Japanse stencilprint (*kappazuri*). Watanabe verplaatst het verhaal naar een Japanse context; de gasten eten geen brood maar vis (vaak kreeft, een Japans symbool voor huwelijksgeluk).
-*   **Toegevoegde waarde:** Dit werk is een prachtig voorbeeld van **inculturatie**. Het nodigt de gemeente uit om te vragen: "Hoe ziet de bruiloft te Kana eruit in onze eigen 'Hoven'?" Het sluit aan bij de oecumenische gedachte van de Week van Gebed: het evangelie spreekt elke cultuur aan in haar eigen taal.
-*   **Zoekterm:** `Sadao Watanabe Wedding at Cana 1968`
+*   **Zoekterm:** `Makoto Fujimura "The Wedding at Cana" Four Holy Gospels`
 
-### D. De Armeense 'Bloeiende Kruissteen' (Khachkar)
-*   **Beschrijving:** Geen schilderij, maar een sculptuur. Een Khachkar is een typisch Armeense gedenksteen met een kruis dat uitloopt in bloemmotieven en druiventrossen.
-*   **Toegevoegde waarde:** Essentieel voor de Week van Gebed 2026. Het kruis is hier geen symbool van dood, maar een **levensboom** die vrucht draagt (wijn!). Het verbindt het lijden van het Armeense volk direct met de overvloed van Kana.
-*   **Zoekterm:** `Armenian Khachkar blossomed cross symbolism`
+### Theaster Gates – "Civil Tapestry" serie (bijv. 2011-2012)
 
----
+*   **Beschrijving:** Gates maakt wandvullende tableaus van oude, afgedankte brandslangen. De slangen zijn gerangschikt in strakke, bijna liturgische patronen.
 
-## 2. Film en Video
+*   **Homiletische waarde:** Dit werk sluit aan bij de 'Groene Kerk'-identiteit en de sociaal-economische context van de Voorhof. Gates transformeert materiaal dat 'op' is (zoals de wijn in Kana) tot een object van grote schoonheid en waarde. Het resoneert met Efeziërs 4 over het samenvoegen van verschillende delen tot één lichaam. Het hergebruik van materiaal is een krachtig beeld voor de 'herstelde eer' uit Jesaja 62.
 
-### A. *Babette's Feast* (Gabriel Axel, 1987)
-*   **Fragment:** De slotscène waarin de sobere, puriteinse dorpelingen aan een overdadig Frans diner zitten. Naarmate de wijn vloeit, verdwijnen oude vetes en ontstaat er een diepe, geestelijke eenheid.
-*   **Toegevoegde waarde:** Dit is de ultieme verbeelding van **genade als overvloed**. Voor de Vierhovenkerk (Samen-op-Weg traditie) herkent men de spanning tussen soberheid en het 'vieren van het leven'. De film laat zien hoe 'goede wijn' harten kan openen die al jaren op slot zaten.
-*   **IMDB:** [Babette's Feast (1987)](https://www.imdb.com/title/tt0092603/)
+*   **Zoekterm:** `Theaster Gates "Civil Tapestry" fire hoses`
 
-### B. Bill Viola, *The Raft* (2004)
-*   **Beschrijving:** Een video-installatie waarin een diverse groep mensen (verschillende etniciteiten en klassen) plotseling wordt getroffen door een enorme waterstraal. In slow-motion zie je hoe ze vallen, elkaar vastgrijpen en uiteindelijk samen weer opstaan.
-*   **Toegevoegde waarde:** Een indrukwekkende link met **Psalm 40** ("Hij haalt mij op uit de modder"). Het water is hier niet de wijn van Kana, maar de 'vloedgolf' van het leven. De eenheid die ontstaat na de klap is een rauwe, noodzakelijke vorm van oecumene die past bij de uitdagingen in Delft-West.
-*   **Zoekterm:** `Bill Viola The Raft video analysis`
+### Daniel Arsham – "Hourglass" (2017)
 
----
+*   **Beschrijving:** Een installatie met zandlopers waarin alledaagse objecten (zoals camera's of telefoons) lijken te kristalliseren of te vergaan in blauw calcietzand.
 
-## 3. Literatuur en Poëzie
+*   **Homiletische waarde:** Bruikbaar bij het thema 'tijd' en 'openbaring'. In Kana breekt de tijd van God in de gewone tijd in. Arsham laat zien hoe het alledaagse een monumentale, bijna heilige status kan krijgen. Dit helpt om het begrip 'teken' (Sēmeion) uit Johannes 2 te duiden als iets dat de gewone tijd stilzet.
 
-### A. Paruyr Sevak, *We are few but we are Armenians*
-*   **Thema:** Identiteit en veerkracht. Sevak beschrijft hoe een klein volk door cultuur en geloof overleeft.
-*   **Relevantie:** Kan voorgelezen worden als getuigenis uit de wereldkerk. Het raakt aan de 'minderheidservaring' van de kerk in de moderne stad.
-*   **Bron:** [Paruyr Sevak - Selected Poems](https://en.wikipedia.org/wiki/Paruyr_Sevak)
+*   **Zoekterm:** `Daniel Arsham Hourglass installation blue`
 
-### B. Ida Gerhardt, *Onvervreemdbaar* (uit: *Verzamelde Gedichten*)
-*   **Fragment:** *"Dit wordt ons niet ontnomen: lezen en ademloos het blad omslaan..."*
-*   **Relevantie:** In de context van Epifanie (het Woord dat verschijnt) biedt dit gedicht rust. Het spreekt over de rijkdom die niet materieel is, passend bij de 'Groene Kerk'-waarde van 'genoeg is genoeg'.
+## 2. Klassieke en oosterse kunst
 
----
+### Toros Roslin – "De Bruiloft te Kana" (1268)
 
-## 4. Muziek (Buiten het Liedboek)
+*   **Beschrijving:** Een miniatuur uit het Malatia-evangelie door de beroemdste Armeense verluchter. Kenmerkend zijn de verfijnde gelaatsuitdrukkingen en het gebruik van rijk blauw en goud.
 
-*   **Klassiek:** **Komitas Vardapet**, *Krunk* (De Kraanvogel). De kraanvogel is het symbool van de Armeense diaspora die verlangt naar huis en eenheid. De verstilde, melancholische melodie is perfect voor een meditatief moment.
-*   **Modern:** **Arvo Pärt**, *Cantus in Memoriam Benjamin Britten*. De dalende lijnen in de muziek verbeelden de 'neerdalende genade' en de transformatie van stilte naar klank.
-*   **Pop/Cultuur:** **Huub van der Lubbe (De Dijk)**, *Ik drink op de mensen*. Een lied dat de 'wijn' viert als verbinder tussen mensen van alle rangen en standen. Zeer herkenbaar voor de 'moderne burgerij' in de gemeente.
+*   **Homiletische waarde:** Gezien de Week van Gebed 2026 (Armenië) is dit een essentieel beeld. Het toont de diepe wortels van het Armeense christendom. De nadruk ligt op de dialoog tussen Jezus en Maria, wat de menselijke kant van het 'tekort' benadrukt. Het kijken naar een Armeens werk concretiseert de verbondenheid met de kerk aldaar.
 
----
+*   **Zoekterm:** `Toros Roslin "Wedding at Cana" Armenian manuscript 1268`
 
-## 5. Praktische tips voor de Vierhovenkerk
+### Iconografie: De "Anastasis" (Opstanding/Nederdaling ter helle)
 
-1.  **Projectie:** Toon de **Armeense Khachkar** tijdens de lezing uit Jesaja 62 (over het land dat weer bloeit). De visuele link tussen het stenen kruis en de druiventrossen versterkt de tekst.
-2.  **Meditatie:** Gebruik een fragment van **Bill Viola's *The Raft*** (zonder geluid) na de preek, begeleid door de muziek van **Komitas**. Dit creëert een krachtig moment van bezinning op de eenheid in kwetsbaarheid.
-3.  **Lokale link:** Noem de nieuwe **murals in de Buitenhof** (project NOBIS, o.a. Kensuke Miyazaki). Deze straatkunst gaat over 'het herstellen van de balans' en 'verbinding'. Het is de 'Kana-ervaring' van 2026 in de eigen wijk: kleur brengen waar het grijs is.
-    *   *Zoekterm:* `NOBIS Community Art Buitenhof Delft Kensuke Miyazaki`
+*   **Beschrijving:** Hoewel dit een paasicoon is, sluit het aan bij Efeziërs 4:9 ("dat hij ook is nedergedaald naar de nederste delen der aarde"). De icoon toont Christus die Adam en Eva uit de graven trekt.
 
-**Rechtenvrije tip:** Veel werken van Sadao Watanabe en klassieke iconen zijn te vinden via de digitale collecties van het *Minneapolis Institute of Art* of het *Rijksmuseum* (Publiek Domein).
+*   **Homiletische waarde:** Het verbindt de Epifanie (verschijning) direct met de diepste menselijke nood. In de context van Delft-Zuid, waar mensen zich soms 'onderop' voelen, is dit beeld van Christus die afdaalt om mensen omhoog te trekken (zoals ook verwoord in Psalm 40:3) zeer krachtig.
+
+*   **Bron:** `artbible.info` (zoek op 'Anastasis')
+
+## 3. Film en documentaire
+
+### "The Old Oak" (Ken Loach, 2023)
+
+*   **Fragment:** De scène waarin de lokale gemeenschap in een vervallen Engelse mijnstad samen met Syrische vluchtelingen een gezamenlijke maaltijd organiseert in de achterkamer van de pub.
+
+*   **Homiletische waarde:** Dit is een moderne vertaling van de bruiloft te Kana en de eenheid uit Efeziërs. De 'wijn' (de hoop, de sociale cohesie) is op in het dorp, maar door het delen van wat er nog is, ontstaat er een overvloed aan menselijkheid. Zeer herkenbaar voor de problematiek van integratie en schaarste in wijken als Buitenhof.
+
+*   **Verifieerbaar via:** IMDB (The Old Oak, 2023)
+
+### "Babette's Feast" (Gabriel Axel, 1987)
+
+*   **Fragment:** De slotmaaltijd (vanaf ca. 1u 15m) waarbij de strenge, ascetische geloofsgemeenschap transformeert door de overvloed van het diner dat Babette bereidt.
+
+*   **Homiletische waarde:** De ultieme verbeelding van Johannes 2. Het laat zien dat Gods overvloed niet bedoeld is voor oppervlakkig genot, maar voor de genezing van onderlinge relaties. De transformatie van de gezichten van de oude gelovigen is een visuele exegese van de 'nieuwe wijn'.
+
+*   **Verifieerbaar via:** IMDB (Babettes gæstebud, 1987)
+
+## 4. Muziek (buiten het Liedboek)
+
+### Komitas Vardapet – "Krunk" (De Kraanvogel)
+
+*   **Genre:** Armeense klassieke/volksmuziek.
+
+*   **Toelichting:** Komitas is de grondlegger van de moderne Armeense muziek. "Krunk" is een lied over heimwee en ballingschap.
+
+*   **Gebruik:** Als meditatief moment na de preek. De melancholie van de muziek erkent het lijden (de schaarste), terwijl de zuiverheid van de melodie de 'heerlijkheid' (Epifanie) aankondigt. Het verbindt de hoorder direct met de Armeense ziel.
+
+*   **Zoekterm:** `Komitas "Krunk" duduk version`
+
+### Arvo Pärt – "Magnificat" (1989)
+
+*   **Genre:** Hedendaags klassiek (tintinnabuli-stijl).
+
+*   **Toelichting:** De tekst van Maria ("Mijn ziel maakt groot de Heer") sluit aan bij haar rol in Kana ("Doe wat Hij u zegt"). De muziek is minimalistisch: met heel weinig middelen (schaarste) wordt een enorme spirituele ruimte (overvloed) gecreëerd.
+
+*   **Gebruik:** Tijdens de collecte of als introïtus.
+
+## 5. Literatuur en poëzie
+
+### Mustafa Stitou – Uit de bundel "Tempel" (2013)
+
+*   **Thematiek:** Stitou schrijft vaak over de stedelijke realiteit, religie en de ontmoeting tussen culturen.
+
+*   **Relevantie:** Zijn gedichten over de 'alledaagse heiligheid' in de stad sluiten aan bij de context van Delft-Zuid. Hij zoekt naar betekenis in de supermarkt of de flatwijk, vergelijkbaar met hoe Jezus een teken doet op een gewoon dorpsfeest.
+
+*   **Suggestie:** Het gedicht "Varkenshaas" (over de spanning tussen traditie en moderniteit) of fragmenten over de zoektocht naar zuiverheid.
+
+### Marieke Lucas Rijneveld – "Kalfsvlies" (2015)
+
+*   **Thematiek:** Het verlangen naar geborgenheid en het omgaan met gemis.
+
+*   **Relevantie:** Hoewel vaak rauw, verwoordt Rijneveld de 'dorst' van een generatie die opgroeit in een wereld waar de oude zekerheden (de wijn) op zijn. Bruikbaar om de existentiële nood van de jongere hoorder (studenten TU Delft) te benoemen.
+
+## 6. Praktische tips voor de Vierhovenkerk
+
+*   **Projectie:** Toon het werk van **Makoto Fujimura** tijdens de lezing van Johannes 2. De abstractie prikkelt de verbeelding meer dan een klassiek plaatje van kruiken.
+
+*   **Meditatiemoment:** Toon een afbeelding van een **Armeense Khachkar** (kruissteen) tijdens het luisteren naar de muziek van Komitas. Dit is een concreet eerbetoon aan de voorbereiders van de Week van Gebed.
+
+*   **Kindernevendienst:** Gebruik een kort fragment uit de animatiefilm **"Turning"** (over transformatie) of laat ze zelf 'onzichtbare tekeningen' maken met citroensap die pas zichtbaar worden bij warmte (als beeld voor het 'teken' dat verborgen is).
+
+*   **Rechten:** Afbeeldingen van het Rijksmuseum en veel werken op ArtBible.info zijn beschikbaar voor kerkelijk gebruik onder Creative Commons of publiek domein. Controleer bij hedendaagse kunstenaars zoals Fujimura altijd de officiële website voor 'educational use' voorwaarden.
