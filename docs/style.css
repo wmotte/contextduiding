@@ -133,6 +133,11 @@ body {
     flex-shrink: 0;
 }
 
+/* Hide toggle button on desktop */
+.sidebar-toggle {
+    display: none;
+}
+
 .sidebar-header {
     padding: 20px;
     border-bottom: 2px solid var(--border-color);
@@ -464,9 +469,9 @@ body {
         display: none;
     }
 
-    /* Toggle button for collapsed sidebar */
+    /* Toggle button for collapsed sidebar - only visible when collapsed on mobile */
     .sidebar-toggle {
-        display: none;
+        display: block;
         width: 100%;
         padding: 12px;
         background: var(--sidebar-bg);
