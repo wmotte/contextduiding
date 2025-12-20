@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const contentOverview = document.getElementById('content-overview');
     const contentDetails = document.getElementById('content-details');
     const backToTopBtn = document.getElementById('back-to-top');
+    const sidebar = document.querySelector('.sidebar');
+    const sidebarToggle = document.getElementById('sidebar-toggle');
 
     // --- State ---
     // Structure: { "GemeenteNaam": { "file.md": FileObject|String, ... } }
@@ -183,7 +185,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const targetSection = document.getElementById(`section-${filename}`);
         if (targetSection) {
             targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            // Collapse sidebar on mobile after selecting a section
+            if (isMobile()) {
+                setTimeout(() => collapseSidebar(), 300);
+            }
         }
+    }
+
+    // Check if mobile (defined early for use in scrollToSection)
+    function isMobile() {
+        return window.innerWidth <= 768;
     }
 
     // Update active section in submenu based on scroll position
@@ -227,6 +238,9 @@ document.addEventListener('DOMContentLoaded', () => {
         liElement.classList.add('active');
         liElement.querySelector('.municipality-btn').classList.add('active');
         currentMunicipality = dirName;
+
+        // Update toggle button text on mobile
+        updateToggleButtonText();
         
         pageTitle.textContent = formatName(dirName);
         placeholder.classList.add('hidden');
@@ -303,6 +317,37 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const mainHeader = document.querySelector('.main-header');
 
+    // --- Mobile Sidebar Collapse ---
+    let lastScrollTop = 0;
+
+    function collapseSidebar() {
+        if (isMobile() && currentMunicipality) {
+            sidebar.classList.add('collapsed');
+            updateToggleButtonText();
+        }
+    }
+
+    function expandSidebar() {
+        sidebar.classList.remove('collapsed');
+    }
+
+    function updateToggleButtonText() {
+        if (currentMunicipality) {
+            sidebarToggle.innerHTML = `${formatName(currentMunicipality)} <span class="toggle-icon">▼</span>`;
+        } else {
+            sidebarToggle.innerHTML = `Menu openen <span class="toggle-icon">▼</span>`;
+        }
+    }
+
+    // Toggle button click handler
+    sidebarToggle.addEventListener('click', () => {
+        if (sidebar.classList.contains('collapsed')) {
+            expandSidebar();
+        } else {
+            collapseSidebar();
+        }
+    });
+
     // --- FAB Handling ---
     // Scroll listener on the report container
     reportContainer.addEventListener('scroll', () => {
@@ -320,6 +365,14 @@ document.addEventListener('DOMContentLoaded', () => {
             mainHeader.classList.add('scrolled');
         } else {
             mainHeader.classList.remove('scrolled');
+        }
+
+        // Auto-collapse sidebar on mobile when scrolling down
+        if (isMobile() && currentMunicipality) {
+            if (scrollTop > lastScrollTop && scrollTop > 100) {
+                collapseSidebar();
+            }
+            lastScrollTop = scrollTop;
         }
 
         // Update active section in submenu

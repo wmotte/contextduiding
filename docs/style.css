@@ -446,6 +446,55 @@ body {
         border-right: none;
         border-bottom: 1px solid var(--border-color);
         flex-shrink: 0;
+        transition: max-height 0.3s ease, min-height 0.3s ease;
+    }
+
+    /* Collapsed sidebar state on mobile */
+    .sidebar.collapsed {
+        max-height: 44px;
+        min-height: 44px;
+        overflow: hidden;
+    }
+
+    .sidebar.collapsed .sidebar-header {
+        display: none;
+    }
+
+    .sidebar.collapsed #municipality-list {
+        display: none;
+    }
+
+    /* Toggle button for collapsed sidebar */
+    .sidebar-toggle {
+        display: none;
+        width: 100%;
+        padding: 12px;
+        background: var(--sidebar-bg);
+        border: none;
+        border-bottom: 1px solid var(--border-color);
+        font-family: var(--font-sans);
+        font-size: 0.85rem;
+        color: var(--accent-color);
+        cursor: pointer;
+        text-align: center;
+    }
+
+    .sidebar-toggle:hover {
+        background: #ebe7de;
+    }
+
+    .sidebar.collapsed .sidebar-toggle {
+        display: block;
+    }
+
+    .sidebar-toggle .toggle-icon {
+        margin-left: 8px;
+        display: inline-block;
+        transition: transform 0.3s;
+    }
+
+    .sidebar.collapsed .sidebar-toggle .toggle-icon {
+        transform: rotate(180deg);
     }
 
     .main-header {
