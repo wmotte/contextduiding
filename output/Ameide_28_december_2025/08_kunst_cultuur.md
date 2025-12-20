@@ -1,103 +1,119 @@
-# Kunst, Cultuur en Film bij de Schriftlezingen: 28 december 2025
+# Kunst en Cultuur bij de Schriftlezingen: 28 december 2025
 
-Deze analyse biedt concrete suggesties voor kunst en cultuur bij de diensten in de Sionkerk te Ameide op de zondag van de Onschuldige Kinderen. De selectie is afgestemd op de nuchtere, analytische toon van de methodiek De Leede & Stark en de specifieke context van de Alblasserwaard.
+Deze analyse biedt een selectie van kunstwerken en cultuuruitingen die aansluiten bij de thematiek van de Onschuldige Kinderen en de vlucht naar Egypte, toegespitst op de context van de Sionkerk te Ameide.
 
 ## 1. Moderne en hedendaagse kunst
 
-### Kehinde Wiley – *The Massacre of the Innocents* (2017)
+### Käthe Kollwitz – *Turm der Mütter* (Toren van de moeders, 1937/1938)
 
-*   **Beschrijving:** Wiley herinterpreteert het klassieke thema door zwarte mannen in hedendaagse kleding (hoodies, sneakers) te plaatsen in de gewelddadige composities van barokmeesters.
+*   **Beschrijving:** Een bronzen sculptuur van een groep moeders die in een cirkel staan, naar buiten gekeerd, om hun kinderen in het midden te beschermen tegen een onzichtbaar gevaar.
 
-*   **Homiletische waarde:** Dit werk haalt het Bijbelverhaal uit de sfeer van 'vroeger' en plaatst het in de rauwe werkelijkheid van modern (institutioneel) geweld. Voor de Sionkerk biedt dit een scherp contrast: de kwetsbaarheid van het kind tegenover de hardheid van de straat en de macht. Het dwingt de hoorder om de 'onschuldige kinderen' te zien in de gemarginaliseerde groepen van vandaag.
+*   **Homiletische waarde:** Dit werk verbeeldt de actieve weerstand van de moederlijke zorg tegenover politiek en militair geweld. Waar Matteüs 2 de moord beschrijft, toont Kollwitz de wanhopige maar vastberaden poging tot bewaring. Het sluit aan bij de 'stem van Rachel' (Jeremia 31) die niet alleen weent, maar ook symbool staat voor de bescherming van de volgende generatie. In de context van Ameide raakt dit aan de sterke dorpscohesie en de collectieve wil om de jeugd te behoeden voor de hardheid van de buitenwereld.
 
-*   **Zoekterm:** `Kehinde Wiley Massacre of the Innocents 2017`
+*   **Zoekterm:** `Käthe Kollwitz Turm der Mütter sculpture`
 
-### Banksy – *The Scar of Bethlehem* (2019)
+### Timothy Schmalz – *Angels Unawares* (2019)
 
-*   **Beschrijving:** Een kerststal (nativity scene) geplaatst voor een betonnen scheidingsmuur waar een inslag van een granaat of kogel de vorm van een ster aanneemt.
+*   **Beschrijving:** Een levensgrote bronzen sculptuur van een boot vol vluchtelingen uit verschillende tijden en culturen. In het midden zijn engelenvleugels zichtbaar, wat verwijst naar Hebreeën 13:2.
 
-*   **Homiletische waarde:** Dit werk verbindt de geboorte van Christus direct met politieke bezetting en geweld. Het sluit aan bij de evangelielezing (Matteüs 2) waarin de politieke dreiging van Herodes de idylle van de stal doorbreekt. Het is een nuchter beeld dat de 'vrede op aarde' confronteert met de realiteit van muren en conflict.
+*   **Homiletische waarde:** Dit werk haalt de vlucht naar Egypte uit de sfeer van de kerstkaart en plaatst het in de mondiale geschiedenis van migratie. Het verbindt de heilige familie direct met de huidige vluchtelingenproblematiek (zoals de noodopvang in Vianen). De aanwezigheid van de engel in de boot resoneert met de engel die Jozef in de droom verscheen: goddelijke bewaring is aanwezig midden in de onzekerheid van de vlucht.
 
-*   **Zoekterm:** `Banksy Scar of Bethlehem Walled Off Hotel`
+*   **Zoekterm:** `Timothy Schmalz Angels Unawares sculpture St. Peter's Square`
 
-### Ai Weiwei – *Laundromat* (2016)
+### Doris Salcedo – *Noviembre 6 y 7* (2002)
 
-*   **Beschrijving:** Een installatie bestaande uit duizenden zorgvuldig gewassen, gestreken en geordende kledingstukken en schoenen van vluchtelingen uit het kamp Idomeni.
+*   **Beschrijving:** Een installatie waarbij 280 houten stoelen langzaam langs de gevel van het Paleis van Justitie in Bogotá naar beneden werden gelaten, ter herdenking van de slachtoffers van een gewelddadige aanval.
 
-*   **Homiletische waarde:** Waar de tekst spreekt over de vlucht naar Egypte, maakt Ai Weiwei de vluchtelingencrisis tastbaar door de afwezigheid van de lichamen. De ordening doet denken aan de administratieve kilheid van machthebbers (Herodes), terwijl de kledingstukken de menselijke maat en de kwetsbaarheid van gezinnen representeren. Zeer relevant in het licht van de noodopvang in Vianen (december 2025).
+*   **Homiletische waarde:** De lege stoelen representeren de afwezigen, degenen die er 'niet meer zijn' (Matteüs 2:18). Het werk is abstract en vermijdt expliciet geweld, maar maakt het verlies tastbaar. Voor de hoorder in Ameide, die eind december reflecteert op de lege plaatsen in de gemeenschap en de familie, biedt dit beeld een krachtige visualisatie van het 'niet getroost willen worden'.
 
-*   **Zoekterm:** `Ai Weiwei Laundromat installation refugee clothes`
+*   **Zoekterm:** `Doris Salcedo Noviembre 6 y 7 chairs installation`
+
+### James Turrell – *Skyspace* (diverse locaties)
+
+*   **Beschrijving:** Een architecturale ruimte met een opening in het plafond die direct zicht biedt op de hemel, waarbij de lichtinval de waarneming van kleur en ruimte verandert.
+
+*   **Homiletische waarde:** Dit werk kan dienen als visuele ondersteuning bij Openbaring 21. Het focust op de ervaring van licht en de 'nieuwe hemel'. Het biedt een meditatieve tegenhanger voor de 'nacht' van de vlucht. Het nodigt uit tot een verstilde blik op de eschatologische horizon: een plek waar de zee (chaos) niet meer is en alleen het zuivere licht overblijft.
+
+*   **Zoekterm:** `James Turrell Skyspace installation light`
 
 ## 2. Klassieke christelijke kunst
 
-### Pieter Bruegel de Oude – *De kindermoord te Bethlehem* (ca. 1565-1567)
+### Henry Ossawa Tanner – *The Flight into Egypt* (1923)
 
-*   **Beschrijving:** Bruegel verplaatst het Bijbelse tafereel naar een besneeuwd Nederlands dorp tijdens de Tachtigjarige Oorlog. Spaanse soldaten vallen het dorp binnen.
+*   **Beschrijving:** Een schilderij dat de vlucht weergeeft in een diepblauw nachtelijk licht. De figuren zijn klein en bijna opgenomen in het landschap; de nadruk ligt op de stilte en de verborgenheid.
 
-*   **Homiletische waarde:** Dit is het meest relevante klassieke werk voor Ameide. De setting (een dorp in de sneeuw, herkenbare architectuur) brengt het onheil heel dichtbij de eigen leefomgeving. Het laat zien dat het 'kwaad van Herodes' zich overal kan manifesteren, ook in een rustige dorpsgemeenschap. Het werk nodigt uit tot een gesprek over collectieve angst en de impact van macht op het dagelijks leven.
+*   **Homiletische waarde:** Tanner, een Afro-Amerikaanse schilder, brengt een sfeer van kwetsbaarheid en nuchterheid aan die goed past bij de signatuur van de Sionkerk. Geen triomfalisme, maar de realiteit van het 'uitwijken' terwijl het nog nacht is. Het benadrukt de menselijke maat van de incarnatie.
 
-*   **Bron:** [Rijksmuseum - Zoek: Pieter Bruegel de Oude Kindermoord](https://www.rijksmuseum.nl/nl/zoeken?q=Pieter+Bruegel+de+Oude+Kindermoord)
+*   **Zoekterm:** `Henry Ossawa Tanner Flight into Egypt 1923 Metropolitan Museum`
 
-### Giotto di Bondone – *De vlucht naar Egypte* (ca. 1304-1306, Scrovegni-kapel)
+### Koptische Icoon – *De Vlucht naar Egypte*
 
-*   **Beschrijving:** Een fresco dat de heilige familie toont tijdens hun tocht door een dor landschap. De focus ligt op de vastberadenheid van Jozef en de beschermende houding van Maria.
+*   **Beschrijving:** Iconen uit de Egyptisch-orthodoxe traditie tonen de heilige familie vaak op een boot op de Nijl of rustend onder een boom (de boom van Matariya).
 
-*   **Homiletische waarde:** In tegenstelling tot de chaos van de kindermoord, biedt dit werk een beeld van 'bewaring' (Psalm 124). De nuchtere, bijna zakelijke weergave van de reis past bij de sfeer van de Sionkerk. Het benadrukt de menselijke inspanning die nodig is om het goddelijke kind te beschermen.
+*   **Homiletische waarde:** Omdat de Koptische kerk zichzelf ziet als de directe erfgenaam van dit Bijbelverhaal, geeft deze iconografie een lokaal perspectief aan de tekst. Het benadrukt dat Egypte niet alleen een land van slavernij was (Exodus), maar ook een land van toevlucht. Dit biedt een interessante invalshoek voor de preek over 'vijandelijk land' dat een veilige haven wordt.
 
-*   **Zoekterm:** `Giotto Flight into Egypt Scrovegni Chapel`
+*   **Zoekterm:** `Coptic icon Flight into Egypt Matariya tree`
 
 ## 3. Film en documentaire
 
-### *Children of Men* (Regie: Alfonso Cuarón, 2006)
+### *Flee* (Regie: Jonas Poher Rasmussen, 2021)
 
-*   **Fragment:** De scène waarin een baby wordt gedragen door een belegerd flatgebouw en de soldaten en rebellen kortstondig het vuren staken uit ontzag voor het nieuwe leven.
+*   **Fragment:** De geanimeerde scènes waarin de hoofdpersoon als kind moet vluchten uit Afghanistan en de jarenlange onzekerheid die volgt.
 
-*   **Homiletische waarde:** Deze film verkent een wereld zonder hoop (geen geboortes meer). De verschijning van één kind verandert de dynamiek van geweld. Dit opent het thema van de 'kwetsbaarheid als kracht' en de eschatologische hoop uit Openbaring 21 in een wereld die getekend is door conflict.
+*   **Homiletische waarde:** Deze documentaire maakt de psychologische impact van vluchten inzichtelijk. De animatiestijl zorgt voor een zekere distantie die de rauwheid draaglijk maakt, maar de emotionele kern (het verlies van thuis) versterkt. Het geeft een gezicht aan de 'kinderen van Herodes' in de 21e eeuw.
 
-*   **IMDB:** [Children of Men (2006)](https://www.imdb.com/title/tt0206634/)
+*   **Zoekterm:** `Flee 2021 film Jonas Poher Rasmussen`
 
-### *Human Flow* (Regie: Ai Weiwei, 2017)
+### *The Road* (Regie: John Hillcoat, 2009)
 
-*   **Fragment:** De beelden van grootschalige menselijke verplaatsingen, gefilmd met drones, die de schaal van de mondiale vluchtelingencrisis tonen.
+*   **Fragment:** De scènes waarin de vader zijn zoon beschermt in een post-apocalyptische wereld, waarbij hij herhaalt dat zij "het vuur dragen".
 
-*   **Homiletische waarde:** Deze documentaire biedt de sociaal-maatschappelijke context bij de vlucht naar Egypte. Het helpt om de Bijbeltekst te onttrekken aan de sfeer van een 'zondagsschoolverhaal' en te verbinden met de harde politieke realiteit van 2025.
+*   **Homiletische waarde:** Hoewel de film somber is, resoneert het thema van de vader die alles opoffert om de onschuld van zijn kind te bewaren met de rol van Jozef in Matteüs 2. Het 'dragen van het vuur' kan homiletisch verbonden worden met het bewaren van het Licht van de wereld in een donkere tijd.
 
-*   **IMDB:** [Human Flow (2017)](https://www.imdb.com/title/tt6673454/)
+*   **Zoekterm:** `The Road 2009 film John Hillcoat carrying the fire`
 
 ## 4. Muziek (buiten het Liedboek)
 
-### Max Richter – *On the Nature of Daylight* (2004)
+### Philip Stopford – *Lully, Lulla, Lullay* (2008)
 
-*   **Karakter:** Een melancholisch, minimalistisch strijkkwartet dat zowel diep verdriet als een sprankje hoop uitstraalt.
+*   **Karakter:** Een moderne zetting van het 16e-eeuwse *Coventry Carol*. Het is een slaapliedje gezongen door de moeders van Bethlehem voor hun kinderen, wetende dat de soldaten van Herodes komen.
 
-*   **Gebruik:** Uitermate geschikt als achtergrondmuziek tijdens een meditatief moment na de preek of bij het tonen van de afbeelding van Bruegel. Het verklankt de 'stem van Rachel' (Jeremia 31) zonder woorden te gebruiken.
+*   **Gebruik:** De combinatie van de tederheid van een wiegelied met de dreiging van de tekst maakt de spanning van 28 december hoorbaar. Zeer geschikt voor uitvoering door een koor of als luistermoment.
 
-### Arvo Pärt – *Da Pacem Domine* (2004)
+*   **Zoekterm:** `Philip Stopford Lully Lulla Lullay St. Anne's Cathedral Choir`
 
-*   **Karakter:** Een verstild, spiritueel werk dat smeekt om vrede. De structuur is sober en transparant.
+### Arvo Pärt – *Silouan's Song* (1991)
 
-*   **Gebruik:** Passend bij de afsluiting van de dienst of als overgang naar de lezing uit Openbaring 21. Het biedt een liturgisch tegenwicht aan de gewelddadige thematiek van de zondag.
+*   **Karakter:** Een meditatief werk voor strijkorkest, gebaseerd op de teksten van de monnik Silouan de Athoniet: "Mijn ziel dorst naar de Heer".
 
-## 5. Literatuur en poëzie
+*   **Gebruik:** De verstilde, bijna ascetische klank past bij de nuchtere sfeer van de Alblasserwaard en biedt ruimte voor de klacht van Rachel zonder in sentimentaliteit te vervallen.
 
-### M. Vasalis – *De Vogel* (uit: *Parken en woestijnen*, 1940)
+*   **Zoekterm:** `Arvo Pärt Silouan's Song My soul yearns for the Lord`
 
-*   **Thema:** De kwetsbaarheid van het leven en de dreiging van buitenaf.
+## 5. Literatuur
 
-*   **Relevantie:** De regels over de vogel die "vliegt in de blauwe lucht" terwijl de dreiging nabij is, resoneren met de sfeer van Psalm 124 ("Onze ziel is als een vogel ontsnapt").
+### Marieke Lucas Rijneveld – *De avond is ongemak* (Atlas Contact, 2018)
 
-### W.H. Auden – *For the Time Being: A Christmas Oratorio* (1942)
+*   **Thema:** Een gereformeerd boerengezin dat ontwricht raakt door het verlies van een kind.
 
-*   **Fragment:** Het deel 'The Massacre of the Innocents'. Auden laat Herodes aan het woord als een rationele, moderne bureaucraat die het kind moet doden om de 'orde' te bewaren.
+*   **Relevantie:** De setting (het rivierenlandschap, de agrarische context, de religieuze taal) vertoont sterke parallellen met de omgeving van Ameide. Het boek verkent hoe een gezin omgaat met 'het ongetrooste'. De nuchtere, soms rauwe beschrijvingen van het boerenleven en het geloof bieden een herkenbaar aanknopingspunt voor de hoorder.
 
-*   **Relevantie:** Dit biedt een intellectuele uitdaging voor de hoorder: het kwaad is vaak niet monsterlijk, maar schuilt in de wens om alles onder controle te houden. Dit sluit aan bij de politieke oriëntatie van de hoorder die waarde hecht aan orde en stabiliteit.
+*   **Zoekterm:** `Marieke Lucas Rijneveld De avond is ongemak thematiek verlies`
+
+### Cormac McCarthy – *The Road* (Knopf, 2006)
+
+*   **Thema:** De ultieme verantwoordelijkheid voor het kwetsbare leven in een vijandige omgeving.
+
+*   **Relevantie:** De dialoog tussen vader en zoon over goed en kwaad en de noodzaak om te blijven lopen (vluchten) biedt een existentieel kader voor de tocht van Jozef en Maria.
+
+*   **Zoekterm:** `Cormac McCarthy The Road analysis father son relationship`
 
 ## 6. Praktische tips voor Sionkerk Ameide
 
-*   **Projectie:** Toon het schilderij van **Pieter Bruegel** tijdens de schriftlezing van Matteüs 2. De herkenbaarheid van het winterse dorp zal de aandacht van de gemeente (inclusief de jongeren) vasthouden.
+*   **Projectie tijdens de dienst:** Toon de sculptuur **Angels Unawares** van Timothy Schmalz tijdens de lezing van Psalm 124. De dynamiek van de boot en de verborgen engel versterkt de tekst over de 'vogel die ontsnapt'.
 
-*   **Meditatief moment:** Toon na de preek gedurende 2 minuten een detail van **Banksy's *Scar of Bethlehem*** (de kogelinslag als ster) terwijl **Max Richter** zacht speelt. Dit verbindt de kerstster met de gebrokenheid van de wereld.
+*   **Meditatief moment:** Gebruik na de preek een afbeelding van **Henry Ossawa Tanner's *Flight into Egypt***. Laat deze 90 seconden staan in stilte, of begeleid door de muziek van **Arvo Pärt**. De diepblauwe kleuren van het schilderij sluiten aan bij de 'nacht' van de vlucht en de eindejaarsbezinning.
 
-*   **Kindernevendienst:** Gebruik een afbeelding van de **vlucht naar Egypte van Giotto**. Focus op het aspect van 'op reis gaan naar een veilige plek' en leg de link met de noodopvang in de regio, zonder de politieke discussie te laden, maar vanuit de menselijke zorg voor het kind.
+*   **Aansluiting bij de actualiteit:** Leg bij het tonen van de stoelen van **Doris Salcedo** een verbinding met de lokale zorg over de begraafplaatsen in Vijfheerenlanden (januari 2026). Het beeld van de stoel als 'plaatsvervanger' voor de mens kan helpen om het verdriet over verdwijnende monumenten een plek te geven in de liturgie.
 
-*   **Rechten:** De werken van Bruegel en Giotto zijn publiek domein. Afbeeldingen van Banksy en Ai Weiwei vallen onder citaatrecht bij gebruik in een kerkdienst, mits de bron wordt vermeld in de liturgie of op de beamer.
+*   **Rechten:** De werken van Käthe Kollwitz en Henry Ossawa Tanner zijn publiek domein. Voor hedendaagse werken (Schmalz, Salcedo) volstaat bronvermelding bij gebruik voor educatieve/liturgische doeleinden binnen de kerkelijke gemeente.
