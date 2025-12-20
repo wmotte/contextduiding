@@ -139,8 +139,10 @@ def read_previous_analyses(folder: Path) -> dict:
         ("06_politieke_orientatie.md", "politieke_orientatie"),
         ("07_exegese.md", "exegese"),
         ("08_kunst_cultuur.md", "kunst_cultuur"),
+        ("09_focus_en_functie.md", "focus_en_functie"),
         ("10_kalender.md", "kalender"),
         ("11_representatieve_hoorders.md", "representatieve_hoorders"),
+        ("12_homiletische_analyse.md", "homiletische_analyse"),
     ]
 
     for filename, key in files_to_read:
@@ -245,6 +247,10 @@ def build_context_string(previous_analyses: dict, limited: bool = False) -> str:
         sections.append("## Kunst en Cultuur\n\n" +
                        previous_analyses["kunst_cultuur"])
 
+    if previous_analyses.get("focus_en_functie"):
+        sections.append("## Focus en Functie\n\n" +
+                       previous_analyses["focus_en_functie"])
+
     if previous_analyses.get("kalender"):
         sections.append("## Kalender\n\n" +
                        previous_analyses["kalender"])
@@ -252,6 +258,10 @@ def build_context_string(previous_analyses: dict, limited: bool = False) -> str:
     if previous_analyses.get("representatieve_hoorders"):
         sections.append("## Representatieve Hoorders\n\n" +
                        previous_analyses["representatieve_hoorders"])
+
+    if previous_analyses.get("homiletische_analyse"):
+        sections.append("## Homiletische Analyse\n\n" +
+                       previous_analyses["homiletische_analyse"])
 
     return "\n\n---\n\n".join(sections)
 
@@ -439,6 +449,7 @@ def update_summary(output_dir: Path):
         ("09_focus_en_functie", "Focus en Functie"),
         ("10_kalender", "Kalender"),
         ("11_representatieve_hoorders", "Representatieve Hoorders"),
+        ("12_homiletische_analyse", "Homiletische Analyse (Lowry's Plot)"),
     ]
 
     for name, title in new_analyses:
@@ -530,6 +541,7 @@ def main():
         ("09_focus_en_functie", "Focus en Functie"),
         ("10_kalender", "Kalender: Gedenkdagen en Bijzondere Momenten"),
         ("11_representatieve_hoorders", "Representatieve Hoorders"),
+        ("12_homiletische_analyse", "Homiletische Analyse (Lowry's Plot)"),
     ]
 
     # Mapping van oude naar nieuwe bestandsnamen (voor backwards compatibility)

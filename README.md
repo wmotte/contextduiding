@@ -72,13 +72,14 @@ De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, 
 
 ### 📚 Verdieping (verdieping.py)
 
-Na de basisanalyse kan een verdieping worden uitgevoerd met vijf extra analyses:
+Na de basisanalyse kan een verdieping worden uitgevoerd met zes extra analyses:
 
 7. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
 8. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
 9. **Focus en Functie** - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
 10. **Kalender** - Gedenkdagen, heiligen, Joodse feestdagen, VN-dagen, nationale feestdagen, schoolvakanties, astronomie en weer
 11. **Representatieve Hoorders** - Vijf fictieve personages (16-80 jaar) die de diversiteit van de gemeente representeren
+12. **Homiletische Analyse** - [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_Homiletical_Plot.md) - Preekschets volgens de vijf stadia van Eugene Lowry (OOPS! → UGH! → AHA! → WHEE! → YEAH!)
 
 Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als context.
 
@@ -169,6 +170,7 @@ output/Plaatsnaam_datum_timestamp/
 ├── 09_focus_en_functie.md                 # Focus en Functie (via verdieping.py)
 ├── 10_kalender.md                         # Kalender met gedenkdagen (via verdieping.py)
 ├── 11_representatieve_hoorders.md         # Vijf personages (via verdieping.py)
+├── 12_homiletische_analyse.md             # Lowry's Homiletical Plot (via verdieping.py)
 └── bijbelteksten/                         # Naardense Bijbel teksten (via verdieping.py)
     ├── jesaja_91-6.txt
     ├── lucas_21-14.txt
@@ -196,7 +198,8 @@ contextduiding/
 │   ├── 08_kunst_cultuur.md                 # Kunst en cultuur (verdieping)
 │   ├── 09_focus_en_functie.md              # Focus en Functie (verdieping)
 │   ├── 10_kalender.md                      # Kalender met gedenkdagen (verdieping)
-│   └── 11_representatieve_hoorders.md      # Personages (verdieping)
+│   ├── 11_representatieve_hoorders.md      # Personages (verdieping)
+│   └── 12_homiletische_analyse.md          # Lowry's Homiletical Plot (verdieping)
 ├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
 ├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
 ├── .env                                    # API key (niet in git)
@@ -366,6 +369,27 @@ Vijf fictieve personages die de diversiteit van de gemeente representeren:
 
 Bronnen: gebaseerd op de sociaal-maatschappelijke context, waardenoriëntatie en geloofsoriëntatie analyses
 
+### 12. Homiletische Analyse (verdieping)
+Een preekschets volgens Eugene Lowry's "Homiletical Plot" — de preek als narratieve kunstvorm. Lowry ziet de preek niet als een statische constructie van punten, maar als een **narratieve reis**: een gebeurtenis-in-de-tijd met spanning die wordt opgebouwd en opgelost.
+
+**De vijf stadia:**
+1. **OOPS!** (Verstoren van het evenwicht) — Een concrete, herkenbare ongerijmdheid of vraag introduceren
+2. **UGH!** (Analyseren van de discrepantie) — Het probleem niet wegpoetsen, maar uitdiepen. Waarom is dit zo hardnekkig?
+3. **AHA!** (Onthullen van de sleutel) — De verrassende wending vanuit de tekst, het "scharnierpunt"
+4. **WHEE!** (Ervaren van het evangelie) — De opluchting dat het anders kan, de rust van het evangelie
+5. **YEAH!** (Anticiperen op de gevolgen) — De vertaling naar het gewone leven, open en hoopvol
+
+**Kernprincipes:**
+- De preek beweegt van "itch" (jeuk/probleem) naar "scratch" (krabben/oplossing)
+- Het principe van **omkering**: de sleutel komt vaak als verrassing, keert conventionele wijsheid om
+- Ambiguïteit houdt de aandacht vast; geef de oplossing niet te vroeg weg
+- Het hoogtepunt ligt bij stadium 4 (evangelie), niet bij stadium 5 (toepassing)
+
+**Integratie van voorgaande analyses:**
+De schets maakt expliciet gebruik van de sociaal-maatschappelijke context, representatieve hoorders, exegese, kunst/cultuur en actualiteit. De LLM kiest welke lezing centraal staat op basis van waar de meeste spanning of urgentie ligt voor de hoorders.
+
+Zie: [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_Homiletical_Plot.md)
+
 ## 📚 Bronnen
 
 ### Gebruikte bronnen door het script
@@ -381,6 +405,8 @@ Bronnen: gebaseerd op de sociaal-maatschappelijke context, waardenoriëntatie en
 ### Literatuur
 - De Leede, H. & Stark, C. (2017). *Ontvouwen: Protestantse prediking in de praktijk*. Zoetermeer: Boekencentrum, pp. 73-81.
 - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
+- Lowry, E.L. (1980/2001). *The Homiletical Plot: The Sermon as Narrative Art Form*. Expanded Edition. Louisville: Westminster John Knox Press.
+- [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_Homiletical_Plot.md) (Uitgebreide samenvatting in het Nederlands)
 - Niebergall, F. (1971). 'Die moderne Predigt', in: Hummel, G., *Aufgabe der Predigt*. Darmstadt: Wissenschaftliche Buchgesellschaft.
 - Snoek, H. (2010). *Een huis om in te wonen: Uitleg en interpretatie van de Bijbel*. Kampen: Kok, 2e druk, pp. 180-199. (Zoekmodellen voor Gods-, mens- en Jezusbeelden)
 - Motivaction. *Mentality-model*. https://www.motivaction.nl/mentality
