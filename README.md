@@ -1,3 +1,5 @@
+![Contextduiding Banner](misc/banner.png)
+
 # Contextduiding voor Preekvoorbereiding
 
 Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding in de PKN, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).
