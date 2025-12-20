@@ -17,25 +17,32 @@ De liturgische gegevens, Schriftlezingen en gemeentecontext zijn hierboven verme
 - Vermijd standaardformuleringen in de argumentatie ("dit werk raakt aan...", "de kunstenaar brengt prachtig tot uitdrukking...")
 - Wees concreet en specifiek over wat een werk toevoegt aan het verstaan van de tekst
 
-## Belangrijk: alleen verifieerbare informatie
-- **Verzin GEEN URLs** - geef alleen links die je daadwerkelijk hebt gevonden via Google Search
-- Als je geen werkende link kunt vinden, geef dan een zoekterm waarmee het werk te vinden is (bijv. "zoek: [kunstenaar] [titel] site:rijksmuseum.nl")
+## Belangrijk: geen URLs, alleen zoektermen
+- **Genereer NOOIT URLs** - URLs leiden vaak tot hallucinaties en dode links
+- Geef in plaats daarvan altijd een zoekterm in dit formaat:
+  - `Zoekterm: Timothy Schmalz Homeless Jesus sculpture`
+  - `Zoekterm: Rembrandt Terugkeer Verloren Zoon Hermitage`
+  - `Zoekterm: Babette's Feast 1987 film IMDB`
+  - `Zoekterm: Mare of Easttown HBO Kate Winslet`
 - Controleer of kunstwerken, boeken en films daadwerkelijk bestaan voordat je ze noemt
-- Bij twijfel: noem het werk zonder URL, met instructie hoe te zoeken
 - Vermeld bij boeken: auteur, titel, uitgever/jaar indien bekend
-- Vermeld bij films: regisseur, jaar, zodat het verifieerbaar is
+- Vermeld bij films: regisseur, jaar - zodat het verifieerbaar is via zoeken
 
 ## Onderzoek en rapporteer over:
 
-### 1. Moderne en hedendaagse kunst
-Geef prioriteit aan hedendaagse verbeeldingen:
+**BELANGRIJK: Volgorde van presentatie**
+Begin ALTIJD met moderne/hedendaagse kunst, daarna pas klassieke kunst. Deze volgorde is essentieel omdat hedendaagse verbeeldingen vaak verrassender en relevanter zijn voor de huidige hoorders.
+
+### 1. Moderne en hedendaagse kunst (EERST behandelen)
+Dit is de belangrijkste categorie - besteed hier de meeste aandacht aan:
 - Welke 20e en 21e-eeuwse kunstenaars hebben dit thema verbeeld?
 - Zoek naar onverwachte, uitdagende of tegendraadse interpretaties
 - Abstracte kunst die het thema op een andere manier opent
 - Fotografie, videokunst en digitale kunst
 - Street art en installatiekunst
+- Hedendaagse sculpturen (bijv. Timothy Schmalz, Kiki Smith)
 
-### 2. Klassieke christelijke kunst
+### 2. Klassieke christelijke kunst (NA de moderne kunst)
 Zoek naar minder bekende klassieke verbeeldingen:
 - **Schilderkunst:** Niet alleen de usual suspects, maar ook minder bekende meesters
 - **Iconen:** Oosters-orthodoxe iconografie bij het thema
@@ -63,12 +70,11 @@ Let op: geef concrete titels, regisseurs en waar mogelijk tijdscodes of scènes.
 - **Oratoria en cantates:** Die de lezingen verklanken
 - **Liederen:** Van Taizé, Iona, of andere bronnen
 
-### 5. Literatuur en poëzie
+### 5. Literatuur
 - **Moderne romans en novelles:** Hedendaagse literatuur die thematisch resoneert
 - **Literaire thrillers:** Spannende verhalen met existentiële of ethische diepgang
 - **Klassieke romans:** Die het thema verkennen (Dostojevski, Camus, Coetzee, etc.)
 - **Nederlandse literatuur:** Hermans, Mulisch, Enquist, Abdolah, en recenter werk
-- **Poëzie:** Nederlandse en internationale dichters (niet alleen de bekende kerkelijke dichters)
 - **Essays:** Die het thema vanuit onverwachte hoek belichten
 
 ### 6. Aansluiting bij de gemeentecontext
@@ -112,13 +118,14 @@ Lever een overzicht dat:
    - Titel, kunstenaar, jaartal
    - Korte beschrijving wat het werk laat zien
    - Concreet wat dit werk toevoegt aan het verstaan van de tekst (geen vage formuleringen)
-   - Alleen een URL als je die via search hebt gevonden, anders een zoekterm
+   - Een zoekterm in het formaat `Zoekterm: [kunstenaar] [titel] [eventueel museum/bron]`
 2. **Minimaal 2-3 film/video suggesties** met:
-   - Titel, regisseur, jaar (verifieerbaar via IMDB)
+   - Titel, regisseur, jaar
    - Relevante scène of fragment
    - Specifiek wat dit fragment kan openen
+   - Een zoekterm in het formaat `Zoekterm: [titel] [jaar] film [regisseur]`
 3. **Literatuursuggesties** met auteur, titel, jaar - zodat het te verifiëren is
-4. **Suggesties voor muziek en poëzie** die de dienst kunnen verrijken
+4. **Suggesties voor muziek** die de dienst kunnen verrijken
 5. **Praktische tips** voor gebruik in {{gemeente}}
 
 Streef naar originaliteit: liever één verrassende vondst dan vijf voorspelbare suggesties. Kwaliteit en verifieerbaarheid boven kwantiteit.

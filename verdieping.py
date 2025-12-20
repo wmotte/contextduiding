@@ -411,10 +411,23 @@ def main():
         ("09_focus_en_functie", "Focus en Functie"),
     ]
 
+    # Mapping van oude naar nieuwe bestandsnamen (voor backwards compatibility)
+    old_to_new = {
+        "07_exegese": "06_exegese",
+        "08_kunst_cultuur": "07_kunst_cultuur",
+        "09_focus_en_functie": "08_focus_en_functie",
+    }
+
     for name, title in analysis_definitions:
-        # Controleer of analyse al bestaat
+        # Controleer of analyse al bestaat (nieuwe of oude nummering)
+        existing_file = None
         if (folder / f"{name}.md").exists():
-            overwrite = input(f"\n{name}.md bestaat al. Overschrijven? (j/n): ").strip().lower()
+            existing_file = f"{name}.md"
+        elif name in old_to_new and (folder / f"{old_to_new[name]}.md").exists():
+            existing_file = f"{old_to_new[name]}.md"
+
+        if existing_file:
+            overwrite = input(f"\n{existing_file} bestaat al. Overschrijven? (j/n): ").strip().lower()
             if overwrite != 'j':
                 print(f"  Overgeslagen: {name}")
                 continue
