@@ -309,6 +309,101 @@ def create_summary(output_dir: Path, user_input: dict, analyses: list[dict]):
         f.write(summary)
 
 
+def list_output_folders() -> list[Path]:
+    """Lijst alle beschikbare output folders."""
+    if not OUTPUT_DIR.exists():
+        return []
+
+    folders = []
+    for item in OUTPUT_DIR.iterdir():
+        if item.is_dir() and not item.name.startswith("."):
+            # Controleer of er een 00_zondag_kerkelijk_jaar.md bestaat
+            # OF dat het een geldige output folder lijkt (bevat datum/plaats)
+            if (item / "00_zondag_kerkelijk_jaar.md").exists() or (item / "00_overzicht.md").exists():
+                folders.append(item)
+
+    return sorted(folders, key=lambda x: x.stat().st_mtime, reverse=True)
+
+
+def extract_user_input_from_folder(folder: Path) -> dict:
+    """Probeer plaatsnaam, gemeente en datum te extraheren uit de foldernaam of overzicht."""
+    # Probeer uit overzicht.md
+    overzicht = folder / "00_overzicht.md"
+    user_input = {"plaatsnaam": "", "gemeente": "", "datum": "", "extra_context": ""}
+
+    if overzicht.exists():
+        with open(overzicht, "r", encoding="utf-8") as f:
+            content = f.read()
+
+        for line in content.split("\n"):
+            if "**Plaatsnaam:**" in line:
+                user_input["plaatsnaam"] = line.split("**Plaatsnaam:**")[-1].strip()
+            elif "**Gemeente:**" in line:
+                user_input["gemeente"] = line.split("**Gemeente:**")[-1].strip()
+            elif "**Datum" in line:
+                parts = line.split(":**")
+                if len(parts) > 1:
+                    user_input["datum"] = parts[-1].strip()
+            elif "**Extra context:**" in line:
+                 user_input["extra_context"] = line.split("**Extra context:**")[-1].strip()
+
+    # Fallback: gebruik foldernaam
+    if not user_input["plaatsnaam"]:
+        parts = folder.name.split("_")
+        if parts:
+            user_input["plaatsnaam"] = parts[0]
+    
+    return user_input
+
+
+def select_startup_mode() -> tuple[str, Path | None]:
+    """
+    Laat de gebruiker kiezen: Nieuwe analyse of bestaande folder.
+    Returns: ('new', None) or ('existing', folder_path)
+    """
+    folders = list_output_folders()
+    
+    print("\n" + "=" * 60)
+    print("CONTEXTDUIDING: START")
+    print("=" * 60)
+    print("\nWat wilt u doen?\n")
+    print("  1. Nieuwe analyse starten")
+    
+    if folders:
+        print("\n  Bestaande analyses:")
+        for i, folder in enumerate(folders, 1):
+            # Tel bestaande analyses
+            existing = []
+            for num in range(7): # 00-06
+                pattern = f"{num:02d}_*.md"
+                if list(folder.glob(pattern)):
+                    existing.append(f"{num:02d}")
+            
+            print(f"  {i+1}. {folder.name}")
+            print(f"     Beschikbaar: {', '.join(existing)}")
+    else:
+        print("\n  (Geen eerdere analyses gevonden)")
+
+    print()
+    while True:
+        try:
+            choice = input("Kies een nummer (of 'q' om te stoppen): ").strip()
+            if choice.lower() == 'q':
+                sys.exit(0)
+            
+            idx = int(choice)
+            
+            if idx == 1:
+                return 'new', None
+            
+            if folders and 1 < idx <= len(folders) + 1:
+                return 'existing', folders[idx - 2]
+                
+            print("Ongeldig nummer, probeer opnieuw.")
+        except ValueError:
+            print("Voer een geldig nummer in.")
+
+
 def main():
     """Hoofdfunctie."""
     # Laad environment variables uit .env (optioneel)
@@ -320,12 +415,25 @@ def main():
                     k, v = line.strip().split("=", 1)
                     os.environ[k.strip()] = v.strip().strip('"\'')
 
-    user_input = get_user_input()
+    # Keuze: Nieuw of Bestaand
+    mode, folder = select_startup_mode()
+
+    if mode == 'new':
+        user_input = get_user_input()
+        output_dir = create_output_directory(user_input['plaatsnaam'], user_input['datum'])
+    else:
+        output_dir = folder
+        user_input = extract_user_input_from_folder(output_dir)
+        print(f"\nGegevens geladen uit: {output_dir.name}")
+        print(f"  Plaatsnaam: {user_input['plaatsnaam']}")
+        print(f"  Gemeente:   {user_input['gemeente']}")
+        print(f"  Datum:      {user_input['datum']}")
+        if user_input.get('extra_context'):
+             print(f"  Context:    {user_input['extra_context']}")
 
     print("\nGoogle GenAI Client (v1.0+) initialiseren...")
     client = get_gemini_client()
 
-    output_dir = create_output_directory(user_input['plaatsnaam'], user_input['datum'])
     print(f"Output directory: {output_dir}")
 
     print("\n" + "=" * 60)
@@ -338,17 +446,31 @@ def main():
     print("─" * 60)
 
     first_analysis = build_first_analysis(user_input)
-    kerkelijk_jaar_result = run_analysis(
-        client,
-        first_analysis['prompt'],
-        first_analysis['title']
-    )
-    save_analysis(
-        output_dir,
-        first_analysis['name'],
-        kerkelijk_jaar_result,
-        first_analysis['title']
-    )
+    
+    # Check of bestand bestaat
+    file_path = output_dir / f"{first_analysis['name']}.md"
+    run_this = True
+    
+    if file_path.exists():
+        overwrite = input(f"  {first_analysis['name']}.md bestaat al. Overschrijven? (j/n): ").strip().lower()
+        if overwrite != 'j':
+            run_this = False
+            print(f"  Gebruik bestaande: {first_analysis['name']}.md")
+            with open(file_path, "r", encoding="utf-8") as f:
+                kerkelijk_jaar_result = f.read()
+    
+    if run_this:
+        kerkelijk_jaar_result = run_analysis(
+            client,
+            first_analysis['prompt'],
+            first_analysis['title']
+        )
+        save_analysis(
+            output_dir,
+            first_analysis['name'],
+            kerkelijk_jaar_result,
+            first_analysis['title']
+        )
 
     # FASE 2: De overige analyses met de liturgische context
     print("\n" + "─" * 60)
@@ -356,10 +478,17 @@ def main():
     print("─" * 60)
 
     remaining_analyses = build_remaining_analyses(user_input, kerkelijk_jaar_result)
-
     all_analyses = [first_analysis] + remaining_analyses
 
     for analysis in remaining_analyses:
+        file_path = output_dir / f"{analysis['name']}.md"
+        
+        if file_path.exists():
+            overwrite = input(f"  {analysis['name']}.md bestaat al. Overschrijven? (j/n): ").strip().lower()
+            if overwrite != 'j':
+                print(f"  Overgeslagen: {analysis['name']}")
+                continue
+        
         result = run_analysis(client, analysis['prompt'], analysis['title'])
         save_analysis(output_dir, analysis['name'], result, analysis['title'])
 

@@ -1,75 +1,85 @@
-### 1. Landelijk stemgedrag in Leiden
+# Politieke Oriëntatie
 
-Bij de laatstgehouden Tweede Kamerverkiezingen (22 november 2023) week het stemgedrag in Leiden significant af van het landelijke gemiddelde. Waar de PVV landelijk de grootste partij werd, eindigde deze in Leiden op de vijfde plaats.
+De politieke oriëntatie van Leiden wordt gekenmerkt door een sterk progressief-liberaal profiel met een hoge mate van politieke betrokkenheid. Gezien de datum van 11 januari 2026 vindt deze analyse plaats kort na de landelijke verkiezingen van oktober 2025 en aan de vooravond van de gemeenteraadsverkiezingen van maart 2026.
 
-*   **Grootste partijen:** GroenLinks-PvdA was de overtuigende winnaar met 31,5% van de stemmen. De VVD volgde op afstand met 13,6%, gevolgd door NSC (11,2%) en D66 (10,9%). De PVV behaalde 10,5% (bron: Kiesraad/AlleCijfers.nl).
+### 0. Overzicht verkiezingsdata
 
-*   **Vergelijking met landelijk:** Leiden profileert zich als een progressief-liberaal bolwerk. Het percentage voor GroenLinks-PvdA ligt ruim twee keer zo hoog als het landelijke gemiddelde (15,5%). De PVV scoorde in Leiden minder dan de helft van haar landelijke resultaat (23,5%).
+Voor deze analyse zijn de volgende meest recente verkiezingsgegevens gebruikt:
 
-*   **Verschuivingen:** Ten opzichte van 2021 is er een consolidatie op links zichtbaar door de fusie van GL en PvdA. D66 verloor fors (van circa 20% naar 10,9%), wat deels ten goede kwam aan de linkse combinatie en NSC.
+*   **Tweede Kamerverkiezingen:** 29 oktober 2025 (meest recent) en 22 november 2023.
 
-*   **Betrokkenheid:** Het opkomstpercentage in Leiden lag met 81,4% hoger dan het landelijk gemiddelde van 77,7%. Dit duidt op een hoge mate van politieke betrokkenheid en een relatief hoogopgeleide populatie (bron: CBS).
+*   **Europees Parlement:** 6 juni 2024.
 
-### 2. Provinciaal stemgedrag
+*   **Provinciale Statenverkiezingen:** 15 maart 2023.
 
-De Provinciale Statenverkiezingen van maart 2023 bevestigden de positie van Leiden als stedelijk eiland in een veranderend provinciaal landschap (Zuid-Holland).
+*   **Waterschapsverkiezingen:** 15 maart 2023.
 
-*   **Dominante partijen:** Ook hier was GroenLinks de grootste (16,9%), gevolgd door de PvdA (11,4%).
+*   **Gemeenteraadsverkiezingen:** 16 maart 2022 (huidige samenstelling).
 
-*   **BBB-effect:** Hoewel de BBB in de provincie Zuid-Holland de grootste werd (13,7%), bleef de partij in de stad Leiden steken op 9,8%.
+### 1. Landelijk stemgedrag (Tweede Kamer 2025)
 
-*   **Stad-platteland kloof:** Er is een scherp contrast tussen de stad Leiden en de omliggende Bollenstreek en het Groene Hart, waar conservatieve en agrarisch georiënteerde partijen (BBB, SGP) aanzienlijk sterker zijn. Leiden fungeert als een progressief centrum in een verder meer behoudende regio.
+Bij de meest recente landelijke verkiezingen op **29 oktober 2025** bevestigde Leiden haar status als progressief bolwerk.
 
-### 3. Gemeentelijk stemgedrag
+*   **Grootste partijen:** D66 behaalde de meeste stemmen (25%), op de voet gevolgd door de combinatie GroenLinks-PvdA (24%).
 
-De gemeenteraadsverkiezingen van 2022 vormen de basis voor het huidige lokale bestuur.
+*   **Rechtse partijen:** De PVV eindigde als derde met 11%, wat aanzienlijk lager is dan het landelijk gemiddelde. De VVD volgde met 9%.
 
-*   **Uitslag:** D66 (18,8%), GroenLinks (17,8%) en PvdA (13,5%) zijn de drie grootste partijen. Lokale partijen zoals de Partij Sleutelstad (8,5%) spelen een rol, maar zijn minder dominant dan in veel andere Nederlandse gemeenten.
+*   **Opkomst:** Het opkomstpercentage in Leiden was met 81,7% hoog, wat duidt op een bovengemiddelde politieke participatie in vergelijking met het landelijk gemiddelde (78,3%).
 
-*   **Coalitie:** De stad wordt bestuurd door een coalitie van D66, GroenLinks en PvdA. Het coalitieakkoord "Samen leven in Leiden" (2022-2026) legt een sterke nadruk op duurzaamheid, kansengelijkheid en de woningbouwopgave.
+*   **Verschuivingen:** Ten opzichte van de verkiezingen in 2023 is er een herstel zichtbaar van de centrum-progressieve partijen, terwijl de PVV in Leiden licht daalde (van 15% naar 11%).
 
-*   **Thema's:** Belangrijke dossiers zijn de energietransitie (aardgasvrije wijken), de bereikbaarheid van de binnenstad en de opvang van asielzoekers. Leiden profileert zich expliciet als 'City of Refuge'.
+### 2. Provinciaal stemgedrag (Provinciale Staten 2023)
 
-### 4. Waterschapsverkiezingen
+De uitslagen van **15 maart 2023** voor de provincie Zuid-Holland toonden een scherp contrast tussen de stad Leiden en de omliggende regio.
 
-Bij de verkiezingen voor het Hoogheemraadschap van Rijnland (2023) was de lijst 'Water Natuurlijk' (gelieerd aan GL en D66) in Leiden de grootste. Dit onderstreept de lokale prioriteit voor ecologisch waterbeheer en klimaatadaptatie boven louter agrarische of economische belangen.
+*   **Regionaal:** De BBB werd de grootste partij in de provincie Zuid-Holland.
+
+*   **Lokaal (Leiden):** In de stad zelf bleven GroenLinks en D66 dominant. De winst van de BBB was in Leiden beperkt vergeleken met het platteland van Zuid-Holland.
+
+*   **Thematiek:** De stikstofproblematiek en de woningbouwopgave in de Randstad waren de belangrijkste drijfveren. In Leiden lag de nadruk sterker op de bescherming van natuurgebieden en duurzame stedelijke ontwikkeling.
+
+### 3. Gemeentelijk stemgedrag (Gemeenteraad 2022)
+
+De huidige gemeenteraad is gekozen op **16 maart 2022**.
+
+*   **Coalitie:** De stad wordt bestuurd door een coalitie van GroenLinks, D66, PvdA en CDA (Beleidsakkoord 2022-2026: "Samen leven in Leiden").
+
+*   **Zetelverdeling:** GroenLinks is de grootste fractie (10 zetels), gevolgd door D66 (5), VVD (5), PvdA (4) en Partij voor de Dieren (4). Lokale partijen zoals Partij Sleutelstad (3) en Studenten voor Leiden (2) spelen een significante rol.
+
+*   **Context januari 2026:** De stad bevindt zich op 11 januari 2026 in de vroege fase van de campagne voor de gemeenteraadsverkiezingen van maart 2026. Lokale thema's zoals de toekomst van de cultuursector (met een groot debat gepland op 28 januari 2026) en de betaalbaarheid van woningen staan hoog op de agenda.
+
+### 4. Waterschapsverkiezingen (2023)
+
+Bij de verkiezingen voor het Hoogheemraadschap van Rijnland op **15 maart 2023** was de betrokkenheid in Leiden relatief hoog voor dit type verkiezing. De stemmen concentreerden zich op partijen die inzetten op klimaatadaptatie en natuurbeheer (Water Natuurlijk en de PvdA), passend bij de zorgen over de kwetsbaarheid van de historische binnenstad voor wateroverlast en hittestress.
 
 ### 5. Politieke cultuur
 
-De politieke cultuur in Leiden wordt sterk beïnvloed door de aanwezigheid van de Universiteit Leiden en het Leiden Bio Science Park.
+De politieke cultuur in Leiden laat zich omschrijven als:
 
-*   **Progressief en academisch:** Er is een sterke oriëntatie op wetenschappelijke inzichten, internationale samenwerking en sociaal-liberale waarden.
+*   **Academisch en kritisch:** Door de aanwezigheid van de Universiteit Leiden is er een grote groep hoogopgeleide kiezers die waarde hecht aan feitelijke onderbouwing en internationale oriëntatie.
 
-*   **Vertrouwen:** Het vertrouwen in instituties en de overheid is in Leiden statistisch hoger dan in sociaal-economisch zwakkere regio's. Er is weinig voedingsbodem voor anti-establishment sentimenten.
+*   **Post-materialistisch:** Er is veel aandacht voor immateriële waarden zoals diversiteit, inclusiviteit, cultuur en klimaat.
 
-*   **Gemeenschapszin:** Ondanks het individualistische karakter van een studentenstad, is er een actieve civiele samenleving met veel stichtingen en werkgroepen die zich inzetten voor vluchtelingen en minima.
+*   **Institutioneel vertrouwen:** Het vertrouwen in de overheid en wetenschappelijke instituties is in Leiden relatief hoog vergeleken met sociaal-economisch zwakkere regio's.
 
 ### 6. Spanningsvelden
 
-Ondanks de progressieve consensus zijn er duidelijke lokale spanningsvelden:
+Ondanks het progressieve karakter zijn er duidelijke politieke spanningen:
 
-*   **Woningmarkt:** De extreme krapte op de woningmarkt zorgt voor frictie tussen de belangen van studenten, jonge professionals en de oorspronkelijke Leidse bevolking in wijken als de Kooi of Leiden Noord.
+*   **Bestaanszekerheid versus verduurzaming:** De kosten van de energietransitie en de hoge lokale lasten zorgen voor frictie, met name in wijken als de Stevenshof en Leiden Noord, waar de PVV en lokale partijen sterker scoren.
 
-*   **Asielopvang:** Hoewel het stadsbestuur een ruimhartig opvangbeleid voert, leidt de concrete realisatie van opvanglocaties soms tot lokaal protest in de direct betrokken wijken.
+*   **Ruimtegebruik:** De enorme druk op de woningmarkt dwingt tot keuzes tussen groenbehoud en nieuwbouw, wat leidt tot frictie tussen de coalitiepartijen en omwonenden.
 
-*   **Gentrificatie:** De transformatie van oude industriële gebieden en volksbuurten naar luxe appartementencomplexen roept vragen op over de inclusiviteit van de stad.
+*   **Cultuurbezuinigingen:** De discussie over investeringen in de cultuursector versus andere sociale voorzieningen is actueel in de aanloop naar de lokale verkiezingen van 2026.
 
-### 7. Relevantie voor de prediking in Ekklesia Leiden
+### 7. Relevantie voor de prediking (Ekklesia Leiden)
 
-De Ekklesia Leiden, die samenkomt in de Hooglandse Kerk, bevindt zich in het hart van dit politieke landschap.
+Voor de dienst op 11 januari 2026 in de Ekklesia Leiden zijn de volgende punten relevant:
 
-*   **Identiteit:** De gemeente heeft een traditie van maatschappelijk engagement die nauw aansluit bij de progressieve waarden van de stad (gerechtigheid, solidariteit met de vreemdeling). De lezing uit Jesaja 42 over de 'dienaar' die het recht zal doen gelden, resoneert direct met de politieke identiteit van veel hoorders.
+*   **Doelgroep:** De Ekklesia trekt traditioneel een publiek dat zich herkent in de progressieve en maatschappelijk geëngageerde waarden van de stad. De politieke sensitiviteit voor thema's als gerechtigheid en solidariteit is hoog.
 
-*   **Gevoeligheden:** De preek moet rekening houden met het feit dat de hoorders waarschijnlijk hoogopgeleid en politiek betrokken zijn. Een louter moreel appel kan als overbodig worden ervaren ("preken voor eigen parochie"). De uitdaging ligt in het adresseren van de schaduwkanten van het progressieve ideaal, zoals de uitsluiting van minder hoogopgeleiden of de spanning tussen abstracte idealen en concrete offers (bijv. in de woningmarkt).
+*   **Jesaja 42 en de 'Dienaar':** De profetische tekst over de dienaar die "het recht zal laten stralen" (Jes. 42:1) resoneert met de lokale politieke focus op kansengelijkheid en sociale rechtvaardigheid. De preek kan de politieke roep om 'recht' verbinden met de bijbelse notie van 'gerechtigheid' (tsedaqa).
 
-*   **Homiletische invalshoek:** De doop van Jezus (Matteüs 3) als moment van roeping en solidariteit kan verbonden worden met de vraag hoe een 'bevoorrechte' stad als Leiden haar roeping invult in een gepolariseerd land. De stem uit de hemel ("Dit is mijn geliefde Zoon") biedt een fundament voor identiteit dat dieper gaat dan politieke kleur of sociaal-economische status.
+*   **Oekraïne-collecte:** De landelijke collecte voor noodhulp in Oekraïne sluit aan bij de internationale oriëntatie van de Leidse kiezer, maar kan ook raken aan de discussie over nationale prioriteiten versus internationale solidariteit die in de TK-verkiezingen van 2025 een rol speelde.
 
-### Bronnen
-
-*   Kiesraad.nl: Uitslagen Tweede Kamer 2023 en Provinciale Staten 2023.
-
-*   AlleCijfers.nl: Gemeentelijke statistieken Leiden (geraadpleegd december 2025).
-
-*   Gemeente Leiden: Coalitieakkoord 2022-2026 "Samen leven in Leiden".
-
-*   CBS StatLine: Sociaal-economische kerncijfers per gemeente.
+*   **Verkiezingstijd:** De nabijheid van de gemeenteraadsverkiezingen (maart 2026) betekent dat de gemeenteleden zich in een periode van politieke profilering bevinden. De zondag van de 'Doop van de Heer' (identiteit en roeping) biedt een kader om te reflecteren op de eigen christelijke identiteit te midden van politieke keuzes, zonder partijpolitiek te worden.
