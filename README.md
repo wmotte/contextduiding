@@ -47,7 +47,7 @@ Na de basisanalyse kan een verdieping worden uitgevoerd met drie extra analyses:
 
 Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als context.
 
-**Bijbelteksten ophalen:** Het script haalt automatisch de bijbelteksten op van [naardensebijbel.nl](https://www.naardensebijbel.nl/) (de literaire vertaling van Pieter Oussoren). De teksten worden opgeslagen in `bijbelteksten/*.txt` en meegenomen in de exegese-prompt.
+**Bijbelteksten ophalen:** Het script haalt automatisch de bijbelteksten op van [naardensebijbel.nl](https://www.naardensebijbel.nl/) (de literaire vertaling van Pieter Oussoren). De teksten worden opgeslagen in `bijbelteksten/*.txt` en meegenomen in het exegese-prompt.
 
 ### Naardense Bijbel Tool
 
@@ -282,6 +282,31 @@ van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
 - Praktische tips voor gebruik in de eredienst
 
 Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery of Art
+
+## Beperkingen en waarschuwingen
+
+Dit script maakt gebruik van een Large Language Model (Gemini) met Google Search grounding. Ondanks maatregelen om hallucinaties te beperken (lage temperature, zoekverificatie), kunnen er onjuistheden in de output voorkomen.
+
+### Bekende risico's
+
+**Kerkelijke gemeenten**
+In plaatsen met meerdere protestantse kerken (bijv. Hervormde Gemeente, Gereformeerde Kerk, PKN-fusiegemeente) kan het model informatie van verschillende gemeenten door elkaar halen of verkeerde aannames doen over de bedoelde gemeente. Controleer altijd of de informatie over *uw specifieke gemeente* klopt.
+
+**Onduidelijke of verouderde bronnen**
+Het model baseert zich op online beschikbare informatie. Als recente gegevens ontbreken of bronnen tegenstrijdig zijn, kan het model:
+- Verouderde cijfers presenteren als actueel
+- Informatie "invullen" die niet geverifieerd is
+- Gegevens van nabijgelegen plaatsen of vergelijkbare gemeenten overnemen
+
+**Verkiezingsuitslagen en statistieken**
+Cijfers en percentages dienen altijd gecontroleerd te worden bij de primaire bron (CBS, Kiesraad, gemeente).
+
+### Aanbeveling
+
+Beschouw de output als een *startpunt* voor uw voorbereiding, niet als feitelijke waarheid. Verifieer cruciale informatie, vooral over:
+- Uw specifieke kerkelijke gemeente
+- Recente lokale gebeurtenissen
+- Statistische gegevens
 
 ## Bronnen
 

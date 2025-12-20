@@ -214,7 +214,7 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
             model=MODEL_NAME,
             contents=prompt,
             config=types.GenerateContentConfig(
-                temperature=0.3, # Lager dan normaal om minder hallucinatiess te krijgen
+                temperature=0.2, # Lager dan normaal om minder hallucinatiess te krijgen
                 top_p=0.95,
                 top_k=40,
                 max_output_tokens=8192,
