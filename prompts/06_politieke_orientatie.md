@@ -2,9 +2,22 @@
 
 Breng het politieke landschap en stemgedrag in kaart voor {{plaatsnaam}}.
 
+## 0. Verkiezingsdata opzoeken (VERPLICHTE EERSTE STAP)
+
+**Zoek EERST op wanneer de meest recente verkiezingen hebben plaatsgevonden voordat je uitslagen analyseert.** Dit is cruciaal omdat verkiezingsdata snel verouderen.
+
+Zoek expliciet naar:
+- **Tweede Kamerverkiezingen**: Wanneer waren de laatste landelijke verkiezingen? (Let op: er kunnen vervroegde verkiezingen zijn geweest)
+- **Provinciale Statenverkiezingen**: Wanneer waren de laatste provinciale verkiezingen?
+- **Gemeenteraadsverkiezingen**: Wanneer waren de laatste gemeenteraadsverkiezingen in {{plaatsnaam}}? (Let op: herindelingen kunnen andere data geven)
+- **Waterschapsverkiezingen**: Wanneer waren de laatste waterschapsverkiezingen?
+
+Vermeld bij elke analyse expliciet de datum van de verkiezingen die je gebruikt.
+
 ## 1. Landelijk stemgedrag
 
 Analyseer de uitslagen van de meest recente Tweede Kamerverkiezingen in {{plaatsnaam}}:
+- **Datum van deze verkiezingen** (expliciet vermelden)
 - Welke partijen behaalden de meeste stemmen?
 - Hoe verhoudt dit zich tot het landelijk gemiddelde?
 - Welke verschuivingen zijn er t.o.v. eerdere verkiezingen?
@@ -12,14 +25,16 @@ Analyseer de uitslagen van de meest recente Tweede Kamerverkiezingen in {{plaats
 
 ## 2. Provinciaal stemgedrag
 
-Bekijk de Provinciale Statenverkiezingen:
+Bekijk de meest recente Provinciale Statenverkiezingen:
+- **Datum van deze verkiezingen** (expliciet vermelden)
 - Dominante partijen in de provincie
 - Regionale partijen of bewegingen
 - Verschil tussen stad en platteland in de regio
 
 ## 3. Gemeentelijk stemgedrag
 
-Analyseer de gemeenteraadsverkiezingen:
+Analyseer de meest recente gemeenteraadsverkiezingen:
+- **Datum van deze verkiezingen** (expliciet vermelden)
 - Lokale partijen en hun positie
 - Coalitiesamenstelling in de gemeente
 - Belangrijke lokale politieke thema's
@@ -28,6 +43,7 @@ Analyseer de gemeenteraadsverkiezingen:
 ## 4. Waterschapsverkiezingen
 
 Indien relevant:
+- **Datum van deze verkiezingen** (expliciet vermelden)
 - Betrokkenheid bij waterschapsverkiezingen
 - Dominante stromingen
 
