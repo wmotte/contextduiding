@@ -1,83 +1,77 @@
-# Kalender: Gedenkdagen en Bijzondere Momenten (11 - 17 januari 2026)
-
-Dit overzicht bevat de relevante kalendergegevens voor de week van zondag 11 januari tot en met zaterdag 17 januari 2026, met specifieke aandacht voor de context van de Ekklesia Leiden.
-
 ### Zondag 11 januari 2026
 
-**Kerkelijk:**
+**Kerkelijk**
 
-- **Doop van de Heer (Baptisma Domini):** Eerste zondag na Epifanie. Focus op de openbaring van Jezus als de geliefde Zoon bij de Jordaan. Liturgische kleur: Wit.
+*   **Doop van de Heer (Baptisma Domini):** Eerste zondag na Epifanie. Deze dag markeert het begin van het publieke optreden van Jezus. De liturgische kleur is wit.
 
-- **Gedachtenis H. Theodosius de Cenobiarch (†529):** Grondlegger van het gemeenschappelijke monnikenleven (cenobitisme) in Palestina. Zijn leven stond in het teken van ascese en zorg voor armen en zieken.
+*   **Gedachtenis H. Theodosius de Cenobiarch (†529):** Grondlegger van het gemeenschappelijke monnikenleven in Palestina. Hij staat bekend om zijn strikte ascese en de stichting van hospitalen voor armen en zieken nabij Bethlehem (bron: heiligen.net).
 
-- **Collecte Protestantse Kerk:** Landelijke collecte voor noodhulp in Oekraïne (Kerk in Actie).
+*   **Collecte Protestantse Kerk:** Landelijke collecte voor noodhulp in Oekraïne (Kerk in Actie). De focus ligt op winterhulp en traumabegeleiding voor kinderen in oorlogsgebied.
 
-**Seizoensgebonden:**
+**Seizoensgebonden**
 
-- **Einde Kerstvakantie:** Laatste dag van de schoolvakantie voor alle regio's in Nederland (Noord, Midden, Zuid).
+*   **Einde Kerstvakantie:** Laatste dag van de kerstvakantie voor alle regio's in Nederland (Noord, Midden en Zuid).
 
-**Historisch (Leiden):**
+**Astronomie**
 
-- **Buskruitramp Leiden (voorbereiding):** Hoewel de feitelijke ontploffing op 12 januari 1807 plaatsvond, is de zondag voorafgaand aan deze datum in Leiden vaak een moment van historische reflectie op deze grootste ramp uit de stadsgeschiedenis.
+*   **Zonsopgang:** 08:45 uur.
 
-**Weer:**
+*   **Zonsondergang:** 16:42 uur.
 
-- **Klimatologisch gemiddelde:** Temperatuur overdag tussen 2°C en 6°C. Grote kans op wisselvallig weer met neerslag (regen of natte sneeuw) en een matige tot krachtige zuidwestenwind (bron: KNMI).
+*   **Maanfase:** Laatste kwartier (bereikt op 10 januari). De maan is afnemend richting Nieuwe Maan op 19 januari (bron: timeanddate.com).
 
-**Astronomie:**
+**Weersverwachting**
 
-- **Zonsopgang:** 08:45 uur.
-
-- **Zonsondergang:** 16:42 uur.
-
-- **Maanfase:** Laatste kwartier (bereikt op 10 januari), afnemend richting Nieuwe Maan op 19 januari (bron: Timeanddate.com).
+*   Weersverwachting nog niet beschikbaar (huidige datum: 20 december 2025).
 
 ---
 
 ### Maandag 12 januari 2026
 
-**Seizoensgebonden:**
+**Lokaal (Leiden)**
 
-- **Aanvang scholen:** Eerste schooldag na de kerstvakantie voor het basis- en voortgezet onderwijs.
+*   **Herdenking Buskruitramp (1807):** Op deze dag in 1807 ontplofte een kruitschip aan de Steenschuur. De ramp kostte aan 151 mensen het leven en verwoestte een aanzienlijk deel van de Leidse binnenstad. De 'Ruïne', het huidige Van der Werfpark, herinnert aan deze gebeurtenis.
 
-**Historisch (Leiden):**
+**Seizoensgebonden**
 
-- **Herdenking Buskruitramp (1807):** Op deze dag in 1807 ontplofte een kruitschip aan de Steenschuur, waarbij 151 mensen omkwamen en een groot deel van de Leidse binnenstad (het huidige Van der Werfpark) werd verwoest.
+*   **Aanvang scholen:** Eerste schooldag na de kerstvakantie voor het primair en voortgezet onderwijs.
 
 ---
 
 ### Dinsdag 13 januari 2026
 
-**Kerkelijk:**
+**Kerkelijk**
 
-- **Gedachtenis H. Hilarius van Poitiers (†367):** Bisschop en kerkleraar, bekend als de 'Athanasius van het Westen'. Hij was een vurig verdediger van de godheid van Christus tegen het arianisme, wat thematisch aansluit bij de Epifaniëtijd.
+*   **Gedachtenis H. Hilarius van Poitiers (†367):** Bisschop en kerkleraar. Hij speelde een cruciale rol in de verdediging van de orthodoxe leer over de godheid van Christus tijdens de arianistische crisis.
 
 ---
 
 ### Woensdag 14 januari 2026
 
-**Internationaal:**
+**Internationaal**
 
-- **World Logic Day (UNESCO):** Een dag die de intellectuele geschiedenis en praktische implicaties van logica onder de aandacht brengt. De datum herdenkt de sterfdag van Kurt Gödel en de geboortedag van Alfred Tarski, twee invloedrijke logici.
+*   **World Logic Day (UNESCO):** Een dag ter bevordering van de intellectuele geschiedenis en de praktische betekenis van logica in wetenschap en samenleving. De datum herdenkt de sterfdag van Kurt Gödel en de geboortedag van Alfred Tarski.
 
 ---
 
 ### Donderdag 15 januari 2026
 
-**Maatschappelijk:**
+**Maatschappelijk**
 
-- **Geboortedag Martin Luther King Jr. (1929):** Herdenking van de geboorte van de Amerikaanse burgerrechtenleider. Hoewel de officiële 'MLK Day' in de VS op de derde maandag van januari valt (19 januari 2026), is 15 januari de feitelijke geboortedag, vaak gemarkeerd met reflecties over gerechtigheid en geweldloosheid.
+*   **Geboortedag Martin Luther King Jr. (1929):** Herdenking van de geboorte van de Amerikaanse burgerrechtenleider. Hoewel de officiële 'Martin Luther King Day' in de Verenigde Staten op de derde maandag van januari valt (19 januari 2026), is 15 januari de feitelijke geboortedag.
 
 ---
 
 ### Zaterdag 17 januari 2026
 
-**Kerkelijk / Oecumenisch:**
+**Oecumenisch**
 
-- **Dag van het Jodendom:** Een jaarlijkse dag binnen de PKN en de RK-kerk om de joodse wortels van het christelijk geloof te vieren en de dialoog te bevorderen. In 2026 valt deze dag op 17 januari.
+*   **Dag van het Jodendom:** Jaarlijkse dag binnen de Protestantse Kerk in Nederland en de Rooms-Katholieke Kerk om de joodse wortels van het christelijk geloof te vieren en de dialoog tussen beide religies te versterken.
 
-- **Gedachtenis H. Antonius Abt (†356):** Ook wel Antonius met het varken genoemd. Hij wordt beschouwd als de vader van het christelijke monnikendom en is de patroonheilige tegen besmettelijke ziekten.
+**Kerkelijk**
 
-**Joods:**
+*   **Gedachtenis H. Antonius Abt (†356):** Ook bekend als Antonius de Grote. Hij wordt beschouwd als de vader van het christelijke monnikendom en de woestijnvaders.
 
-- **Sjabbat Va'era:** In de synagoge wordt de parasja Va'era gelezen (Exodus 6:2 - 9:35), waarin de eerste zeven plagen in Egypte en de herhaalde roeping van Mozes centraal staan (bron: Chabad.org).
+**Joods**
+
+*   **Sjabbat Va'era:** In de synagoge wordt de parasja Va'era gelezen (Exodus 6:2 - 9:35). Deze tekst beschrijft de herhaalde roeping van Mozes en de eerste zeven plagen over Egypte (bron: chabad.org).
