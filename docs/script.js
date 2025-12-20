@@ -212,13 +212,25 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    const mainHeader = document.querySelector('.main-header');
+
     // --- FAB Handling ---
     // Scroll listener on the report container
     reportContainer.addEventListener('scroll', () => {
-        if (reportContainer.scrollTop > 300) {
+        const scrollTop = reportContainer.scrollTop;
+        
+        // FAB visibility
+        if (scrollTop > 300) {
             backToTopBtn.classList.add('visible');
         } else {
             backToTopBtn.classList.remove('visible');
+        }
+
+        // Header shrinking
+        if (scrollTop > 50) {
+            mainHeader.classList.add('scrolled');
+        } else {
+            mainHeader.classList.remove('scrolled');
         }
     });
 

@@ -191,12 +191,25 @@ body {
     text-align: center;
     border-bottom: 1px double var(--border-color);
     background-color: var(--bg-color);
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transform-origin: top;
+}
+
+.main-header.scrolled {
+    padding: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
 
 .main-header h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
     font-weight: normal;
+    transition: all 0.4s ease;
+}
+
+.main-header.scrolled h1 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
 }
 
 .subtitle {
@@ -205,6 +218,14 @@ body {
     font-family: var(--font-serif);
     margin-bottom: 15px;
     font-size: 1.1rem;
+    transition: all 0.4s ease;
+    opacity: 1;
+    max-height: 50px;
+}
+
+.main-header.scrolled .subtitle {
+    font-size: 0.9rem;
+    margin-bottom: 5px;
 }
 
 .intro-description {
@@ -215,6 +236,16 @@ body {
     line-height: 1.6;
     font-family: var(--font-sans);
     letter-spacing: 0.2px;
+    transition: all 0.4s ease;
+    opacity: 1;
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.main-header.scrolled .intro-description {
+    opacity: 0;
+    max-height: 0;
+    margin: 0 auto;
 }
 
 /* Report Container */
