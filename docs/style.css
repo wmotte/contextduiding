@@ -250,15 +250,19 @@ body {
     text-decoration-thickness: 2px;
 }
 
+.back-to-top-wrapper {
+    text-align: right; /* Position button to the right */
+    margin-bottom: 10px;
+}
+
 .back-to-top-btn {
     display: inline-block;
-    margin-bottom: 20px;
     font-family: var(--font-sans);
     font-size: 0.85rem;
-    color: #999;
-    background: none;
-    border: 1px solid #ddd;
-    padding: 5px 10px;
+    color: #666; /* Darker gray */
+    background: white;
+    border: 1px solid #bbb; /* Darker border */
+    padding: 6px 12px;
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.2s;
@@ -267,8 +271,8 @@ body {
 
 .back-to-top-btn:hover {
     background-color: #f0f0f0;
-    color: #333;
-    border-color: #ccc;
+    color: #000;
+    border-color: #999;
 }
 
 .markdown-body h1, .markdown-body h2, .markdown-body h3 {

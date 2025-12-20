@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const text = await getFileContent(filesMap[filename]);
                     
                     detailsHtml += `<div class="section-divider"></div>`;
-                    detailsHtml += `<button class="back-to-top-btn" onclick="document.getElementById('report-container').scrollTo({top:0, behavior:'smooth'})">↑ Terug naar overzicht</button>`;
+                    detailsHtml += `<div class="back-to-top-wrapper"><button class="back-to-top-btn" onclick="document.getElementById('report-container').scrollTo({top:0, behavior:'smooth'})">↑ Terug naar overzicht</button></div>`;
                     detailsHtml += `<div class="file-section" id="section-${filename}" data-file="${filename}">`;
                     detailsHtml += marked.parse(smartQuotes(text));
                     detailsHtml += `</div>`;
