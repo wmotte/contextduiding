@@ -96,6 +96,21 @@ Het script `naardense_bijbel.py` is een hulpmiddel dat specifiek is ontwikkeld o
 
 Dit script wordt automatisch aangeroepen door `verdieping.py`, maar kan ook standalone worden gebruikt of geïmporteerd in andere scripts.
 
+### 📊 Token-teller (count_tokens.py)
+
+Het script `count_tokens.py` telt het aantal tokens in alle gegenereerde markdown-bestanden per kerk. Dit is nuttig om inzicht te krijgen in de omvang van de output en de verwachte kosten bij gebruik van LLM's.
+
+**Gebruik:**
+```bash
+python count_tokens.py              # Scan de standaard output/ map
+python count_tokens.py -v           # Toon ook per-bestand statistieken
+python count_tokens.py -o /pad/naar/output
+```
+
+**Output-omvang:** Een volledige analyse (basisanalyse + verdieping) genereert gemiddeld **~30.000 tokens** per kerk. Dit omvat alle 12 markdown-bestanden (00-11) plus de bijbelteksten.
+
+**Tokenizer:** Het script gebruikt `tiktoken` (cl100k_base encoding) voor nauwkeurige token-telling. Als tiktoken niet geïnstalleerd is, wordt een schatting gemaakt op basis van karakters (chars/4).
+
 ## 🛠️ Installatie
 
 ```bash
@@ -167,6 +182,7 @@ contextduiding/
 ├── contextduiding.py                       # Hoofdscript basisanalyse
 ├── verdieping.py                           # Verdieping: exegese en kunst/cultuur
 ├── naardense_bijbel.py                     # Module voor ophalen bijbelteksten
+├── count_tokens.py                         # Token-teller voor output-analyse
 ├── prompts/                                # Prompt-bestanden (aanpasbaar)
 │   ├── base_prompt.md                      # Basis rol en werkwijze
 │   ├── 00_zondag_kerkelijk_jaar.md         # Liturgische context (eerst)
