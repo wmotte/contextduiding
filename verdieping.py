@@ -323,7 +323,7 @@ def verify_kunst_cultuur(client: genai.Client, content: str) -> str:
                 temperature=0.1,  # Zeer laag voor maximale precisie
                 top_p=0.85,
                 top_k=20,
-                max_output_tokens=8192,
+                max_output_tokens=32768,
                 tools=[types.Tool(
                     google_search=types.GoogleSearch()
                 )],
