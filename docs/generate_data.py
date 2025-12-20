@@ -4,23 +4,29 @@ import json
 def generate_data():
     data = {}
     
-    # Get current directory
-    root_dir = "."
+    # Krijg de root directory van het project (ga één niveau omhoog vanaf docs/)
+    # We gaan ervan uit dat dit script in 'docs/' staat en 'output/' in de root.
+    docs_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(docs_dir)
+    output_dir = os.path.join(project_root, "output")
     
-    # Exclude list
-    exclude_dirs = {'.git', '.DS_Store', 'css', 'js', 'output', 'node_modules', '.gemini'}
-    exclude_files = {'index.html', 'script.js', 'style.css', 'generate_data.py', 'data.js', 'website_server.py'}
+    if not os.path.exists(output_dir):
+        print(f"❌ Fout: Map '{output_dir}' niet gevonden.")
+        return
 
-    for item in os.listdir(root_dir):
-        if os.path.isdir(item) and item not in exclude_dirs and not item.startswith('.'):
-            # This is likely a municipality folder
+    # Exclude list
+    exclude_dirs = {'.git', '.DS_Store', 'css', 'js', 'node_modules', '.gemini', '__pycache__', 'bijbelteksten'}
+
+    for item in os.listdir(output_dir):
+        full_path = os.path.join(output_dir, item)
+        if os.path.isdir(full_path) and item not in exclude_dirs and not item.startswith('.'):
             municipality = item
             data[municipality] = {}
             
             # Walk through files in this directory
-            for filename in os.listdir(os.path.join(root_dir, municipality)):
+            for filename in os.listdir(full_path):
                 if filename.endswith('.md'):
-                    filepath = os.path.join(root_dir, municipality, filename)
+                    filepath = os.path.join(full_path, filename)
                     try:
                         with open(filepath, 'r', encoding='utf-8') as f:
                             content = f.read()
@@ -28,13 +34,14 @@ def generate_data():
                     except Exception as e:
                         print(f"Error reading {filepath}: {e}")
                         
-    # Write to data.js
+    # Schrijf naar data.js in de docs map
     js_content = f"window.CONTEXT_DATA = {json.dumps(data, indent=2)};"
     
-    with open('data.js', 'w', encoding='utf-8') as f:
+    data_js_path = os.path.join(docs_dir, 'data.js')
+    with open(data_js_path, 'w', encoding='utf-8') as f:
         f.write(js_content)
     
-    print(f"Generated data.js with {len(data)} municipalities.")
+    print(f"✅ Generated docs/data.js with {len(data)} municipalities from output/.")
 
 if __name__ == "__main__":
     generate_data()
