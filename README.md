@@ -1,6 +1,6 @@
 ![Contextduiding Banner](misc/banner.png)
 
-**Bekijk concrete voorbeelden op: [wmotte.github.io/contextduiding/](https://wmotte.github.io/contextduiding/)**
+**Bekijk concrete voorbeelden op: <a href="https://wmotte.github.io/contextduiding/" target="_blank">wmotte.github.io/contextduiding/</a>**
 
 # Contextduiding voor Preekvoorbereiding
 
