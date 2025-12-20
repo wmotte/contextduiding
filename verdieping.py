@@ -280,7 +280,7 @@ def verify_kunst_cultuur(client: genai.Client, content: str) -> str:
     """Verificeer alle bronnen in de kunst/cultuur output en verwijder niet-verifieerbare items."""
     print(f"\n{'─' * 50}")
     print("VERIFICATIE: Bronnen controleren...")
-    print("{'─' * 50}")
+    print(f"{'─' * 50}")
     print("Bezig met verifiëren van films, boeken en kunstwerken...")
 
     verification_prompt = """Je bent een strenge factchecker. Je taak is om de onderstaande tekst te controleren op niet-bestaande bronnen.
@@ -308,6 +308,8 @@ def verify_kunst_cultuur(client: genai.Client, content: str) -> str:
 - Liever 3 geverifieerde items dan 6 waarvan 2 niet bestaan
 - Verwijder GEEN zoektermen, die mogen blijven staan
 - Geef de VOLLEDIGE gecorrigeerde tekst terug, niet alleen de wijzigingen
+- Voeg GEEN meta-tekst toe zoals "Ik heb de tekst gecontroleerd..." of "Hieronder volgt de tekst..."
+- Begin DIRECT met de inhoud (de titel van het document), zonder inleiding
 
 ## Te controleren tekst:
 
