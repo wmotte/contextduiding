@@ -3,7 +3,7 @@
 ## Gegevens
 - **Plaatsnaam:** Den Haag
 - **Gemeente:** Kloosterkerk
-- **Datum preek:** 14 februari 2026
+- **Datum preek:** 15 februari 2026
 
 ## Analyses
 - [Zondag van het Kerkelijk Jaar](00_zondag_kerkelijk_jaar.md)
