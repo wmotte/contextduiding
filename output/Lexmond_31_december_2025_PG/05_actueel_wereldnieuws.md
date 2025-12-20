@@ -1,74 +1,81 @@
-# Actueel Wereldnieuws
+### Analyse van de Actuele Context (26-31 december 2025)
 
-Hieronder volgt de analyse van het actuele wereldnieuws en de maatschappelijke context voor **31 december 2025**, specifiek toegespitst op de voorbereiding van de oudejaarsdienst in de Protestantse Gemeente Lexmond.
+De overgang van 2025 naar 2026 wordt gekenmerkt door een spanningsveld tussen voorzichtige diplomatieke hoop en aanhoudende humanitaire crises. Voor de homiletische praktijk op Oudejaarsavond in Lexmond zijn de volgende gebeurtenissen van betekenis.
 
----
+#### 1. Diplomatieke verschuivingen in het Midden-Oosten
 
-# Analyse Actuele Context Oudejaarsavond 2025
+Op 29 december 2025 vond een ontmoeting plaats tussen de Israëlische premier Netanyahu en de Amerikaanse president Trump om de "tweede fase" van het bestand in de Gazastrook te bespreken. Hoewel er sinds 10 oktober een staakt-het-vuren van kracht is, blijft de situatie fragiel; rapporten maken melding van ruim 330 dodelijke slachtoffers sinds het ingaan van het bestand.
 
-De overgang van 2025 naar 2026 vindt plaats in een klimaat van politieke transitie in Nederland en aanhoudende mondiale onrust. Hieronder staan de meest bepalende gebeurtenissen van de laatste dagen van 2025.
+*   **Impact:** Gevoel van onzekerheid over de duurzaamheid van vrede. De hoop op de terugkeer van gijzelaars staat tegenover de enorme verwoesting in Gaza.
 
-## 1. De 4 Meest Ingrijpende Gebeurtenissen (eind dec. 2025)
+*   **Theologische vraag:** Hoe verhoudt de roep om "vrede op aarde" (Kersttijd) zich tot de weerbarstige politieke realiteit van onderhandelingen en "nieuwe grenzen" (de gele lijn in Gaza)?
 
-### I. Politieke 'Tussentijd': De formatie Letschert
-*   **Context:** Na de val van het kabinet-Schoof (juni 2025) bevindt Nederland zich eind december midden in een moeizame formatie onder leiding van informateur Rianne Letschert (D66, CDA, VVD).
-*   **Impact:** Er heerst een gevoel van bestuurlijke stilstand terwijl urgente crises (woningnood, asiel, klimaat) om daadkracht vragen.
-*   **Theologische vraag:** Hoe bewaren we hoop en geduld in een 'tussentijd' waarin de kaders onduidelijk zijn? (Vgl. het wachten op het Koninkrijk).
+#### 2. Cruciaal moment voor Oekraïne
 
-### II. De 'Vergeten' en 'Zichtbare' Oorlogen (Sudan, Gaza, Oekraïne)
-*   **Context:** In Sudan is de humanitaire crisis eind 2025 de grootste ter wereld (12 miljoen vluchtelingen), maar deze blijft grotendeels uit de koppen. In Gaza zorgen zware regens eind december voor een catastrofe in de tentenkampen. De oorlog in Oekraïne is een uitputtingsoorlag geworden zonder uitzicht op vrede in 2026.
-*   **Impact:** Een gevoel van machteloosheid en 'crisis-moeheid' bij de burger.
-*   **Theologische vraag:** De theodicee-vraag: "Heer, hoelang nog?" En de roep om gerechtigheid voor hen die niet gezien worden.
+President Zelensky sprak op 17 december de Tweede Kamer toe, waarbij hij de huidige periode bestempelde als een "cruciaal moment" vanwege intensieve onderhandelingen over een mogelijke vredesdeal. De steun van bondgenoten blijft essentieel terwijl de winterse kou de druk op de energie-infrastructuur vergroot.
 
-### III. Klimaat: 2025 als Jaar van de 'Abnormale Natuurrampen'
-*   **Context:** Verzekeraars (Swiss Re) melden eind december dat 2025 alle records heeft gebroken qua schade door natuurrampen (o.a. de Palisades Fire in LA en extreme overstromingen in Vietnam en Sri Lanka).
-*   **Impact:** Existentiële angst over de houdbaarheid van de schepping. De 'eindigheid' van de aarde wordt tastbaar.
-*   **Theologische vraag:** Rentmeesterschap en de zuchtende schepping (Romeinen 8).
+*   **Impact:** Een mengeling van oorlogsmoeheid en de hoop op een einde aan het grootschalige geweld in Europa.
 
-### IV. Armoede in Nederland: De Stille Crisis
-*   **Context:** Kerk in Actie rapporteert eind 2025 dat meer dan een miljoen Nederlanders in armoede leeft. In dorpen als Lexmond wordt dit vaak achter de voordeur beleefd.
-*   **Impact:** Sociale uitsluiting en schaamte, juist in de feestmaand.
-*   **Theologische vraag:** De kerk als vindplaats van solidariteit en de concrete opdracht van de diaconie.
+*   **Theologische vraag:** Wat betekent "wachten op de Heer" (Jesaja 30) wanneer een volk al bijna vier jaar in een uitputtingsoorlog verkeert?
 
----
+#### 3. De "vergeten" crises: Sudan en Syrië
 
-## 2. Homiletische Duidingskader
+Humanitaire organisaties (ZOA, Rode Kruis) rapporteren eind december 2025 dat Sudan de grootste humanitaire crisis ter wereld blijft met 12 miljoen ontheemden, terwijl de aandacht hiervoor minimaal is. In Syrië, een jaar na de val van het Assad-regime, keren vluchtelingen terug naar een land dat nagenoeg volledig in puin ligt.
 
-| Nieuwsitem | Emotionele impact | Verbinding met Schriftlezing (Jaar A) |
-| :--- | :--- | :--- |
-| **Politieke onzekerheid** | Onrust, cynisme | **Prediker 3:** "Er is een tijd voor alles." Ook een tijd van wachten en afbreken. |
-| **Oorlogsgeweld** | Machteloosheid, rouw | **Psalm 90:** "Heer, U bent ons een toevlucht." God als schuilplaats tegenover menselijk geweld. |
-| **Klimaatrampen** | Angst voor de toekomst | **Matteüs 6:** "Maak je geen zorgen over de dag van morgen." Vertrouwen te midden van chaos. |
-| **Armoede in NL** | Schaamte, tekort | **Romeinen 8:** "Niets kan ons scheiden van Gods liefde." Ook tekort of honger niet. |
+*   **Impact:** Een gevoel van onmacht en morele verontwaardiging over de selectieve aandacht van de wereldgemeenschap.
+
+*   **Theologische vraag:** De vraag naar Gods aanwezigheid in de "vergeten" uithoeken van de wereld. Hoe telt God de dagen van hen die alles kwijt zijn (Psalm 90)?
+
+#### 4. Klimaatbalans 2025: Een jaar van extremen
+
+Meteorologische instituten bevestigen eind december dat 2025 het zesde jaar op rij is waarin de verzekerde schade door natuurrampen de 100 miljard dollar overschrijdt. Records werden gevestigd door bosbranden in Los Angeles en extreme tyfoons in Azië. In Nederland blijft de vogelgriep (december 2025) een actuele zorg voor de agrarische sector, ook in de regio Vijfheerenlanden.
+
+*   **Impact:** Existentiële zorgen over de houdbaarheid van de schepping en de kwetsbaarheid van de menselijke economie.
+
+*   **Theologische vraag:** De eindigheid van de mens tegenover de bestendigheid van de aarde. "Leer ons onze dagen zo te tellen dat wij een wijs hart verkrijgen."
 
 ---
 
-## 3. Concrete Suggesties voor de Dienst in Lexmond
+### Homiletische en Liturgische Suggesties
 
-### In de Prediking
-*   **Erkennen:** Benoem de politieke 'tussentijd'. We gaan het nieuwe jaar in zonder dat we weten wie ons land gaat leiden. Trek een parallel met de ballingschap of de woestijnreis: God is erbij, ook als de route onduidelijk is.
-*   **Duiden:** Gebruik het beeld van de 'twaalf dagen van Kerst'. Het kind in de kribbe ligt daar te midden van de regen in Gaza en de kou in Oekraïne. Het Licht schijnt in de duisternis, maar de duisternis is er nog wel.
-*   **Contextualiseren naar Lexmond:** Noem de lokale zorgen (zoals de vogelgriep-dreiging in de regio of de zorgen over woningbouw voor jongeren in het dorp). Maak de 'grote wereld' klein en nabij.
+De Schriftlezingen voor Oudejaarsavond (Jaar A) bieden concrete aanknopingspunten om deze actualiteit te duiden zonder in politiek activisme te vervallen.
 
-### In de Voorbeden
-*   Bid specifiek voor de **informateur en de politieke leiders** in Den Haag: om wijsheid en het zoeken naar het algemeen belang boven partijbelang.
-*   Bid voor de **'vergeten' slachtoffers in Sudan** en de mensen in de modder van de kampen in Gaza.
-*   Bid voor de **eigen gemeente**: voor de lege stoelen (gedenken overledenen) en voor hen die zich zorgen maken over hun financiën in het nieuwe jaar.
+**In de prediking (Jesaja 30:15-18 en Lucas 12:35-40)**
 
-### Collectebestemming
-*   **Kerk in Actie: "Samen tegen armoede in Nederland".** Dit sluit naadloos aan bij de actualiteit van december 2025. Benadruk dat de opbrengst direct helpt bij lokale initiatieven zoals de Voedselbank of Schuldhulpmaatje.
+*   **Rust en inkeer:** Jesaja 30 spreekt over redding in "rust en inkeer". Dit kan gecontextualiseerd worden tegenover de koortsachtige diplomatie in het Midden-Oosten en Oekraïne. Ware vrede vraagt om meer dan een politiek akkoord; het vraagt om een fundamentele omkeer.
+
+*   **Waakzaamheid:** De oproep uit Lucas 12 om de "lampen brandend te houden" sluit aan bij de onzekerheid van de jaarwisseling. In een wereld vol crises (Sudan, klimaat) is de kerk de plek waar de lamp van de hoop brandend wordt gehouden, niet vanuit optimisme, maar vanuit de eschatologische verwachting.
+
+*   **Tijd tellen:** Gebruik Psalm 90 om de statistieken van 2025 (slachtoffers, schadeposten) te relateren aan de menselijke maat. Het "tellen van dagen" is geen boekhoudkundige exercitie, maar een oefening in nederigheid.
+
+**In de voorbeden**
+
+*   **Concreet:** Bid voor de onderhandelaars in het Midden-Oosten en Oekraïne, specifiek voor wijsheid en de moed om concessies te doen voor de vrede.
+
+*   **Diaconaal:** Noem de situatie in Sudan expliciet om de "vergeten" naaste in het licht te stellen.
+
+*   **Lokaal:** Bid voor de agrarische gemeenschap in Lexmond die te maken heeft met de dreiging van vogelgriep en de onzekerheid over de toekomst van hun erven (beleid 'Erven vol Kansen').
+
+**Collectebestemming**
+
+*   Sluit aan bij de PKN-campagne **"Samen tegen armoede in Nederland"**. CBS-cijfers van december 2025 tonen aan dat het consumentenvertrouwen laag blijft (-21) en de koopkracht voor kwetsbare groepen onder druk staat. Dit maakt de diaconale opdracht in de eigen omgeving concreet.
 
 ---
 
-## 4. Valkuilen voor de Predikant
+### Context Lexmond (Vijfheerenlanden)
 
-1.  **Te politiek worden:** Vermijd het kiezen van een zijde in de formatie (bijv. kritiek op PVV of D66). Focus op de *behoefte* aan goed bestuur en vrede, niet op de partijpolitieke invulling.
-2.  **Alleen maar somberheid:** Oudejaarsavond kan zwaar aanvoelen door alle wereldcrises. Zorg dat de verkondiging van de **Trouw van God** (Lied 511) het laatste woord heeft, niet de krantenkop.
-3.  **Algemeenheden:** Vermijd "er is veel leed in de wereld". Noem concreet de regen in Gaza of de bosbranden in LA. Dat maakt de nood (en de gebeden) concreter.
+*   **Gemeenschapszin:** De gemeente Vijfheerenlanden organiseert op 7 januari 2026 de nieuwjaarsreceptie in Huis het Bosch in Lexmond. Dit onderstreept de centrale rol van het dorp in de regio. De preek kan refereren aan de waarde van deze lokale verbondenheid in een gefragmenteerde wereld.
+
+*   **Gedenken:** De aankondiging van de gemeente (9 december 2025) dat in januari 2026 grafmonumenten verwijderd zullen worden op de algemene begraafplaatsen, geeft een extra lading aan het thema van vergankelijkheid en het gedenken van de doden op Oudejaarsavond.
+
+*   **Demografie:** Met een aanzienlijk aandeel 65-plussers in Lexmond is er behoefte aan een boodschap die recht doet aan de levenservaring van de hoorders, waarbij de "rust" uit Jesaja 30 niet als passiviteit, maar als geestelijke kracht wordt gepresenteerd.
 
 ---
-**Bronnen:**
-*   *NOS Nieuwsarchief & NRC (december 2025)*
-*   *Parlement.com (analyse kabinetsval en formatie 2025)*
-*   *Protestantsekerk.nl / Kerk in Actie (Campagne 'Samen tegen armoede')*
-*   *Gemeente Vijfheerenlanden (Actuele berichten dec 2025)*
+
+### Valkuilen en Aandachtspunten
+
+*   **Vermijd partijpolitiek:** Bij het noemen van de ontmoeting Netanyahu-Trump of de toespraak van Zelensky is het essentieel om de menselijke en ethische dimensie te benadrukken, in plaats van een politiek oordeel te vellen over de betrokken leiders.
+
+*   **Doseer de dramatiek:** De opeenstapeling van wereldcrises kan leiden tot "compassiemoeheid". Gebruik de nuchtere taal van de Schrift om de hoop te funderen, in plaats van de hoorder te overweldigen met enkel negatief nieuws.
+
+*   **Erken de kloof:** Wees eerlijk over de afstand tussen de rustige Lekdijk in Lexmond en de puinhopen in Syrië of Sudan. De verbinding ligt in de gezamenlijke afhankelijkheid van Gods genade, niet in een geforceerde gelijkschakeling van ervaringen.

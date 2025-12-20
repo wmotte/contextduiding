@@ -1,71 +1,88 @@
-# Zondag van het Kerkelijk Jaar
+# Analyse van Oudejaarsavond in het Kerkelijk Jaar
 
-Hieronder volgt de homiletische analyse voor de dienst op **woensdag 31 december 2025 (Oudejaarsavond)** in de **Protestantse Gemeente Lexmond**, uitgevoerd volgens de methodiek van De Leede & Stark.
+### 1. Positie in het Kerkelijk Jaar
 
----
+Woensdag 31 december 2025 valt in de **Kersttijd**, de periode die loopt van de kerstnacht tot en met Epifanie (6 januari). Liturgisch gezien bevindt deze dag zich in het octaaf van Kerst (de acht dagen na het geboortefeest).
 
-# Analyse Oudejaarsavond 31 december 2025
+*   **Periode:** Kersttijd.
 
-## 1. Positie in het Kerkelijk Jaar
-*   **Datum:** Woensdag 31 december 2025.
-*   **Periode:** Kersttijd (de 'twaalf dagen van Kerst'). Oudejaarsavond valt op de **zevende dag van Kerst** (de octaafdag van Kerst is 1 januari).
-*   **Leesroostercyclus:** **Jaar A**. Het nieuwe kerkelijk jaar (Jaar A) is gestart op de eerste adventszondag (30 november 2025).
-*   **Context:** Hoewel het een doordeweekse avond is, heeft Oudejaarsavond in de PKN-traditie de status van een 'bijzondere dag' met een eigen liturgisch karakter. Het is de drempel tussen het feest van de menswording (Kerst) en de verschijning van de Heer (Epifanie).
+*   **Afstand tot hoofdfeest:** Zes dagen na Kerstmis; zes dagen voor Epifanie.
 
-## 2. Traditionele Naam en Betekenis
-*   **Naam:** Oudejaarsavond (ook wel *Sylvesteravond* in de oecumenische traditie, naar paus Sylvester I, gestorven 31 december 335).
-*   **Betekenis:** In de protestantse traditie staat deze avond bekend als de 'Dankstond voor het afgelopen jaar'. Het is een moment van retrospectie (omzien in dankbaarheid en berouw) en prospectie (vooruitzien in vertrouwen).
-*   **Volksnaam:** Oudjaar.
+*   **Leesroostercyclus:** Het kerkelijk jaar 2025-2026 is een **Jaar A** (gestart op de eerste zondag van de Advent, 30 november 2025). De lezingen voor deze avond sluiten aan bij de thematiek van de jaarwisseling binnen de cyclus van het Matteüs-evangelie.
 
-## 3. Bijzondere Zondagen en Themazondag (PKN)
-*   Oudejaarsavond is een **vaste liturgische gedenkdag** in de PKN.
-*   **Landelijke actie:** Vaak is er rond de jaarwisseling aandacht voor de **eindejaarsactie van Kerk in Actie** (bijv. voor kinderen in conflictgebieden of vluchtelingen).
-*   **Lokale context Lexmond:** De Protestantse Gemeente Lexmond (traditioneel verbonden met de Gereformeerde Bond) hecht doorgaans grote waarde aan de jaarwisseling als een moment van verootmoediging en dankzegging onder de prediking van Gods Woord.
+### 2. Traditionele Naam en Betekenis
 
-## 4. Liturgische Kleur
-*   **Kleur:** **Wit**.
-*   **Onderbouwing:** Oudejaarsavond valt binnen de Kersttijd (25 dec t/m 6 jan). Wit is de kleur van de Christusfeesten, de vreugde en de reinheid.
-*   **Symboliek:** Het wit herinnert eraan dat, ondanks de vergankelijkheid van de tijd (het oude jaar dat sterft), het Licht van de wereld is verschenen.
-*   **Suggestie Lexmond:** Gebruik een wit antependium. In de bloemschikking kunnen witte bloemen gecombineerd worden met groen blijvende takken (symbool voor eeuwig leven) en eventueel elementen die de tijd symboliseren (zoals grassen of korenaren).
+De dag staat bekend als **Oudejaarsavond**. In de rooms-katholieke traditie wordt deze dag ook wel *Sylvester* genoemd, naar paus Sylvester I († 335), wiens gedachtenis op deze dag valt. In de protestantse traditie heeft de dag geen specifieke Latijnse naam uit de introïtus, aangezien het geen zondag is, maar wordt het karakter bepaald door de overgang van het oude naar het nieuwe kalenderjaar. De focus ligt op de *Dankstond voor het afgelopen jaar*.
 
-## 5. Lezingen volgens het Gemeenschappelijk Leesrooster (Jaar A)
-Voor Oudejaarsavond/Nieuwjaarsdag in Jaar A worden doorgaans de volgende teksten aangereikt:
+### 3. Bijzondere Zondagen en Themazondag (PKN)
 
-*   **Eerste lezing:** **Prediker 3:1-15** ("Voor alles is een tijd") of **Numeri 6:22-27** (De priesterzegen – vaak op 1 januari).
-*   **Psalm van de dag:** **Psalm 90** ("Heer, U bent ons een toevlucht geweest van geslacht op geslacht") of **Psalm 121** ("Ik sla mijn ogen op naar de bergen").
-*   **Epistellezing:** **Romeinen 8:31b-39** ("Niets kan ons scheiden van de liefde van God").
-*   **Evangelielezing:** **Matteüs 6:25-34** ("Maak je geen zorgen over de dag van morgen").
-*   **Thematische samenhang:** De spanning tussen de menselijke tijd (chronos) die voorbijvliegt en de goddelijke tijd (kairos) waarin God trouw blijft.
+Oudejaarsavond is een **bijzondere dag** op de PKN-kalender. Hoewel het geen zondag is, houden de meeste gemeenten, waaronder de Protestantse Gemeente Lexmond, een volledige kerkdienst.
 
-## 6. Thematiek en Karakter van de Zondag
-*   **Centraal thema:** **De Trouw van God in de wisseling der tijden.**
-*   **Stemming:** Een mengeling van **weemoed** (wat verloren ging), **dankbaarheid** (voor wat ontvangen is) en **ernst** (verantwoording afleggen voor God).
-*   **Geloofsvragen:** Waar was God dit jaar? Hoe gaan we de onbekende toekomst in? Wat blijft er over als alles voorbijgaat?
+*   **Context Lexmond:** De gemeente Lux Mundi kent een traditie waarin de jaarwisseling gemarkeerd wordt door bezinning. Gezien de demografische opbouw van Lexmond (circa 22% van de inwoners is 65 jaar of ouder, bron: AlleCijfers.nl, prognose 2025) heeft de dienst vaak een karakter van retrospectie en het gedenken van de overledenen van het afgelopen kalenderjaar, hoewel dit officieel op de laatste zondag van het kerkelijk jaar (Eeuwigheidszondag) gebeurt.
 
-## 7. Historische en Theologische Achtergrond
-*   **Reformatie:** De gereformeerde traditie verving de heiligenkalender door 'bidden dankstonden'. Oudejaarsavond werd de 'balansavond' van de ziel.
-*   **Theologie van de tijd:** Augustinus' visie op de tijd als *distentio animi* (uitrekking van de ziel) is relevant: God staat buiten de tijd, maar treedt in Kerst de tijd binnen om deze te heiligen.
-*   **PKN-context:** De verbinding tussen de burgerlijke kalender en het kerkelijk jaar is hier sterk. Het is een van de drukst bezochte doordeweekse diensten.
+### 4. Liturgische Kleur
 
-## 8. Liedsuggesties uit het Liedboek 2013
-*   **Opening:** Lied 513 ("God die leven geeft") of Psalm 90.
-*   **Na de lezingen:** Lied 432 ("Mijn leven til ik, God, naar U omhoog").
-*   **Na de prediking:** Lied 434 ("Daar komt een schip geladen" – Kersttijd) of Lied 435 ("Hef op uw hoofden, poorten wijd").
-*   **Slotlied:** Lied 433 ("Kom tot ons, de wereld wacht") of het klassieke **Lied 511** ("Door goede machten trouw en stil omgeven").
-*   **Specifiek Oud/Nieuw:** Lied 432a t/m 435 zijn specifiek voor deze overgang geschreven.
+De liturgische kleur is **Wit**.
 
-## 9. Praktische Liturgische Handvatten
-*   **Kyrie en Gloria:** Op Oudejaarsavond kan het Kyriegebed een karakter krijgen van **schuldbelijdenis** over het afgelopen jaar. Het Gloria wordt gezongen omdat we in de Kersttijd zijn.
-*   **Gedenken:** In veel gemeenten (mogelijk ook in Lexmond) worden op deze avond de namen van de overledenen van het afgelopen jaar nogmaals genoemd, of wordt er stilgestaan bij belangrijke gebeurtenissen in de burgerlijke gemeente (CBS-data 2025 voor de regio Vijfheerenlanden kunnen hierbij helpen).
-*   **Gebed:** Bid specifiek voor de overheid (lokale raad Vijfheerenlanden), voor hen voor wie het jaar zwaar was, en voor vrede in het nieuwe jaar.
+*   **Symboliek:** Wit is de kleur van de Christusfeesten, vreugde, licht en reinheid. Omdat Oudejaarsavond binnen de Kersttijd valt, blijft het wit van Kerst gehandhaafd.
 
-## 10. Verbinding met het Dagelijkse Leesrooster
-*   **Week voorafgaand:** In de week na Kerst staan vaak de teksten centraal rond de verschijning van God aan de marge (herders, wijzen) en de dreiging (vlucht naar Egypte).
-*   **31 december (Dagelijks rooster NBG):** Vaak wordt **Psalm 59** of **Psalm 62** gelezen ("Mijn ziel is stil tot God"). Dit versterkt het thema van vertrouwen te midden van onrust.
+*   **Toepassing:** Het antependium en de stola zijn wit. In de bloemschikking kan gebruik worden gemaakt van witte bloemen (zoals witte amaryllis of rozen) gecombineerd met groen (symbool voor hoop en leven) en eventueel accenten van licht (kaarsen) om de overgang van donker naar licht te markeren.
 
----
-**Bronnen:**
-*   *Dienstboek PKN (I & II)*
-*   *Leesrooster.protestantsekerk.nl (geraadpleegd dec 2024 voor 2025)*
-*   *De Leede & Stark (2017), 'Ontvouwen'*
-*   *Liedboek (2013), 'Zingen en bidden in huis en kerk'*
+### 5. Lezingen volgens het Gemeenschappelijk Leesrooster
+
+Voor Oudejaarsavond (Jaar A) worden doorgaans de volgende lezingen gehanteerd:
+
+*   **Eerste lezing:** Jesaja 30:15-18 ("In rust en inkeer ligt je redding, in geduld en vertrouwen je kracht").
+
+*   **Psalm van de zondag:** Psalm 90 (met name vers 1-4 en 12: "Leer ons zo onze dagen te tellen dat wij een wijs hart verkrijgen").
+
+*   **Epistellezing:** Romeinen 8:31b-39 ("Wat zal ons scheiden van de liefde van Christus?").
+
+*   **Evangelielezing:** Lucas 12:35-40 ("Houd de lendenen omgord en de lampen brandend").
+
+*   **Samenhang:** De teksten benadrukken de menselijke vergankelijkheid tegenover de eeuwige trouw van God. De oproep tot waakzaamheid (Lucas) verbindt de afsluiting van het jaar met de eschatologische verwachting.
+
+### 6. Thematiek en Karakter van de Zondag
+
+Het centrale thema is de **tijd in Gods hand**.
+
+*   **Stemming:** Ingetogen, dankbaar en hoopvol. Er is ruimte voor de broosheid van het bestaan (het voorbijgaan van de tijd) en de zekerheid van Gods nabijheid in de toekomst.
+
+*   **Geloofsvraag:** Hoe verhoudt onze lineaire ervaring van tijd (het jaar dat eindigt) zich tot de cyclische en eeuwige tijd van God (het Koninkrijk)?
+
+### 7. Historische en Theologische Achtergrond
+
+De viering van Oudejaarsavond in de protestantse kerken is relatief jong en ontstond in de 19e eeuw als een 'tegenhanger' van de wereldse festiviteiten. In de gereformeerde traditie, waar Lexmond wortels heeft, lag de nadruk sterk op de *voorzienigheid* (providentia): de overtuiging dat God het leven in het afgelopen jaar heeft geleid. In de huidige PKN-context is er meer aandacht voor de oecumenische verbinding met de Kersttijd en de hoop op vrede.
+
+### 8. Liedsuggesties uit het Liedboek 2013
+
+*   **Psalm:** Psalm 90 ("Gij zijt geweest, o Heer, ons toeverlaat") of Psalm 121 ("Ik sla mijn ogen op naar de bergen").
+
+*   **Intocht:** Lied 513 ("God die leven geeft en duister").
+
+*   **Na de lezingen:** Lied 445 ("De nacht is haast ten einde").
+
+*   **Na de prediking:** Lied 511 ("De Heer heeft onze tijd van leven").
+
+*   **Slotlied:** Lied 432 ("Wat de toekomst brengen moge") – hoewel vaak op Nieuwjaarsdag gezongen, is dit in veel gemeenten het vaste slotlied op Oudejaarsavond. Alternatief: Lied 433 ("Kom tot ons, de wereld wacht").
+
+### 9. Praktische Liturgische Handvatten
+
+*   **Liturgische orde:** Volg de basisorde uit Dienstboek I.
+
+*   **Stilte:** Gezien het karakter van de avond is een langer moment van stilte na de prediking of tijdens de gebeden passend.
+
+*   **Gebedsmotieven:** Dank voor de bewaring, voorbede voor hen die een verlies leden in 2025, gebed om vrede in de wereld (met name relevante brandhaarden op dat moment), en om zegen voor het nieuwe jaar 2026.
+
+*   **Visueel:** Gebruik van de paaskaars als symbool van het Licht dat door de tijd heen brandt.
+
+### 10. Verbinding met het Dagelijkse Leesrooster
+
+In de week voorafgaand aan 31 december 2025 (week 52/1) zijn de volgende teksten aan de orde in het dagelijks rooster:
+
+*   **29 december:** Numeri 22:2-20 (Bileam).
+
+*   **30 december:** Numeri 22:21-40.
+
+*   **31 december:** Psalm 59:1-18 (Gebed om bescherming).
+De overgang van de verhalen over Bileam (God die vloek in zegen verandert) naar de dankzegging op Oudejaarsavond biedt een krachtig motief: God die de regie houdt over de geschiedenis, ook wanneer menselijke plannen anders lopen.

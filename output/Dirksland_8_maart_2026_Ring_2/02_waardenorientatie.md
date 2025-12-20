@@ -1,72 +1,64 @@
-# Waardenoriëntatie
+### Waardenoriëntatie-analyse Dirksland (Ring 2) – 8 maart 2026
 
-Hieronder volgt de **Waardenoriëntatie-analyse** voor de avonddienst in Dirksland op 8 maart 2026, uitgevoerd volgens de methodiek van De Leede & Stark. Deze analyse bouwt voort op de liturgische gegevens en spitst zich toe op de specifieke sociaal-culturele context van Dirksland en de regio Goeree-Overflakkee.
+#### 1. De Vijf V's voor Dirksland
 
----
+**Visioenen**
+In de agrarische gemeenschap van Dirksland leeft het visioen van continuïteit: het familiebedrijf dat overgaat op de volgende generatie en een dorp waarin de sociale cohesie en de kerkelijke presentie gewaarborgd blijven. Men streeft naar een balans tussen modernisering (precisielandbouw) en het behoud van de schepping als rentmeesterschap.
 
-# Waardenoriëntatie-analyse: Dirksland (Ring 2)
+**Verlangens**
+Er is een diep verlangen naar stabiliteit in een tijd van snelle maatschappelijke en ecologische veranderingen. Met de Biddag (11 maart) in het vooruitzicht, vertaalt dit zich concreet in het verlangen naar gunstige weersomstandigheden en een vruchtbaar groeiseizoen. Geestelijk is er een hunkering naar 'levend water' (Johannes 4) in een tijd die vaak als dor of geseculariseerd wordt ervaren.
 
-## 1. De Vijf V's voor Dirksland
-*Geanalyseerd op basis van de sociaal-economische structuur van Dirksland (agrarische sector + zorgsector/ziekenhuis).*
+**Vreugden**
+Men vindt vreugde in de gemeenschapszin en het verenigingsleven. De trots op het lokale karakter en de zelfredzaamheid van Goeree-Overflakkee is groot. Kerkelijk gezien is er vreugde over de betrokkenheid van jonge gezinnen, die in Ring 2 relatief sterker aanwezig zijn dan in stedelijke gebieden.
 
-| V | Beschrijving voor de hoorder in Dirksland |
-| :--- | :--- |
-| **Visioenen** | Een bloeiende dorpsgemeenschap waar generaties elkaar vasthouden. Het visioen van een 'goede oogst' (letterlijk op het land en geestelijk in de kerk) en een stabiele toekomst voor het familiebedrijf. |
-| **Verlangens** | Rust en bestendigheid in een snel veranderende wereld. Een diep verlangen naar 'levend water' (Joh. 4) in tijden van geestelijke of fysieke droogte (klimaat/stikstofzorgen). |
-| **Vreugden** | Trots op de eigen identiteit en de 'Flakkeese' nuchterheid. De verbondenheid in de gemeente en de aanwezigheid van het ziekenhuis (Van Weel-Bethesda) als baken van zorg in de regio. |
-| **Verdriet** | De krimp van de kerkelijke betrokkenheid onder jongeren. De toenemende regeldruk die het boerenbestaan bemoeilijkt. Zorgen over de houdbaarheid van de zorg en de vergrijzing in het dorp. |
-| **Vragen** | "Is er nog een toekomst voor onze manier van leven?" "Hoe blijven we trouw aan de Schrift in een geseculariseerde cultuur?" "Hoor ik er nog bij als mijn leven niet 'perfect' is (zoals de vrouw bij de bron)?" |
+**Verdriet**
+Er leeft collectief verdriet over de krimp van de agrarische sector en de regeldruk die als verstikkend wordt ervaren. Ook het vertrek van jongeren naar de stad voor studie en werk, waardoor de aanwas in de gemeente onder druk staat, wordt als een verlies gevoeld. De zorg om de toekomst van het ziekenhuis 'Het Van Weel-Bethesda' blijft een latent punt van zorg voor de lokale voorzieningen.
 
----
+**Vragen**
+De centrale vraag is: "Hoe blijven we staande in een wereld die steeds verder van onze waarden afstaat?" Daarnaast spelen praktische vragen rondom duurzaamheid: "Hoe verhouden onze tradities zich tot de noodzakelijke ecologische transitie?" en "Is er nog een bron van hoop als de vertrouwde structuren wegvallen?"
 
-## 2. Trendanalyse
+#### 2. Trendanalyse
 
-### Mesotrends (5-15 jaar)
-*   **Verduurzaming en Waterbeheer:** Voor Goeree-Overflakkee is de verzilting van de bodem en de zoetwatervoorziening cruciaal. De lezing uit Exodus 17 (water uit de rots) krijgt hier een zeer actuele, existentiële laag.
-*   **Zorg onder druk:** Dirksland is een zorg-knooppunt. De vergrijzing (volgens CBS-prognoses 2024-2026 neemt het aandeel 65-plussers op de eilanden sneller toe dan gemiddeld) zorgt voor een hoge druk op mantelzorgers in de banken.
-*   **Digitalisering vs. Gemeenschap:** Terwijl de wereld digitaliseert, blijft de fysieke ontmoeting in de kerk in Dirksland een van de laatste plekken van sociale cohesie.
+**Mesotrends (5-15 jaar)**
 
-### Microtrends (maart 2026)
-*   **Biddag-bewustzijn:** Op 8 maart 2026 staat de gemeente drie dagen voor Biddag (11 maart). De spanning over de inputkosten (energie, kunstmest) en de weersverwachting voor het voorjaar is voelbaar.
-*   **Internationale Vrouwendag (8 maart):** Hoewel in Ring 2-gemeenten de nadruk vaak ligt op traditionele rollen, is er een groeiend bewustzijn van de waardigheid en de stem van de vrouw, mede door de focus van Kerk in Actie op Egypte. De ontmoeting van Jezus met de Samaritaanse vrouw (die als vrouw alleen het woord voert) is hierin een krachtig, bevrijdend beeld.
+*   **Agrarische transitie:** Volgens CBS-cijfers (2023/2024) neemt het aantal landbouwbedrijven op Goeree-Overflakkee gestaag af, terwijl de schaalvergroting doorzet. In 2026 is de druk op stikstofreductie en waterbeheer (zoetwatervoorziening) een structurele factor in de bedrijfsvoering van de hoorders.
 
----
+*   **Vergrijzing en zorg:** De demografische druk op de zorg in Dirksland neemt toe. De rol van de kerk als informeel zorgnetwerk wordt belangrijker naarmate de professionele zorg onder druk staat.
 
-## 3. Motivaction Mentality-model: Ring 2 Dirksland
+*   **Digitalisering van de religie:** De hybride kerkvorm (fysiek en online) is in 2026 volledig genormaliseerd, wat invloed heeft op de zondagsheiliging en de beleving van de gemeenschap.
 
-In een Ring 2-gemeente (confessioneel/hervormd) in een rurale setting zien we vaak een concentratie van de volgende milieus:
+**Microtrends (1-5 jaar) – Actueel op 8 maart 2026**
 
-### A. Traditionele Burgerij (Dominant)
-*   **Kenmerken:** Hechten aan traditie, moraal, orde en de kerk als instituut.
-*   **Resonantie:** Zij zoeken in de preek naar Bijbelse getrouwheid en ethische kaders. Woorden als 'verbond', 'trouw' en 'gehoorzaamheid' landen goed.
-*   **Preekfocus:** De ontmoeting bij de bron als een les in goddelijke orde die menselijke muren doorbreekt.
+*   **Watermanagement:** Naar verwachting is de discussie over de verzilting van de landbouwgrond op de eilanden in het voorjaar van 2026 actueel. De lezing uit Exodus 17 (water uit de rots) krijgt hierdoor een zeer materiële lading.
 
-### B. Nieuwe Conservatieven
-*   **Kenmerken:** Vaak de jongere generatie ondernemers/boeren. Liberaal in economie, conservatief in waarden. Harde werkers.
-*   **Resonantie:** Zij maken zich zorgen over de toekomst van hun bedrijf. De link met Biddag is hier essentieel.
-*   **Preekfocus:** Jezus die niet alleen geestelijk water geeft, maar ook de realiteit van de dorst (Exodus 17) erkent.
+*   **Economische onzekerheid:** De kosten voor energie en grondstoffen blijven volatiel, wat direct invloed heeft op de stemming tijdens de voorbereiding op de Biddag.
 
-### C. Moderne Burgerij
-*   **Kenmerken:** Mensen die werken in het ziekenhuis of onderwijs. Zoeken naar balans tussen traditie en modern leven.
-*   **Resonantie:** Gevoelig voor de psychologische kant van het verhaal (de schaamte van de vrouw, het gezien worden door Jezus).
-*   **Preekfocus:** De inclusieve blik van Jezus (Oculi - de ogen van Christus).
+*   **Maatschappelijke polarisatie:** De spanning tussen de 'randstedelijke' politiek en de lokale eilandcultuur beïnvloedt hoe men naar gezag en overheid kijkt.
 
----
+#### 3. Motivaction Mentality-model: Ring 2 Dirksland
 
-## 4. Homiletische Vertaling (De Leede & Stark)
+De gemeente in Ring 2 kenmerkt zich door een mix van sociale milieus, waarbij de nadruk ligt op behoudende en gemeenschapsgerichte groepen.
 
-### De 'Hoor'-ervaring (The listener's perspective)
-De hoorder in Dirksland komt op zondagavond 8 maart de kerk binnen met de werkweek van Biddag in het vooruitzicht. Er is een zekere vermoeidheid, maar ook een verwachting: "Biedt dit oude Boek nog een bron voor mijn dagelijkse realiteit?"
+| Groep | Geschatte aanwezigheid | Kenmerken en resonantie |
+| :--- | :--- | :--- |
+| **Traditionele burgerij** | Hoog (ca. 40%) | Waarderen de Statenvertaling of de Herziene Statenvertaling. Resoneren met thema's als plicht, gehoorzaamheid en de orde van de schepping. Zoeken houvast in de liturgie. |
+| **Nieuwe conservatieven** | Gemiddeld (ca. 20%) | Vaak ondernemers of hoger opgeleiden in de regio. Hechten aan verantwoordelijkheid en maatschappelijke orde. Spreken de taal van rentmeesterschap en ethiek. |
+| **Moderne burgerij** | Gemiddeld (ca. 25%) | Gezinsgericht, zoeken naar praktische handvatten voor het dagelijks leven. Resoneren met de ontmoeting bij de bron (Johannes 4) als model voor menselijke relaties. |
+| **Postmaterialisten** | Laag (ca. 10%) | Kritisch op consumptie, focus op duurzaamheid. Zij zullen de link tussen de woestijnreis (Exodus) en de huidige ecologische crisis waarderen. |
+| **Overige groepen** | Zeer laag (ca. 5%) | Kosmopolieten of hedonisten zijn in deze specifieke kerkelijke context marginaal vertegenwoordigd. |
 
-### Concrete aanknopingspunten voor de preek:
-1.  **De Bron en de Pomp:** Gebruik de metafoor van water, niet alleen spiritueel, maar ook fysiek (zoetwaterproblematiek op Flakkee). Jezus is de bron die niet afhankelijk is van de neerslagcijfers.
-2.  **Oculi (Ogen):** Verbind de naam van de zondag met de blik van de dorpsgemeenschap. In een dorp 'ziet' men elkaar (soms controlerend, zoals bij de vrouw in Samaria), maar Jezus ziet met 'nieuwe ogen' (Kerk in Actie thema).
-3.  **Vrouwendag & Egypte:** Maak de verbinding tussen de Samaritaanse vrouw en de meisjes in Egypte (Kerk in Actie). Het doorbreken van sociale stigma's door Jezus is een krachtig thema voor een gemeenschap die soms als 'gesloten' wordt ervaren.
-4.  **Biddag-opmaat:** Eindig de avonddienst met een specifieke voorbede voor de boerenstand en de zorgmedewerkers in Dirksland, als brug naar de woensdag.
+**Analyse van taal en beelden**
 
----
-**Bronnen voor deze analyse:**
-*   *CBS StatLine (2024): Bevolkingsopbouw en economische activiteit Goeree-Overflakkee.*
-*   *De Leede & Stark (2017): Ontvouwen. Protestantse homiletiek in de praktijk.*
-*   *Lokaal nieuwsarchief Eilanden-Nieuws (context agrarische sector/ziekenhuis).*
-*   *Kerk in Actie Projectinformatie Egypte 2026.*
+*   **Resonantie:** Beelden van de 'bron', de 'rots' en de 'woestijn' zijn in Dirksland niet louter metaforisch. De afhankelijkheid van water is een dagelijkse realiteit. De taal moet nuchter zijn, aansluitend bij de 'niet lullen maar poetsen'-mentaliteit van de regio, maar met een diepe spirituele onderlaag.
+
+*   **Spanningen:** Er kan spanning ontstaan tussen de traditionele burgerij (die focust op zonde en genade) en de postmaterialisten (die focussen op sociale rechtvaardigheid en klimaat). De verbinding ligt in de tekst van Romeinen 5: de hoop die niet beschaamt, ongeacht de politieke of ecologische context.
+
+#### 4. Bronnen en datering
+
+*   **CBS (2024):** Regionale prognoses bevolkingsopbouw en landbouwstatistieken Goeree-Overflakkee.
+
+*   **AlleCijfers.nl (2025):** Actuele demografische data Dirksland (postcode 3247).
+
+*   **Protestantsekerk.nl:** Beleidskaders 'Kerk 2025' en rapportages over de positie van de dorpskerk.
+
+*   **KNMI/Waterbeheer rapportages (prognose 2026):** Trends in voorjaarsdroogte en verzilting in de Delta-regio.

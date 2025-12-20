@@ -1,57 +1,59 @@
-# Sociaal-Maatschappelijke Context
+# Sociaal-Maatschappelijke Contextanalyse Lexmond (december 2025)
 
-Hieronder volgt de sociaal-maatschappelijke contextanalyse voor **Lexmond** ten behoeve van de prediking op **Oudejaarsavond 31 december 2025**. Deze analyse is uitgevoerd conform de methodiek van De Leede & Stark (2017) en maakt gebruik van de meest recente data en actuele ontwikkelingen.
+### 1. Demografische gegevens
 
----
+De woonplaats Lexmond, onderdeel van de gemeente Vijfheerenlanden, vertoont een stabiele groei en een specifieke bevolkingssamenstelling die relevant is voor de homiletische duiding van de jaarwisseling.
 
-# Sociaal-Maatschappelijke Contextanalyse: Lexmond
+*   **Bevolkingsomvang:** Per 1 januari 2025 telt Lexmond circa 3.000 inwoners. Dit is een stijging van 13% ten opzichte van 2013 (2.645 inwoners), wat wijst op een gestage uitbreiding van de dorpskern (Bron: AlleCijfers.nl, data december 2025).
 
-## 1. Demografische gegevens van Lexmond
-*   **Inwoneraantal:** Lexmond (onderdeel van de gemeente Vijfheerenlanden) telt circa **2.985 inwoners** (bron: AlleCijfers.nl, data 2024/2025). Het is een stabiele dorpsgemeenschap.
-*   **Leeftijdsopbouw:**
-    *   **Jeugd (0-15 jaar):** Relatief hoog (ca. 18%), wat duidt op een kinderrijke gemeenschap met veel jonge gezinnen.
-    *   **Senioren (65+):** Circa 20%. Er is sprake van een geleidelijke vergrijzing, maar minder sterk dan in omliggende krimpgebieden.
-*   **Huishoudens:** Veel gezinnen met kinderen (ca. 40%) en een hoog percentage koopwoningen (ca. 74%). Dit wijst op een honkvast publiek met een relatief hoog welstandsniveau.
-*   **Diversiteit:** De bevolking is overwegend van Nederlandse herkomst. De integratie van statushouders in de gemeente Vijfheerenlanden is een doorlopend lokaal thema in 2025.
+*   **Leeftijdsopbouw:** De vergrijzing is een significant kenmerk. Circa 22% van de bevolking is 65 jaar of ouder. De grootste groep inwoners bevindt zich in de leeftijdscategorie 45 tot 65 jaar (ongeveer 30%). Dit betekent dat de hoorders in de oudejaarsdienst voor een groot deel bestaan uit mensen in de herfst van hun werkzame leven of in de pensioenfase, voor wie thema’s als terugblikken en eindigheid concreet zijn.
 
-## 2. Economische situatie
-*   **Sectoren:** De lokale economie leunt sterk op de **agrarische sector** (veehouderij), **transport & logistiek** (vanwege de ligging nabij de A27) en de bouwsector.
-*   **Agrarische transitie:** In 2025 is de onzekerheid onder boeren in de Alblasserwaard en Vijfheerenlanden nog steeds voelbaar. De discussies over stikstof, de toekomst van familiebedrijven en de herinrichting van het landelijk gebied raken veel families in de kerkbanken direct of indirect.
-*   **Inkomen:** Het gemiddelde inkomen per inwoner in Lexmond ligt boven het landelijk gemiddelde. Er is echter een verborgen kwetsbaarheid bij zzp’ers en kleine ondernemers die te maken hebben met gestegen energielasten en inflatiecorrecties in 2024-2025.
+*   **Huishoudens:** Er zijn ongeveer 1.200 huishoudens met een gemiddelde grootte van 2,5 personen. Het aandeel gezinnen met kinderen is substantieel, maar de eenpersoonshuishoudens vormen een groeiende groep, wat de behoefte aan sociale verbinding in de kerkelijke gemeente onderstreept.
 
-## 3. Sociale structuur
-*   **Sociale cohesie:** Lexmond kent een zeer sterk verenigingsleven. De voetbalvereniging (VV Lexmond) en de Oranjevereniging zijn dragers van de lokale identiteit. Er heerst een "ons-kent-ons" cultuur.
-*   **Voorzieningen:** Het dorp heeft een eigen basisschool (De Regenboog/Het Kompas) en een multifunctioneel centrum ('Huis Het Bosch'), dat fungeert als de 'huiskamer' van het dorp.
-*   **Woningmarkt:** Er is een nijpend tekort aan betaalbare woningen voor jongeren uit het eigen dorp. Dit zorgt ervoor dat de 'doorstroom' stokt en jongeren gedwongen naar grotere plaatsen als Gorinchem of Utrecht trekken.
+*   **Woonsituatie:** De woningmarkt in Lexmond is stabiel met een hoog percentage koopwoningen (71%). De gemiddelde WOZ-waarde bedraagt €440.587 (prijspeil 2025). Dit duidt op een relatief welvarende, gesettelde gemeenschap.
 
-## 4. Recente lokale gebeurtenissen (Focus 2025)
-*   **Infrastructuur (A27):** In 2025 zijn de werkzaamheden aan de verbreding van de A27 en de vervanging van de Merwedebrug en de Hagesteinsebrug in volle gang. Dit zorgt voor veel verkeersoverlast en geluidshinder in Lexmond, wat een terugkerend gespreksonderwerp is bij de bakker en op het kerkplein.
-*   **Duurzaamheid:** De discussie over de plaatsing van windturbines of zonneparken in de polders van Vijfheerenlanden heeft in 2025 geleid tot lokale spanningen tussen behoud van landschap en de noodzaak van energietransitie.
-*   **Veiligheid:** In de regio is in 2025 extra aandacht voor de preventie van ondermijning (drugscriminaliteit in het buitengebied), een thema dat de rust van het platteland soms ruw verstoort.
+### 2. Economische situatie
 
-## 5. Kerkelijke context
-*   **De Protestantse Gemeente Lexmond:** Een actieve gemeente die kerkt in de historische Sint-Nicolaaskerk. De gemeente heeft een **confessionele tot Gereformeerde Bond-signatuur**. Dit betekent dat er grote waarde wordt gehecht aan de schriftuurlijke prediking, de zondagsheiliging en de verbondsgedachte.
-*   **Positie in de regio:** Lexmond is een 'kerks' dorp vergeleken met de rest van Vijfheerenlanden. De kerk speelt nog steeds een centrale rol in het sociale weefsel en bij rouw- en trouwplechtigheden.
-*   **Samenwerking:** Er is een goede verstandhouding met de omliggende gemeenten (zoals Vianen en Meerkerk), maar de eigen Lexmondse identiteit blijft vooropstaan.
-*   **Thema voor Oudjaar:** Gezien de agrarische zorgen en de infrastructurele onrust in 2025, is de vraag naar "vastigheid in een veranderende wereld" zeer actueel.
+De economie van Lexmond en de omliggende regio Vijfheerenlanden is geworteld in een combinatie van traditie en moderne logistiek.
 
-## 6. Synthese voor de Prediking (Homiletische brug)
-De hoorder in Lexmond op 31 december 2025 is waarschijnlijk iemand die:
-1.  **Dankbaar is** voor de geborgenheid van het dorp en de familie, maar zich tegelijk **zorgen maakt** over de toekomst van het (boeren)bedrijf of de woning voor de kinderen.
-2.  **Vermoeid is** door de letterlijke onrust (werkzaamheden A27) en de figuurlijke onrust (maatschappelijke polarisatie).
-3.  **Behoefte heeft** aan een boodschap die de tijd overstijgt: God als een "vaste burcht" te midden van de polders die veranderen.
+*   **Sectoren:** Hoewel het landschap visueel wordt gedomineerd door de agrarische sector (agri-food), zijn de grootste werkgevers in de regio de handel (ca. 3.300 banen), de gezondheidszorg (ca. 2.850 banen) en de bouwnijverheid (ca. 2.650 banen) (Bron: Economische Visie Vijfheerenlanden 2022-2026).
 
----
+*   **Bedrijvigheid:** Lexmond telt 515 geregistreerde bedrijfsvestigingen. Veel inwoners zijn werkzaam als zelfstandig ondernemer of forenzen naar nabijgelegen steden als Utrecht of Dordrecht via de A27.
 
-**Bronnen:**
-*   *AlleCijfers.nl (Lexmond 2024/2025)*
-*   *Gemeente Vijfheerenlanden - Omgevingsvisie 2025*
-*   *Regionaal nieuws via Het Kontakt / De Stad Gorinchem (editie Vianen/Lexmond)*
-*   *Website Protestantse Gemeente Lexmond (Beleidsplan 2023-2027)*
+*   **Arbeidsethos:** De lokale overheid rapporteert een "uitstekend arbeidsethos" binnen de gemeente, wat zich vertaalt in een relatief lage werkloosheid en een pragmatische instelling onder de bewoners.
 
----
+### 3. Sociale structuur en leefbaarheid
 
-### Tips voor de predikant:
-*   **Concreet voorbeeld:** Noem de files of de wegafzettingen bij de A27 als metafoor voor "onderweg zijn" of "gehinderd worden" in het leven.
-*   **Agrarische link:** Gebruik beelden uit de natuur of de landbouw (zaaien/oogsten/seizoenen), aangezien dit de taal van het dorp is.
-*   **Gedenken:** Besteed aandacht aan het feit dat in een hechte gemeenschap als Lexmond het verlies van een markant gemeentelid in het afgelopen jaar door het hele dorp gevoeld wordt.
+De sociale cohesie in Lexmond is sterk, maar staat onder druk door externe factoren zoals verkeersoverlast en ruimtelijke ontwikkelingen.
+
+*   **Verenigingsleven:** Er is een actief verenigingsleven. In december 2025 bleek de betrokkenheid groot bij de Grote Clubactie, waarbij verenigingen in Vijfheerenlanden gezamenlijk ruim €105.000 ophaalden (Bron: SRC.fm, 12 december 2025). Dit wijst op een hoge mate van onderlinge solidariteit en vrijwillige inzet.
+
+*   **Voorzieningen:** Lexmond beschikt over basisvoorzieningen zoals een basisschool en lokale winkels, die essentieel zijn voor de leefbaarheid. De schoolomgeving is een punt van aandacht vanwege de verkeersveiligheid.
+
+*   **Sociale cohesie:** Volgens het SCP (Sociale en Culturele Ontwikkelingen 2025) is het sociaal vertrouwen in gemeenschappen met een profiel zoals Lexmond (theoretisch geschoold, stabiel inkomen) over het algemeen hoog, maar is er een groeiende zorg over de verharding van het maatschappelijk debat en de kloof tussen overheid en burger.
+
+### 4. Recente lokale gebeurtenissen (2025)
+
+In de voorbereiding op de preek kunnen de volgende specifieke lokale dossiers uit 2025 als context dienen:
+
+*   **Gebiedsontwikkeling Lexmond-West:** In april 2025 is het gebiedsplan voor Lexmond-West vastgesteld, dat ruimte biedt aan circa 300 nieuwe woningen. Dit project zorgt voor discussie over het behoud van het dorpse karakter versus de noodzaak voor huisvesting van jongeren (Bron: Gemeente Vijfheerenlanden, 15 april 2025).
+
+*   **Verkeersproblematiek:** Gedurende 2025 is er intensief geëxperimenteerd met inrijverboden tussen Vianen en Lexmond om sluipverkeer in de avondspits tegen te gaan. De overlast op de Lekdijk en de veiligheid rond de school blijven actuele thema's die de dagelijkse gemoederen bezighouden (Bron: Kadernota 2025-2028).
+
+*   **Veiligheid:** In de laatste weken van december 2025 zijn er diverse meldingen geweest van verkeersongevallen in de regio (o.a. Vianen en Lexmond), wat de kwetsbaarheid van het bestaan in de donkere dagen voor kerst en oudjaar accentueert (Bron: Alarmeringen.nl, 20 december 2025).
+
+### 5. Kerkelijke context: Protestantse Gemeente Lexmond (Lux Mundi)
+
+De Protestantse Gemeente Lexmond neemt een centrale, maar veranderende positie in binnen het dorp.
+
+*   **Ledenbestand:** De gemeente telt circa 725 leden. De kern van de actieve gemeente bestaat uit ongeveer 200 betrokken vrijwilligers (Bron: lux-mundi.nl, 2025).
+
+*   **Identiteit:** De gemeente profileert zich als "Lux Mundi" (Licht der Wereld) en streeft naar een open, gastvrije houding ("een thuis voor mensen die zoeken"). De gemeente is een "Groene Kerk", wat duidt op een actieve betrokkenheid bij thema's als duurzaamheid en rentmeesterschap.
+
+*   **Kerkelijke kaart:** Naast de Protestantse Gemeente (Lux Mundi) is er de Hervormde Gemeente Lexmond (Gereformeerde Bond). De verhouding tussen beide gemeenten is historisch bepaald; Lux Mundi heeft haar wortels in de Gereformeerde Kerken (Doleantie) en staat bekend als de meer breed-protestantse, oecumenisch georiënteerde gemeente in het dorp.
+
+*   **Activiteiten:** In 2025 lag de focus op het programma "Vieren, Leren en Dienen", met specifieke aandacht voor schuldhulpverlening (SchuldHulpMaatje) en open middagen voor ouderen. Dit bevestigt de diaconale en sociale rol van de kerk in de Lexmondse samenleving.
+
+### Synthese voor de prediking
+
+De hoorder in Lexmond op 31 december 2025 is iemand die leeft in een spanningsveld tussen de rust van een dorpsgemeenschap en de dynamiek van groei (Lexmond-West) en overlast (verkeer). Er is een sterke behoefte aan behoud van wat goed is, terwijl de tijd (het jaar 2025) onherroepelijk veranderingen brengt. De hoge gemiddelde leeftijd van de kerkgangers vraagt om een boodschap die recht doet aan de balans van het leven: dankbaarheid voor wat was, erkenning van de broosheid (verkeersongevallen, verharding maatschappij) en hoop voor de toekomst van het dorp en de geloofsgemeenschap.
