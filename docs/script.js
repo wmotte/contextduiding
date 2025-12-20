@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const reportContainer = document.getElementById('report-container');
     const contentOverview = document.getElementById('content-overview');
     const contentDetails = document.getElementById('content-details');
+    const backToTopBtn = document.getElementById('back-to-top');
 
     // --- State ---
     // Structure: { "GemeenteNaam": { "file.md": FileObject|String, ... } }
@@ -144,6 +145,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Scroll to top of report container
         reportContainer.scrollTop = 0;
+        // Hide FAB initially
+        backToTopBtn.classList.remove('visible');
 
         // Reset content
         contentOverview.innerHTML = '<p>Laden...</p>';
@@ -174,7 +177,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const text = await getFileContent(filesMap[filename]);
                     
                     detailsHtml += `<div class="section-divider"></div>`;
-                    detailsHtml += `<div class="back-to-top-wrapper"><button class="back-to-top-btn" onclick="document.getElementById('report-container').scrollTo({top:0, behavior:'smooth'})">↑ Terug naar overzicht</button></div>`;
+                    // Note: Removed the injected button here
                     detailsHtml += `<div class="file-section" id="section-${filename}" data-file="${filename}">`;
                     detailsHtml += marked.parse(smartQuotes(text));
                     detailsHtml += `</div>`;
@@ -199,7 +202,6 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             
             const filename = href.split('/').pop();
-            // The IDs are sanitized to be safe for selectors, but our IDs are just section-filename
             const targetSection = document.getElementById(`section-${filename}`);
             
             if (targetSection) {
@@ -208,6 +210,24 @@ document.addEventListener('DOMContentLoaded', () => {
                 console.warn(`Section for ${filename} not found.`);
             }
         }
+    });
+
+    // --- FAB Handling ---
+    // Scroll listener on the report container
+    reportContainer.addEventListener('scroll', () => {
+        if (reportContainer.scrollTop > 300) {
+            backToTopBtn.classList.add('visible');
+        } else {
+            backToTopBtn.classList.remove('visible');
+        }
+    });
+
+    // Click listener for FAB
+    backToTopBtn.addEventListener('click', () => {
+        reportContainer.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
     });
 
     // Run Init
