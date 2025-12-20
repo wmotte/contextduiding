@@ -1,4 +1,4 @@
-docs
+_tmp
 bijbelteksten
 *.html
 .Rhistory
@@ -42,4 +42,3 @@ env/
 
 # OS
 .DS_Store
-Thumbs.db
