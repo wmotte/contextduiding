@@ -2,7 +2,32 @@
 
 Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding in de PKN, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).
 
-## Voorbeelden
+## ⚠️ Beperkingen en waarschuwingen
+
+Dit script maakt gebruik van een Large Language Model (Gemini) met Google Search grounding. Ondanks maatregelen om hallucinaties te beperken (lage temperature, zoekverificatie), kunnen er onjuistheden in de output voorkomen.
+
+### Bekende risico's
+
+**Kerkelijke gemeenten**
+In plaatsen met meerdere protestantse kerken (bijv. Hervormde Gemeente, Gereformeerde Kerk, PKN-fusiegemeente) kan het model informatie van verschillende gemeenten door elkaar halen of verkeerde aannames doen over de bedoelde gemeente. Controleer altijd of de informatie over *uw specifieke gemeente* klopt.
+
+**Onduidelijke of verouderde bronnen**
+Het model baseert zich op online beschikbare informatie. Als recente gegevens ontbreken of bronnen tegenstrijdig zijn, kan het model:
+- Verouderde cijfers presenteren als actueel
+- Informatie "invullen" die niet geverifieerd is
+- Gegevens van nabijgelegen plaatsen of vergelijkbare gemeenten overnemen
+
+**Verkiezingsuitslagen en statistieken**
+Cijfers en percentages dienen altijd gecontroleerd te worden bij de primaire bron (CBS, Kiesraad, gemeente).
+
+### Aanbeveling
+
+Beschouw de output als een *startpunt* voor uw voorbereiding, niet als feitelijke waarheid. Verifieer cruciale informatie, vooral over:
+- Uw specifieke kerkelijke gemeente
+- Recente lokale gebeurtenissen
+- Statistische gegevens
+
+## 📂 Voorbeelden
 
 In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 
@@ -16,11 +41,11 @@ In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 | Utrecht (Lutherse Gemeente) | 25 december 2025 | [00_overzicht.md](output/Utrecht_25_december_2025_Lutherse_Gemeente/00_overzicht.md) |
 | Bleiswijk | 21 december 2025 | [00_overzicht.md](output/Bleiswijk_21_december_2025/00_overzicht.md) |
 
-## Achtergrond
+## 📖 Achtergrond
 
 Friedrich Niebergall constateerde: *"Menige preek geeft antwoorden op vragen die niemand stelt, en gaat niet in op vragen die iedereen stelt."* Dit script helpt predikanten om hun hoorders beter te kennen door systematisch de context in kaart te brengen.
 
-## Wat doet dit script?
+## 🔍 Wat doet dit script?
 
 Het script voert zeven uitgebreide analyses uit met behulp van Gemini API en Google Search, in twee fasen:
 
@@ -37,7 +62,7 @@ Het script voert zeven uitgebreide analyses uit met behulp van Gemini API en Goo
 
 De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, zodat bijvoorbeeld het wereldnieuws gerelateerd kan worden aan de Schriftlezingen.
 
-### Verdieping (verdieping.py)
+### 📚 Verdieping (verdieping.py)
 
 Na de basisanalyse kan een verdieping worden uitgevoerd met drie extra analyses:
 
@@ -49,7 +74,7 @@ Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als
 
 **Bijbelteksten ophalen:** Het script haalt automatisch de bijbelteksten op van [naardensebijbel.nl](https://www.naardensebijbel.nl/) (de literaire vertaling van Pieter Oussoren). De teksten worden opgeslagen in `bijbelteksten/*.txt` en meegenomen in het exegese-prompt.
 
-### Naardense Bijbel Tool
+### 📜 Naardense Bijbel Tool
 
 Het script `naardense_bijbel.py` is een hulpmiddel dat specifiek is ontwikkeld om bijbelteksten op te halen voor de exegese-fase.
 
@@ -61,7 +86,7 @@ Het script `naardense_bijbel.py` is een hulpmiddel dat specifiek is ontwikkeld o
 
 Dit script wordt automatisch aangeroepen door `verdieping.py`, maar kan ook standalone worden gebruikt of geïmporteerd in andere scripts.
 
-## Installatie
+## 🛠️ Installatie
 
 ```bash
 # Clone of download de repository
@@ -77,7 +102,7 @@ export GEMINI_API_KEY='jouw-api-key'
 echo "GEMINI_API_KEY=jouw-api-key" > .env
 ```
 
-## Gebruik
+## 🚀 Gebruik
 
 ### Basisanalyse
 
@@ -100,7 +125,7 @@ python verdieping.py
 
 Dit script toont een lijst van beschikbare basisanalyses en laat je er een kiezen. Vervolgens worden de exegese en kunst/cultuur analyses gegenereerd op basis van alle eerdere context.
 
-## Output
+## 📁 Output
 
 Het script genereert een map in `output/` met:
 
@@ -123,7 +148,7 @@ output/Plaatsnaam_datum_timestamp/
     └── ...
 ```
 
-## Projectstructuur
+## 🗂️ Projectstructuur
 
 ```
 contextduiding/
@@ -148,7 +173,7 @@ contextduiding/
 └── output/                                 # Gegenereerde analyses
 ```
 
-## Prompts aanpassen
+## ✏️ Prompts aanpassen
 
 De prompts staan als losse markdown-bestanden in de `prompts/` map. Je kunt deze bewerken zonder de Python code aan te passen.
 
@@ -157,7 +182,7 @@ De prompts staan als losse markdown-bestanden in de `prompts/` map. Je kunt deze
 - `{{gemeente}}` - De ingevoerde gemeente
 - `{{datum}}` - De ingevoerde datum
 
-## Methodiek
+## 📋 Methodiek
 
 De analyse is gebaseerd op de vier pijlers van hoordersanalyse volgens De Leede & Stark (2017), aangevuld met liturgische context en actueel nieuws:
 
@@ -283,32 +308,7 @@ van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
 
 Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery of Art
 
-## Beperkingen en waarschuwingen
-
-Dit script maakt gebruik van een Large Language Model (Gemini) met Google Search grounding. Ondanks maatregelen om hallucinaties te beperken (lage temperature, zoekverificatie), kunnen er onjuistheden in de output voorkomen.
-
-### Bekende risico's
-
-**Kerkelijke gemeenten**
-In plaatsen met meerdere protestantse kerken (bijv. Hervormde Gemeente, Gereformeerde Kerk, PKN-fusiegemeente) kan het model informatie van verschillende gemeenten door elkaar halen of verkeerde aannames doen over de bedoelde gemeente. Controleer altijd of de informatie over *uw specifieke gemeente* klopt.
-
-**Onduidelijke of verouderde bronnen**
-Het model baseert zich op online beschikbare informatie. Als recente gegevens ontbreken of bronnen tegenstrijdig zijn, kan het model:
-- Verouderde cijfers presenteren als actueel
-- Informatie "invullen" die niet geverifieerd is
-- Gegevens van nabijgelegen plaatsen of vergelijkbare gemeenten overnemen
-
-**Verkiezingsuitslagen en statistieken**
-Cijfers en percentages dienen altijd gecontroleerd te worden bij de primaire bron (CBS, Kiesraad, gemeente).
-
-### Aanbeveling
-
-Beschouw de output als een *startpunt* voor uw voorbereiding, niet als feitelijke waarheid. Verifieer cruciale informatie, vooral over:
-- Uw specifieke kerkelijke gemeente
-- Recente lokale gebeurtenissen
-- Statistische gegevens
-
-## Bronnen
+## 📚 Bronnen
 
 ### Gebruikte bronnen door het script
 - **CBS / AlleCijfers** - Demografische statistieken
@@ -327,6 +327,6 @@ Beschouw de output als een *startpunt* voor uw voorbereiding, niet als feitelijk
 - Snoek, H. (2010). *Een huis om in te wonen: Uitleg en interpretatie van de Bijbel*. Kampen: Kok, 2e druk, pp. 180-199. (Zoekmodellen voor Gods-, mens- en Jezusbeelden)
 - Motivaction. *Mentality-model*. https://www.motivaction.nl/mentality
 
-## API Key
+## 🔑 API Key
 
 Je hebt een Gemini API key nodig: https://aistudio.google.com/app/apikey
