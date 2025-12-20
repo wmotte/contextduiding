@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contextduiding Archief</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+    <a href="https://github.com/wmotte/contextduiding" target="_blank" class="info-btn" title="Project Info">
+        <span>i</span>
+    </a>
+
+    <!-- Welcome / Setup Screen -->
+    <div id="setup-screen" class="setup-container">
+        <div class="setup-box">
+            <h1>Contextduiding Archief</h1>
+            <p>Selecteer de <strong>output</strong> map om de rapporten te laden.</p>
+            
+            <label for="folder-input" class="file-upload-btn">
+                Map Selecteren
+            </label>
+            <input type="file" id="folder-input" webkitdirectory directory multiple />
+            
+            <p class="small-text">Alle verwerking gebeurt lokaal in je browser.</p>
+        </div>
+    </div>
+
+    <!-- Main App Interface (Hidden initially) -->
+    <div id="app-container" class="container hidden">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Gemeenten</h2>
+            </div>
+            <ul id="municipality-list">
+                <!-- Wordt gevuld door JavaScript -->
+            </ul>
+        </aside>
+
+        <main class="content">
+            <header class="main-header">
+                <h1 id="page-title">Selecteer een gemeente</h1>
+                <p class="subtitle">Contextduiding & Exegese</p>
+            </header>
+
+            <div id="report-container" class="report-container hidden">
+                <!-- Navigatie voor de secties -->
+                <nav class="report-nav">
+                    <button class="nav-btn active" data-target="overview">Overzicht</button>
+                    <button class="nav-btn" data-target="details">Volledige Details</button>
+                </nav>
+
+                <!-- Sectie: Overzicht -->
+                <div id="overview" class="tab-content active">
+                    <div id="content-overview" class="markdown-body"></div>
+                </div>
+
+                <!-- Sectie: Details (Alle andere bestanden) -->
+                <div id="details" class="tab-content">
+                    <div id="content-details" class="markdown-body"></div>
+                </div>
+            </div>
+            
+            <div id="placeholder-message">
+                <p>Kies een item uit de lijst links om de contextduiding te bekijken.</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
