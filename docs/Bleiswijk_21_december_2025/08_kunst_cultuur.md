@@ -5,21 +5,21 @@ Deze digitale illustratie verplaatst het kerstverhaal naar een hedendaagse, sted
 
 *   **Toevoeging aan de tekst:** Dit werk haalt de 'vroomheid' van de tekst af en plaatst Jozef in de rol van de praktische regelaar in een crisis. Voor de hoorder in Bleiswijk, die gewend is aan logistiek en aanpakken, maakt dit de kwetsbaarheid van de "Immanuël"-belofte tastbaar: God komt niet in een paleis, maar in de banaliteit van een wachtruimte.
 
-*   **Zoekterm:** `Zoekterm: Everett Patterson Jose y Maria illustration`
+*   **Zoekterm:** `Everett Patterson Jose y Maria illustration`
 
 **Daniel Bonnell, *Joseph's Dream* (2011)**
 Bonnell schildert Jozef in een diepe, bijna loden slaap. De engel is niet als fysieke gestalte aanwezig, maar als een overweldigend licht dat de contouren van Jozefs lichaam binnendringt. De stijl is expressionistisch en abstract.
 
 *   **Toevoeging aan de tekst:** Het werk visualiseert de innerlijke omwenteling. Het laat zien dat de droom geen vlucht is uit de realiteit, maar een confrontatie met een grotere werkelijkheid die Jozefs 'rechtvaardige' plannen (Matteüs 1:19) overstijgt. Het benadrukt de passiviteit van de mens tegenover het initiatief van God.
 
-*   **Zoekterm:** `Zoekterm: Daniel Bonnell Joseph's Dream painting`
+*   **Zoekterm:** `Daniel Bonnell Joseph's Dream painting`
 
 **He Qi, *The Dream of Joseph* (2001)**
 De Chinese kunstenaar He Qi gebruikt levendige kleuren en kubistische vormen. De engel buigt zich over een slapende Jozef heen in een beschermend, bijna moederlijk gebaar.
 
 *   **Toevoeging aan de tekst:** In een cultuur die gericht is op presteren en controle (zoals de glastuinbouwsector), biedt dit werk een beeld van geborgenheid en goddelijke sturing. Het benadrukt dat Jozefs gehoorzaamheid voortkomt uit een ontvangen visioen, niet uit eigen kracht.
 
-*   **Zoekterm:** `Zoekterm: He Qi The Dream of Joseph`
+*   **Zoekterm:** `He Qi The Dream of Joseph`
 
 ---
 
@@ -30,21 +30,21 @@ Een meesterwerk van clair-obscur. Een jonge engel raakt met een teder gebaar de 
 
 *   **Toevoeging aan de tekst:** De kaarsvlam die door de hand van de engel wordt afgeschermd, symboliseert het kwetsbare licht in de duisternis. Voor een gemeente in Bleiswijk, waar licht (in de kassen) een economische factor is, biedt dit schilderij een meditatieve ingang naar het 'andere licht' van Advent: stil, intiem en richtinggevend.
 
-*   **Zoekterm:** `Zoekterm: Georges de La Tour The Dream of Joseph Musee des Beaux-Arts Nantes`
+*   **Zoekterm:** `Georges de La Tour The Dream of Joseph Musee des Beaux-Arts Nantes`
 
 **Anoniem, *Icoon van de Geboorte van Christus* (Oosters-Orthodoxe traditie)**
 In de traditionele iconografie van de Geboorte wordt Jozef steevast linksonder in de hoek afgebeeld, weggekeerd van de kribbe. Hij wordt aangesproken door een oude herder (vaak geduid als de duivel/verleider) die hem influistert dat een maagdelijke geboorte onmogelijk is.
 
 *   **Toevoeging aan de tekst:** Deze iconografie erkent de twijfel van Jozef. Het maakt hem tot een mens van vlees en bloed die worstelt met de ratio. Dit is zeer herkenbaar voor de moderne hoorder die de Bijbeltekst probeert te rijmen met een wetenschappelijk wereldbeeld.
 
-*   **Zoekterm:** `Zoekterm: Orthodox Icon Nativity Joseph doubt devil`
+*   **Zoekterm:** `Orthodox Icon Nativity Joseph doubt devil`
 
 **Philippe de Champaigne, *De droom van de heilige Jozef* (ca. 1642-1643)**
 Een barok werk waarin de engel zeer expliciet naar de zwangere Maria wijst, die op de achtergrond zichtbaar is. Jozef ligt in een ongemakkelijke houding, wat zijn innerlijke onrust weerspiegelt.
 
 *   **Toevoeging aan de tekst:** Het werk legt de nadruk op de 'opdracht' (Matteüs 1:20-21). De engel wijst de weg. Het visualiseert de overgang van Jozefs eigen plan (het verborgene loslaten) naar Gods plan (het kind de naam Jezus geven).
 
-*   **Zoekterm:** `Zoekterm: Philippe de Champaigne Dream of Saint Joseph Musee des Beaux-Arts Nancy`
+*   **Zoekterm:** `Philippe de Champaigne Dream of Saint Joseph Musee des Beaux-Arts Nancy`
 
 ---
 
@@ -57,7 +57,7 @@ Deze film vertelt het waargebeurde verhaal van Franz Jägerstätter, een Oostenr
 
 *   **Verbinding met de tekst:** Dit raakt aan de positie van Jozef als "rechtvaardig man" die besluit tegen de sociale conventie in bij Maria te blijven. Het thema 'gehoorzaamheid aan een hogere roeping versus publieke opinie' wordt hier indringend verbeeld.
 
-*   **Zoekterm:** `Zoekterm: A Hidden Life 2019 film Terrence Malick`
+*   **Zoekterm:** `A Hidden Life 2019 film Terrence Malick`
 
 **The Nativity Story (2006) – Regie: Catherine Hardwicke**
 Hoewel een Hollywood-productie, geeft deze film een sterke psychologische invulling aan de rol van Jozef (gespeeld door Oscar Isaac).
@@ -66,7 +66,7 @@ Hoewel een Hollywood-productie, geeft deze film een sterke psychologische invull
 
 *   **Verbinding met de tekst:** Het maakt de "rechtvaardigheid" van Jozef menselijk. Het is geen abstracte deugd, maar een worsteling met liefde en wet.
 
-*   **Zoekterm:** `Zoekterm: The Nativity Story 2006 film Joseph's dream scene`
+*   **Zoekterm:** `The Nativity Story 2006 film Joseph's dream scene`
 
 ---
 
@@ -77,14 +77,14 @@ Een indie-folk nummer dat het perspectief van Jozef kiest. De tekst beschrijft z
 
 *   **Toevoeging:** De kwetsbare stem van Stevens past bij de ingetogen sfeer van de 4e Advent. Het haalt Jozef uit de sfeer van de heiligenbeelden en maakt hem tot een vader die zich afvraagt hoe hij dit kind moet opvoeden.
 
-*   **Zoekterm:** `Zoekterm: Sufjan Stevens Joseph Who Understood lyrics`
+*   **Zoekterm:** `Sufjan Stevens Joseph Who Understood lyrics`
 
 **Arvo Pärt, *Magnificat* (1989)**
 Hoewel de tekst van Maria is, weerspiegelt de 'tintinnabuli'-stijl van Pärt (minimalistisch, verstild) de sfeer van de droom van Jozef.
 
 *   **Toevoeging:** De muziek dwingt tot luisteren en stilte, precies wat Jozef doet in de tekst. Het kan uitstekend dienen als meditatief moment na de preek.
 
-*   **Zoekterm:** `Zoekterm: Arvo Pärt Magnificat Estonian Philharmonic Chamber Choir`
+*   **Zoekterm:** `Arvo Pärt Magnificat Estonian Philharmonic Chamber Choir`
 
 ---
 
@@ -95,14 +95,14 @@ In dit gedicht beschrijft Rilke de achterdocht van Jozef wanneer hij de zwangers
 
 *   **Relevantie:** Rilke verwoordt de nuchtere verbazing van de timmerman. De taal is aards en krachtig, wat goed aansluit bij de Bleiswijkse mentaliteit.
 
-*   **Zoekterm:** `Zoekterm: Rainer Maria Rilke Josephs Argwohn gedicht`
+*   **Zoekterm:** `Rainer Maria Rilke Josephs Argwohn gedicht`
 
 **Tomas Halík, *Geduld met God* (2010)**
 In dit essayistische werk schrijft Halík over de 'nacht van het geloof'. Hij gebruikt de figuur van Zacheüs, maar zijn analyses van geloof als 'het uithouden van de onzekerheid' zijn direct toepasbaar op Jozef.
 
 *   **Relevantie:** Voor een gemeente die antwoorden zoekt in een onzekere tijd (2025), biedt Halíks benadering van Jozefs droom als een vorm van 'geestelijk geduld' diepe troost.
 
-*   **Zoekterm:** `Zoekterm: Tomas Halik Geduld met God Boekencentrum`
+*   **Zoekterm:** `Tomas Halik Geduld met God Boekencentrum`
 
 ---
 
