@@ -33,6 +33,18 @@ document.addEventListener('DOMContentLoaded', () => {
         return name.replace(/_/g, ' ');
     }
 
+    // Fix relative links to point to the correct subdirectory
+    function fixRelativeLinks(container, dirName) {
+        const links = container.querySelectorAll('a');
+        links.forEach(link => {
+            const href = link.getAttribute('href');
+            // Check if it's a relative link to a markdown file
+            if (href && !href.startsWith('http') && !href.startsWith('/') && !href.startsWith('#') && href.endsWith('.md')) {
+                link.setAttribute('href', `${dirName}/${href}`);
+            }
+        });
+    }
+
     // Helper to read a File object as text or return string if already text
     function getFileContent(fileOrString) {
         if (typeof fileOrString === 'string') {
@@ -134,6 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
             try {
                 const text = await getFileContent(filesMap['00_overzicht.md']);
                 contentOverview.innerHTML = marked.parse(text);
+                fixRelativeLinks(contentOverview, dirName);
             } catch (e) {
                 console.error(e);
                 contentOverview.innerHTML = '<p>Fout bij laden overzicht.</p>';
@@ -161,18 +174,21 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         contentDetails.innerHTML = detailsHtml;
+        fixRelativeLinks(contentDetails, dirName);
     }
 
     // --- Link Handling ---
-    function handleInternalLink(e) {
+    document.body.addEventListener('click', (e) => {
         const link = e.target.closest('a');
         if (!link) return;
 
         const href = link.getAttribute('href');
+        // Check if it's an internal MD link
         if (href && href.endsWith('.md')) {
             e.preventDefault();
             
             const filename = href.split('/').pop();
+            // The IDs are sanitized to be safe for selectors, but our IDs are just section-filename
             const targetSection = document.getElementById(`section-${filename}`);
             
             if (targetSection) {
@@ -181,9 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 console.warn(`Section for ${filename} not found.`);
             }
         }
-    }
-
-    reportContainer.addEventListener('click', handleInternalLink);
+    });
 
     // Run Init
     init();
