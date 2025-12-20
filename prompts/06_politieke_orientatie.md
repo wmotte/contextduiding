@@ -4,26 +4,39 @@ Breng het politieke landschap en stemgedrag in kaart voor {{plaatsnaam}}.
 
 ## 0. Verkiezingsdata opzoeken (VERPLICHTE EERSTE STAP)
 
-**Zoek EERST op wanneer de meest recente verkiezingen hebben plaatsgevonden voordat je uitslagen analyseert.** Dit is cruciaal omdat verkiezingsdata snel verouderen.
+**Zoek EERST op wanneer de meest recente verkiezingen hebben plaatsgevonden.**
+Let goed op de datum van de preek (`{{datum}}`). Als deze datum in de toekomst ligt (bijv. eind 2025), controleer dan of er in de tussenliggende periode (2024, 2025) verkiezingen zijn geweest (bijv. **Europees Parlement juni 2024** of vervroegde **Tweede Kamerverkiezingen in 2025**).
 
 Zoek expliciet naar:
-- **Tweede Kamerverkiezingen**: Wanneer waren de laatste landelijke verkiezingen? (Let op: er kunnen vervroegde verkiezingen zijn geweest)
-- **Provinciale Statenverkiezingen**: Wanneer waren de laatste provinciale verkiezingen?
-- **Gemeenteraadsverkiezingen**: Wanneer waren de laatste gemeenteraadsverkiezingen in {{plaatsnaam}}? (Let op: herindelingen kunnen andere data geven)
-- **Waterschapsverkiezingen**: Wanneer waren de laatste waterschapsverkiezingen?
+- **Tweede Kamerverkiezingen**: Zijn er na november 2023 nieuwe verkiezingen geweest? (Zoek op "Tweede Kamerverkiezingen uitslag [jaartal van preek]" en "[jaartal van preek - 1]")
+- **Europees Parlementsverkiezingen**: Meest recente (bijv. juni 2024). Dit geeft vaak een recenter beeld dan TK2023.
+- **Provinciale Statenverkiezingen**: Wanneer waren de laatste?
+- **Gemeenteraadsverkiezingen**: Wanneer waren de laatste in {{plaatsnaam}}?
+- **Waterschapsverkiezingen**: Wanneer waren de laatste?
 
-Vermeld bij elke analyse expliciet de datum van de verkiezingen die je gebruikt.
+**Let op bij simulatie/toekomst:**
+Als de preekdatum (`{{datum}}`) suggereert dat er verkiezingen zijn geweest (bijv. okt 2025) waarvan nog geen *echte* uitslagen op internet staan (omdat het in werkelijkheid nog geen okt 2025 is), vermeld dan:
+1. Dat de verkiezingen volgens de tijdlijn net zijn geweest.
+2. Wat de verwachting/peiling was of de context (bijv. val kabinet).
+3. Gebruik de *Europees Parlementsverkiezingen (2024)* als meest recente *harde* data-indicator.
 
 ## 1. Landelijk stemgedrag
 
 Analyseer de uitslagen van de meest recente Tweede Kamerverkiezingen in {{plaatsnaam}}:
-- **Datum van deze verkiezingen** (expliciet vermelden)
+- **Datum van deze verkiezingen** (expliciet vermelden!)
+- *Check:* Zijn dit de verkiezingen van nov 2023 of recenter (2025)?
 - Welke partijen behaalden de meeste stemmen?
 - Hoe verhoudt dit zich tot het landelijk gemiddelde?
 - Welke verschuivingen zijn er t.o.v. eerdere verkiezingen?
-- Opkomstpercentage en wat dit zegt over betrokkenheid
 
-## 2. Provinciaal stemgedrag
+## 2. Europees stemgedrag (Recent & Relevant)
+
+Bekijk de uitslagen van de meest recente Europees Parlementsverkiezingen (bijv. 2024) in {{plaatsnaam}}:
+- **Datum:** (meestal juni 2024)
+- Geeft dit een andere trend weer dan de TK-verkiezingen? (bijv. opkomst radicaal rechts of juist pro-Europees)
+- Dit is vaak de meest actuele graadmeter voor de politieke stemming.
+
+## 3. Provinciaal stemgedrag
 
 Bekijk de meest recente Provinciale Statenverkiezingen:
 - **Datum van deze verkiezingen** (expliciet vermelden)
@@ -31,7 +44,7 @@ Bekijk de meest recente Provinciale Statenverkiezingen:
 - Regionale partijen of bewegingen
 - Verschil tussen stad en platteland in de regio
 
-## 3. Gemeentelijk stemgedrag
+## 4. Gemeentelijk stemgedrag
 
 Analyseer de meest recente gemeenteraadsverkiezingen:
 - **Datum van deze verkiezingen** (expliciet vermelden)
@@ -40,14 +53,14 @@ Analyseer de meest recente gemeenteraadsverkiezingen:
 - Belangrijke lokale politieke thema's
 - Politieke stabiliteit of turbulentie
 
-## 4. Waterschapsverkiezingen
+## 5. Waterschapsverkiezingen
 
 Indien relevant:
 - **Datum van deze verkiezingen** (expliciet vermelden)
 - Betrokkenheid bij waterschapsverkiezingen
 - Dominante stromingen
 
-## 5. Politieke cultuur
+## 6. Politieke cultuur
 
 Beschrijf de bredere politieke cultuur in {{plaatsnaam}}:
 - Progressief versus conservatief
@@ -56,14 +69,14 @@ Beschrijf de bredere politieke cultuur in {{plaatsnaam}}:
 - Vertrouwen in overheid en instituties
 - Proteststemmen of anti-establishment sentiment
 
-## 6. Spanningsvelden
+## 7. Spanningsvelden
 
 Welke politieke onderwerpen zorgen voor verdeeldheid?
 - Lokale kwesties (bouwprojecten, windmolens, asielopvang)
 - Nationale thema's die lokaal resoneren
 - Hoe uit zich dit in het dagelijks leven?
 
-## 7. Relevantie voor de prediking
+## 8. Relevantie voor de prediking
 
 Reflecteer kort op wat dit betekent voor de gemeente {{gemeente}}:
 - Hoe verhouden kerkelijke standpunten zich tot lokale politieke voorkeuren?
