@@ -1,5 +1,7 @@
 ![Contextduiding Banner](misc/banner.png)
 
+**Bekijk concrete voorbeelden op: [wmotte.github.io/contextduiding/](https://wmotte.github.io/contextduiding/)**
+
 # Contextduiding voor Preekvoorbereiding
 
 Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding in de PKN, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).

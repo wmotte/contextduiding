@@ -203,6 +203,16 @@ body {
     font-style: italic;
     color: #666;
     font-family: var(--font-serif);
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+.intro-description {
+    color: #888;
+    font-size: 0.95rem;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
 }
 
 /* Report Container */
