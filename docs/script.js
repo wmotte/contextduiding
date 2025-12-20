@@ -28,7 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '06_politieke_orientatie.md',
         '07_exegese.md',
         '08_kunst_cultuur.md',
-        '09_focus_en_functie.md'
+        '09_focus_en_functie.md',
+        '10_kalender.md'
     ];
 
     // Readable labels for section menu
@@ -42,7 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '06_politieke_orientatie.md': 'Politieke Oriëntatie',
         '07_exegese.md': 'Exegese',
         '08_kunst_cultuur.md': 'Kunst & Cultuur',
-        '09_focus_en_functie.md': 'Focus & Functie'
+        '09_focus_en_functie.md': 'Focus & Functie',
+        '10_kalender.md': 'Kalender'
     };
 
     // Current active municipality for submenu
