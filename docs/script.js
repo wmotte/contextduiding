@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const tabContents = document.querySelectorAll('.tab-content');
 
     // --- State ---
-    // Structure: { "GemeenteNaam": { "file.md": FileObject, ... } }
+    // Structure: { "GemeenteNaam": { "file.md": FileObject|String, ... } }
     let municipalityData = {};
 
     // List of files to load for the details view (in order)
@@ -35,14 +35,27 @@ document.addEventListener('DOMContentLoaded', () => {
         return name.replace(/_/g, ' ');
     }
 
-    // Helper to read a File object as text
-    function readFileAsText(file) {
+    // Helper to read a File object as text or return string if already text
+    function getFileContent(fileOrString) {
+        if (typeof fileOrString === 'string') {
+            return Promise.resolve(fileOrString);
+        }
         return new Promise((resolve, reject) => {
             const reader = new FileReader();
             reader.onload = e => resolve(e.target.result);
             reader.onerror = e => reject(e);
-            reader.readAsText(file);
+            reader.readAsText(fileOrString);
         });
+    }
+
+    // --- Initialization ---
+    function init() {
+        if (window.CONTEXT_DATA) {
+            municipalityData = window.CONTEXT_DATA;
+            renderSidebar();
+            setupScreen.classList.add('hidden');
+            appContainer.classList.remove('hidden');
+        }
     }
 
     // --- Event Listeners ---
@@ -58,24 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
         for (let i = 0; i < files.length; i++) {
             const file = files[i];
             // webkitRelativePath example: "output/Gemeente/file.md" or "Gemeente/file.md"
-            // We want to detect the municipality folder.
-            // Assumption: The user selects the 'output' folder, so path is like "output/Gemeente_X/file.md"
-            // OR user selects inside output, so path is "Gemeente_X/file.md"
-            
             const parts = file.webkitRelativePath.split('/');
             
             // We need at least 2 parts (Folder/File)
             if (parts.length < 2) continue;
 
-            // Simple heuristic: The municipality is the folder directly containing the MD files.
-            // We look for the folder that contains "00_overzicht.md" to confirm it's a valid target.
-            // But since we are iterating, we just organize by parent folder name.
-            
-            // Let's assume the structure: Root -> Municipality -> File
-            // If user selects "output", parts[0] is "output", parts[1] is Municipality
-            // If user selects specific folders, parts[0] is Municipality.
-            
-            // Let's try to find the directory name that holds these specific files.
             const fileName = parts[parts.length - 1];
             const dirName = parts[parts.length - 2];
 
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (dirName.startsWith('.') || dirName === 'css' || dirName === 'js' || dirName === 'output') continue;
             
             // Ignore the website files themselves if they are in the list
-            if (['index.html', 'script.js', 'style.css', 'website_server.py'].includes(fileName)) continue;
+            if (['index.html', 'script.js', 'style.css', 'website_server.py', 'data.js', 'generate_data.py'].includes(fileName)) continue;
 
             // Only care about .md files for now
             if (!fileName.endsWith('.md')) continue;
@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // --- Load Overview ---
         if (filesMap['00_overzicht.md']) {
             try {
-                const text = await readFileAsText(filesMap['00_overzicht.md']);
+                const text = await getFileContent(filesMap['00_overzicht.md']);
                 contentOverview.innerHTML = marked.parse(text);
             } catch (e) {
                 console.error(e);
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
         for (const filename of detailFilesOrder) {
             if (filesMap[filename]) {
                 try {
-                    const text = await readFileAsText(filesMap[filename]);
+                    const text = await getFileContent(filesMap[filename]);
                     
                     detailsHtml += `<div class="section-divider"></div>`;
                     detailsHtml += `<div class="file-section" data-file="${filename}">`;
@@ -191,4 +191,7 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById(targetId).classList.add('active');
         });
     });
+
+    // Run Init
+    init();
 });
