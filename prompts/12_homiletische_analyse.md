@@ -108,18 +108,48 @@ Kies en benoem expliciet een type omkering:
 
 ## Gewenste output
 
-Lever een gedetailleerde preekschets:
+
+
+Lever een gedetailleerde preekschets op met de volgende **strikte opmaakregels**:
+
+- Gebruik **altijd twee witregels** tussen de hoofdfasen (Oops, Ugh, etc.).
+
+- Gebruik **altijd één witregel** na elke kop (# of ##) en na elke paragraaf.
+
+- Zorg dat bullet points of genummerde lijsten **altijd** voorafgegaan en gevolgd worden door een witregel.
+
+- Gebruik vette koppen (`**Titel**`) gevolgd door een witregel voor subsecties binnen de stadia.
+
+
+
+### Structuur van de schets:
+
+
 
 1.  **Onderbouwing tekstkeuze** (ca. 100-150 woorden) met focus op potentie voor omkering.
+
 2.  **De 5 stadia uitgewerkt**:
+
     -   Per stadium ca. 300 woorden.
+
     -   **Toon in Stap 2 expliciet de gevolgde "Waarom-keten".**
+
     -   **Benoem in Stap 3 expliciet welk type omkering wordt gebruikt.**
-    -   Zorg voor naadloze transities.
+
+    -   Zorg voor naadloze transities die visueel duidelijk gemarkeerd zijn.
+
+
 
 **Totale omvang:** ca. 1500 - 2000 woorden.
 
+
+
 **BELANGRIJK:**
+
 - Dit is een structuurontwerp voor de prediker.
+
 - Start direct met de inhoud.
+
 - Wees streng op de logica: klopt de diagnose met de remedie?
+
+- Zorg voor een 'luchtige' bladspiegel door royaal gebruik van witregels.

@@ -102,7 +102,7 @@ def select_folder() -> Path:
     for i, folder in enumerate(folders, 1):
         # Tel bestaande analyses
         existing = []
-        for num in range(12):
+        for num in range(13):
             pattern = f"{num:02d}_*.md"
             if list(folder.glob(pattern)):
                 existing.append(f"{num:02d}")

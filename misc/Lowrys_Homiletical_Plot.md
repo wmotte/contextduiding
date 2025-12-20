@@ -223,38 +223,7 @@ Dit is een omkering van figuur en grond. De humor ontstaat als een vorm van scho
    - "Mensen drukken anderen neer vanwege arrogantie" → "Mensen drukken anderen neer vanwege zelfafwijzing"
 
 3. **Aanname-omkering**
-   - De puzzel van negen punten: we nemen aan dat we binnen het "vierkant" moeten blijven, maar de oplossing vereist dat we erbuiten gaan
-
-4. **Logica-omkering**
-   - "Wie zijn leven wil redden, zal het verliezen; wie zijn leven verliest om Mijn wil, zal het vinden" (Marcus 8:35)
-
-#### De puzzel van de negen punten
-
-```
-•   •   •
-
-•   •   •
-
-•   •   •
-```
-
-Opdracht: trek vier rechte, aaneengesloten lijnen die door alle negen punten gaan.
-
-Probleem: we maken een aanname — namelijk dat de punten een doos vormen en we "binnen" moeten blijven. Deze aanname is geen onderdeel van de instructies.
-
-Oplossing: keer de aanname om. In plaats van binnen de doos te blijven, is het nodig om buiten de lijnen te gaan.
-
-```
-    ────────────────────→
-   /│\
-  / │ \
- /  │  \
-•   •   •
-│
-•   •   •
-│
-•   •   •
-```
+   - Het doorbreken van onuitgesproken kaders en veronderstellingen om tot een oplossing te komen die buiten de conventionele grenzen ligt.
 
 #### Omkering in de Bijbel en prediking
 
