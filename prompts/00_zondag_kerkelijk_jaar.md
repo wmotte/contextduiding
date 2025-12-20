@@ -2,6 +2,24 @@
 
 Onderzoek grondig welke zondag {{datum}} is in het kerkelijk jaar en geef uitgebreide achtergrondinformatie specifiek gericht op de PKN-context.
 
+## BELANGRIJK: Bepaling van het Leesroosterjaar (A, B of C)
+
+Het kerkelijk jaar begint op de **eerste zondag van Advent** (de zondag tussen 27 november en 3 december). De driejarige cyclus is als volgt:
+
+| Kerkelijk jaar | Periode | Jaar | Evangelie |
+|----------------|---------|------|-----------|
+| Advent 2023 – Christ-Koning 2024 | dec 2023 – nov 2024 | **B** | Marcus |
+| Advent 2024 – Christ-Koning 2025 | dec 2024 – nov 2025 | **C** | Lucas |
+| Advent 2025 – Christ-Koning 2026 | dec 2025 – nov 2026 | **A** | Matteüs |
+| Advent 2026 – Christ-Koning 2027 | dec 2026 – nov 2027 | **B** | Marcus |
+| Advent 2027 – Christ-Koning 2028 | dec 2027 – nov 2028 | **C** | Lucas |
+| Advent 2028 – Christ-Koning 2029 | dec 2028 – nov 2029 | **A** | Matteüs |
+
+**Controleer ALTIJD** het juiste jaar door:
+1. Bepaal in welk kerkelijk jaar {{datum}} valt (let op: Advent begint eind november!)
+2. Zoek het leesroosterjaar op in bovenstaande tabel
+3. Verifieer via leesrooster.protestantsekerk.nl of bijbelin1000seconden.be
+
 ## Onderzoek en rapporteer over:
 
 ### 1. Positie in het Kerkelijk Jaar
@@ -15,7 +33,7 @@ Onderzoek grondig welke zondag {{datum}} is in het kerkelijk jaar en geef uitgeb
   * Pinkstertijd/Zomertijd/Tijd door het jaar
   * Herfst-/Voleindingstijd (richting Advent)
 - Hoeveel weken tot/na het dichtstbijzijnde hoofdfeest?
-- Welk jaar in de driejarige leesroostercyclus? (A, B of C)
+- Welk jaar in de driejarige leesroostercyclus? (A, B of C) — **gebruik de tabel hierboven!**
 
 ### 2. Traditionele Naam en Betekenis
 - Latijnse naam indien van toepassing:

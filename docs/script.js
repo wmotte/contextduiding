@@ -389,6 +389,43 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // --- Font Size Controls ---
+    const fontDecrease = document.getElementById('font-decrease');
+    const fontIncrease = document.getElementById('font-increase');
+    const markdownBody = document.querySelectorAll('.markdown-body');
+
+    // Base font size in rem
+    let currentFontSize = parseFloat(localStorage.getItem('fontSize')) || 1.1;
+    const minFontSize = 0.8;
+    const maxFontSize = 1.6;
+    const fontStep = 0.1;
+
+    function updateFontSize() {
+        document.documentElement.style.setProperty('--content-font-size', currentFontSize + 'rem');
+        // Apply to all markdown bodies
+        document.querySelectorAll('.markdown-body').forEach(el => {
+            el.style.fontSize = currentFontSize + 'rem';
+        });
+        localStorage.setItem('fontSize', currentFontSize);
+    }
+
+    // Apply saved font size on load
+    updateFontSize();
+
+    fontDecrease.addEventListener('click', () => {
+        if (currentFontSize > minFontSize) {
+            currentFontSize = Math.round((currentFontSize - fontStep) * 10) / 10;
+            updateFontSize();
+        }
+    });
+
+    fontIncrease.addEventListener('click', () => {
+        if (currentFontSize < maxFontSize) {
+            currentFontSize = Math.round((currentFontSize + fontStep) * 10) / 10;
+            updateFontSize();
+        }
+    });
+
     // Run Init
     init();
 });

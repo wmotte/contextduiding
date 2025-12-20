@@ -39,9 +39,10 @@ def load_prompt(filename: str, user_input: dict) -> str:
     """Laad een prompt uit een markdown bestand en vervang placeholders.
 
     Placeholders:
-        {{plaatsnaam}} - wordt vervangen door user_input['plaatsnaam']
-        {{gemeente}}   - wordt vervangen door user_input['gemeente']
-        {{datum}}      - wordt vervangen door user_input['datum']
+        {{plaatsnaam}}     - wordt vervangen door user_input['plaatsnaam']
+        {{gemeente}}       - wordt vervangen door user_input['gemeente']
+        {{datum}}          - wordt vervangen door user_input['datum']
+        {{huidige_datum}}  - wordt vervangen door de huidige datum
     """
     filepath = PROMPTS_DIR / filename
     if not filepath.exists():
@@ -50,10 +51,23 @@ def load_prompt(filename: str, user_input: dict) -> str:
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
+    # Huidige datum in Nederlands formaat
+    huidige_datum = datetime.now().strftime("%d %B %Y")
+    # Vertaal Engelse maandnamen naar Nederlands
+    maanden_nl = {
+        'January': 'januari', 'February': 'februari', 'March': 'maart',
+        'April': 'april', 'May': 'mei', 'June': 'juni',
+        'July': 'juli', 'August': 'augustus', 'September': 'september',
+        'October': 'oktober', 'November': 'november', 'December': 'december'
+    }
+    for en, nl in maanden_nl.items():
+        huidige_datum = huidige_datum.replace(en, nl)
+
     # Vervang placeholders
     content = content.replace("{{plaatsnaam}}", user_input.get("plaatsnaam", ""))
     content = content.replace("{{gemeente}}", user_input.get("gemeente", ""))
     content = content.replace("{{datum}}", user_input.get("datum", ""))
+    content = content.replace("{{huidige_datum}}", huidige_datum)
 
     return content
 

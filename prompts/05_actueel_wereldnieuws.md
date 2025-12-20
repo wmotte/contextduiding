@@ -1,6 +1,8 @@
 # Analyse van Actueel Wereldnieuws
 
-Doorzoek het internet grondig naar het meest acute, actuele en mogelijk schokkende wereldnieuws van de **afgelopen 3-5 dagen** voorafgaand aan {{datum}}.
+**BELANGRIJK: Vandaag is {{huidige_datum}}.** Doorzoek het internet grondig naar het meest acute, actuele en mogelijk schokkende wereldnieuws van de **afgelopen 3-5 dagen** (dus het nieuws van rond {{huidige_datum}}).
+
+De preekdatum is {{datum}}. Als de preekdatum in de toekomst ligt, zoek dan naar het nieuws van NU (rond {{huidige_datum}}), niet naar nieuws rond de preekdatum.
 
 ## Focus op:
 

@@ -38,6 +38,8 @@ In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 | Locatie | Datum | Overzicht |
 |---------|-------|-----------|
 | Dirksland (Ring 2) | 8 maart 2026 | [00_overzicht.md](output/Dirksland_8_maart_2026_Ring_2/00_overzicht.md) |
+| Groningen (Martinikerk) | 1 februari 2026 | [00_overzicht.md](output/Groningen_1_februari_2026_Martinikerk/00_overzicht.md) |
+| Maasbracht (PG) | 25 januari 2026 | [00_overzicht.md](output/Maasbracht_25_januari_2026_PG/00_overzicht.md) |
 | Delft (Vierhovenkerk) | 18 januari 2026 | [00_overzicht.md](output/Delft_18_januari_2026_Vierhovenkerk/00_overzicht.md) |
 | Leiden (Ekklesia) | 11 januari 2026 | [00_overzicht.md](output/Leiden_11_januari_2026_Ekklesia/00_overzicht.md) |
 | Waddinxveen (Bethelkerk) | 4 januari 2026 | [00_overzicht.md](output/Waddinxveen_4_januari_2026_Bethelkerk/00_overzicht.md) |
@@ -188,7 +190,8 @@ De prompts staan als losse markdown-bestanden in de `prompts/` map. Je kunt deze
 **Placeholders** die automatisch worden vervangen:
 - `{{plaatsnaam}}` - De ingevoerde plaatsnaam
 - `{{gemeente}}` - De ingevoerde gemeente
-- `{{datum}}` - De ingevoerde datum
+- `{{datum}}` - De ingevoerde preekdatum
+- `{{huidige_datum}}` - De datum waarop het script draait (voor actueel nieuws)
 
 ## 📋 Methodiek
 

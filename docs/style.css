@@ -50,6 +50,46 @@ body {
     color: white;
 }
 
+/* Font Size Controls */
+.font-controls {
+    position: fixed;
+    top: 20px;
+    right: 60px;
+    display: flex;
+    gap: 2px;
+    z-index: 1000;
+}
+
+.font-btn {
+    width: 26px;
+    height: 26px;
+    border: 1px solid var(--border-color);
+    background: var(--bg-color);
+    color: #666;
+    font-family: var(--font-sans);
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.font-btn:first-child {
+    border-radius: 3px 0 0 3px;
+}
+
+.font-btn:last-child {
+    border-radius: 0 3px 3px 0;
+    border-left: none;
+}
+
+.font-btn:hover {
+    background: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
+}
+
 /* Setup Screen */
 .setup-container {
     position: fixed;
