@@ -1,84 +1,77 @@
-# Waardenoriëntatie-analyse: Dorpskerk Bleiswijk (21 december 2025)
+### Waardenoriëntatie-analyse: Bleiswijk, Dorpskerk (21 december 2025)
 
-Deze analyse brengt de leefwereld en waarden van de hoorders in de Dorpskerk te Bleiswijk in kaart. De focus ligt op de verbinding tussen de tekst (Matteüs 1:18-25) en de sociaal-economische en culturele context van Bleiswijk aan het einde van 2025.
+De analyse van de hoordersgroep in de Dorpskerk te Bleiswijk is gebaseerd op demografische gegevens van de gemeente Lansingerland (waar Bleiswijk onder valt), sociaaleconomische trends in de glastuinbouwsector en de kerkelijke profielschets van de hervormde gemeente van confessionele signatuur.
 
----
+#### 1. De Vijf V's voor Bleiswijk
 
-### 1. De Vijf V's voor Bleiswijk
+**Visioenen**
+In Bleiswijk leeft het visioen van een vitale, zelfredzame gemeenschap die de balans bewaart tussen economische groei en dorpse geborgenheid. Men werkt aan een toekomst waarin de glastuinbouw (Greenport) wereldleider blijft in duurzame innovatie. Collectief droomt men van een omgeving waar kinderen veilig opgroeien en waar de christelijke waarden die het dorp gevormd hebben, ook voor de volgende generatie relevant blijven.
 
-*   **Visioenen (Toekomstbeelden):**
-    *   Een duurzame en toekomstbestendige glastuinbouwsector die de 'ruggengraat' van de lokale economie blijft vormen (Economic Agenda Lansingerland 2025).
+**Verlangens**
+Er is een sterke hunkering naar rust en onthaasting. Veel inwoners zijn forenzen (Rotterdam/Den Haag) of ondernemers in de veeleisende agrarische sector. Het verlangen naar 'echtheid' en morele kaders in een complexe wereld is groot. Men zoekt naar verbinding in een tijd waarin individualisering ook het dorpse leven onder druk zet.
 
-*   Het behoud van een hechte dorpsgemeenschap te midden van de groei van Lansingerland (prognose: 66.484 inwoners in 2025).
+**Vreugden**
+Men is trots op de sterke sociale cohesie en de actieve vrijwilligerscultuur. De Dorpskerk als historisch en geestelijk baken in het centrum wordt gekoesterd. Er is vreugde over de bloeiende jeugdverenigingen en de betrokkenheid bij lokale tradities rondom de adventstijd en kerst.
 
-*   **Verlangens (Behoeften):**
-    *   Behoefte aan morele en zakelijke stabiliteit in een tijd van politieke onzekerheid en toenemende regeldruk (Jaaroverzicht Glastuinbouw 2025).
+**Verdriet**
+Er is collectieve zorg over de 'stille armoede'. Hoewel Lansingerland een relatief welvarende gemeente is, kampt een groeiende groep (ca. 5-7% van de huishoudens, bron: CBS/AlleCijfers 2024/2025) met schuldenproblematiek door gestegen lasten. Ook het verlies van invloed van de kerk op het publieke leven en de vergrijzing van de kernvrijwilligers wordt als een gemis ervaren.
 
-*   Verlangen naar een 'thuis' en geborgenheid; relevant voor jonge gezinnen die moeite hebben een woning te vinden in de regio (AlleCijfers, 2025).
+**Vragen**
+Existentiële vragen draaien om integriteit: "Hoe maak ik de juiste keuzes als de druk van de maatschappij of de markt anders vraagt?" (vergelijkbaar met de positie van Jozef in de evangelielezing). Ook de vraag hoe men als christen gastvrij kan zijn in een veranderende, meer diverse regio, houdt de gemoederen bezig.
 
-*   **Vreugden (Trots en Traditie):**
-    *   Trots op de historische Dorpskerk (Rijksmonument) en de gereformeerde traditie die generaties verbindt.
+#### 2. Trendanalyse
 
-*   De naderende kerstviering als moment van gemeenschapszin en familiale verbondenheid.
+**Mesotrends (5-15 jaar)**
 
-*   **Verdriet (Zorgen en Pijn):**
-    *   Zorgen over de stijgende kosten (inflatieverwachting 68%) en de druk op het gezinsbudget (Miles Research, 2025).
+*   **Energietransitie in de glastuinbouw:** Bleiswijk bevindt zich in het hart van de transitie naar aardwarmte en CO2-neutrale teelt. Dit brengt grote financiële onzekerheden en ethische vragen over rentmeesterschap met zich mee.
 
-*   Eenzaamheid onder ouderen, een groeiende trend in vergrijzend Nederland, ook zichtbaar in de kern Bleiswijk.
+*   **Suburbanisatie:** De instroom van jonge gezinnen uit de omliggende steden verandert de sociale dynamiek van Bleiswijk. De Dorpskerk moet zich verhouden tot een publiek dat minder vanzelfsprekend kerkelijk is opgevoed.
 
-*   **Vragen (Existentiële onzekerheid):**
-    *   "Hoe handel ik integer als de omstandigheden onduidelijk zijn?" (De vraag van Jozef, gespiegeld aan de ondernemer die met veranderende wetgeving kampt).
+*   **Zorg en nabuurschap:** Door de vergrijzing (het aandeel 65-plussers in Lansingerland stijgt richting 20% in 2025) neemt de druk op mantelzorg toe, wat de diaconale opdracht van de gemeente verzwaart.
 
-*   "Heeft de kerk nog een relevante stem in een technologische wereld (AI-dominantie)?"
+**Microtrends (1-5 jaar) actueel voor 21 december 2025**
 
----
+*   **Kerk in Actie: Armoede in Nederland:** De landelijke focus op armoede resoneert lokaal sterk. In Lansingerland zijn initiatieven zoals de Voedselbank en schuldhulpmaatjes actiever dan ooit door de na-ijleffecten van inflatie.
 
-### 2. Trendanalyse
+*   **Woningnood voor jongeren:** In Bleiswijk is het voor jongeren uit eigen dorp nagenoeg onmogelijk geworden een betaalbare woning te vinden. Dit zorgt voor een gevoel van uitsluiting bij de jongere generatie in de kerk.
 
-#### Mesotrends (5-15 jaar)
+*   **Pre-kerststress:** Op de laatste zondag voor kerst is de spanning tussen de liturgische verstilling (Advent) en de maatschappelijke consumptiedrang maximaal.
 
-*   **Energietransitie:** Bleiswijk bevindt zich in een intensief proces van verduurzaming (geothermie, warmtenetten). De transitie naar een aardgasvrij 2050 vraagt grote investeringen en aanpassingsvermogen van de inwoners en ondernemers (Duurzaamheidsvisie Lansingerland).
+#### 3. Motivaction Mentality-model
 
-*   **Migratie en Huisvesting:** De aanwezigheid van arbeidsmigranten in de glastuinbouw zorgt voor een constante discussie over huisvesting en integratie binnen de dorpskern.
+In de Dorpskerk van Bleiswijk zijn drie sociale milieus dominant aanwezig:
 
-*   **Sociaal-economische kloof:** Hoewel Bleiswijk welvarend is (gemiddelde WOZ-waarde €472.952), leeft circa 4% van de huishoudens rond het sociaal minimum. De kloof tussen de 'gevestigden' en de 'zoekenden' groeit.
-
-#### Microtrends (Actueel december 2025)
-
-*   **Economische voorzichtigheid:** Consumenten zijn terughoudend door een matige economische groei (1,2%) en aanhoudende inflatiezorgen (Consultancy.nl, 2025).
-
-*   **Stress en burn-out:** Een piek in werkgerelateerde stress, met name onder werkende ouders (25-40 jaar), kleurt de sfeer in de weken voor Kerst (WNL, dec 2025).
-
-*   **Hallucinatie/Desinformatie:** Het Van Dale Woord van het Jaar 2025 ('hallucineren') wijst op een breder maatschappelijk wantrouwen jegens informatie en de zoektocht naar wat 'echt' is.
-
----
-
-### 3. Motivaction Mentality-model (Toegepast op de Dorpskerk)
-
-In de Dorpskerk zijn waarschijnlijk de volgende milieus sterk vertegenwoordigd:
-
-| Groep | Kenmerken in Bleiswijk | Resonantie met Matteüs 1 |
+| Groep | Kenmerken in Bleiswijkse context | Resonantie bij Matteüs 1:18-25 |
 | :--- | :--- | :--- |
-| **Traditionele Burgerij** | Waarderen de historische context van de kerk en de zondagsrust. | Herkennen zich in Jozef als "rechtvaardig man" die de regels en fatsoensnormen serieus neemt. |
-| **Nieuwe Conservatieven** | Ondernemers in de tuinbouw; focus op verantwoordelijkheid, hard werken en gezin. | Resoneren met Jozefs pragmatische maar gehoorzame houding onder druk. |
-| **Moderne Burgerij** | Gezinnen in nieuwe wijken; zoeken balans tussen traditie en modern comfort. | Gevoelig voor het thema 'gezin' en de onzekerheid rond de geboorte van een kind. |
-| **Postmaterialisten** | Betrokken bij de diaconie en duurzaamheidsprojecten. | Aangesproken door het 'Immanuël-concept': God die aanwezig is in de kwetsbaarheid van de wereld. |
+| **Traditionele burgerij** | De grootste groep. Waarderen moraal, traditie en de status quo. Vaak betrokken bij het kerkenwerk. | Herkennen zich in Jozefs verlangen om de wet te houden en 'het goede' te doen zonder ophef. |
+| **Nieuwe conservatieven** | Ondernemers en hoger opgeleiden. Focus op verantwoordelijkheid, efficiëntie en gezin. | Spreken aan op de daadkracht van Jozef: niet praten, maar handelen naar Gods aanwijzing. |
+| **Moderne burgerij** | Forenzen, jonge gezinnen. Zoeken naar balans tussen werk, privé en zingeving. | Gevoelig voor de menselijke kant: de twijfel van Jozef en de impact op zijn relatie met Maria. |
 
----
+**Taal en beelden:**
 
-### 4. Homiletische Synthese
+*   Voor de **traditionele burgerij** werken Bijbelse kernwoorden en een rustige, eerbiedige toon. Vermijd abstracte theologie; wees concreet over trouw.
 
-*   **Aanknopingspunt:** Jozef is een "nuchtere" man (timmerman/ondernemer) die geconfronteerd wordt met een situatie die zijn logica te boven gaat. Dit sluit aan bij de Bleiswijkse mentaliteit van "aanpakken", maar ook bij de huidige ervaring dat niet alles maakbaar is (economie, klimaat, AI).
+*   Voor de **nieuwe conservatieven** zijn beelden van 'leiderschap in crisis' en 'integriteit onder druk' effectief. Jozef als de man die een impopulair maar rechtvaardig besluit neemt.
 
-*   **Spanning:** De spanning tussen 'reputatie' (Jozef wilde Maria in stilte verlaten) en 'roeping' (de droom volgen). In een dorp waar sociale controle en integriteit belangrijk zijn, is dit een krachtig thema.
+*   Voor de **moderne burgerij** is de verbinding met de actualiteit (armoede in de buurt, de druk van de feestdagen) essentieel om de preek relevant te maken.
 
-*   **Relevantie:** Op 21 december 2025, te midden van economische onzekerheid en de druk van de 'perfecte kerst', biedt de tekst rust. God werkt niet via spectaculaire wegen, maar via de gehoorzaamheid van een gewone man in een lastige situatie.
+**Spanningsveld:**
+Er ligt een spanning tussen de behoudende reflex van de traditionele groep (vasthouden aan hoe het was) en de noodzaak tot maatschappelijke relevantie waar de jongere groepen om vragen. De preek op 21 december kan deze spanning overbruggen door Jozef te presenteren als iemand die de traditie (de wet) serieus neemt, maar door Gods Geest wordt geleid naar een nieuwe, verrassende weg.
 
----
+#### Bronnen
 
-**Bronnen:**
-*   *AlleCijfers.nl (2025). Woonplaats Bleiswijk in cijfers.*
-*   *CBS (2025). Bevolkingsprognose en maatschappelijke trends.*
-*   *Gemeente Lansingerland (2025). Economische Agenda en Duurzaamheidsvisie.*
-*   *Consultancy.nl (februari 2025). Trends voor economie en maatschappij.*
-*   *WNL (december 2025). Maatschappelijke signalen rond stress en cultuur.*
+*   *CBS StatLine (2024):
+
+* Demografische kerncijfers Lansingerland.
+
+*   *AlleCijfers.nl (2024):
+
+* Sociaaleconomische status Bleiswijk per wijk.
+
+*   *Protestantsekerk.nl:
+
+* Jaarthema 2025-2026 en projectinformatie Kerk in Actie.
+
+*   *Lansingerland.nl:
+
+* Gemeentelijke nota's over armoedebeleid en glastuinbouwtransitie.

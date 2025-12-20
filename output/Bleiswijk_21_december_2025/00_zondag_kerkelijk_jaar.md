@@ -1,117 +1,90 @@
-# Analyse van de Zondag in het Kerkelijk Jaar: 21 december 2025
-
-Deze analyse is opgesteld ten behoeve van de voorbereiding van de ochtenddienst in de Dorpskerk te Bleiswijk op zondag 21 december 2025. De analyse volgt de homiletische methodiek van De Leede & Stark (2017).
-
----
-
 ### 1. Positie in het Kerkelijk Jaar
 
-*   **Zondag:** 4e zondag van Advent.
+Zondag 21 december 2025 is de **vierde zondag van Advent**. Dit is de laatste zondag van de adventsperiode, die dit jaar vier volledige weken beslaat. De zondag valt slechts vier dagen voor het Kerstfeest (donderdag 25 december).
 
-*   **Periode:** Advent (de voorbereidingstijd op Kerst).
-
-*   **Nabijheid hoofdfeest:** Dit is de laatste zondag voor Kerst. Kerstnacht valt op de daaropvolgende donderdag. Er zijn nog vier dagen tot het Kerstfeest.
-
-*   **Leesroostercyclus:** **Jaar A**. Het nieuwe kerkelijk jaar (Jaar A) is gestart op de eerste zondag van Advent (30 november 2025). In dit jaar staat het Evangelie naar Matteüs centraal.
+Met de eerste zondag van Advent (30 november 2025) is een nieuw kerkelijk jaar begonnen. Volgens de driejarige cyclus van het Gemeenschappelijk Leesrooster bevinden we ons op 21 december 2025 in **Jaar A**, waarin het evangelie volgens Matteüs centraal staat.
 
 ### 2. Traditionele Naam en Betekenis
 
-*   **Latijnse naam:** *Rorate Coeli*.
+De traditionele Latijnse naam voor deze zondag is **Rorate Coeli** (of *Rorate caeli*).
 
-*   **Oorsprong:** Ontleend aan de tekst van de introïtus (openingspsalm) uit Jesaja 45:8: *"Rorate, caeli, desuper, et nubes pluant iustum"* ("Dauwt, hemelen, uit de hoogte, en laten de wolken de Gerechtigheid regenen").
+*   **Herkomst:** De naam is ontleend aan de tekst van de introïtus (het openingsgezang), gebaseerd op Jesaja 45:8: *"Rorate coeli desuper, et nubes pluant iustum"* (Dauw, hemelen, van boven, laat de wolken de Gerechtigheid regenen).
 
-*   **Betekenis:** De naam verwijst naar het verlangen naar de komst van de Messias, die als een vruchtbare regen op de dorre aarde wordt verwacht.
-
-*   **Karakter:** Waar de derde zondag (Gaudete) een vreugde-accent kent, keert de vierde zondag terug naar de diepe concentratie op de naderende vervulling van de belofte.
+*   **Betekenis:** De roep om de komst van de Messias bereikt op deze zondag zijn hoogtepunt. Waar de eerdere adventszondagen meer gericht waren op de eschatologische verwachting (de wederkomst), verschuift de focus op de vierde zondag direct naar de aanstaande geboorte van Jezus.
 
 ### 3. Bijzondere Zondagen en Themazondag (PKN)
 
-*   **Adventactie:** 21 december valt midden in de landelijke adventscampagne van **Kerk in Actie**. In 2025 ligt de focus (onder voorbehoud van definitieve vaststelling door PKN) vaak op projecten rondom kwetsbare kinderen of vluchtelingen, passend bij het thema 'geen plaats in de herberg'.
+*   **Kerk in Actie:** Deze zondag staat in het teken van de landelijke **Kerstcollecte van Kerk in Actie**. Het thema voor 2025 is **"Samen tegen armoede in Nederland"**. De focus ligt op projecten die directe hulp bieden aan gezinnen in Nederland die onder de armoedegrens leven, zoals ontbijtprojecten op scholen en ondersteuning via schuldhulpmaatjes.
 
-*   **Plaatselijke context:** De Dorpskerk in Bleiswijk heeft een confessionele tot gematigd-hervormde signatuur. De vierde adventszondag wordt hier traditioneel gekenmerkt door een ingetogen maar verwachtingsvolle liturgie.
+*   **Jaarthema PKN:** De dienst sluit aan bij het jaarthema 2025-2026: **"Kijk! Laat je verrassen door het werk van Gods Geest"**. Specifiek voor Advent 2025 is het thema: *"Kijk! Laat je verrassen door Gods weg in deze wereld"*.
+
+*   **KerstChallenge:** In veel gemeenten wordt rond deze datum de *KerstChallenge* voor jongeren georganiseerd, met als thema voor 2025: *"Kijk naar jezelf"*.
 
 ### 4. Liturgische Kleur
 
-*   **Kleur:** **Paars**.
+De liturgische kleur is **Paars**.
 
-*   **Symboliek:** Inkeer, voorbereiding, soberheid en boete. Het is de kleur van de ingetogen verwachting.
+*   **Symboliek:** Paars is de kleur van inkeer, voorbereiding en soberheid. Het herinnert aan de ernst van de verwachting.
 
-*   **Visuele elementen:**
-    *   **Adventkrans:** Alle vier de kaarsen worden aangestoken. Dit symboliseert dat het licht van Christus bijna volledig in de wereld is doorgebroken.
+*   **Schikking:** Op de adventskrans branden alle **vier de kaarsen**. In de symbolische bloemschikking kan gewerkt worden met elementen die 'ontluiken' of 'doorbreken', passend bij het thema van de naderende vervulling. Omdat het de laatste zondag voor Kerst is, kan er al een subtiel accent van licht of wit worden toegevoegd, vooruitlopend op het feest.
 
-*   **Bloemschikking:** In de PKN-praktijk wordt vaak gewerkt met een schikking die soberheid uitstraalt (bijv. met purperen bloemen, doornige takken of juist elementen die wijzen op de komende geboorte, zoals een witte bloem die bijna uitkomt).
+### 5. Lezingen (Jaar A)
 
-### 5. Lezingen volgens het Gemeenschappelijk Leesrooster (Jaar A)
+Volgens het oecumenisch leesrooster zijn de lezingen voor deze zondag:
 
-Het oecumenisch leesrooster voorziet voor deze zondag in de volgende teksten:
+*   **Eerste lezing:** Jesaja 7:10-16. De profetie over de jonge vrouw die zwanger zal worden en een zoon zal baren: Immanuel (God met ons).
 
-*   **Eerste lezing:** Jesaja 7:10-16. De profetie over de jonge vrouw die zwanger zal worden en een zoon zal baren, die zij de naam Immanuël zal geven.
+*   **Psalm van de zondag:** Psalm 24. "Hef, o poorten, uw hoofden omhoog... opdat de Koning vol majesteit kan binnengaan."
+*   **Epistellezing:** Romeinen 1:1-7. Paulus introduceert zichzelf en het evangelie over Gods Zoon, die naar het vlees is voortgekomen uit het geslacht van David.
 
-*   **Psalm van de zondag:** Psalm 24:1-10 of Psalm 80:1-8. Psalm 24 focust op de "Koning der ere" die binnentrekt door de poorten.
-
-*   **Epistellezing:** Romeinen 1:1-7. De aanhef van Paulus' brief waarin hij spreekt over de zoon van God, voortgekomen uit het nageslacht van David.
-
-*   **Evangelielezing:** **Matteüs 1:18-25**. De aankondiging van de geboorte aan Jozef. In tegenstelling tot het Lucas-evangelie (Jaar B), waarin Maria centraal staat, ligt de focus in Jaar A op het perspectief en de gehoorzaamheid van Jozef.
+*   **Evangelielezing:** Matteüs 1:18-25. De aankondiging van de geboorte aan **Jozef**. In Jaar A staat niet de aankondiging aan Maria (Lucas) centraal, maar de droom en de gehoorzaamheid van Jozef.
 
 ### 6. Thematiek en Karakter van de Zondag
 
-*   **Centraal thema:** "God met ons" (Immanuël).
+Het centrale thema is **de vervulling van de belofte**. Waar de voorgaande zondagen profetisch en vermanend waren (Johannes de Doper), is de sfeer nu intiemer en concreter.
 
-*   **Focus:** De focus ligt op de menselijke medewerking aan Gods plan (Jozef die de droom aanvaardt) en de vervulling van de oudtestamentische belofte.
+*   **Geloofsvraag:** Hoe reageer je als God op een onverwachte, bijna onmogelijke manier je leven binnenkomt? Jozefs twijfel en zijn uiteindelijke 'ja' staan model voor de menselijke reactie op het goddelijk ingrijpen.
 
-*   **Sfeer:** Een combinatie van diepe ernst (het mysterie van de menswording) en groeiende spanning/verwachting. Het is de 'stilte voor de storm' van het Kerstfeest.
-
-*   **Geloofsvraag:** Hoe verhoudt onze menselijke planning zich tot het onverwachte handelen van God? Durven wij, net als Jozef, onze eigen plannen opzij te zetten voor Gods weg?
+*   **Spanning:** Er is een heilige ongedurigheid; de adventstijd is bijna voorbij, de voorbereidingen voor Kerst zijn in volle gang, maar de liturgie dwingt tot een laatste moment van stilstaan bij de naam 'Immanuel'.
 
 ### 7. Historische en Theologische Achtergrond
 
-*   **Vroege kerk:** Oorspronkelijk was de vierde zondag van Advent een dag van voorbereiding op de grote kerstnacht-vigilie.
+De vierde zondag van Advent is historisch verbonden met de **Quatemberdagen** (winter-vastendagen). In de traditie van de vroege kerk was dit een tijd van strenge vasten ter voorbereiding op de priesterwijdingen die vaak rond Kerst plaatsvonden.
+In de PKN-context (voortgekomen uit Hervormd, Gereformeerd en Luthers) is de nadruk verschoven van boete naar **christologische verwachting**. De Lutherse traditie heeft een sterke band met de *O-antifonen* (zie punt 10), die in de week voor 21 december hun hoogtepunt bereiken.
 
-*   **Reformatie:** Binnen de gereformeerde traditie is de nadruk altijd sterk blijven liggen op de Schriftuurlijke beloften (Jesaja) en de genealogische lijn (David-Jozef). De PKN behoudt deze lijn door de koppeling van profetie en vervulling in het leesrooster.
+### 8. Liedsuggesties (Liedboek 2013)
 
-*   **Oecumene:** De lezingen in Jaar A zijn nagenoeg identiek aan die in de Rooms-Katholieke Kerk en de Anglicaanse kerk op deze dag, wat de eenheid in de christelijke verwachting benadrukt.
+*   **Introïtus:** Lied 432d ("Dauw van de hemel, leg op ons neer") – de specifieke strofe voor de 4e zondag.
 
-### 8. Liedsuggesties uit het Liedboek 2013
+*   **Psalm:** Psalm 24 ("Verheft, o poorten, nu de boog").
 
-*   **Intrede:**
-    *   Psalm 24 (bijv. vers 4 en 5: "Verhoogt o poorten nu de boog")
-    *   Lied 439: "Verwacht de komst des Heren"
-*   **Na de lezing uit Jesaja:**
-    *   Lied 441: "Hoe zal ik U ontvangen"
-*   **Na het Evangelie (Matteüs):**
-    *   Lied 442: "Op de drempel van het licht" (zeer passend bij 4e Advent)
-    *   Lied 461: "Wij wachten op de koning"
-*   **Zending en Zegen:**
-    *   Lied 432: "Zolang er mensen op aarde zijn"
-    *   Lied 463: "O kom, o kom, Immanuël" (het klassieke Rorate-lied)
+*   **Bij de lezingen:**
+    *   Lied 441 ("Hoe zal ik U ontvangen") – klassiek adventslied dat aansluit bij de komst van de Koning.
+
+*   Lied 433 ("Kom tot ons, de wereld wacht") – over de verwachting van de volken.
+
+*   **Na het evangelie:** Lied 461 ("Wij wachten op de Koning") of Lied 439 ("Verwacht de komst des Heren").
+
+*   **Slotlied:** Lied 444 ("Nu daagt het in het oosten").
 
 ### 9. Praktische Liturgische Handvatten
 
-*   **Kyrie en Gloria:** Het Kyriegebed kan uitgebreid worden met specifieke adventsgebeden voor een wereld in nood. Het Gloria (Ere zij God) wordt in de Adventstijd in veel PKN-gemeenten **niet** gezongen, om de vreugde van de Kerstnacht te bewaren.
+*   **Kyrie en Gloria:** In de Adventstijd wordt het **Gloria niet gezongen** (behalve bij bijzondere feesten). Dit versterkt de soberheid en de ontlading van het "Ere zij God" in de kerstnacht.
 
-*   **Kindernevendienst:** Gebruik het beeld van de droom van Jozef. Jozef die 'omgaat' door een boodschap van een engel.
+*   **O-antifoon:** Op 21 december valt de antifoon **"O Oriens"** (O Dageraad/O Opgang). Het is passend om Lied 466 ("O kom, o kom, Immanuel") te zingen, waarbij strofe 5 specifiek bij deze dag hoort.
 
-*   **Gebedsmotieven:**
-    *   Gebed voor vaders en zij die onverwacht verantwoordelijkheid moeten dragen (geïnspireerd op Jozef).
+*   **Gebedsmotief:** Bid voor mensen die, net als Jozef, voor moeilijke keuzes staan waarbij trouw en geloof botsen met de publieke opinie. Betrek de collecte voor armoede in Nederland concreet in de voorbeden.
 
-*   Gebed om ontvankelijkheid voor Gods dromen in een nuchtere wereld.
-
-*   Voorbede voor de projecten van de Adventactie.
+*   **Kindernevendienst:** Gebruik het materiaal van *Bijbel Basics* of *Kind op Zondag* over de droom van Jozef. Visueel kan een 'droomkijker' of een kussen als symbool dienen.
 
 ### 10. Verbinding met het Dagelijkse Leesrooster
 
-In de week voorafgaand aan 21 december (week 51) worden volgens het dagelijks rooster vaak de volgende teksten gelezen:
+In de week voorafgaand aan 21 december (vanaf 17 december) worden traditioneel de **O-antifonen** gelezen of gezongen. Dit zijn zeven aanroepingen van de Messias met verschillende Bijbelse titels:
 
-*   Maandag t/m woensdag: Teksten uit de profetieën van Zefanja en Maleachi (oordeelsaankondiging en zuivering).
+*   17 dec: O Sapientia (Wijsheid)
+*   18 dec: O Adonai (Heer)
+*   19 dec: O Radix Jesse (Wortel van Jesse)
+*   20 dec: O Clavis David (Sleutel van David)
+*   **21 dec: O Oriens (Dageraad)**
 
-*   Donderdag t/m zaterdag: De zogenaamde 'O-antifonen' of teksten die de directe nabijheid van de Messias aankondigen (o.a. Jesaja 11).
-
-*   **Lijn naar zondag:** De beweging gaat van de algemene profetie naar de specifieke, persoonlijke roeping van Jozef op deze zondag.
-
----
-
-**Bronnen:**
-*   *Dienstboek van de Protestantse Kerk in Nederland (Deel I).*
-*   *Leesrooster.protestantsekerk.nl (geraadpleegd december 2024 voor 2025).*
-*   *De Leede, B. & Stark, R. (2017). Ontvouwen. Protestantse homiletiek.*
-*   *Liedboek - Zingen en bidden in huis en kerk (2013).*
+De dagelijkse lezingen in deze week (bijv. uit het dagboek *Bijbel dichtbij*) werken toe naar de geslachtsregisters en de geboorteaankondigingen, waardoor de gemeente op zondag de 21e 'geland' is in de directe nabijheid van de kribbe.

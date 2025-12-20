@@ -1,78 +1,63 @@
-# Sociaal-Maatschappelijke Context
+# Sociaal-Maatschappelijke Contextanalyse Bleiswijk
 
-Hieronder volgt de sociaal-maatschappelijke contextanalyse van Bleiswijk ten behoeve van de preekvoorbereiding voor 21 december 2025. Deze analyse is opgesteld volgens de methodiek van De Leede & Stark (2017) en richt zich op de leefwereld van de hoorders in de Dorpskerk.
+## 1. Demografische gegevens van Bleiswijk
 
----
+Bleiswijk, onderdeel van de gemeente Lansingerland, telt in december 2025 circa 12.060 inwoners (AlleCijfers.nl, 2025). De bevolkingsdichtheid is relatief hoog, passend bij een randstedelijke gemeente met een sterke agrarische en logistieke component.
 
-# Sociaal-Maatschappelijke Contextanalyse: Bleiswijk (december 2025)
+*   **Leeftijdsopbouw:** De vergrijzing is zichtbaar; ongeveer 22% van de inwoners is 65 jaar of ouder. Tegelijkertijd blijft Bleiswijk een gezinsdorp, wat blijkt uit de aanwezigheid van vier basisscholen met in totaal circa 1.032 leerlingen (schooljaar 2024-2025).
 
-### 1. Demografische gegevens van Bleiswijk
+*   **Huishoudens:** Er zijn ongeveer 4.887 woningen. De gemiddelde woningwaarde bedraagt €472.952, wat wijst op een relatief welvarende populatie, maar ook op een hoge drempel voor starters op de woningmarkt.
 
-Bleiswijk is een kern binnen de gemeente Lansingerland. De bevolking kenmerkt zich door een relatieve stabiliteit met een lichte groei door nieuwbouw.
+*   **Diversiteit:** De bevolking is overwegend van Nederlandse herkomst. In het basisonderwijs is de verdeling naar levensbeschouwelijke grondslag als volgt: 57% Rooms-Katholiek, 31% Protestants-Christelijk en 13% Openbaar (AlleCijfers.nl, 2025).
 
-*   **Bevolkingsomvang:** Bleiswijk telt circa 11.100 inwoners (bron: CBS/AlleCijfers, data per 2024/2025).
+## 2. Economische situatie
 
-*   **Leeftijdsopbouw:** Er is sprake van een evenwichtige opbouw, maar met een duidelijke trend naar vergrijzing. De groep 65-plussers groeit gestaag (circa 20-22%). Tegelijkertijd trekken jonge gezinnen naar de regio vanwege de centrale ligging tussen Rotterdam en Den Haag, wat resulteert in een substantieel aandeel van de leeftijdscategorie 30-50 jaar en schoolgaande kinderen.
+De economie van Bleiswijk wordt gedomineerd door de glastuinbouw en de logistieke sector (Logistiekpark A12).
 
-*   **Huishoudensamenstelling:** Veel meerpersoonshuishoudens (gezinnen). Het aantal eenpersoonshuishoudens onder ouderen neemt toe.
+*   **Glastuinbouw onder druk:** In december 2025 verkeert de glastuinbouw in een uitdagende fase. Hoewel de sector zich heeft aangepast aan de energiecrisis van 2022-2023 door massale overstap op LED-verlichting, zijn de inkomens in 2025 gedaald. Het gemiddelde inkomen per bedrijf wordt geraamd op €280.000, een daling van €57.000 ten opzichte van 2024 (Wageningen Economic Research, 2025).
 
-*   **Opleidingsniveaus:** Het gemiddelde opleidingsniveau is bovengemiddeld vergeleken met het landelijk gemiddelde, passend bij de sociaaleconomische status van de regio Lansingerland.
+*   **Negatieve resultaten:** Voor het eerst in ruim tien jaar rapporteert circa 20% van de glasgroentebedrijven een negatief inkomen. Dit wordt veroorzaakt door stijgende productiekosten en de invoering van de 'Wet fiscale maatregelen glastuinbouw' per 1 januari 2025, die het verlaagde belastingtarief voor de sector stapsgewijs afbouwt (Glastuinbouw Nederland, 2025).
 
-*   **Herkomst:** De bevolking is overwegend van Nederlandse herkomst (circa 80-85%). De diversiteit neemt langzaam toe, mede door de arbeidsmigratie in de glastuinbouwsector.
+*   **Werkgelegenheid:** Naast de tuinbouw is er een groeiende sector van jonge ondernemers, zoals het lokale bezorgplatform EetXpress, dat zich profileert door een deel van de opbrengst aan kwetsbare kinderen in de regio te schenken (RTV Lansingerland, dec 2025).
 
-### 2. Economische situatie
+## 3. Sociale structuur
 
-De economie van Bleiswijk is nauw verweven met de omliggende regio en wordt gedomineerd door twee specifieke sectoren.
+Bleiswijk kenmerkt zich door een sterke sociale cohesie en een actief verenigingsleven, maar ervaart ook de druk van de woningmarkt.
 
-*   **Glastuinbouw:** Bleiswijk ligt in het hart van de 'Greenport'. Dit is de belangrijkste werkgever. In december 2025 is de sector nog steeds volop in transitie naar duurzame energiebronnen (geothermie). De hoge energiekosten en de druk op de marges zorgen voor een zakelijke, soms gespannen sfeer bij ondernemers in de gemeente.
+*   **Woningmarkt:** Er is een groot tekort aan betaalbare woningen voor starters en levensloopbestendige woningen voor senioren. Recent is het omgevingsplan voor de Lange Vaart vastgesteld, waar 125 woningen worden gerealiseerd specifiek voor deze doelgroepen (WIJ Lansingerland, nov 2025).
 
-*   **Logistiek:** Het bedrijventerrein Prisma huisvest grote distributiecentra (o.a. Hoogvliet, HelloFresh). Dit zorgt voor veel werkgelegenheid voor zowel praktisch opgeleiden als logistiek managers.
+*   **Sociale cohesie:** Het dorp steunt op vrijwilligers. In december 2025 zijn de nominaties voor de jaarlijkse vrijwilligersprijzen bekendgemaakt. Initiatieven zoals 'huiskamerconcerten' voor zieken en het 'WIJk-ontbijt' waar inwoners met raadsleden in gesprek gaan, onderstrepen de betrokkenheid (RTV Lansingerland, 2025).
 
-*   **Inkomensniveau:** Het gemiddeld besteedbaar inkomen per huishouden in Bleiswijk ligt hoger dan het landelijk gemiddelde. Er is echter een verborgen groep die moeite heeft met de gestegen kosten voor levensonderhoud, zeker in de aanloop naar de dure decembermaand.
+*   **Voorzieningen:** Bleiswijk beschikt over een compleet winkelaanbod rond het Kranenburgplein en diverse sportfaciliteiten. De nabijheid van recreatiegebied Rottemeren is een belangrijke factor voor de leefbaarheid.
 
-### 3. Sociale structuur
+## 4. Recente lokale gebeurtenissen
 
-Bleiswijk heeft het karakter van een dorp behouden, ondanks de nabijheid van de grote steden.
+*   **Veiligheid:** In juni 2025 werd het dorp opgeschrikt door een explosie bij een woning aan de Magnoliahof, vermoedelijk veroorzaakt door zwaar vuurwerk (Cobra). Dit heeft geleid tot verhoogde aandacht voor sociale veiligheid en politie-aanwezigheid in de wijk.
 
-*   **Sociale cohesie:** Er is een sterk verenigingsleven (sport, muziek, kerk). De "ons-kent-ons" cultuur is aanwezig, wat zorgt voor een vangnet maar ook voor een zekere sociale controle.
+*   **Gezondheid en Natuur:** In november 2025 zijn de eerste besmettingen met vogelgriep bij wilde vogels in de regio gemeld, wat leidde tot preventieve maatregelen voor pluimveehouders en hobbyhouders (Gemeente Lansingerland, nov 2025).
 
-*   **Voorzieningen:** Het dorp heeft een goed voorzieningenniveau qua winkels en basisscholen. Voor middelbaar onderwijs en specialistische zorg is men aangewezen op Berkel en Rodenrijs, Rotterdam of Zoetermeer.
+*   **Maatschappelijke acties:** In de aanloop naar Kerst 2025 is er veel lokale activiteit voor 'Serious Request'. Daarnaast is er aandacht voor jongeren met schulden; de gemeente is een samenwerking aangegaan met het Jongeren Perspectief Fonds (JPF) om deze groep gericht te ondersteunen (RTV Lansingerland, dec 2025).
 
-*   **Woningmarkt:** Er is een tekort aan betaalbare woningen voor starters uit het eigen dorp. Dit leidt tot een uitstroom van jongeren, wat op termijn de vitaliteit van de sociale structuur onder druk zet.
+## 5. Kerkelijke context
 
-### 4. Recente lokale gebeurtenissen en trends (2024-2025)
+De Dorpskerk aan de Kerkstraat 4 neemt een centrale positie in, zowel geografisch als historisch.
 
-*   **Energietransitie:** De discussie over de plaatsing van windturbines of zonnevelden in de nabijheid van Bleiswijk is een terugkerend politiek thema dat de gemoederen in de dorpsraad bezighoudt.
+*   **Historie:** Het gebouw dateert in zijn huidige vorm grotendeels uit 1532 (koor) en 1668 (schip). Het is een Rijksmonument en wordt beschouwd als een van de honderd mooiste kerken van Nederland. De 17e-eeuwse tekstborden in het interieur, met onder andere de Tien Geboden en de Geloofsbelijdenis, herinneren aan de contraremonstrantse traditie van de gemeente (Reliwiki; Dorpskerkbleiswijk.nl).
 
-*   **Verkeersdruk:** De bereikbaarheid en de druk op de wegen (N209) rondom het dorp door het logistieke verkeer blijft een punt van zorg voor de bewoners.
+*   **Positie:** De Dorpskerk is een PKN-gemeente met hervormde wortels. In de regio Lansingerland is de kerkelijke kaart divers, met naast de PKN ook een actieve Rooms-Katholieke parochie (Sint-Willibrordus) en een Gereformeerde Gemeente.
 
-*   **Veiligheid:** In 2025 is er landelijk en lokaal aandacht voor de toename van digitale criminaliteit (cybercrime) gericht op ouderen, een thema dat ook in de lokale media in Lansingerland veelvuldig is behandeld.
+*   **Actuele focus:** De gemeente is betrokken bij maatschappelijke projecten. De focus op de Kerstcollecte van Kerk in Actie ("Samen tegen armoede in Nederland") sluit aan bij de lokale zorgen over de 20% van de jongeren en gezinnen die financieel kwetsbaar zijn, ondanks de algemene welstand in het dorp.
 
-### 5. Kerkelijke context
+## Bronnen
 
-De Dorpskerk neemt een centrale plaats in, zowel fysiek als symbolisch.
+*   AlleCijfers.nl (2025). *Bleiswijk in cijfers en grafieken*.
 
-*   **Kerkelijke kaart:** Bleiswijk is vanouds een protestants dorp. Naast de PKN (Dorpskerk en de Gereformeerde Kerk 'Open Hof') is er een actieve Rooms-Katholieke parochie en zijn er diverse kleinere kerkelijke verbanden.
+*   CBS (2025). *Regionale kerncijfers Nederland*.
 
-*   **Positie Dorpskerk:** De Dorpskerk heeft een confessionele tot gematigd-hervormde signatuur. De gemeente is betrokken en trouw. Er is een sterke traditie van diaconale hulpverlening.
+*   Glastuinbouw Nederland (2025). *Wet fiscale maatregelen glastuinbouw en energieprijzen*.
 
-*   **Samenwerking:** Er is een groeiende samenwerking tussen de diverse kerken in Lansingerland, met name op het gebied van de Voedselbank en vluchtelingenhulp.
+*   RTV Lansingerland (2025). *Lokaal nieuwsarchief juni-december 2025*.
 
-*   **Relevantie voor 21 december:** In de week voor Kerst is de kerkelijke betrokkenheid op zijn hoogst. Men verwacht een klassieke, degelijke liturgie die rust biedt in een drukke tijd.
+*   Wageningen Economic Research (2025). *Inkomensramingen land- en tuinbouw*.
 
----
-
-### Homiletische duiding voor de preek (Matteüs 1:18-25)
-
-De sociaal-maatschappelijke context van Bleiswijk biedt concrete aanknopingspunten voor de verkondiging op de 4e zondag van Advent:
-
-1.  **De 'Jozef-positie' in een ondernemende cultuur:** De hoorders in Bleiswijk zijn vaak nuchtere, hardwerkende mensen (ondernemers in de tuinbouw, logistiek managers). De figuur van Jozef, die geconfronteerd wordt met een situatie die hij niet heeft gepland en die zijn reputatie kan schaden, resoneert met de onzekerheid van ondernemerschap en de druk van de publieke opinie in een dorp.
-2.  **Gehoorzaamheid versus planning:** In een hoogopgeleide, welvarende omgeving als Bleiswijk is de neiging groot om het leven te 'managen'. De boodschap van de engel aan Jozef vraagt om het loslaten van de eigen regie. Dit is een relevant thema voor mensen die gewend zijn aan controle en efficiëntie.
-3.  **Immanuël in de drukte:** Op 21 december, vier dagen voor Kerst, zit de hoorder midden in de commerciële decemberdrukte en de afronding van het werkjaar. De naam 'Immanuël' (God met ons) biedt een nuchter tegenwicht aan de kerststress: God is aanwezig in de concrete, soms gecompliceerde realiteit van het dagelijks bestaan, niet alleen in het idyllische kerstfeest.
-4.  **Sociale druk:** De keuze van Jozef om Maria niet te schande te maken, raakt aan de sociale cohesie en de omgang met 'het ongewone' in een dorpsgemeenschap. Hoe gaan wij om met situaties die niet binnen de norm vallen?
-
-**Bronnen:**
-*   *AlleCijfers.nl (Bleiswijk, geraadpleegd december 2024).*
-*   *Gemeente Lansingerland, Economische Visie 2020-2025.*
-*   *Lansingerland24.nl (Lokaal nieuwsarchief).*
-*   *Sociaal-Economische Verkenning regio Rotterdam-Den Haag (2024).*
+*   Gemeente Lansingerland (2025). *Nieuwsbrieven en Woonvisie 2021-2025*.
