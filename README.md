@@ -69,11 +69,12 @@ De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, 
 
 ### 📚 Verdieping (verdieping.py)
 
-Na de basisanalyse kan een verdieping worden uitgevoerd met drie extra analyses:
+Na de basisanalyse kan een verdieping worden uitgevoerd met vier extra analyses:
 
 7. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
 8. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
 9. **Focus en Functie** - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
+10. **Kalender** - Gedenkdagen, heiligen, Joodse feestdagen, VN-dagen, nationale feestdagen, schoolvakanties, astronomie en weer
 
 Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als context.
 
@@ -147,6 +148,7 @@ output/Plaatsnaam_datum_timestamp/
 ├── 07_exegese.md                          # Exegese van de Schriftlezingen (via verdieping.py)
 ├── 08_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
 ├── 09_focus_en_functie.md                 # Focus en Functie (via verdieping.py)
+├── 10_kalender.md                         # Kalender met gedenkdagen (via verdieping.py)
 └── bijbelteksten/                         # Naardense Bijbel teksten (via verdieping.py)
     ├── jesaja_91-6.txt
     ├── lucas_21-14.txt
@@ -171,7 +173,8 @@ contextduiding/
 │   ├── 06_politieke_orientatie.md          # Politieke oriëntatie
 │   ├── 07_exegese.md                       # Exegese (verdieping)
 │   ├── 08_kunst_cultuur.md                 # Kunst en cultuur (verdieping)
-│   └── 09_focus_en_functie.md              # Focus en Functie (verdieping)
+│   ├── 09_focus_en_functie.md              # Focus en Functie (verdieping)
+│   └── 10_kalender.md                      # Kalender met gedenkdagen (verdieping)
 ├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
 ├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
 ├── .env                                    # API key (niet in git)
@@ -312,6 +315,17 @@ van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
 - Praktische tips voor gebruik in de eredienst
 
 Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery of Art
+
+### 10. Kalender (verdieping)
+- Kerkelijke gedenkdagen en heiligen
+- Joodse kalender (feestdagen, parasja)
+- Internationale en VN-dagen
+- Nationale feest- en gedenkdagen (Nederland en België)
+- Seizoensgebonden momenten (schoolvakanties, carnaval, Sinterklaas)
+- Astronomische gebeurtenissen (maanfasen, zonsopgang/-ondergang)
+- Weersverwachting voor de week
+
+Bronnen: heiligen.net, chabad.org, un.org/observances, rijksoverheid.nl, knmi.nl, timeanddate.com
 
 ## 📚 Bronnen
 

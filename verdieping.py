@@ -88,7 +88,7 @@ def select_folder() -> Path:
     for i, folder in enumerate(folders, 1):
         # Tel bestaande analyses
         existing = []
-        for num in range(10):
+        for num in range(11):
             pattern = f"{num:02d}_*.md"
             if list(folder.glob(pattern)):
                 existing.append(f"{num:02d}")
@@ -125,6 +125,7 @@ def read_previous_analyses(folder: Path) -> dict:
         ("06_politieke_orientatie.md", "politieke_orientatie"),
         ("07_exegese.md", "exegese"),
         ("08_kunst_cultuur.md", "kunst_cultuur"),
+        ("10_kalender.md", "kalender"),
     ]
 
     for filename, key in files_to_read:
@@ -220,10 +221,14 @@ def build_context_string(previous_analyses: dict) -> str:
         sections.append("## Kunst en Cultuur\n\n" +
                        previous_analyses["kunst_cultuur"])
 
+    if previous_analyses.get("kalender"):
+        sections.append("## Kalender\n\n" +
+                       previous_analyses["kalender"])
+
     return "\n\n---\n\n".join(sections)
 
 
-def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
+def run_analysis(client: genai.Client, prompt: str, title: str, temperature: float = 0.2) -> str:
     """Voer een analyse uit met Gemini en Google Search."""
     print(f"\n{'─' * 50}")
     print(f"Analyseren: {title}")
@@ -235,7 +240,7 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
             model=MODEL_NAME,
             contents=prompt,
             config=types.GenerateContentConfig(
-                temperature=0.2,  # Lager voor minder hallucinaties
+                temperature=temperature,
                 top_p=0.90,
                 top_k=30,
                 max_output_tokens=32768,
@@ -404,6 +409,7 @@ def update_summary(output_dir: Path):
         ("07_exegese", "Exegese van de Schriftlezingen"),
         ("08_kunst_cultuur", "Kunst, Cultuur en Film"),
         ("09_focus_en_functie", "Focus en Functie"),
+        ("10_kalender", "Kalender"),
     ]
 
     for name, title in new_analyses:
@@ -493,6 +499,7 @@ def main():
         ("07_exegese", "Exegese van de Schriftlezingen"),
         ("08_kunst_cultuur", "Kunst, Cultuur en Film"),
         ("09_focus_en_functie", "Focus en Functie"),
+        ("10_kalender", "Kalender: Gedenkdagen en Bijzondere Momenten"),
     ]
 
     # Mapping van oude naar nieuwe bestandsnamen (voor backwards compatibility)
@@ -532,8 +539,9 @@ def main():
 {task_prompt}
 """
 
-        # Voer analyse uit
-        result = run_analysis(client, full_prompt, title)
+        # Voer analyse uit (lage temperature voor kalender om hallucinaties te voorkomen)
+        temp = 0.1 if name == "10_kalender" else 0.2
+        result = run_analysis(client, full_prompt, title, temperature=temp)
 
         # Extra verificatiestap voor kunst_cultuur om hallucinaties te verwijderen
         if name == "08_kunst_cultuur":
