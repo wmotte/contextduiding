@@ -33,6 +33,16 @@ document.addEventListener('DOMContentLoaded', () => {
         return name.replace(/_/g, ' ');
     }
 
+    function smartQuotes(text) {
+        return text
+            // Double quotes
+            .replace(/(^|[-\u2014\s(\[{"'])"/g, '$1\u201c') // opening
+            .replace(/"/g, '\u201d')                         // closing
+            // Single quotes / apostrophes
+            .replace(/(^|[-\u2014\s(\[{"'])'/g, '$1\u2018') // opening
+            .replace(/'/g, '\u2019');                        // closing
+    }
+
     // Fix relative links to point to the correct subdirectory
     function fixRelativeLinks(container, dirName) {
         const links = container.querySelectorAll('a');
@@ -145,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (filesMap['00_overzicht.md']) {
             try {
                 const text = await getFileContent(filesMap['00_overzicht.md']);
-                contentOverview.innerHTML = marked.parse(text);
+                contentOverview.innerHTML = marked.parse(smartQuotes(text));
                 fixRelativeLinks(contentOverview, dirName);
             } catch (e) {
                 console.error(e);
@@ -164,8 +174,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     const text = await getFileContent(filesMap[filename]);
                     
                     detailsHtml += `<div class="section-divider"></div>`;
+                    detailsHtml += `<button class="back-to-top-btn" onclick="document.getElementById('report-container').scrollTo({top:0, behavior:'smooth'})">↑ Terug naar overzicht</button>`;
                     detailsHtml += `<div class="file-section" id="section-${filename}" data-file="${filename}">`;
-                    detailsHtml += marked.parse(text);
+                    detailsHtml += marked.parse(smartQuotes(text));
                     detailsHtml += `</div>`;
                 } catch (e) {
                     console.warn(`Could not load ${filename}`, e);
