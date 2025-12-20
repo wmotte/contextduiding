@@ -140,6 +140,7 @@ def read_previous_analyses(folder: Path) -> dict:
         ("07_exegese.md", "exegese"),
         ("08_kunst_cultuur.md", "kunst_cultuur"),
         ("10_kalender.md", "kalender"),
+        ("11_representatieve_hoorders.md", "representatieve_hoorders"),
     ]
 
     for filename, key in files_to_read:
@@ -195,8 +196,13 @@ def get_gemini_client() -> genai.Client:
     return genai.Client(api_key=api_key)
 
 
-def build_context_string(previous_analyses: dict) -> str:
-    """Bouw een context string van alle vorige analyses."""
+def build_context_string(previous_analyses: dict, limited: bool = False) -> str:
+    """Bouw een context string van vorige analyses.
+
+    Args:
+        previous_analyses: Dictionary met alle analyses
+        limited: Als True, alleen sociaal-maatschappelijke context voor hoordersprofielen
+    """
     sections = []
 
     if previous_analyses.get("liturgische_context"):
@@ -219,6 +225,10 @@ def build_context_string(previous_analyses: dict) -> str:
         sections.append("## Interpretatieve Synthese\n\n" +
                        previous_analyses["synthese"])
 
+    # Voor hoordersprofielen stoppen we hier - exegese, kunst, kalender etc. niet nodig
+    if limited:
+        return "\n\n---\n\n".join(sections)
+
     if previous_analyses.get("wereldnieuws"):
         sections.append("## Actueel Wereldnieuws\n\n" +
                        previous_analyses["wereldnieuws"])
@@ -238,6 +248,10 @@ def build_context_string(previous_analyses: dict) -> str:
     if previous_analyses.get("kalender"):
         sections.append("## Kalender\n\n" +
                        previous_analyses["kalender"])
+
+    if previous_analyses.get("representatieve_hoorders"):
+        sections.append("## Representatieve Hoorders\n\n" +
+                       previous_analyses["representatieve_hoorders"])
 
     return "\n\n---\n\n".join(sections)
 
@@ -424,6 +438,7 @@ def update_summary(output_dir: Path):
         ("08_kunst_cultuur", "Kunst, Cultuur en Film"),
         ("09_focus_en_functie", "Focus en Functie"),
         ("10_kalender", "Kalender"),
+        ("11_representatieve_hoorders", "Representatieve Hoorders"),
     ]
 
     for name, title in new_analyses:
@@ -514,6 +529,7 @@ def main():
         ("08_kunst_cultuur", "Kunst, Cultuur en Film"),
         ("09_focus_en_functie", "Focus en Functie"),
         ("10_kalender", "Kalender: Gedenkdagen en Bijzondere Momenten"),
+        ("11_representatieve_hoorders", "Representatieve Hoorders"),
     ]
 
     # Mapping van oude naar nieuwe bestandsnamen (voor backwards compatibility)
@@ -540,11 +556,17 @@ def main():
         # Bouw prompt
         task_prompt = load_prompt(f"{name}.md", user_input)
 
+        # Voor representatieve hoorders: beperkte context (geen exegese, kunst, kalender)
+        if name == "11_representatieve_hoorders":
+            analysis_context = build_context_string(previous_analyses, limited=True)
+        else:
+            analysis_context = context_string
+
         full_prompt = f"""{base_prompt}
 
 # Eerdere Analyses (Context)
 
-{context_string}
+{analysis_context}
 
 ---
 

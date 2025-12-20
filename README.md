@@ -72,12 +72,13 @@ De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, 
 
 ### 📚 Verdieping (verdieping.py)
 
-Na de basisanalyse kan een verdieping worden uitgevoerd met vier extra analyses:
+Na de basisanalyse kan een verdieping worden uitgevoerd met vijf extra analyses:
 
 7. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
 8. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
 9. **Focus en Functie** - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
 10. **Kalender** - Gedenkdagen, heiligen, Joodse feestdagen, VN-dagen, nationale feestdagen, schoolvakanties, astronomie en weer
+11. **Representatieve Hoorders** - Vijf fictieve personages (16-80 jaar) die de diversiteit van de gemeente representeren
 
 Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als context.
 
@@ -152,6 +153,7 @@ output/Plaatsnaam_datum_timestamp/
 ├── 08_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
 ├── 09_focus_en_functie.md                 # Focus en Functie (via verdieping.py)
 ├── 10_kalender.md                         # Kalender met gedenkdagen (via verdieping.py)
+├── 11_representatieve_hoorders.md         # Vijf personages (via verdieping.py)
 └── bijbelteksten/                         # Naardense Bijbel teksten (via verdieping.py)
     ├── jesaja_91-6.txt
     ├── lucas_21-14.txt
@@ -177,7 +179,8 @@ contextduiding/
 │   ├── 07_exegese.md                       # Exegese (verdieping)
 │   ├── 08_kunst_cultuur.md                 # Kunst en cultuur (verdieping)
 │   ├── 09_focus_en_functie.md              # Focus en Functie (verdieping)
-│   └── 10_kalender.md                      # Kalender met gedenkdagen (verdieping)
+│   ├── 10_kalender.md                      # Kalender met gedenkdagen (verdieping)
+│   └── 11_representatieve_hoorders.md      # Personages (verdieping)
 ├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
 ├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
 ├── .env                                    # API key (niet in git)
@@ -330,6 +333,22 @@ Bronnen: artbible.info, De Bijbel Cultureel (Barnard), Rijksmuseum, Web Gallery 
 - Weersverwachting voor de week
 
 Bronnen: heiligen.net, chabad.org, un.org/observances, rijksoverheid.nl, knmi.nl, timeanddate.com
+
+### 11. Representatieve Hoorders (verdieping)
+Vijf fictieve personages die de diversiteit van de gemeente representeren:
+- **Leeftijdsrange:** 16-80 jaar (jongere, young professional, middelbaar, senior, oudere)
+- **Levensfases:** Scholier/student, alleenstaand, gezin, gescheiden, weduwe/weduwnaar
+- **Per personage (400-600 woorden):**
+  - Basisgegevens (naam, leeftijd, fysieke verschijning)
+  - Relaties en sociaal netwerk
+  - Opleiding, werk en financiën
+  - Gezondheid (lichamelijk en mentaal)
+  - Trauma's en zorgen
+  - Geloof en spiritualiteit
+  - Hobby's en interesses
+  - Aansluiting bij de Schriftlezingen
+
+Bronnen: gebaseerd op de sociaal-maatschappelijke context, waardenoriëntatie en geloofsoriëntatie analyses
 
 ## 📚 Bronnen
 

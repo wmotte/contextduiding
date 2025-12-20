@@ -29,7 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '07_exegese.md',
         '08_kunst_cultuur.md',
         '09_focus_en_functie.md',
-        '10_kalender.md'
+        '10_kalender.md',
+        '11_representatieve_hoorders.md'
     ];
 
     // Readable labels for section menu
@@ -44,7 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '07_exegese.md': 'Exegese',
         '08_kunst_cultuur.md': 'Kunst & Cultuur',
         '09_focus_en_functie.md': 'Focus & Functie',
-        '10_kalender.md': 'Kalender'
+        '10_kalender.md': 'Kalender',
+        '11_representatieve_hoorders.md': 'Representatieve Hoorders'
     };
 
     // Current active municipality for submenu
