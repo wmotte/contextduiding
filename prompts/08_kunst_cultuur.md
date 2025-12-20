@@ -20,10 +20,10 @@ De liturgische gegevens, Schriftlezingen en gemeentecontext zijn hierboven verme
 ## Belangrijk: geen URLs, alleen zoektermen
 - **Genereer NOOIT URLs** - URLs leiden vaak tot hallucinaties en dode links
 - Geef in plaats daarvan altijd een zoekterm in dit formaat:
-  - `Zoekterm: Timothy Schmalz Homeless Jesus sculpture`
-  - `Zoekterm: Rembrandt Terugkeer Verloren Zoon Hermitage`
-  - `Zoekterm: Babette's Feast 1987 film IMDB`
-  - `Zoekterm: Mare of Easttown HBO Kate Winslet`
+  - `Timothy Schmalz Homeless Jesus sculpture`
+  - `Rembrandt Terugkeer Verloren Zoon Hermitage`
+  - `Babette's Feast 1987 film IMDB`
+  - `Mare of Easttown HBO Kate Winslet`
 - Controleer of kunstwerken, boeken en films daadwerkelijk bestaan voordat je ze noemt
 - Vermeld bij boeken: auteur, titel, uitgever/jaar indien bekend
 - Vermeld bij films: regisseur, jaar - zodat het verifieerbaar is via zoeken
@@ -118,12 +118,12 @@ Lever een overzicht dat:
    - Titel, kunstenaar, jaartal
    - Korte beschrijving wat het werk laat zien
    - Concreet wat dit werk toevoegt aan het verstaan van de tekst (geen vage formuleringen)
-   - Een zoekterm in het formaat `Zoekterm: [kunstenaar] [titel] [eventueel museum/bron]`
+   - Een zoekterm regel in dit formaat: `**Zoekterm:** [zoekopdracht]` (gebruik geen backticks rondom de hele regel, alleen rond de zoekopdracht als dat helpt, of gewoon platte tekst)
 2. **Minimaal 2-3 film/video suggesties** met:
    - Titel, regisseur, jaar
    - Relevante scène of fragment
    - Specifiek wat dit fragment kan openen
-   - Een zoekterm in het formaat `Zoekterm: [titel] [jaar] film [regisseur]`
+   - Een zoekterm regel in dit formaat: `**Zoekterm:** [zoekopdracht]`
 3. **Literatuursuggesties** met auteur, titel, jaar - zodat het te verifiëren is
 4. **Suggesties voor muziek** die de dienst kunnen verrijken
 5. **Praktische tips** voor gebruik in {{gemeente}}
