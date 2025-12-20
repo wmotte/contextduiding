@@ -9,8 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const reportContainer = document.getElementById('report-container');
     const contentOverview = document.getElementById('content-overview');
     const contentDetails = document.getElementById('content-details');
-    const navBtns = document.querySelectorAll('.nav-btn');
-    const tabContents = document.querySelectorAll('.tab-content');
 
     // --- State ---
     // Structure: { "GemeenteNaam": { "file.md": FileObject|String, ... } }
@@ -70,22 +68,15 @@ document.addEventListener('DOMContentLoaded', () => {
         // Process files
         for (let i = 0; i < files.length; i++) {
             const file = files[i];
-            // webkitRelativePath example: "output/Gemeente/file.md" or "Gemeente/file.md"
             const parts = file.webkitRelativePath.split('/');
             
-            // We need at least 2 parts (Folder/File)
             if (parts.length < 2) continue;
 
             const fileName = parts[parts.length - 1];
             const dirName = parts[parts.length - 2];
 
-            // Filter out system files, css, js, etc.
             if (dirName.startsWith('.') || dirName === 'css' || dirName === 'js' || dirName === 'output') continue;
-            
-            // Ignore the website files themselves if they are in the list
             if (['index.html', 'script.js', 'style.css', 'website_server.py', 'data.js', 'generate_data.py'].includes(fileName)) continue;
-
-            // Only care about .md files for now
             if (!fileName.endsWith('.md')) continue;
 
             if (!municipalityData[dirName]) {
@@ -94,10 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
             municipalityData[dirName][fileName] = file;
         }
 
-        // Render Sidebar
         renderSidebar();
-
-        // Switch View
         setupScreen.classList.add('hidden');
         appContainer.classList.remove('hidden');
     });
@@ -108,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const dirs = Object.keys(municipalityData).sort();
 
         if (dirs.length === 0) {
-            municipalityList.innerHTML = '<li style="padding:20px; color:#999;">Geen geldige mappen gevonden. Selecteer de "output" map.</li>';
+            municipalityList.innerHTML = '<li style="padding:20px; color:#999;">Geen geldige mappen gevonden.</li>';
             return;
         }
 
@@ -132,9 +120,12 @@ document.addEventListener('DOMContentLoaded', () => {
         placeholder.classList.add('hidden');
         reportContainer.classList.remove('hidden');
 
+        // Scroll to top of report container
+        reportContainer.scrollTop = 0;
+
         // Reset content
         contentOverview.innerHTML = '<p>Laden...</p>';
-        contentDetails.innerHTML = '<p>Laden...</p>';
+        contentDetails.innerHTML = '';
 
         const filesMap = municipalityData[dirName];
 
@@ -160,7 +151,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const text = await getFileContent(filesMap[filename]);
                     
                     detailsHtml += `<div class="section-divider"></div>`;
-                    detailsHtml += `<div class="file-section" data-file="${filename}">`;
+                    detailsHtml += `<div class="file-section" id="section-${filename}" data-file="${filename}">`;
                     detailsHtml += marked.parse(text);
                     detailsHtml += `</div>`;
                 } catch (e) {
@@ -169,28 +160,30 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        if (detailsHtml === '') {
-            contentDetails.innerHTML = '<p>Geen detailbestanden gevonden.</p>';
-        } else {
-            contentDetails.innerHTML = detailsHtml;
+        contentDetails.innerHTML = detailsHtml;
+    }
+
+    // --- Link Handling ---
+    function handleInternalLink(e) {
+        const link = e.target.closest('a');
+        if (!link) return;
+
+        const href = link.getAttribute('href');
+        if (href && href.endsWith('.md')) {
+            e.preventDefault();
+            
+            const filename = href.split('/').pop();
+            const targetSection = document.getElementById(`section-${filename}`);
+            
+            if (targetSection) {
+                targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            } else {
+                console.warn(`Section for ${filename} not found.`);
+            }
         }
     }
 
-    // 4. Tab Switching
-    navBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            // Remove active class from all buttons and contents
-            navBtns.forEach(b => b.classList.remove('active'));
-            tabContents.forEach(c => c.classList.remove('active'));
-
-            // Add active to clicked
-            btn.classList.add('active');
-            
-            // Show target
-            const targetId = btn.getAttribute('data-target');
-            document.getElementById(targetId).classList.add('active');
-        });
-    });
+    reportContainer.addEventListener('click', handleInternalLink);
 
     // Run Init
     init();
