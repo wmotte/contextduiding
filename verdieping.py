@@ -238,7 +238,7 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
                 temperature=0.2,  # Lager voor minder hallucinaties
                 top_p=0.90,
                 top_k=30,
-                max_output_tokens=8192,
+                max_output_tokens=32768,
                 tools=[types.Tool(
                     google_search=types.GoogleSearch()
                 )],
