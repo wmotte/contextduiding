@@ -13,3 +13,6 @@
 - [Interpretatieve Synthese](04_interpretatieve_synthese.md)
 - [Actueel Wereldnieuws](05_actueel_wereldnieuws.md)
 - [Politieke Oriëntatie](06_politieke_orientatie.md)
+- [Exegese van de Schriftlezingen](07_exegese.md)
+- [Kunst, Cultuur en Film](08_kunst_cultuur.md)
+- [Focus en Functie](09_focus_en_functie.md)
