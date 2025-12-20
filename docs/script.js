@@ -29,6 +29,23 @@ document.addEventListener('DOMContentLoaded', () => {
         '09_focus_en_functie.md'
     ];
 
+    // Readable labels for section menu
+    const sectionLabels = {
+        '00_zondag_kerkelijk_jaar.md': 'Zondag & Kerkelijk Jaar',
+        '01_sociaal_maatschappelijke_context.md': 'Sociaal-Maatschappelijk',
+        '02_waardenorientatie.md': 'Waardenoriëntatie',
+        '03_geloofsorientatie.md': 'Geloofsoriëntatie',
+        '04_interpretatieve_synthese.md': 'Interpretatieve Synthese',
+        '05_actueel_wereldnieuws.md': 'Actueel Wereldnieuws',
+        '06_politieke_orientatie.md': 'Politieke Oriëntatie',
+        '07_exegese.md': 'Exegese',
+        '08_kunst_cultuur.md': 'Kunst & Cultuur',
+        '09_focus_en_functie.md': 'Focus & Functie'
+    };
+
+    // Current active municipality for submenu
+    let currentMunicipality = null;
+
     // --- Helpers ---
     function formatName(name) {
         return name.replace(/_/g, ' ');
@@ -125,19 +142,91 @@ document.addEventListener('DOMContentLoaded', () => {
 
         dirs.forEach(dir => {
             const li = document.createElement('li');
+            li.className = 'municipality-item';
+            li.dataset.dir = dir;
+
             const btn = document.createElement('button');
+            btn.className = 'municipality-btn';
             btn.textContent = formatName(dir);
-            btn.onclick = () => loadReport(dir, btn);
+            btn.onclick = () => loadReport(dir, li);
             li.appendChild(btn);
+
+            // Create submenu container
+            const submenu = document.createElement('ul');
+            submenu.className = 'section-submenu';
+
+            // Add submenu items for each available section
+            const filesMap = municipalityData[dir];
+            detailFilesOrder.forEach(filename => {
+                if (filesMap[filename]) {
+                    const subLi = document.createElement('li');
+                    const subBtn = document.createElement('button');
+                    subBtn.className = 'section-btn';
+                    subBtn.dataset.section = filename;
+                    subBtn.textContent = sectionLabels[filename] || filename;
+                    subBtn.onclick = (e) => {
+                        e.stopPropagation();
+                        scrollToSection(filename);
+                    };
+                    subLi.appendChild(subBtn);
+                    submenu.appendChild(subLi);
+                }
+            });
+
+            li.appendChild(submenu);
             municipalityList.appendChild(li);
         });
     }
 
+    // Scroll to a specific section
+    function scrollToSection(filename) {
+        const targetSection = document.getElementById(`section-${filename}`);
+        if (targetSection) {
+            targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+    }
+
+    // Update active section in submenu based on scroll position
+    function updateActiveSection() {
+        if (!currentMunicipality) return;
+
+        const sections = contentDetails.querySelectorAll('.file-section');
+        const containerRect = reportContainer.getBoundingClientRect();
+        const containerTop = containerRect.top;
+
+        let activeSection = null;
+
+        sections.forEach(section => {
+            const rect = section.getBoundingClientRect();
+            // Check if section is at or near the top of the viewport
+            if (rect.top <= containerTop + 150) {
+                activeSection = section.dataset.file;
+            }
+        });
+
+        // Update submenu buttons
+        const submenuBtns = document.querySelectorAll('.section-btn');
+        submenuBtns.forEach(btn => {
+            if (btn.dataset.section === activeSection) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+    }
+
     // 3. Load Report Logic
-    async function loadReport(dirName, btnElement) {
-        // UI Update
-        document.querySelectorAll('#municipality-list button').forEach(b => b.classList.remove('active'));
-        btnElement.classList.add('active');
+    async function loadReport(dirName, liElement) {
+        // UI Update - remove active from all municipality items
+        document.querySelectorAll('.municipality-item').forEach(item => {
+            item.classList.remove('active');
+            item.querySelector('.municipality-btn').classList.remove('active');
+        });
+
+        // Mark current municipality as active
+        liElement.classList.add('active');
+        liElement.querySelector('.municipality-btn').classList.add('active');
+        currentMunicipality = dirName;
         
         pageTitle.textContent = formatName(dirName);
         placeholder.classList.add('hidden');
@@ -218,7 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Scroll listener on the report container
     reportContainer.addEventListener('scroll', () => {
         const scrollTop = reportContainer.scrollTop;
-        
+
         // FAB visibility
         if (scrollTop > 300) {
             backToTopBtn.classList.add('visible');
@@ -232,6 +321,9 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             mainHeader.classList.remove('scrolled');
         }
+
+        // Update active section in submenu
+        updateActiveSection();
     });
 
     // Click listener for FAB

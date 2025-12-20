@@ -151,11 +151,13 @@ body {
     padding: 0;
 }
 
-#municipality-list li {
+
+/* Submenu Styling */
+.municipality-item {
     border-bottom: 1px solid var(--border-color);
 }
 
-#municipality-list li button {
+.municipality-btn {
     width: 100%;
     text-align: left;
     padding: 15px 20px;
@@ -168,13 +170,69 @@ body {
     transition: background 0.2s;
 }
 
-#municipality-list li button:hover {
+.municipality-btn:hover {
     background-color: #ebe7de;
 }
 
-#municipality-list li button.active {
+.municipality-btn.active {
     background-color: var(--accent-color);
     color: white;
+}
+
+.section-submenu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 0;
+    overflow: hidden;
+    background-color: #f9f7f3;
+    transition: max-height 0.3s ease-out;
+}
+
+.municipality-item.active .section-submenu {
+    max-height: 500px;
+}
+
+.section-submenu li {
+    border-top: 1px solid #e8e4dc;
+}
+
+.section-btn {
+    width: 100%;
+    text-align: left;
+    padding: 10px 20px 10px 35px;
+    background: none;
+    border: none;
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.section-btn::before {
+    content: "›";
+    position: absolute;
+    left: 20px;
+    color: #999;
+    transition: transform 0.2s;
+}
+
+.section-btn:hover {
+    background-color: #ebe7de;
+    color: var(--text-color);
+}
+
+.section-btn.active {
+    background-color: #e0dbd2;
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.section-btn.active::before {
+    color: var(--accent-color);
+    transform: rotate(90deg);
 }
 
 /* Main Content */
