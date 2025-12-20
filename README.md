@@ -38,6 +38,7 @@ In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 | Locatie | Datum | Overzicht |
 |---------|-------|-----------|
 | Dirksland (Ring 2) | 8 maart 2026 | [00_overzicht.md](output/Dirksland_8_maart_2026_Ring_2/00_overzicht.md) |
+| Den Haag (Kloosterkerk) | 14 februari 2026 | [00_overzicht.md](output/Den_Haag_14_februari_2026_Kloosterkerk/00_overzicht.md) |
 | Groningen (Martinikerk) | 1 februari 2026 | [00_overzicht.md](output/Groningen_1_februari_2026_Martinikerk/00_overzicht.md) |
 | Maasbracht (PG) | 25 januari 2026 | [00_overzicht.md](output/Maasbracht_25_januari_2026_PG/00_overzicht.md) |
 | Delft (Vierhovenkerk) | 18 januari 2026 | [00_overzicht.md](output/Delft_18_januari_2026_Vierhovenkerk/00_overzicht.md) |
