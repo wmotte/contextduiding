@@ -5,17 +5,17 @@ Breng het politieke landschap en stemgedrag in kaart voor {{plaatsnaam}}.
 ## 0. Verkiezingsdata opzoeken (VERPLICHTE EERSTE STAP)
 
 **Zoek EERST op wanneer de meest recente verkiezingen hebben plaatsgevonden.**
-Let goed op de datum van de preek (`{{datum}}`). Als deze datum in de toekomst ligt (bijv. eind 2025), controleer dan of er in de tussenliggende periode (2024, 2025) verkiezingen zijn geweest (bijv. **Europees Parlement juni 2024** of vervroegde **Tweede Kamerverkiezingen in 2025**).
+Let goed op de datum van de preek (`{{datum}}`). Als deze datum in de toekomst ligt (bijv. eind 2026), controleer dan of er in de tussenliggende periode (2024, 2025) verkiezingen zijn geweest (bijv. **Europees Parlement juni 2024** of vervroegde **Tweede Kamerverkiezingen in 2025**).
 
 Zoek expliciet naar:
-- **Tweede Kamerverkiezingen**: Zijn er na november 2023 nieuwe verkiezingen geweest? (Zoek op "Tweede Kamerverkiezingen uitslag [jaartal van preek]" en "[jaartal van preek - 1]")
+- **Tweede Kamerverkiezingen**: Meest recente verkiezingen waren in november 2025. (Zoek op "Tweede Kamerverkiezingen uitslag [jaartal van preek]" en "[jaartal van preek - 1]")
 - **Europees Parlementsverkiezingen**: Meest recente (bijv. juni 2024). Dit geeft vaak een recenter beeld dan TK2023.
 - **Provinciale Statenverkiezingen**: Wanneer waren de laatste?
 - **Gemeenteraadsverkiezingen**: Wanneer waren de laatste in {{plaatsnaam}}?
 - **Waterschapsverkiezingen**: Wanneer waren de laatste?
 
 **Let op bij simulatie/toekomst:**
-Als de preekdatum (`{{datum}}`) suggereert dat er verkiezingen zijn geweest (bijv. okt 2025) waarvan nog geen *echte* uitslagen op internet staan (omdat het in werkelijkheid nog geen okt 2025 is), vermeld dan:
+Als de preekdatum (`{{datum}}`) suggereert dat er verkiezingen zijn geweest (bijv. mrt 2026) waarvan nog geen *echte* uitslagen op internet staan (omdat het in werkelijkheid nog geen mrt 2026 is), vermeld dan:
 1. Dat de verkiezingen volgens de tijdlijn net zijn geweest.
 2. Wat de verwachting/peiling was of de context (bijv. val kabinet).
 3. Gebruik de *Europees Parlementsverkiezingen (2024)* als meest recente *harde* data-indicator.
@@ -24,7 +24,7 @@ Als de preekdatum (`{{datum}}`) suggereert dat er verkiezingen zijn geweest (bij
 
 Analyseer de uitslagen van de meest recente Tweede Kamerverkiezingen in {{plaatsnaam}}:
 - **Datum van deze verkiezingen** (expliciet vermelden!)
-- *Check:* Zijn dit de verkiezingen van nov 2023 of recenter (2025)?
+- *Check:* Zijn dit de verkiezingen van nov 2025 of recenter (2026)?
 - Welke partijen behaalden de meeste stemmen?
 - Hoe verhoudt dit zich tot het landelijk gemiddelde?
 - Welke verschuivingen zijn er t.o.v. eerdere verkiezingen?
