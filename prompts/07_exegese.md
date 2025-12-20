@@ -5,6 +5,22 @@ Voer een grondige exegese uit van de Schriftlezingen die horen bij deze zondag/f
 ## Context
 De liturgische gegevens en Schriftlezingen zijn hierboven vermeld. Neem deze als uitgangspunt voor de exegese. Behandel elke lezing afzonderlijk én in samenhang.
 
+## Bijbeltekst opnemen
+
+**BELANGRIJK:** Begin de exegese met het integraal citeren van de bijbeltekst(en) uit de Naardense Bijbel (Pieter Oussoren). Deze teksten zijn hierboven in de context aangeleverd. Neem ze volledig over onder een kopje per lezing, bijvoorbeeld:
+
+```
+## Bijbelteksten (Naardense Bijbel)
+
+### Jesaja 9:1-6
+[volledige tekst hier]
+
+### Lucas 2:1-14
+[volledige tekst hier]
+```
+
+Dit zorgt ervoor dat de predikant de grondtekst direct bij de hand heeft bij het lezen van de exegese.
+
 ## Werkwijze
 
 ### 1. Afbakening en vertaling
