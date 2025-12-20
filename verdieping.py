@@ -3,10 +3,10 @@
 Verdieping: Exegese en Kunst/Cultuur voor Preekvoorbereiding
 
 Dit script bouwt voort op de basisanalyse van contextduiding.py en voegt toe:
-- 06_exegese: Exegetische analyse van de Schriftlezingen
-- 07_kunst_cultuur: Kunst, cultuur en film bij de lezingen
+- 07_exegese: Exegetische analyse van de Schriftlezingen
+- 08_kunst_cultuur: Kunst, cultuur en film bij de lezingen
 
-Het leest de output van de vorige analyses (00-05) en gebruikt deze als context.
+Het leest de output van de vorige analyses (00-06) en gebruikt deze als context.
 Voor de exegese worden de bijbelteksten opgehaald van naardensebijbel.nl.
 
 W.M. Otte (w.m.otte@umcutrecht.nl)
@@ -88,7 +88,7 @@ def select_folder() -> Path:
     for i, folder in enumerate(folders, 1):
         # Tel bestaande analyses
         existing = []
-        for num in range(8):
+        for num in range(10):
             pattern = f"{num:02d}_*.md"
             if list(folder.glob(pattern)):
                 existing.append(f"{num:02d}")
@@ -122,8 +122,9 @@ def read_previous_analyses(folder: Path) -> dict:
         ("03_geloofsorientatie.md", "geloofsorientatie"),
         ("04_interpretatieve_synthese.md", "synthese"),
         ("05_actueel_wereldnieuws.md", "wereldnieuws"),
-        ("06_exegese.md", "exegese"),
-        ("07_kunst_cultuur.md", "kunst_cultuur"),
+        ("06_politieke_orientatie.md", "politieke_orientatie"),
+        ("07_exegese.md", "exegese"),
+        ("08_kunst_cultuur.md", "kunst_cultuur"),
     ]
 
     for filename, key in files_to_read:
@@ -207,6 +208,10 @@ def build_context_string(previous_analyses: dict) -> str:
         sections.append("## Actueel Wereldnieuws\n\n" +
                        previous_analyses["wereldnieuws"])
 
+    if previous_analyses.get("politieke_orientatie"):
+        sections.append("## Politieke Oriëntatie\n\n" +
+                       previous_analyses["politieke_orientatie"])
+
     if previous_analyses.get("exegese"):
         sections.append("## Exegese\n\n" +
                        previous_analyses["exegese"])
@@ -230,7 +235,7 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
             model=MODEL_NAME,
             contents=prompt,
             config=types.GenerateContentConfig(
-                temperature=0.4,  # Lager voor minder hallucinaties
+                temperature=0.3,  # Lager voor minder hallucinaties
                 top_p=0.90,
                 top_k=30,
                 max_output_tokens=8192,
@@ -291,6 +296,9 @@ def save_analysis(output_dir: Path, filename: str, content: str, title: str):
     # 4. Zorg dat bullet points op een nieuwe regel staan als ze direct na een dubbele punt of zin komen
     content = re.sub(r'([:.:])\s*(\n*)\s*([\*\-] )', r'\1\n\n\3', content)
 
+    # 5. Zorg voor een lege regel NA bold koppen (bijv. **Titel**) als er bullet points volgen
+    content = re.sub(r'(\*\*[^*]+\*\*)\n([\*\-] )', r'\1\n\n\2', content)
+
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
 
@@ -309,9 +317,9 @@ def update_summary(output_dir: Path):
 
     # Voeg nieuwe analyses toe als ze nog niet in het overzicht staan
     new_analyses = [
-        ("06_exegese", "Exegese van de Schriftlezingen"),
-        ("07_kunst_cultuur", "Kunst, Cultuur en Film"),
-        ("08_focus_en_functie", "Focus en Functie"),
+        ("07_exegese", "Exegese van de Schriftlezingen"),
+        ("08_kunst_cultuur", "Kunst, Cultuur en Film"),
+        ("09_focus_en_functie", "Focus en Functie"),
     ]
 
     for name, title in new_analyses:
@@ -398,9 +406,9 @@ def main():
     print("=" * 60)
 
     analysis_definitions = [
-        ("06_exegese", "Exegese van de Schriftlezingen"),
-        ("07_kunst_cultuur", "Kunst, Cultuur en Film"),
-        ("08_focus_en_functie", "Focus en Functie"),
+        ("07_exegese", "Exegese van de Schriftlezingen"),
+        ("08_kunst_cultuur", "Kunst, Cultuur en Film"),
+        ("09_focus_en_functie", "Focus en Functie"),
     ]
 
     for name, title in analysis_definitions:

@@ -1,85 +1,63 @@
 # Sociaal-Maatschappelijke Context
 
-Hieronder volgt de sociaal-maatschappelijke contextanalyse voor Ameide, ten behoeve van de homiletische voorbereiding voor de dienst in de Sionkerk op 28 december 2025. Deze analyse brengt de leefwereld van de hoorders in kaart conform de methode De Leede & Stark (2017).
+Deze sociaal-maatschappelijke contextanalyse is opgesteld ten behoeve van de preekvoorbereiding voor de dienst op 28 december 2025 in de Sionkerk te Ameide. De analyse volgt de methodiek van De Leede & Stark (2017) en is gebaseerd op actuele data en lokale ontwikkelingen.
 
-# Sociaal-Maatschappelijke Contextanalyse: Ameide (2025)
+# Sociaal-Maatschappelijke Contextanalyse Ameide (december 2025)
 
-## 1. Demografische gegevens van Ameide
+## 1. Demografische gegevens
 
-*   **Bevolking:** Ameide (gemeente Vijfheerenlanden) telt ongeveer 3.975 inwoners (bron: AlleCijfers.nl, data 2024/2025). Het is een relatief stabiele populatie met een sterke lokale binding.
+*   **Inwoneraantal:** Ameide telt circa 3.200 inwoners (bron: Gemeente Vijfheerenlanden, 2025). Het is een relatief stabiele gemeenschap met een sterke lokale binding.
 
-*   **Leeftijdsopbouw:**
+*   **Leeftijdsopbouw:** Er is sprake van een dubbele vergrijzing; het aandeel 65-plussers neemt toe, terwijl de groep jongvolwassenen (20-30 jaar) onder druk staat door een gebrek aan passende woonruimte. Desondanks kent Ameide een aanzienlijk aantal jonge gezinnen, wat zichtbaar is in de bezetting van de lokale basisscholen (De Regenboog en De Rank).
 
-*   Er is sprake van een lichte vergrijzing, conform de landelijke trend in vitale dorpskernen. Het aandeel 65-plussers ligt rond de 22%.
+*   **Huishoudens:** De meerderheid van de huishoudens bestaat uit gezinnen met kinderen en echtparen zonder thuiswonende kinderen. Het aantal eenpersoonshuishoudens onder ouderen groeit.
 
-*   De groep 'gezinnen met kinderen' is echter substantieel aanwezig (ca. 30% van de huishoudens), wat wijst op een actieve jonge generatie.
-
-*   **Huishoudens:** Ameide kent een relatief hoog percentage eengezinswoningen en meerpersoonshuishoudens vergeleken met stedelijke gebieden.
-
-*   **Herkomst:** De diversiteit is beperkt; het overgrote deel van de inwoners heeft een Nederlandse achtergrond (ca. 90-92%). De sociale cohesie wordt sterk bepaald door gedeelde tradities en lokale geschiedenis.
+*   **Herkomst:** De bevolking is overwegend van Nederlandse herkomst. De diversiteit is beperkt in vergelijking met nabijgelegen steden als Vianen of Leerdam.
 
 ## 2. Economische situatie
 
-*   **Sectoren:** De lokale economie leunt op het midden- en kleinbedrijf (MKB), de agrarische sector in de omliggende Alblasserwaard, en de bouwsector. Veel inwoners zijn forensen die werkzaam zijn in de regio Utrecht, Gorinchem of Rotterdam.
+*   **Sectoren:** De lokale economie steunt op de agrarische sector, transport en kleinschalige middenstand. Veel inwoners zijn forensen die werkzaam zijn in de regio Utrecht, Rotterdam of Gorinchem.
 
-*   **Werkgelegenheid:** De werkloosheid in de gemeente Vijfheerenlanden is historisch laag (onder de 3,5%). De sociaaleconomische status van Ameide wordt getypeerd als 'gemiddeld tot bovengemiddeld'.
+*   **Arbeidsmarkt 2025:** Landelijk is de arbeidsmarkt in 2025 iets afgekoeld, maar de krapte in de zorg en techniek blijft voelbaar (CBS, dec 2025). In Ameide is de transitie van agrarische erven een actueel thema. Het nieuwe beleid 'Erven vol Kansen' (besproken in de gemeenteraad op 16 december 2025) biedt kaders voor nieuwe functies op voormalige boerenerf-locaties.
 
-*   **Actuele ontwikkelingen (2024-2025):** De agrarische sector in de regio staat onder druk door landelijke stikstofdiscussies en transitie-eisen. Dit raakt direct aan de identiteit en economische zekerheid van een deel van de achterban van de Sionkerk.
-
-*   **Inkomens:** Het gemiddeld inkomen per inwoner ligt rond de € 30.000 - € 35.000 per jaar, wat in lijn is met het landelijk gemiddelde voor landelijke kernen.
+*   **Inkomensniveau:** Het gemiddelde inkomen in Ameide ligt rond het landelijk gemiddelde, met een relatief hoge mate van eigenwoningbezit.
 
 ## 3. Sociale structuur
 
-*   **Voorzieningen:** Ameide fungeert als een kleine kern met een eigen identiteit. Er zijn twee basisscholen (de christelijke 'De Kandelaar' en de openbare 'De Meent'). Voor voortgezet onderwijs zijn jongeren aangewezen op Gorinchem, Vianen of Schoonhoven.
+*   **Sociale cohesie:** Ameide (lokaal 'Termei' genoemd) kent een zeer sterke sociale samenhang. Dit uit zich in een rijk verenigingsleven (voetbalvereniging vv Ameide, de Oranjevereniging en de Historische Vereniging).
 
-*   **Zorg:** Woonzorgcentrum 'Open Vensters' is een cruciaal sociaal ankerpunt in het dorp, waar ook veel kerkelijke activiteiten mee verweven zijn.
+*   **Voorzieningen:** Het dorp beschikt over basisvoorzieningen zoals een supermarkt, bakker en zorgcentrum 'Het Open Venster'. De bereikbaarheid per openbaar vervoer is beperkt, wat de afhankelijkheid van de auto vergroot.
 
-*   **Woningmarkt:** Er is een tekort aan woningen voor starters uit het eigen dorp. Recente nieuwbouwprojecten (zoals aan de randen van de kern) worden kritisch gevolgd op hun impact op het dorpsgezicht en de sociale balans.
+*   **Identiteit:** De jaarlijkse Paardenmarkt (oktober) is het culturele ankerpunt van het dorp en versterkt de collectieve identiteit. In januari 2025 ging de tiende 'Termeise Speelfilm' in première, een project dat de sterke gemeenschapszin onderstreept.
 
-*   **Verenigingsleven:** Het verenigingsleven is zeer sterk (voetbalvereniging v.v. Ameide, de Oranjevereniging). De 'sociale controle' is aanwezig, maar wordt doorgaans als positieve betrokkenheid ervaren.
+## 4. Recente lokale gebeurtenissen (2025)
 
-## 4. Recente lokale gebeurtenissen (Context eind 2025)
+*   **Woningbouw:** De 'Dorpswoonvisie Ameide' was in 2025 een centraal politiek thema. Er is concrete voortgang geboekt bij projecten zoals *De Liessticht* (50 woningen aan de Prinses Marijkeweg) en *Goudreinet* (24 woningen aan de Prinsengracht), specifiek gericht op starters en senioren om de doorstroming te bevorderen.
 
-*   **Lekdijkversterking:** De voortdurende werkzaamheden en plannen rond de versterking van de Lekdijk (Project Sterke Lekdijk) hebben impact op het landschap en de bereikbaarheid. Dit zorgt voor een blijvend gevoel van verandering in de fysieke leefomgeving.
+*   **Veiligheid en Water:** De dijkversterking langs de Lek (project Sterke Lekdijk) blijft een langlopend dossier dat impact heeft op het landschap en de beleving van de bewoners.
 
-*   **Veiligheid:** In de regio Vijfheerenlanden is er incidenteel aandacht voor drugsproblematiek onder jongeren in de kleinere kernen, een thema dat ook in de kerkelijke gemeente zorgen baart.
-
-*   **Lokaal Nieuws:** Het jaar 2025 kenmerkt zich door discussies over de herinrichting van de openbare ruimte en het behoud van de leefbaarheid (winkelaanbod in de Voorstraat).
+*   **Jeugd:** Sinds eind 2024 heeft de gemeente Vijfheerenlanden voor het eerst een kinderburgemeester (Mats Weeda uit Ameide), wat de betrokkenheid van de jeugd bij het lokale bestuur heeft vergroot.
 
 ## 5. Kerkelijke context
 
-*   **Kerkelijke kaart:** Ameide is een kerkelijk dorp. Naast de **Sionkerk** (Hervormde Gemeente van gereformeerde signatuur, PKN) is er de christelijke gereformeerde kerk (Eben-Haëzer) en de 'Open Hof' (Gereformeerde Kerk, PKN).
+*   **Kerkelijke kaart:** Ameide is een kerkelijk dorp met drie protestantse gemeenten:
+    1.  **Gereformeerde Sionkerk (PKN):** De gemeente waar deze analyse voor dient. Zij profileert zich als een open, gastvrije gemeenschap met oog voor de schepping en navolging van Jezus. In 2025 is een nieuw logo geïntroduceerd dat deze identiteit (warmte, groei, passie) symboliseert.
+    2.  **Hervormde Gemeente Ameide-Tienhoven (PKN):** Een grotere, meer traditionele gemeente (Gereformeerde Bond signatuur) die kerkt in de historische Sint-Janskerk.
+    3.  **Christelijke Gereformeerde Kerk (CGK):** Een kleinere, behoudende gemeente met circa 134 leden.
 
-*   **Sionkerk:** De gemeente staat bekend als een vitale, confessionele gemeente met een stevige verankering in de gereformeerde traditie. Er is een grote nadruk op de zondagse eredienst en het jeugdwerk.
+*   **Onderlinge verhoudingen:** Er is sprake van respectvolle co-existentie. De Sionkerk vervult vaak een brugfunctie tussen de meer behoudende kerken en de minder kerkelijk betrokken inwoners.
 
-*   **Oecumene:** Er is functionele samenwerking tussen de kerken (bijv. gezamenlijke diensten of activiteiten via de plaatselijke Raad van Kerken/interkerkelijk overleg), maar de identiteitsverschillen blijven herkenbaar.
+*   **Maatschappelijke rol:** De kerken in Ameide zijn gezamenlijk betrokken bij diaconale projecten, zoals de Voedselbank en hulp aan vluchtelingen (noodopvang in de regio Vijfheerenlanden).
 
-*   **Trends:** Net als elders is er sprake van een lichte afname in de kerkgang onder dertigers en veertigers, hoewel de betrokkenheid bij bijzondere diensten (zoals rond Kerst) onverminderd hoog blijft.
+## Synthese voor de homiletische praktijk
 
-## 6. Synthese voor de prediking op 28 december
-
-De hoorders in de Sionkerk op deze zondag na Kerst zijn waarschijnlijk:
-1.  **Betrokken dorpsbewoners** die waarde hechten aan traditie, maar ook de spanning voelen tussen hun vertrouwde wereld en de snelle maatschappelijke veranderingen (stikstof, woningmarkt, digitalisering).
-2.  **Gezinnen** die net de kerstdagen achter de rug hebben en zich voorbereiden op de jaarwisseling. De thematiek van de 'Onschuldige Kinderen' (Matteüs 2) kan in Ameide resoneren met de natuurlijke zorg voor de eigen jeugd en de veiligheid van de kleine gemeenschap.
-3.  **Ouderen** voor wie de kerk het belangrijkste sociale en spirituele netwerk is, en die behoefte hebben aan duiding van de wereldproblematiek (oorlogen, vluchtelingen) vanuit een bijbels perspectief.
-
-**Homiletisch aandachtspunt:** De overgang van de 'knusheid' van de kerstdagen in een hechte gemeenschap als Ameide naar de rauwe werkelijkheid van de kindermoord en vlucht in Matteüs 2 vraagt om een nuchtere, eerlijke benadering die de ernst van de tekst niet uit de weg gaat, maar tegelijkertijd de hoop voor de lokale context concreet maakt.
+De hoorders in de Sionkerk zijn geworteld in een hechte, nuchtere gemeenschap die waarde hecht aan traditie maar ook de noodzaak van vernieuwing ziet (bijv. in woningbouw en kerkelijke identiteit). De thematiek van de 'Onschuldige Kinderen' en de 'Vlucht naar Egypte' (Matteüs 2) landt in een context waar veiligheid en geborgenheid (de dijk, het dorp) groot goed zijn, maar waar ook de spanning van de buitenwereld (woningnood, politieke keuzes over landgebruik) de huiskamer binnenkomt. De predikant kan aansluiten bij de lokale behoefte aan nabijheid en de concrete zorg voor de volgende generatie.
 
 ---
 
 **Bronnen:**
-*   *AlleCijfers.nl (2024/2025):
-
-* Statistieken Ameide en gemeente Vijfheerenlanden.
-
-*   *CBS StatLine (2024):
-
-* Kerncijfers wijken en buurten.
-
-*   *Het Kontakt / Alblasserwaard (2025):
-
-* Regionale berichtgeving over dijkversterking en woningbouw.
-
-*   *Website Sionkerk Ameide:
-
-* Informatie over kerkelijke structuur en activiteiten.
+*   *Gemeente Vijfheerenlanden (vijfheerenlanden.nl), nieuwsberichten dec 2025.*
+*   *CBS StatLine, regionale kerncijfers 2024-2025.*
+*   *Website Sionkerk Ameide (sionkerkameide.nl), geraadpleegd dec 2025.*
+*   *Huisverkopen.nl, woningmarktcijfers Ameide dec 2025.*
+*   *UWV Arbeidsmarktprognose 2025.*

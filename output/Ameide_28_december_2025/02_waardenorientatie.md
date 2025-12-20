@@ -1,94 +1,81 @@
 # Waardenoriëntatie
 
-Voor de verdere homiletische voorbereiding van de dienst op 28 december 2025 in de Sionkerk te Ameide, volgt hier de **Waardenoriëntatie-analyse**. Deze analyse is gebaseerd op demografische gegevens van de gemeente Vijfheerenlanden (waar Ameide onder valt), de specifieke kerkelijke context van de Hervormde Gemeente Ameide en Tienhoven, en de sociaal-economische trends van dit moment.
+Deze waardenoriëntatie-analyse voor de Sionkerk te Ameide is opgesteld ter ondersteuning van de preekvoorbereiding voor 28 december 2025. De analyse volgt de methodiek van De Leede & Stark (2017) en integreert actuele sociaal-demografische en maatschappelijke gegevens.
 
-# Waardenoriëntatie-analyse: Sionkerk Ameide
+# Waardenoriëntatie-analyse Ameide (december 2025)
 
 ## 1. De Vijf V's voor Ameide
 
 **Visioenen (Toekomstbeelden)**
-*   **Behoud van de christelijke dorpsgemeenschap:** Men ziet graag een toekomst waarin de kerk een centrale, stabiliserende rol blijft spelen in Ameide, ondanks de algemene secularisatie in Nederland.
+*   **Behoud van het 'Stadje':** Er leeft een sterk visioen van Ameide als een zelfredzame, vitale gemeenschap aan de Lek. De *Dorpswoonvisie Ameide* (2025) weerspiegelt de wens om de historische kern te sparen terwijl er ruimte komt voor jonge gezinnen om de ontgroening tegen te gaan.
 
-*   **Intergenerationele continuïteit:** De hoop dat kinderen en kleinkinderen de weg naar de Sionkerk blijven vinden en dat het geloof op een nuchtere, maar wezenlijke manier wordt doorgegeven.
+*   **Spirituele Gastvrijheid:** De Sionkerk heeft recent (2025) een nieuw logo en visie gepresenteerd, waarbij de 'poort in de berg' symbool staat voor een open gemeenschap waar iedereen mag 'meereizen'. Het visioen is een kerk die relevant blijft in een veranderend dorp.
 
 **Verlangens (Behoeften)**
-*   **Geborgenheid en rust:** In een wereld die als complex en snel wordt ervaren (digitalisering, geopolitieke onrust), is er een verlangen naar de 'onveranderlijkheid' van het Evangelie en de liturgie.
+*   **Veiligheid en Geborgenheid:** In een tijd van snelle technologische veranderingen (discussies over fatbikes in de regio, december 2025) en mondiale onrust, is er een diep verlangen naar een veilige omgeving voor kinderen.
 
-*   **Erkenning van traditie:** Een behoefte aan waardering voor de klassieke waarden van hard werken, soberheid en omzien naar elkaar (nabuurschap).
+*   **Continuïteit:** Gezien de hoge mate van honkvastheid (23% van de inwoners is er opgegroeid), verlangt men naar het behoud van tradities zoals de jaarlijkse Paardenmarkt en de vertrouwde liturgische ritmes.
 
-**Vreugden (Trots en Traditie)**
-*   **Gemeenschapszin:** De sterke sociale cohesie in Ameide. Men is trots op de actieve deelname aan het kerkelijk leven en de onderlinge hulpvaardigheid.
+**Vreugden (Vieringen)**
+*   **Gemeenschapszin:** Men is trots op het rijke verenigingsleven en de historische identiteit van Ameide als een van de oudste steden in de regio.
 
-*   **De 'Sionkerk' als baken:** Het kerkgebouw en de zondagse eredienst worden ervaren als een rustpunt en een identiteitsbepalend element in het dorp.
+*   **Nieuwe Identiteit:** De succesvolle implementatie van de nieuwe kerkelijke koers en de actieve tienerdiensten (Tienercafé) zijn bronnen van vreugde en hoop voor de toekomst van de gemeente.
 
-*   **Kersttradities:** De viering van Kerst is in deze gemeente een hoogtepunt; de zondag na Kerst is het moment om de kerstvreugde te consolideren voordat het 'gewone leven' weer begint.
+**Verdriet (Collectieve Pijn)**
+*   **Afscheid en Verlies:** Zeer concreet speelt in december 2025 het bericht dat de gemeente Vijfheerenlanden in januari 2026 start met het verwijderen van grafmonumenten op de algemene begraafplaatsen. Dit raakt aan collectief rouwproces en de omgang met het verleden.
 
-**Verdriet (Pijn en Zorgen)**
-*   **Krimp en vergrijzing:** De zorg dat de jongere generatie minder vanzelfsprekend betrokken is, wat leidt tot een gevoel van verlies van wat vroeger 'eigen' was.
+*   **Agrarische Zorgen:** De herhaaldelijke uitbraken van vogelgriep (actueel in de regio in december 2025) zorgen voor economische en emotionele schade bij lokale agrariërs en hobbyhouders in het buitengebied.
 
-*   **Maatschappelijke polarisatie:** De spanning tussen de eigen christelijke waarden en de bredere, seculiere samenleving kan leiden tot een gevoel van vervreemding of 'in de verdediging schieten'.
+**Vragen (Existentiële Onzekerheid)**
+*   **"Waar is de bescherming?":** De thematiek van de 'Onschuldige Kinderen' (Matteüs 2) resoneert met vragen over onschuldig lijden, versterkt door de actualiteit van vluchtelingenopvang in de regio (Vianen, najaar 2025).
 
-**Vragen (Existentiële vragen)**
-*   **Relevantie:** "Hoe bewaren we het oude zonder wereldvreemd te worden?"
-*   **Theodicee (gezien de datum 28 dec):** "Waarom laat God het lijden van onschuldigen toe?" Deze vraag is extra pregnant op de dag van de Onschuldige Kinderen, in contrast met de kerstboodschap.
+*   **Financiële Onzekerheid:** Het naderende 'ravijnjaar' 2026 voor gemeenten zorgt voor vragen over de houdbaarheid van lokale voorzieningen en zorgtaken.
 
 ## 2. Trendanalyse
 
 ### Mesotrends (5-15 jaar)
 
-*   **Demografische druk:** Ameide kent een relatief stabiele bevolking, maar de vergrijzing (CBS-prognose 2025) neemt toe. Dit legt druk op het vrijwilligerskader van de kerk.
+*   **Vergrijzing en Ontgroening:** De regio Alblasserwaard-Vijfheerenlanden kampt met een slinkende beroepsbevolking. Dit zet druk op de mantelzorg binnen de kerkelijke gemeente.
 
-*   **Woon-werkverkeer:** Steeds meer inwoners werken buiten het dorp (Utrecht, Rotterdam). Dit leidt tot een 'pendelcultuur', waardoor de doordeweekse betrokkenheid bij de dorpsgemeenschap onder druk kan komen te staan.
+*   **Woningmarktspanning:** Ondanks de groei naar 3.210 inwoners (januari 2025), blijft het voor jongeren uit Ameide lastig om in het dorp te blijven wonen (67% koopwoningen, gemiddelde WOZ €361.721).
 
-*   **Verduurzaming:** In de Alblasserwaard/Vijfheerenlanden is de discussie over landbouw, stikstof en natuurbeheer actueel. Hoewel Ameide minder puur agrarisch is dan omliggende dorpen, leeft de solidariteit met de agrarische sector sterk.
+### Microtrends (Actueel december 2025)
 
-### Microtrends (Actueel eind 2025)
+*   **Politieke Verschuiving:** De nasleep van de Tweede Kamerverkiezingen (oktober 2025) kleurt het maatschappelijk debat over migratie en bestaanszekerheid.
 
-*   **Economische stabilisatie:** Na periodes van inflatie (2023-2024) is er eind 2025 waarschijnlijk sprake van een voorzichtige economische stabiliteit, maar de kloof tussen 'kunnen meekomen' en 'achterblijven' blijft een punt van aandacht in de pastorale zorg.
+*   **Duurzaamheidsdruk:** Het nieuwe online 'Energiepunt' van de gemeente dwingt inwoners tot keuzes over verduurzaming van hun (vaak oudere) woningen in de kern van Ameide.
 
-*   **Digitale vermoeidheid:** Een tegenbeweging tegen de alomtegenwoordige digitalisering (AI, sociale media), resulterend in een grotere waardering voor fysieke ontmoetingen en 'echte' verhalen op de kansel.
+## 3. Motivaction Mentality-model: Analyse Sionkerk
 
-*   **Vluchtelingenproblematiek:** De actualiteit rond opvang en migratie (relevant voor de lezing over de vlucht naar Egypte) blijft een verdeeld maar onvermijdelijk thema in de publieke opinie.
+In de Sionkerk Ameide zijn naar schatting de volgende milieus dominant aanwezig:
 
-## 3. Motivaction Mentality-model: Toegepast op de Sionkerk
+| Groep | Kenmerken in Ameide | Homiletische insteek |
+|-------|---------------------|----------------------|
+| **Traditionele burgerij** | Waarderen moraal, traditie en de status quo. Vaak de 'stille kracht' in de kerk. | Gebruik vertrouwde beelden en psalmen. Benadruk de continuïteit van Gods trouw door de jaren heen. |
+| **Nieuwe conservatieven** | Focus op verantwoordelijkheid, rentmeesterschap en maatschappelijke orde. | Leg de verbinding tussen het Bijbelverhaal en de zorg voor de lokale gemeenschap en schepping. |
+| **Moderne burgerij** | Praktisch ingesteld, gericht op harmonie en het gezin. | Maak de preek concreet en toepasbaar op het gezinsleven en de dagelijkse praktijk in het dorp. |
 
-De populatie van de Sionkerk in Ameide laat zich grotendeels indelen in drie segmenten van het Motivaction-model:
+**Taalgebruik en Resonantie:**
+*   Vermijd abstracte theologische constructies zonder praktische landing.
 
-| Groep | Geschatte aanwezigheid | Kenmerken in Ameide | Homiletische insteek |
-|-------|-----------|---------------------|----------------------|
-| **Traditionele burgerij** | Hoog (ca. 45%) | Waardeert orde, traditie, nuchtere exegese en vertrouwde liederen. | Gebruik herkenbare beelden; vermijd abstracte theologie; benadruk de continuïteit van Gods trouw. |
-| **Nieuwe conservatieven** | Gemiddeld (ca. 30%) | Jongere generatie (30-50 jaar), ondernemend, maatschappelijk betrokken, kritisch maar loyaal aan de kerk. | Wees concreet over de ethische consequenties van het geloof in de maatschappij; gebruik een zakelijke, heldere stijl. |
-| **Moderne burgerij** | Laag/Gemiddeld (ca. 15%) | Zoekt naar balans tussen traditie en moderniteit; gevoelig voor status en harmonie. | Focus op de betekenis van geloof voor het persoonlijke en gezinsleven. |
+*   Gebruik de rivier (de Lek) of de 'berg' (Sion) als metafoor; deze beelden zijn lokaal verankerd.
 
-### Analyse van de dynamiek
+*   Erken de nuchtere, hardwerkende mentaliteit van de Alblasserwaard ("niet lullen maar poetsen"), maar bied ruimte voor de 'rauwe' kant van het geloof die past bij 28 december.
 
-*   **Taalgebruik:** De hoorders in Ameide prefereren een 'no-nonsense' benadering. De predikant wordt gezien als een leraar en herder. Te veel nadruk op emotie wordt vaak met scepsis bekeken; de nadruk moet liggen op de inhoud van de Schrift.
+## 4. Synthese voor de Preek (28 december 2025)
 
-*   **Spanning:** Er ligt een latente spanning tussen de *Traditionele burgerij* (behoudend) en de *Nieuwe conservatieven* (willen soms vernieuwing in vormgeving). Op een zondag als 28 december, met de rauwe thematiek van de Onschuldige Kinderen, kan de prediking deze groepen verbinden door de realiteit van het leven eerlijk te benoemen zonder in extremen te vervallen.
+De spanning tussen de kerstvreugde en de kindermoord in Bethlehem (Matteüs 2) vindt een parallel in de lokale context van Ameide:
 
-## 4. Concretisering voor de Prediking op 28 december 2025
+*   **Het contrast:** De warmte van de kerstdagen in de huiskamers tegenover de kille realiteit van de vogelgriep-ruimingen of de zorg over de begraafplaatsen.
 
-*   **Aansluiting bij de context:** Ameide is een dorp aan de Lek. De symboliek van 'veiligheid achter de dijk' versus de 'dreiging van het water' kan een krachtig beeld zijn voor de vlucht naar Egypte en de dreiging van Herodes.
+*   **De boodschap:** God is niet een God die het lijden wegtovert, maar die erin afdaalt (Immanuel). Zoals Jezus moest vluchten naar Egypte, zo deelt Hij in het lot van de kwetsbaren in 2025.
 
-*   **De datum:** Omdat de dienst tussen Kerst en Oud & Nieuw valt, is de gemeente in een reflectieve modus. Men kijkt terug op het jaar. De kindermoord in Bethlehem (Matteüs 2) dwingt de gemeente om ook de schaduwkanten van het afgelopen jaar in het licht van het Evangelie te plaatsen.
-
-*   **Vermijden van algemeenheden:** In plaats van te spreken over "het lijden in de wereld", kan de predikant specifiek verwijzen naar de zorg voor de volgende generatie in Ameide of de concrete onzekerheid die mensen ervaren over hun toekomst (bijv. in de zorg of woningmarkt voor jongeren).
+*   **Toepassing:** Roep op tot een 'waakzame solidariteit'. De kerk als de 'poort in de berg' waar men schuilt bij elkaar wanneer de wereld (of de overheid) hardvochtig lijkt.
 
 ---
 
 **Bronnen:**
-*   *CBS StatLine (2024/2025):
-
-* Demografische kerncijfers Vijfheerenlanden.
-
-*   *Motivaction (2023):
-
-* Mentality-profielen per regio (Alblasserwaard-segmentatie).
-
-*   *Plaatselijke Gemeentegids:
-
-* Hervormde Gemeente Ameide en Tienhoven.
-
-*   *De Leede & Stark (2017):
-
-* Methodiek voor hoordersanalyse.
+*   *AlleCijfers.nl (2025): Woonplaats Ameide in cijfers.*
+*   *Gemeente Vijfheerenlanden (december 2025): Nieuwsberichten over vogelgriep, begraafplaatsen en woonvisie.*
+*   *Sionkerk Ameide (2025): Beleidsplan en visiedocument 'Nieuw Logo'.*
+*   *SCP (2025): Rapport Sociale en Culturele Ontwikkelingen.*

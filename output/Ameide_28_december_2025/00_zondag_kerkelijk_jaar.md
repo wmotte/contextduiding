@@ -1,130 +1,103 @@
 # Zondag van het Kerkelijk Jaar
 
-Deze analyse is opgesteld ten behoeve van de homiletische voorbereiding voor de dienst in de **Sionkerk te Ameide** op **zondag 28 december 2025**. De analyse volgt de methodiek van De Leede & Stark (2017) en concentreert zich op de liturgische en theologische context van deze specifieke zondag.
+Deze analyse is opgesteld voor de voorbereiding van de eredienst op zondag 28 december 2025 in de Sionkerk te Ameide, conform de homiletische methodiek van De Leede & Stark (2017).
 
 # Analyse van de Zondag in het Kerkelijk Jaar: 28 december 2025
 
 ## 1. Positie in het Kerkelijk Jaar
 
-*   **Zondag:** 1e zondag na Kerst.
+*   **Zondag:** 1e zondag na Kerstmis.
 
-*   **Liturgische dag:** In 2025 valt de datum 28 december op een zondag. Dit is tevens de traditionele gedenkdag van de **Onschuldige Kinderen** (ook wel 'Onnozele Kinderen' genoemd).
+*   **Periode:** Kersttijd (deze loopt van Kerstnacht t/m Epifanie op 6 januari).
 
-*   **Periode:** Kersttijd (loopt van de kerstnacht tot en met Epifanie op 6 januari).
+*   **Afstand tot hoofdfeest:** Drie dagen na het Kerstfeest (25 december).
 
-*   **Afstand tot hoofdfeest:** 3 dagen na Eerste Kerstdag; 4 dagen voor Nieuwjaarsdag.
-
-*   **Leesroostercyclus:** **Jaar C** (het Lucas-jaar, gestart op de eerste zondag van Advent 2025).
+*   **Leesroostercyclus:** **Jaar A**. De nieuwe cyclus is gestart op de eerste zondag van Advent (30 november 2025). In jaar A staat het Evangelie naar Matteüs centraal.
 
 ## 2. Traditionele Naam en Betekenis
 
-*   **Latijnse naam:** *Innocentes* (verwijzend naar de 'onschuldigen').
+*   **Naam:** Onschuldige Kinderen (ook wel 'Onnozele Kinderen' genoemd).
 
-*   **Betekenis:** De dag herdenkt de kindermoord in Bethlehem door Herodes, zoals beschreven in Matteüs 2. In de liturgische kalender vormt dit een scherp contrast met de vreugde van de geboorte van Christus: het "licht dat in de duisternis schijnt" wordt direct geconfronteerd met de harde realiteit van machtsmisbruik en lijden.
+*   **Betekenis:** Hoewel 28 december een vaste gedenkdag is op de heiligenkalender, valt deze in 2025 op een zondag. In de PKN-traditie (en het oecumenisch leesrooster) krijgt de thematiek van de kindermoord te Bethlehem dan voorrang op de algemene 'zondag na Kerst'.
 
-*   **Volksnaam:** Onnozele Kinderen. 'Onnozel' heeft hier de oorspronkelijke betekenis van 'onschuldig' of 'niet-wetend' (Latijn: *in-nocens*, niet schadelijk).
+*   **Oorsprong:** De naam verwijst naar de 'onnozele' (in de betekenis van 'onschuldige' of 'onwetende') kinderen die volgens Matteüs 2 door Herodes werden gedood.
 
 ## 3. Bijzondere Zondagen en Themazondag (PKN)
 
-*   **PKN-context:** Binnen de Protestantse Kerk in Nederland wordt 28 december vaak gevierd als de zondag waarop de kwetsbaarheid van het kind en de realiteit van vervolging centraal staan.
+*   **Kerk in Actie:** Deze zondag staat landelijk vaak in het teken van kinderen in de knel, aansluitend bij de thematiek van de lezingen.
 
-*   **Landelijke acties:** Er is geen specifieke landelijke PKN-themazondag (zoals Israëlzondag) op deze datum, maar de thematiek sluit vaak aan bij het werk van **Kerk in Actie** voor vluchtelingen en kinderen in conflictgebieden.
+*   **Eindejaarscontext:** Omdat dit de laatste zondag van het kalenderjaar is, heeft de dienst in de praktijk vaak een tweeledig karakter: de gedenkdag van de Onschuldige Kinderen en een reflectie op het afgelopen jaar (voorbereidend op de Oudejaarsdienst).
 
 ## 4. Liturgische Kleur
 
-*   **Kleur:** **Rood** (indien de nadruk ligt op de Onschuldige Kinderen als martelaren) of **Wit** (indien de nadruk ligt op de Kersttijd als geheel).
+*   **Kleur:** **Rood**.
 
-*   **Advies Dienstboek PKN:** Voor de gedachtenis van de Onschuldige Kinderen wordt rood voorgeschreven. Rood symboliseert hier het bloed van de martelaren en de gloed van de Heilige Geest.
+*   **Toelichting:** Hoewel de Kersttijd normaliter wit is (kleur van licht en vreugde), schrijft het Dienstboek voor de gedenkdag van de Onschuldige Kinderen de kleur **rood** voor.
 
-*   **Symboliek:** Het rood doorbreekt het wit van de kersttijd en herinnert de gemeente eraan dat de komst van Christus weerstand oproept in de wereld.
+*   **Symboliek:** Rood is de kleur van het bloed van de martelaren en van de Heilige Geest. Het herinnert aan het offer van de kinderen van Bethlehem.
 
-*   **Toepassing:** Rood antependium en stola. In de bloemschikking kunnen rode accenten (bijv. rode rozen of bessen) gecombineerd worden met het wit van Kerst.
+*   **Praktisch:** Gebruik rode antependia en stola's. In de bloemschikking kunnen rode accenten (bijv. rode rozen of bessen) worden verwerkt tegen een sobere achtergrond.
 
-## 5. Lezingen volgens het Gemeenschappelijk Leesrooster (Jaar C)
+## 5. Lezingen (Gemeenschappelijk Leesrooster - Jaar A)
 
-Het oecumenisch leesrooster biedt voor deze specifieke zondag (vallend op 28 december) de volgende teksten:
+De samenhang tussen de lezingen is dit jaar sterk bepaald door het thema van lijden en goddelijke bewaring.
 
-*   **Eerste lezing:** Jeremia 31:15-17 (Rachel die weent om haar kinderen; een profetische stem van troost in diepe rouw).
+*   **Eerste lezing:** Jeremia 31:15-17 (Rachel weent om haar kinderen; een profetische vooruitblik op de ballingschap en de kindermoord).
 
-*   **Psalm van de zondag:** Psalm 124 ("Onze ziel is ontkomen als een vogel uit de strik van de vogelvangers").
+*   **Psalm van de zondag:** Psalm 124 ("Waren wij niet door de Heer behoed...").
 
 *   **Epistellezing:** Openbaring 21:1-7 (Het visioen van de nieuwe hemel en de nieuwe aarde, waar God alle tranen van de ogen zal afwissen).
 
-*   **Evangelielezing:** Matteüs 2:13-18 (De vlucht naar Egypte en de kindermoord in Bethlehem).
-
-*Alternatieve lezingen (indien men de 1e zondag na Kerst 'regulier' viert):*
-*   1 Samuel 2:18-20, 26 (De jonge Samuel in de tempel).
-
-*   Psalm 148 (Loflied van de schepping).
-
-*   Kolossenzen 3:12-17 (Leven in de vrede van Christus).
-
-*   Lucas 2:41-52 (De twaalfjarige Jezus in de tempel).
-
-**Thematische samenhang:** De lezingen voor 'Onschuldige Kinderen' leggen de verbinding tussen het lijden in de geschiedenis (Rachel/Jeremia), de concrete dreiging rond de geboorte van Jezus (Matteüs) en de eschatologische hoop op herstel (Openbaring).
+*   **Evangelielezing:** Matteüs 2:13-18 (De vlucht naar Egypte en de kindermoord door Herodes).
 
 ## 6. Thematiek en Karakter van de Zondag
 
-*   **Centraal thema:** "Licht in de schaduw van de macht".
+*   **Centraal thema:** De schaduwzijde van de menselijke macht tegenover de kwetsbaarheid van het Kind. Het contrast tussen de 'Vredevorst' en de gewelddadige tiran (Herodes).
 
-*   **Sfeer:** Ernstig, solidair, maar hoopvol. Het is een 'rauwe' zondag midden in de feestelijke kersttijd.
+*   **Stemming:** Ernstig, nuchter en solidair met het lijden in de wereld. Het is een 'rauwe' zondag die voorkomt dat het Kerstfeest vervluchtigt in louter gezelligheid.
 
-*   **Geloofsvragen:** Waar is God wanneer onschuldigen lijden? Hoe verhoudt de kwetsbaarheid van het Kind in de kribbe zich tot de gewelddadige machten van de wereld?
-*   **Rode draad:** De beweging van kerstvreugde naar de realiteit van de vluchteling (Jezus als vluchtelingkind in Egypte).
+*   **Geloofsvraag:** Waar is God wanneer het onschuldige lijdt? Hoe verhoudt de kerstvreugde zich tot de realiteit van vluchtelingen en geweld?
 
 ## 7. Historische en Theologische Achtergrond
 
-*   **Oorsprong:** De herdenking van de Onschuldige Kinderen dateert uit de 4e eeuw en is een van de oudste feesten op de christelijke kalender.
+*   **Oorsprong:** De gedenkdag is al bekend sinds de 5e eeuw. In de Reformatie bleef deze dag in veel lutherse en anglicaanse kringen gehandhaafd. Binnen de gereformeerde traditie (waar de Sionkerk Ameide wortels heeft) werd de dag lang genegeerd, maar via het oecumenisch leesrooster is de thematiek teruggekeerd in de PKN.
 
-*   **Traditie:** In de Reformatie bleef deze dag in veel lutherse en anglicaanse gebieden gehandhaafd. In de gereformeerde traditie raakte het op de achtergrond, maar via het oecumenisch leesrooster is het herontdekt als een noodzakelijk correctief op een al te sentimentele kerstviering.
+*   **Theologische focus:** De 'Incarnatie' (vleeswording) betekent dat God de wereld binnenkomt in al haar gebrokenheid. Jezus deelt vanaf zijn geboorte in het lot van de vervolgden en vluchtelingen.
 
-*   **Oecumene:** Deze dag verbindt de PKN met de Rooms-Katholieke Kerk en de Orthodoxe kerken, die allen op of rond deze datum de 'Heilige Onschuldigen' gedenken.
+## 8. Liedsuggesties (Liedboek 2013)
 
-## 8. Liedsuggesties uit het Liedboek 2013
+Gezien de signatuur van de Sionkerk Ameide (Gereformeerd/PKN) is een mix van psalmen en klassieke gezangen passend.
 
-*   **Introïtus:**
-    *   Lied 467 ("De vrede van God") - als antifoon bij de psalm.
+*   **Introïtus:** Psalm 8 (vers 1, 2 en 3 - "Uit de mond van kinderen en zuigelingen...").
 
-*   Lied 510 ("In de schaduw van de nacht") - specifiek voor de vlucht naar Egypte.
+*   **Na de eerste lezing:** Lied 510 ("In de nacht van Bethlehem") - dit lied verwoordt specifiek de kindermoord.
 
-*   **Psalmen:**
-    *   Psalm 124 (conform leesrooster).
+*   **Antwoordpsalm:** Psalm 124 (bijv. de bewerking Lied 124a).
 
-*   Psalm 10 (om de vraag naar Gods aanwezigheid bij onrecht).
+*   **Na de epistellezing:** Lied 766 ("Eens komt de dag") of Lied 729 ("Wat de toekomst brengen moge" - passend bij eindejaar).
 
-*   **Bij de lezingen / Evangelielied:**
-    *   Lied 512 ("O Jezus, hoe vertrouwd is de klank") - focus op de naam van Jezus als redder.
+*   **Na het Evangelie:** Lied 513 ("Nu laat U, Heer, uw dienaar gaan" - Nunc Dimittis, hoewel strikt genomen bij de presentatie in de tempel horend, past de sfeer van vervulling en dreiging hier goed).
 
-*   Lied 513 ("Nu laat U, Heer, uw dienaar gaan") - verbinding met Simeon, indien Lucas 2 gelezen wordt.
-
-*   **Zending en zegen:**
-    *   Lied 416 ("Ga met God en Hij zal met je zijn").
-
-*   Lied 506 ("Wij trekken door de wereld") - passend bij het motief van de vlucht en reis.
+*   **Slotlied:** Lied 511 ("Door de wereld gaat een woord").
 
 ## 9. Praktische Liturgische Handvatten
 
-*   **Liturgische orde:** Volg de basisorde uit het Dienstboek (Kyrie-Gloria model).
+*   **Liturgie:** Volg de orde van de 'Dienst van Schrift en Tafel' of de 'Dienst van het Woord'.
 
-*   **Kyriegebed:** Geef in het Kyrie expliciet ruimte voor de 'kinderen van deze tijd' die lijden onder oorlog en geweld.
+*   **Gloria:** In sommige tradities wordt op deze dag het Gloria weggelaten vanwege het droevige karakter van de lezingen, ondanks dat het Kersttijd is. Dit benadrukt de ernst.
 
-*   **Gloria:** Het Gloria kan gezongen worden (het is immers Kersttijd), maar kan ook soberder worden ingevuld of voorafgegaan worden door een korte inleiding die de spanning tussen het 'Eer aan God' en de aardse nood benoemt.
+*   **Gebedsmotieven:** Bid specifiek voor kinderen in oorlogsgebieden, vluchtelingen en voor hen die het afgelopen jaar een kind hebben verloren (gezien de eindejaarscontext).
 
-*   **Kindernevendienst:** Thema: "Veilig op reis" of "God zorgt voor je, ook als het spannend is".
-
-*   **Visueel:** Gebruik van een (lege) wieg naast rode bloemen of symbolen van een reis (bijv. een staf of reistas).
+*   **Kindernevendienst:** Het thema 'vluchten' en 'bewaard worden' kan centraal staan. Wees voorzichtig met de expliciete details van de kindermoord bij jonge kinderen; focus op de bescherming van Jezus.
 
 ## 10. Verbinding met het Dagelijkse Leesrooster
 
-In de week voorafgaand aan zondag 28 december (de kerstweek) worden vaak de geboorteverhalen uit Matteüs en Lucas gelezen, evenals teksten over de eerste getuigen (herders, wijzen). De lezingen van deze zondag vormen de 'achterkant' van het kerstverhaal: de politieke consequenties van de geboorte van de "Koning der Joden" die Herodes vreest.
+In de week voorafgaand (de 'Heilige Nachten') zijn de teksten van de geboorte gelezen (Lucas 2). Deze zondag vormt de abrupte overgang van de stal naar de harde politieke werkelijkheid. Het bereidt de gemeente voor op de jaarwisseling: de wereld verandert niet magisch door Kerst, maar God is er wel in aanwezig (Immanuel).
 
 ---
 
-**Bronvermelding:**
-*   *Dienstboek I: Kerkdienst*, Protestantse Kerk in Nederland.
-
-*   *Leesrooster+*, Protestantsekerk.nl (geraadpleegd december 2024/2025).
-
-*   *Liedboek: Zingen en bidden in huis en kerk (2013)*.
-
-*   De Leede, B. & Stark, R. (2017). *Ontvouwen. Handreiking voor de voorbereiding van de prediking.*
+**Bronnen:**
+*   *Leesrooster PKN 2025-2026 (Jaar A)*
+*   *Dienstboek PKN, deel I en II*
+*   *Liedboek - Zingen en bidden in huis en kerk (2013)*
+*   *Sionkerk Ameide (website geraadpleegd dec 2024 voor context)*

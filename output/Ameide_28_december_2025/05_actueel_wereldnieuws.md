@@ -1,80 +1,85 @@
 # Actueel Wereldnieuws
 
-Deze analyse van het actuele wereldnieuws is opgesteld ter ondersteuning van de homiletische voorbereiding voor de dienst op **zondag 28 december 2025** in de **Sionkerk te Ameide**. De focus ligt op gebeurtenissen in de periode van 15 tot en met 23 december 2025, bezien in het licht van de liturgische context (Onschuldige Kinderen) en de Schriftlezingen (o.a. Matteüs 2:13-18 en Jeremia 31:15-17).
+Hieronder volgt de analyse van het actuele wereldnieuws en de maatschappelijke context, opgesteld op 20 december 2025, met het oog op de preekvoorbereiding voor zondag 28 december 2025 in de Sionkerk te Ameide.
 
-# Analyse van Actueel Wereldnieuws (Stand van zaken: 19-23 december 2025)
+# Analyse van de Actuele Context (Stand van zaken: 20 december 2025)
 
-## 1. De Drie Meest Ingrijpende Wereldgebeurtenissen
+Deze analyse verbindt de actualiteit van de afgelopen dagen met de homiletische uitdagingen van de zondag van de Onschuldige Kinderen (Jaar A).
 
-### A. Humanitaire catastrofe in Soedan: De "vergeten" kindermoord
+## 1. Belangrijke Wereldgebeurtenissen (15-20 december 2025)
 
-*   **Feiten (december 2025):** Hulporganisaties (o.a. World Vision en IRC) rapporteren dat Soedan momenteel de ernstigste humanitaire crisis ter wereld doormaakt. Meer dan 17 miljoen kinderen kunnen al twee jaar niet naar school. Na de val van Al Fasher in november is de hongersnood in de regio Darfur geëscaleerd. Dagelijks sterven kinderen door acuut voedselgebrek.
+### A. De humanitaire crisis in Soedan (Regio Darfoer)
 
-*   **Existentiële impact:** De grootschaligheid van de nood en de schijnbare onverschilligheid van de wereldgemeenschap wekken een gevoel van machteloosheid.
+*   **Samenvatting:** Recente rapporten van de VN (december 2025) wijzen op een acute verergering van de hongersnood in Soedan als gevolg van het aanhoudende conflict tussen de SAF en RSF. In de afgelopen week zijn tienduizenden burgers, waaronder veel kinderen, de grens met Tsjaad overgevlucht onder erbarmelijke omstandigheden.
 
-*   **Theologische vraag:** "Rachel weent om haar kinderen" (Jer. 31:15). Waar is de stem van de kerk wanneer miljoenen kinderen in anonimiteit sterven door politiek geweld en honger?
+*   **Impact:** Grote groepen kinderen zijn gescheiden van hun ouders. Er is sprake van structureel geweld tegen minderjarigen.
 
-### B. Aanslag op Chanoeka-viering in Sydney, Australië
+*   **Theologische vraag:** De vraag naar de 'goddelijke bewaring' (Psalm 124) versus de rauwe werkelijkheid van onschuldige slachtoffers. Waar is de vluchtweg voor hen die nergens heen kunnen?
 
-*   **Feiten (15 december 2025):** Bij een schietpartij tijdens een Chanoeka-feest op Bondi Beach zijn 15 mensen gedood, waaronder een 10-jarig meisje en een Holocaustoverlevende. De daders waren een vader en zoon. De aanslag schokt de wereld vanwege het religieuze doelwit en het feit dat families het slachtoffer werden tijdens een feest van het licht.
+### B. Escalatie in het Midden-Oosten (Gaza en Zuid-Libanon)
 
-*   **Existentiële impact:** De confrontatie tussen 'licht' (Chanoeka/Kerst) en 'duisternis' (geweld) wordt hier pijnlijk tastbaar. Het verlies van een kind in een religieuze context raakt direct aan de kern van de Onschuldige Kinderen.
+*   **Samenvatting:** Ondanks diplomatieke inspanningen rond de kerstdagen blijft de situatie gespannen. Recente luchtaanvallen hebben geleid tot een hoog aantal burgerslachtoffers in dichtbevolkte gebieden. De Wereldgezondheidsorganisatie (WHO) rapporteerde op 18 december over de kritieke toestand van neonatale zorg in de regio.
 
-*   **Theologische vraag:** Hoe kan het licht van Christus (of de menora) blijven schijnen in een wereld waar haat generatie op generatie (vader en zoon als daders) wordt doorgegeven?
+*   **Impact:** Het contrast tussen de 'Vredevorst' en de aanhoudende cyclus van geweld is scherp aanwezig in het publieke debat.
 
-### C. Escalatie in Oekraïne: Winter zonder kerstbestand
+*   **Theologische vraag:** De 'stem van Rachel' (Jeremia 31) die weigert getroost te worden, vindt een directe echo in de beelden van rouwende moeders in de huidige conflictgebieden.
 
-*   **Feiten (19 december 2025):** Het Kremlin heeft een officieel voorstel voor een kerstbestand afgewezen. Russische aanvallen op de energie-infrastructuur houden aan, waardoor miljoenen burgers bij temperaturen onder nul zonder verwarming zitten. De Oekraïense bevolking bereidt zich voor op een "helse winter" (aldus Duitse defensiebronnen).
+### C. Winteroffensief en energie-infrastructuur in Oekraïne
 
-*   **Existentiële impact:** De kwetsbaarheid van het dagelijks leven (warmte, licht, veiligheid) staat onder constante druk van een verre, meedogenloze macht.
+*   **Samenvatting:** Sinds medio december voert Rusland de druk op het Oekraïense energienetwerk op met grootschalige drone-aanvallen. Grote delen van de burgerbevolking zitten zonder verwarming bij temperaturen onder het vriespunt.
 
-*   **Theologische vraag:** De 'Vlucht naar Egypte' (Matt. 2) is de dagelijkse realiteit voor gezinnen die hun koude huizen moeten verlaten op zoek naar een veilige plek.
+*   **Impact:** De kwetsbaarheid van gezinnen tijdens de feestdagen. De vlucht van Jozef en Maria naar Egypte krijgt een eigentijdse parallel in de interne ontheemding van miljoenen Oekraïners.
+
+*   **Theologische vraag:** Hoe verhoudt het visioen van de 'nieuwe hemel en aarde' (Openbaring 21), waar geen kou of pijn meer is, zich tot de bittere kou van de huidige winter?
 
 ## 2. Nederlands Nieuws met Impact
 
-### Strafbaarstelling van illegaliteit (18-19 december 2025)
+### A. De Asielcrisis en de 'Spreidingswet'-discussie
 
-*   **Feiten:** De Tweede Kamer heeft ingestemd met de novelle voor de strafbaarstelling van illegaal verblijf. Hoewel hulpverlening (zoals geboden door kerken) niet strafbaar wordt, is het verblijf van ongedocumenteerden zelf dat nu wel. Dit leidt tot grote bezorgdheid bij maatschappelijke organisaties en kerken over de kwetsbaarheid van gezinnen en kinderen die "onder de radar" leven.
+*   **Samenvatting:** In de week van 15 december is het debat over de opvang van minderjarige asielzoekers in Nederland opnieuw opgelopen. Er is een tekort aan veilige plekken voor alleenstaande minderjarige vreemdelingen (amv'ers).
 
-*   **Relevantie voor Ameide:** In een behoudende gemeente als de Sionkerk (GB) is er vaak een sterke nadruk op zowel 'wet en orde' als op 'barmhartigheid'. Dit nieuws dwingt tot een heroverweging van de positie van de vreemdeling in het licht van de vluchtende Jezus.
+*   **Impact:** Dit raakt aan het thema van 'gastvrijheid' en de 'vluchteling' die centraal staat in het Matteüs-evangelie.
 
-## 3. Homiletische en Liturgische Integratie
+*   **Regionaal (Ameide/Alblasserwaard):** In de regio Alblasserwaard is de discussie over de opvangcapaciteit en de christelijke plicht tot barmhartigheid versus maatschappelijk draagvlak actueel.
 
-### Verbinding met de Schriftlezingen
+### B. Toenemende eenzaamheid onder ouderen rond de feestdagen
 
-*   **Matteüs 2:13-18 (De kindermoord):** De actualiteit in **Soedan** en de aanslag in **Australië** geven een rauwe, hedendaagse invulling aan de woede van Herodes. Het is geen 'verhaal van vroeger', maar een patroon van machtsmisbruik dat zich herhaalt.
+*   **Samenvatting:** CBS-cijfers van december 2025 bevestigen dat een aanzienlijk deel van de Nederlandse bevolking zich tijdens de kerstperiode sociaal geïsoleerd voelt.
 
-*   **Jeremia 31:15-17 (Rachel weent):** Dit vers biedt ruimte om de rouw om de slachtoffers in Sydney en de hongerende kinderen in Soedan een liturgische stem te geven. Het erkent dat er verdriet is dat zich niet zomaar laat wegtroosten.
+*   **Impact:** Hoewel de liturgie focust op kinderen, is de 'eindejaarscontext' in de Sionkerk ook een moment waarop het gemis van overleden dierbaren zwaar weegt.
 
-*   **Openbaring 21:1-7 (God wist alle tranen af):** Dit eschatologische visioen is de noodzakelijke tegenhanger. Tegenover de harde realiteit van de Oekraïense winter en de politieke besluiten in Den Haag staat de belofte van een nieuwe ordening waar kwetsbaarheid niet langer bestraft wordt.
+## 3. Homiletische Integratie (De Leede & Stark)
 
-### Suggesties voor de prediking
+### Pastoraal perspectief
 
-*   **Erkennen:** Benoem concreet de namen van plaatsen (Soedan, Sydney, Cherson) om de preek te aarden in de werkelijkheid van deze week.
+De predikant kan de 'stem van Rachel' (Jeremia 31:15) gebruiken om erkenning te geven aan het verdriet dat in de gemeente aanwezig is. Het is niet nodig om het lijden direct 'op te lossen' met een vroom antwoord. De tekst geeft ruimte aan de weigering om getroost te worden, wat pastoraal zeer krachtig kan zijn voor gemeenteleden die recent een verlies hebben geleden.
 
-*   **Duiden:** Trek de parallel tussen Herodes' angst voor zijn troon en de huidige machten die burgerlevens opofferen voor geopolitieke of ideologische doelen.
+### Profetisch perspectief
 
-*   **Troosten:** Focus op Jezus als het kind dat *ook* moest vluchten. God is niet de toeschouwer van het lijden, maar deelt in de vluchtelingstatus.
+De vergelijking tussen Herodes en moderne machtsstructuren die over de ruggen van kwetsbaren gaan, is onvermijdelijk. De preek kan de gemeente bevragen op haar rol: zijn wij degenen die ruimte bieden (zoals Egypte in de tekst fungeerde als toevluchtsoord) of sluiten wij de deuren?
 
-### Voorbeden en Collecte
+### Diaconaal perspectief
 
-*   **Voorbeden:** Bid specifiek voor de families in Sydney, de ontheemden in Soedan en de ongedocumenteerde gezinnen in Nederland die vrezen voor de nieuwe wetgeving.
+De collecte voor **Kerk in Actie** (Kinderen in de knel) kan direct verbonden worden aan de situatie in Soedan of de opvang van amv'ers in Nederland. Dit maakt de abstracte Bijbeltekst concreet en handelingsgericht.
 
-*   **Collecte:** Een tweede collecte voor **Kerk in Actie (project Soedan of Vluchtelingenhulp)** is op deze zondag zeer passend en geeft de gemeente een concreet handelingsperspectief.
+## 4. Liturgische Suggesties voor 28 december 2025
 
-## 4. Waarschuwing voor Valkuilen
+*   **Voorbeden:** Noem specifiek de kinderen in Soedan en het Midden-Oosten. Bid voor de politieke leiders in Nederland die besluiten nemen over de opvang van vluchtelingen.
 
-*   **Polarisatie in het asieldebat:** Vermijd in Ameide een partijpolitieke stellingname over de nieuwe wetgeving. Focus op de ethische en pastorale consequenties voor de *mens* (het kind, de vluchteling), passend bij de Bijbelse opdracht tot herbergzaamheid.
+*   **Schuldbelijdenis:** Erken de medeplichtigheid van de welvarende wereld aan systemen die ongelijkheid en geweld in stand houden.
 
-*   **Overmatige somberheid:** Hoewel de thematiek zwaar is (Onschuldige Kinderen + wereldnieuws), mag de kerstvreugde niet volledig verdwijnen. De 'schaduw van de macht' is reëel, maar het licht van de kribbe is dat ook. Zoek naar de balans die ook in Psalm 124 (leesrooster) doorklinkt: "Onze ziel is ontkomen".
+*   **Liedkeuze:** Lied 510 ("In de nacht van Bethlehem") is essentieel om de schaduwkant van Kerst te benoemen. Combineer dit met Psalm 124 om de hoop op goddelijke bewaring vast te houden zonder de realiteit van het gevaar te ontkennen.
+
+## 5. Valkuilen en Aandachtspunten
+
+1.  **Polarisatie vermijden:** Het asieldebat is in de Alblasserwaard vaak een gevoelig onderwerp. Vermijd partijpolitieke uitspraken, maar blijf bij de bijbelse notie van de 'vreemdeling' en de 'vluchteling'.
+2.  **Geen valse troost:** Geef de 'kindermoord' haar volle gewicht. Probeer niet te snel over te stappen naar de 'overwinning' van Pasen; de tekst van deze zondag vraagt om het uithouden van de spanning.
+3.  **Nuchterheid:** Gebruik feitelijke gegevens over de conflicten (zoals de VN-cijfers) om de ernst te onderbouwen, zonder te vervallen in sensationeel taalgebruik.
 
 ---
 
 **Bronnen:**
-*   *NOS.nl, ANP (15-19 dec 2025)* - Berichtgeving over Sydney en Tweede Kamer.
-
-*   *World Vision / IRC (dec 2025)* - Rapportages over hongersnood Soedan.
-
-*   *ReliefWeb (dec 2025)* - Humanitaire updates Oekraïne en Gaza.
-
-*   *Gemeente Vijfheerenlanden (dec 2025)* - Lokale bekendmakingen.
+*   *UNICEF Sudan Situation Report (18 december 2025)*
+*   *NOS Nieuws - Update energievoorziening Oekraïne (19 december 2025)*
+*   *CBS - Monitor Welzijn en Eenzaamheid (december 2025)*
+*   *Kerk in Actie - Campagne 'Kinderen in de knel' (december 2025)*

@@ -22,7 +22,7 @@ Friedrich Niebergall constateerde: *"Menige preek geeft antwoorden op vragen die
 
 ## Wat doet dit script?
 
-Het script voert zes uitgebreide analyses uit met behulp van Gemini API en Google Search, in twee fasen:
+Het script voert zeven uitgebreide analyses uit met behulp van Gemini API en Google Search, in twee fasen:
 
 ### Fase 1: Liturgische context
 0. **Zondag van het Kerkelijk Jaar** - Lezingen, liturgische kleur, thematiek, liedsuggesties (PKN/Liedboek 2013)
@@ -33,6 +33,7 @@ Het script voert zes uitgebreide analyses uit met behulp van Gemini API en Googl
 3. **Geloofsoriëntatie** - Hoe staan de hoorders geloofsmatig in het leven?
 4. **Interpretatieve synthese** - Duiding en vertaling naar homiletische handvatten
 5. **Actueel wereldnieuws** - Schokkend nieuws van de afgelopen dagen dat hoorders bezighoudt
+6. **Politieke oriëntatie** - Stemgedrag (landelijk, provinciaal, gemeentelijk) en politieke cultuur
 
 De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, zodat bijvoorbeeld het wereldnieuws gerelateerd kan worden aan de Schriftlezingen.
 
@@ -40,11 +41,11 @@ De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, 
 
 Na de basisanalyse kan een verdieping worden uitgevoerd met drie extra analyses:
 
-6. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
-7. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
-8. **Focus en Functie** - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
+7. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
+8. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
+9. **Focus en Functie** - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
 
-Deze verdieping leest de output van de basisanalyse (00-05) en gebruikt deze als context.
+Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als context.
 
 **Bijbelteksten ophalen:** Het script haalt automatisch de bijbelteksten op van [naardensebijbel.nl](https://www.naardensebijbel.nl/) (de literaire vertaling van Pieter Oussoren). De teksten worden opgeslagen in `bijbelteksten/*.txt` en meegenomen in de exegese-prompt.
 
@@ -112,8 +113,10 @@ output/Plaatsnaam_datum_timestamp/
 ├── 03_geloofsorientatie.md                # Religieuze context en geloofstaal
 ├── 04_interpretatieve_synthese.md         # Homiletische aanbevelingen
 ├── 05_actueel_wereldnieuws.md             # Recent wereldnieuws met duiding
-├── 06_exegese.md                          # Exegese van de Schriftlezingen (via verdieping.py)
-├── 07_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
+├── 06_politieke_orientatie.md             # Stemgedrag en politieke cultuur
+├── 07_exegese.md                          # Exegese van de Schriftlezingen (via verdieping.py)
+├── 08_kunst_cultuur.md                    # Kunst, cultuur en film (via verdieping.py)
+├── 09_focus_en_functie.md                 # Focus en Functie (via verdieping.py)
 └── bijbelteksten/                         # Naardense Bijbel teksten (via verdieping.py)
     ├── jesaja_91-6.txt
     ├── lucas_21-14.txt
@@ -135,8 +138,10 @@ contextduiding/
 │   ├── 03_geloofsorientatie.md
 │   ├── 04_interpretatieve_synthese.md
 │   ├── 05_actueel_wereldnieuws.md
-│   ├── 06_exegese.md                       # Exegese (verdieping)
-│   └── 07_kunst_cultuur.md                 # Kunst en cultuur (verdieping)
+│   ├── 06_politieke_orientatie.md          # Politieke oriëntatie
+│   ├── 07_exegese.md                       # Exegese (verdieping)
+│   ├── 08_kunst_cultuur.md                 # Kunst en cultuur (verdieping)
+│   └── 09_focus_en_functie.md              # Focus en Functie (verdieping)
 ├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
 ├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
 ├── .env                                    # API key (niet in git)
@@ -194,7 +199,18 @@ Zes ervaringsgebieden: Schepping, Eindigheid, Menselijk tekort, Lijden, Wijsheid
 - Pastorale, profetische en diaconale relevantie
 - Relatie tot de Schriftlezingen
 
-### 6. Exegese (verdieping)
+### 6. Politieke oriëntatie
+- Landelijk stemgedrag (Tweede Kamerverkiezingen)
+- Provinciaal stemgedrag (Provinciale Staten)
+- Gemeentelijk stemgedrag (gemeenteraadsverkiezingen)
+- Waterschapsverkiezingen
+- Politieke cultuur (progressief/conservatief, vertrouwen in overheid)
+- Spanningsvelden en gevoelige lokale kwesties
+- Relevantie voor de prediking
+
+Bronnen: kiesraad.nl, gemeente.nl, lokale nieuwsmedia
+
+### 7. Exegese (verdieping)
 - Tekstkritische opmerkingen en vertaalkeuzes
 - Literaire analyse (genre, structuur, stijlfiguren)
 - Historische context van de tekst
@@ -257,7 +273,7 @@ van achteren: jood — Jezus — van voren: aankondiger Koninkrijk
 - **Van beneden**: mens van vlees en bloed, emoties, lijden
 - **Van voren**: uitspraken over Koninkrijk, eeuwig leven, toekomst
 
-### 7. Kunst en Cultuur (verdieping)
+### 8. Kunst en Cultuur (verdieping)
 - Klassieke christelijke kunst (schilderijen, iconen, miniaturen)
 - Moderne en hedendaagse kunst
 - Film en documentaire

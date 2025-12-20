@@ -175,13 +175,14 @@ def build_remaining_analyses(user_input: dict, kerkelijk_jaar_context: str) -> l
 {kerkelijk_jaar_context}
 """
 
-    # De overige analyses (01-05)
+    # De overige analyses (01-06)
     analysis_definitions = [
         ("01_sociaal_maatschappelijke_context", "Sociaal-Maatschappelijke Context"),
         ("02_waardenorientatie", "Waardenoriëntatie"),
         ("03_geloofsorientatie", "Geloofsoriëntatie"),
         ("04_interpretatieve_synthese", "Interpretatieve Synthese"),
         ("05_actueel_wereldnieuws", "Actueel Wereldnieuws"),
+        ("06_politieke_orientatie", "Politieke Oriëntatie"),
     ]
 
     analyses = []
@@ -213,7 +214,7 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
             model=MODEL_NAME,
             contents=prompt,
             config=types.GenerateContentConfig(
-                temperature=0.7, # Lager zetten indien te veel hallucinatiess
+                temperature=0.3, # Lager dan normaal om minder hallucinatiess te krijgen
                 top_p=0.95,
                 top_k=40,
                 max_output_tokens=8192,
@@ -280,6 +281,9 @@ def save_analysis(output_dir: Path, filename: str, content: str, title: str):
     # 4. Zorg dat bullet points op een nieuwe regel staan als ze direct na een dubbele punt of zin komen
     # Zoekt naar: dubbele punt/punt, optionele spaties, dan een asterisk of streepje met spatie
     content = re.sub(r'([:.:])\s*(\n*)\s*([\*\-] )', r'\1\n\n\3', content)
+
+    # 5. Zorg voor een lege regel NA bold koppen (bijv. **Titel**) als er bullet points volgen
+    content = re.sub(r'(\*\*[^*]+\*\*)\n([\*\-] )', r'\1\n\n\2', content)
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
