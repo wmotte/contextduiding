@@ -17,3 +17,4 @@
 - [Kunst, Cultuur en Film](08_kunst_cultuur.md)
 - [Focus en Functie](09_focus_en_functie.md)
 - [Kalender](10_kalender.md)
+- [Representatieve Hoorders](11_representatieve_hoorders.md)
