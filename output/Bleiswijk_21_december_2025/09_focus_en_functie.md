@@ -1,58 +1,41 @@
-# Focus en Functie
-
-Hieronder volgen drie onderscheidende opties voor Focus en Functie voor de dienst op 21 december 2025 in de Dorpskerk te Bleiswijk, gebaseerd op de methodiek van De Leede & Stark.
-
-### Optie 1: De nuchtere overgave (Pastoraal-existentiële insteek)
+### Optie 1: De Onderbreking van de Rechtvaardigheid
 
 **1. Focus**
-Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in Bleiswijk, Dorpskerk), in hun context, in deze dienst zeggen dat:
-Gods aanwezigheid (Immanuël) zich niet manifesteert in het slagen van onze zorgvuldig gemaakte (bouw)plannen, maar juist in de momenten waarop die plannen doorkruist worden en wij, net als de nuchtere Jozef, de regie durven over te dragen aan een belofte die onze berekening te boven gaat.
+Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in Bleiswijk, Dorpskerk), in hun context, in deze dienst zeggen dat God ons 'Immanuël' nabijkomt door onze zorgvuldig geconstrueerde plannen en morele kaders te onderbreken, waarbij Hij van ons – net als van Jozef – een gehoorzaamheid vraagt die verder gaat dan het volgen van de wet of het beheersen van risico’s.
 
 **2. Anticipatie**
-De hoorders zullen zich hiertoe verhouden als:
-Een herkenning van de spanning tussen hun eigen 'maakbaarheidsideaal' (kenmerkend voor de Bleiswijkse ondernemersgeest en tuinbouwcultuur) en de weerbarstige realiteit van 2025 (energietransitie, economische onzekerheid). Er zal mogelijk weerstand zijn tegen het idee van 'loslaten', omdat controle in hun dagelijks werk essentieel is voor overleving.
+De hoorders zullen zich hiertoe verhouden als een uitdaging van hun behoefte aan controle en regie. In een ondernemende gemeenschap waar risicobeheersing (energiecontracten, teeltplanning) essentieel is, roept het beeld van een 'onderbrekende droom' weerstand op. Men herkent de integriteit van Jozef, maar de overgave aan een onzeker en sociaal riskant pad botst met de Bleiswijkse nuchterheid en de wens om reputatieschade te voorkomen.
 
 **3. Functie**
-...waarmee ik rekening houd om te komen tot het doel dat de hoorders:
-De onvoorziene wendingen in hun eigen leven en in de wereld (zoals de humanitaire nood in Gaza of persoonlijke tegenslag) niet langer enkel zien als een verstoring, maar als een ruimte waarin God 'met ons' wil zijn, wat leidt tot een houding van actieve, nuchtere hoop.
+...waarmee ik rekening houd om te komen tot het doel dat de hoorders hun eigen 'rechtvaardige' plannen durven open te stellen voor Gods onverwachte weg, en in de onzekerheid van hun (zakelijke of persoonlijke) crisis de rust vinden om te vertrouwen op de God die zich aan hun weerbarstige praktijk heeft verbonden.
 
 **4. Toelichting**
-Deze optie sluit aan bij de typering van Jozef als een 'man van de praktijk'. In een context waar hard werken en plannen centraal staan, biedt de droom van Jozef een noodzakelijk tegenwicht: God werkt door de onderbreking heen. Het verbindt de 'Immanuël'-belofte direct met de existentiële onrust van de hoorder aan het einde van het jaar.
+Deze optie kiest een pastoraal-existentiële insteek. De focus ligt op de spanning tussen de menselijke *dikaiosynē* (Jozefs integere plan) en de goddelijke *genesis* (Gods nieuwe begin). Het sluit aan bij de hoordersanalyse waarin 'zelfredzaamheid' en 'controle' centraal staan, en biedt een theologisch tegenwicht door de droom als noodzakelijke onderbreking te presenteren.
 
----
-
-### Optie 2: Gerechtigheid in stilte (Ethisch-maatschappelijke insteek)
+### Optie 2: De Moed van Barmhartige Gerechtigheid
 
 **1. Focus**
-Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in Bleiswijk, Dorpskerk), in hun context, in deze dienst zeggen dat:
-Bijbelse gerechtigheid (zoals getoond door Jozef) niet bestaat uit het handhaven van sociale normen of het publiekelijk veroordelen van wat 'anders' is, maar uit het in bescherming nemen van de kwetsbare naaste, dwars tegen de publieke opinie en de angst voor reputatieschade in.
+Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in Bleiswijk, Dorpskerk), in hun context, in deze dienst zeggen dat de komst van Immanuël ons roept tot een vorm van gerechtigheid die niet oordeelt volgens de publieke opinie of de letter van de wet, maar die – naar het voorbeeld van Jozef – de kwetsbare naaste beschermt en concreet gestalte krijgt in de solidariteit met hen die in 'stille armoede' aan de rand staan.
 
 **2. Anticipatie**
-De hoorders zullen zich hiertoe verhouden als:
-Een confrontatie met de sociale controle die in een hechte dorpsgemeenschap als Bleiswijk aanwezig kan zijn. De hoorders zullen de neiging herkennen om 'het juiste' te doen volgens de geldende moraal, maar kunnen aarzeling voelen bij de radicale keuze van Jozef om de schande te delen met Maria.
+De hoorders zullen zich hiertoe verhouden met een zekere mate van ongemak. Hoewel de bereidheid tot collecteren groot is (Kerk in Actie), is de confrontatie met armoede in de eigen welvarende regio (de CBS-cijfers van 17 december 2025) confronterend. Men neigt ernaar gerechtigheid te zien als 'ieder het zijne', terwijl de tekst vraagt om een barmhartigheid die de eigen status en sociale veiligheid op het spel zet.
 
 **3. Functie**
-...waarmee ik rekening houd om te komen tot het doel dat de hoorders:
-Kritisch reflecteren op hun eigen oordeelsvorming over anderen (bijv. migranten in de sector of mensen in de marge) en gemotiveerd worden om in hun eigen omgeving 'gerechtigheid' te beoefenen door daden van barmhartigheid die niet gericht zijn op eigen eer, maar op de veiligheid van de ander.
+...waarmee ik rekening houd om te komen tot het doel dat de hoorders de collecte voor armoede in Nederland niet slechts als een plichtmatig offer zien, maar als een daad van 'Jozef-achtige' gerechtigheid, waarbij zij bereid zijn hun eigen sociale bubbel te doorbreken om de Immanuël te herkennen in de gemarginaliseerde medemens.
 
 **4. Toelichting**
-De exegese van *dikaios* (rechtvaardig) bij Jozef staat hier centraal. In de context van de actualiteit (de verharding in het politieke debat en de aanslag in Sydney) stelt deze optie de vraag wat het betekent om 'rechtvaardig' te zijn in een gepolariseerde wereld. Het sluit aan bij de diaconale traditie van de Dorpskerk.
+Deze optie heeft een profetisch-maatschappelijke insteek. De exegese van *dikaios* (rechtvaardige) wordt hier verbonden met de actuele sociaal-economische context van Lansingerland en de landelijke armoedecijfers. Het daagt de hoorder uit om de 'Immanuël' (God met ons) te vertalen naar een 'wij met hen', passend bij de diaconale focus van deze zondag.
 
----
-
-### Optie 3: De naam boven de muren (Theologisch-profetische insteek)
+### Optie 3: Licht in de Donkerste Nacht
 
 **1. Focus**
-Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in Bleiswijk, Dorpskerk), in hun context, in deze dienst zeggen dat:
-De namen 'Jezus' (Redder van zonden) en 'Immanuël' (God met ons) een fundamentele kritiek vormen op onze menselijke pogingen om veiligheid te zoeken in defensie-uitgaven, grensblokkades of militaire kracht, omdat Gods redding begint in de kwetsbaarheid van een ongeboren kind in een wankel gezin.
+Ik wil op grond van mijn exegese van de tekst voor deze hoorders (in Bleiswijk, Dorpskerk), in hun context, in deze dienst zeggen dat de 'Koning der glorie' uit Psalm 24 identiek is aan de 'Immanuël' uit Matteüs 1, die op deze kortste dag van het jaar de diepste duisternis van onze wereld (zoals in Sydney en Oekraïne) binnentreedt om ons niet van de wereld, maar van onze zonden en wanhoop te redden.
 
 **2. Anticipatie**
-De hoorders zullen zich hiertoe verhouden als:
-Een mogelijke politieke spanning. De hoorders in Bleiswijk zijn zich bewust van de noodzaak van veiligheid en stabiliteit (zie de nationale defensieplannen van december 2025). Het idee dat redding uit 'zwakheid' komt, kan als naïef of wereldvreemd worden ervaren in een tijd van geopolitieke dreiging.
+De hoorders zullen zich hiertoe verhouden met een behoefte aan hoop te midden van de sombere wereldberichten van de afgelopen week. Er is een risico op een te snelle vlucht in de 'gezelligheid' van Kerst. De hoorder herkent de metafoor van het licht (vertrouwd vanuit de glastuinbouw), maar moet geholpen worden om het onderscheid te zien tussen het kunstlicht van de kas en de 'Dageraad' (O Oriens) die de morele en existentiële duisternis verdrijft.
 
 **3. Functie**
-...waarmee ik rekening houd om te komen tot het doel dat de hoorders:
-Hun diepste bron van veiligheid en identiteit niet langer funderen in nationale of economische muren, maar in de persoon van Jezus Christus, waardoor zij bevrijd worden van de angst die de wereld momenteel regeert.
+...waarmee ik rekening houd om te komen tot het doel dat de hoorders, ondanks de rauwe werkelijkheid van geweld en kou in de wereld, de komst van Christus vieren als een reële bevrijding die hen de kracht geeft om zelf als 'lichtdragers' te fungeren in een gebroken samenleving.
 
 **4. Toelichting**
-Deze optie grijpt direct in op de actualiteit van 19 december 2025 (Trump, defensie-uitbreiding, grensbeheer). Het plaatst de christologische titels uit Matteüs 1 lijnrecht tegenover de 'redders' van deze wereld. Het dwingt de hoorder om op de drempel van Kerst kleur te bekennen: waar verwachten wij het werkelijk van?
+Deze optie kiest een christologisch-liturgische insteek. Het verbindt de O-antifoon van 21 december (O Oriens) en de actualiteit van de winteroorlog en de aanslag in Sydney met de belofte van de naam Jezus (Redder). Het maakt gebruik van de lokale licht-symboliek om de overstijgende betekenis van de menswording te duiden.
