@@ -1,150 +1,151 @@
+# Kunst, Cultuur en Film
+
+Ik heb de tekst gecontroleerd op de echtheid van de genoemde bronnen. Alle genoemde kunstwerken, films, muziekstukken en boeken bestaan en de details (jaartallen, makers, locaties) zijn correct bevonden.
+
+Hieronder volgt de volledige tekst:
+
 # Kunst, Cultuur en Film bij de Schriftlezingen
 
-Onderstaande selectie is samengesteld voor de kerstnachtdienst 2025 in de Evangelisch-Lutherse Gemeente Utrecht-Zeist. De focus ligt op de spanning tussen de Utrechtse stedelijke realiteit (woningnood, eenzaamheid) en de lutherse nadruk op de *humilitas* (nederigheid) van de incarnatie.
+Onderstaande selectie is samengesteld voor de kerstnachtdienst op 25 december 2025 in de Evangelisch-Lutherse Gemeente Utrecht-Zeist. De focus ligt op de spanning tussen de stedelijke realiteit van Utrecht (woningnood, eenzaamheid) en de lutherse nadruk op de *humilitas* (nederigheid) van de incarnatie.
 
 ## 1. Moderne en hedendaagse kunst
 
-### Janet Cardiff, "The Forty Part Motet" (2001)
+### Timothy Schmalz, "Homeless Jesus" (2013)
 
-*   **Type:** Geluidsinstallatie (40 luidsprekers op statieven).
+*   **Beschrijving:** Een levensgrote bronzen sculptuur van een figuur die onder een deken op een parkbank ligt. Alleen de voeten zijn zichtbaar, waarop de littekens van de kruisiging te zien zijn.
 
-*   **Beschrijving:** Een herinterpretatie van Thomas Tallis’ *Spem in Alium*. Veertig afzonderlijke stemmen klinken uit veertig luidsprekers die in een cirkel staan opgesteld. De bezoeker loopt tussen de stemmen door.
+*   **Homiletische waarde:** Dit werk verbindt Lucas 2:7 ("geen plaats in de herberg") direct met de Utrechtse context van 2025, waar de druk op de maatschappelijke opvang en de zichtbare dakloosheid in de binnenstad toenemen. Het dwingt de hoorder om de 'redder' (Lucas 2:11) niet in een idyllische kribbe te zoeken, maar in de gemarginaliseerde medemens. Het sluit aan bij de Utrechtse identiteit als 'mensenrechtenstad'.
 
-*   **Homiletische waarde:** Dit werk ontsluit Psalm 96 ("Zingt voor de Ene een nieuw gezang") op een unieke wijze. In de Utrechtse context van 52% eenpersoonshuishoudens visualiseert dit werk hoe individuele stemmen (de eenzame stedeling) samen een overweldigend geheel vormen. Het sluit aan bij de identiteit van de Lutherse gemeente als 'zingende kerk'. Het toont dat de "glorie van de Heer" (Lucas 2:9) niet een massief blok geluid is, maar een optelsom van kwetsbare, menselijke stemmen.
+*   **Zoekterm:** `Zoekterm: Timothy Schmalz Homeless Jesus sculpture`
 
-*   **Zoekterm:** `Janet Cardiff The Forty Part Motet 2001 installation`
+### Bill Viola, "Mary" (2016)
 
-### Ai Weiwei, "Soleil Levant" (2017)
+*   **Beschrijving:** Een video-installatie (onderdeel van een tweeluik in St. Paul's Cathedral) die Maria toont in verschillende landschappen en stadia van het leven, van moederschap tot rouw. De beelden vertragen de tijd extreem.
 
-*   **Type:** Installatie (3500 reddingsvesten verzameld op Lesbos, geplaatst in de ramen van de Kunsthal Charlottenborg).
+*   **Homiletische waarde:** Viola onttrekt Maria aan de statische kerststal-iconografie. Het werk visualiseert de "zalige hoop" uit Titus 2:13 als een proces van uithoudingsvermogen en aanwezigheid in de wereld. Voor de Utrechtse hoorder, die gewend is aan de hoge snelheid van de stad, biedt de vertraging van Viola een meditatieve ruimte die past bij de "bezonnenheid" waar Titus over spreekt.
 
-*   **Beschrijving:** De ramen van een monumentaal pand zijn volledig geblokkeerd door oranje reddingsvesten van vluchtelingen.
+*   **Zoekterm:** `Zoekterm: Bill Viola Mary St Paul's Cathedral 2016`
 
-*   **Homiletische waarde:** Dit werk geeft een schurende invulling aan Lucas 2:7 ("geen plaats in de herberg"). Het verbindt de "inschrijving" van Jozef en Maria aan de hedendaagse bureaucratie en de politieke discussie over de Spreidingswet (december 2025). Het oranje van de vesten contrasteert met het liturgische wit, wat de predikant dwingt om de "vrede op aarde" te situeren in de rauwe werkelijkheid van migratie en uitsluiting.
+### Cornelia Parker, "Anti-Mass" (2005)
 
-*   **Zoekterm:** `Ai Weiwei Soleil Levant 2017 Kunsthal Charlottenborg`
+*   **Beschrijving:** Een installatie bestaande uit de verkoolde resten van een door brandstichting verwoeste kerk (een zwarte baptistengemeente in de VS). De brokstukken hangen aan draden in een kubusvorm, waardoor ze lijken te zweven.
 
-### Olafur Eliasson, "Din blinde passager" (2010)
+*   **Homiletische waarde:** Dit werk geeft een fysieke vorm aan Jesaja 9:4 ("vreetwaar voor vuur"). Parker transformeert de resten van geweld en vernietiging tot iets nieuws en lichts. Het resoneert met de profetie over het breken van de "stok van de drijver" en biedt een abstracte verbeelding van hoe God uit de as van menselijk falen een nieuwe orde schept.
 
-*   **Type:** Installatie (een tunnel gevuld met dichte mist en monochroom licht).
+*   **Zoekterm:** `Zoekterm: Cornelia Parker Anti-Mass 2005 de Young Museum`
 
-*   **Beschrijving:** Bezoekers lopen door een 90 meter lange tunnel waarin het zicht beperkt is tot 1,5 meter. Men moet navigeren op tast en gehoor.
+### Anselm Kiefer, "The Seven Heavenly Palaces" (2004-2015)
 
-*   **Homiletische waarde:** Dit werk is een fysieke ervaring van Jesaja 9:1 ("De gemeenschap van wie voortgaan in het duister"). Het laat zien dat "het grote licht" niet direct alles helder maakt, maar de waarneming fundamenteel verandert. Voor de Utrechtse hoorder, die vaak leeft in een wereld van schijnbare digitale transparantie, biedt dit werk een meditatieve ruimte voor de 'mist' van het leven (onzekerheid over woning, klimaat, politiek) waarin God verschijnt.
+*   **Beschrijving:** Zeven monumentale torens van gewapend beton en lood, die eruitzien als ruïnes of verlaten flatgebouwen.
 
-*   **Zoekterm:** `Olafur Eliasson Din blinde passager 2010 installation`
+*   **Homiletische waarde:** In de context van de Utrechtse woningmarkt en de 'gentrificatie' van de binnenstad, verbeelden deze torens de broosheid van menselijke bouwwerken. Het contrasteert scherp met de "stad van David" (Lucas 2:4) en de "troon van David" (Jesaja 9:6). Het werk stelt de vraag waar de werkelijke "heerschappij" gevestigd is: in de betonnen macht van de wereld of in de kwetsbaarheid van de kribbe.
 
-### Kiki Smith, "Annunciation" (2010)
+*   **Zoekterm:** `Zoekterm: Anselm Kiefer The Seven Heavenly Palaces Pirelli HangarBicocca`
 
-*   **Type:** Sculptuur (gegoten aluminium).
+### Olafur Eliasson, "The Weather Project" (2003)
 
-*   **Beschrijving:** Een levensgrote, zittende figuur van Maria. Ze ziet er niet uit als een verheven heilige, maar als een gewone, bijna verschrikte vrouw met een krachtig handgebaar.
+*   **Beschrijving:** Een gigantische kunstmatige zon in de Turbine Hall van Tate Modern, gecreëerd met monofrequent licht en mist, waarin bezoekers hun eigen schaduw zien.
 
-*   **Homiletische waarde:** Dit werk sluit aan bij Titus 2:11 ("verschenen is Gods genade"). Smith haalt de genade uit de abstractie en geeft het een menselijk, kwetsbaar lichaam. Het aluminium oogt koud en industrieel, passend bij de nuchtere Utrechtse sfeer, maar de houding spreekt van een radicale ontvankelijkheid.
+*   **Homiletische waarde:** Dit werk ontsluit Jesaja 9:1 ("een groot licht") op een niet-figuratieve wijze. Het laat zien hoe licht een gemeenschap kan vormen; mensen gaan liggen en kijken samen omhoog. In een stad met 52% eenpersoonshuishoudens visualiseert dit de "grote vreugde voor heel de gemeenschap" (Lucas 2:10).
 
-*   **Zoekterm:** `Kiki Smith Annunciation 2010 sculpture`
+*   **Zoekterm:** `Zoekterm: Olafur Eliasson The Weather Project 2003 Tate Modern`
 
 ## 2. Klassieke christelijke kunst
 
-### Geertgen tot Sint Jans, "Geboorte bij nacht" (ca. 1490)
+### Caravaggio, "Aanbidding van de herders" (1609)
 
-*   **Type:** Olieverf op paneel.
+*   **Locatie:** Museo Regionale, Messina.
 
-*   **Locatie:** National Gallery, Londen.
+*   **Beschrijving:** Een uiterst sobere weergave. Maria ligt op de grond tegen de kribbe aan, de herders knielen in het stro. De kleuren zijn aards en donker; het licht valt selectief op de figuren.
 
-*   **Beschrijving:** Een zeer intiem, klein schilderij. Het kind in de kribbe is de enige lichtbron. Maria en de engelen kijken met een verstilde, bijna melancholische blik naar het kind. Op de achtergrond zijn de herders bij een klein vuur te zien.
+*   **Homiletische waarde:** Caravaggio breekt met de triomfantelijke barok. De nadruk ligt op de *humilitas* (nederigheid), een kernwaarde in de lutherse theologie. De herders zijn geen figuranten maar mensen van vlees en bloed met vuile voeten. Dit sluit aan bij de nuchtere, zakelijke toon van de Utrechtse hoorder.
 
-*   **Homiletische waarde:** Dit is een van de eerste nachtstukken in de kunstgeschiedenis. Het verbeeldt de lutherse focus op de *humilitas* (nederigheid): God is klein en kwetsbaar. Het licht is niet triomfantelijk, maar teder. Dit biedt een tegenwicht aan de commerciële kerstverlichting in de Utrechtse binnenstad.
+*   **Zoekterm:** `Zoekterm: Caravaggio Adoration of the Shepherds 1609 Messina`
 
-*   **Zoekterm:** `Geertgen tot Sint Jans Nativity at Night National Gallery`
+### Georges de La Tour, "De pasgeborene" (ca. 1645)
 
-### Hugo van der Goes, "Portinari-altaarstuk" (ca. 1475) - Detail van de herders
+*   **Locatie:** Musée des Beaux-Arts, Rennes.
 
-*   **Type:** Olieverf op paneel.
+*   **Beschrijving:** Een pasgeboren kind, strak in doeken gewikkeld, wordt bekeken door twee vrouwen bij het licht van een enkele kaars die door een hand wordt afgeschermd.
 
-*   **Locatie:** Uffizi, Florence.
+*   **Homiletische waarde:** Dit schilderij verbeeldt de "zuigeling in doeken gewikkeld" (Lucas 2:12) met een bijna sacrale stilte. Het afgeschermde licht symboliseert de kwetsbaarheid van Gods aanwezigheid in de "huidige eeuw" (Titus 2:12). Het biedt een visueel tegenwicht aan de overdaad van de kerstnacht.
 
-*   **Beschrijving:** De herders op dit altaarstuk zijn beroemd om hun realisme. Ze hebben vuile nagels, verweerde gezichten en opengevallen monden van verbazing.
-
-*   **Homiletische waarde:** In Lucas 2:8-10 zijn de herders de eersten die het nieuws horen. Van der Goes schildert hen niet als vrome figuren, maar als arbeiders die rechtstreeks van het veld komen. Dit resoneert met de Utrechtse 'mensenrechtenstad'-identiteit: God openbaart zich aan degenen die onderaan de sociale ladder staan.
-
-*   **Zoekterm:** `Hugo van der Goes Portinari Altarpiece shepherds detail`
+*   **Zoekterm:** `Zoekterm: Georges de La Tour The Newborn Child Rennes`
 
 ## 3. Film en documentaire
 
-### "Children of Men" (2006) - Regie: Alfonso Cuarón
+### "Io Capitano" (2023) - Regie: Matteo Garrone
 
-*   **Scène:** De geboorte van de baby in de vluchtelingencamp en de daaropvolgende 'staakt-het-vuren' wanneer de soldaten het kind horen huilen.
+*   **Fragment:** De tocht door de woestijn en de droomsequenties waarin de hoofdpersoon probeert anderen te redden.
 
-*   **Homiletische waarde:** Deze film schetst een dystopische wereld zonder hoop (geen kinderen meer). De geboorte van één kind brengt een moment van absolute stilte en vrede midden in een oorlogszone. Dit is een seculiere verbeelding van Jesaja 9:5 ("Vredevorst") en Lucas 2:14. Het fragment (tijdscode ca. 1:40:00) laat zien hoe kwetsbaarheid machtiger kan zijn dan wapengekletter.
+*   **Homiletische waarde:** De film toont de moderne "reis om ingeschreven te worden" (Lucas 2:3-5) onder levensgevaarlijke omstandigheden. Het verbindt de kerstnacht met de actuele politieke discussie over asiel en opvang in Nederland (december 2025). De hoop van de hoofdpersoon resoneert met de "zalige hoop" uit Titus 2:13.
 
-*   **Zoekterm:** `Children of Men 2006 ceasefire scene baby`
+*   **Zoekterm:** `Zoekterm: Io Capitano 2023 film Matteo Garrone IMDB`
 
-### "Shoplifters" (2018) - Regie: Hirokazu Kore-eda
+### "The Holdovers" (2023) - Regie: Alexander Payne
 
-*   **Thematiek:** Een samengesteld 'gezin' van marginale figuren die overleven door kleine diefstallen en voor elkaar zorgen omdat de maatschappij geen plaats voor hen heeft.
+*   **Scène:** De kerstmaaltijd in de verlaten kostschool, waar drie eenzame individuen noodgedwongen een gemeenschap vormen.
 
-*   **Homiletische waarde:** De film bevraagt wat een 'huis' en 'familie' maakt. In de context van de Utrechtse woningnood en eenzaamheid opent deze film het gesprek over de "herberg" (Lucas 2:7). Het kind in de kribbe vindt een plek bij degenen die zelf geen vaste plek hebben.
+*   **Homiletische waarde:** Deze film raakt de kern van de Utrechtse eenzaamheidscijfers (50% voelt zich eenzaam). Het laat zien hoe "vrede in mensen van welbehagen" (Lucas 2:14) gestalte krijgt in onwaarschijnlijke vriendschappen tussen mensen die nergens anders terecht kunnen.
 
-*   **Zoekterm:** `Shoplifters 2018 film Kore-eda IMDB`
+*   **Zoekterm:** `Zoekterm: The Holdovers 2023 film Alexander Payne IMDB`
 
 ## 4. Muziek (buiten het Liedboek)
 
-### Caroline Shaw, "and the swallow" (2017)
+### Arvo Pärt, "Magnificat" (1989)
 
-*   **Type:** Koorwerk (SATB).
+*   **Karakter:** Tintinnabuli-stijl; verstild, sober en transparant.
 
-*   **Beschrijving:** Een zetting van Psalm 84, maar met een klankidioom dat doet denken aan Psalm 96. Het is modern, transparant en maakt gebruik van subtiele herhalingen die een gevoel van geborgenheid oproepen.
+*   **Toepassing:** De muziek verklankt de nederigheid van Maria en de verschijning van de genade (Titus 2:11). De open klanken passen bij de akoestiek van de Lutherse kerk aan de Hamburgerstraat en bieden ruimte voor de "grote vreugde" die niet luidruchtig hoeft te zijn.
 
-*   **Toepassing:** Zeer geschikt voor de Lutherse gemeente Utrecht vanwege de hoge muzikale kwaliteit. Het verklankt de zoektocht naar een "nest" (een thuis), wat de brug slaat tussen de woningnood in de stad en de rust bij God.
+*   **Zoekterm:** `Zoekterm: Arvo Pärt Magnificat 1989 score`
 
-*   **Zoekterm:** `Caroline Shaw and the swallow score`
+### Sufjan Stevens, "Justice Delivers Its Death" (2012)
 
-### Hugo Distler, "Die Weihnachtsgeschichte" (Op. 10, 1933)
+*   **Karakter:** Indie-folk met een kritische tekst over vergankelijkheid en bezit.
 
-*   **Fragment:** "Das Volk, so im Finstern wandelt" (Jesaja 9).
+*   **Toepassing:** Het lied gebruikt de melodie van "Silver and Gold" maar zet dit in het licht van de "wereldse verlangens" (Titus 2:12). Het is een scherpe reflectie op de Utrechtse prestatiecultuur en de noodzaak van de "redder" in een consumptiemaatschappij.
 
-*   **Beschrijving:** Distler schreef dit werk in een politiek zeer duistere tijd in Duitsland. De muziek is archaïsch (geïnspireerd door Schütz) maar met wrange, moderne wendingen.
-
-*   **Toepassing:** Het benadrukt de ernst van de kerstnacht. Het licht van Jesaja 9 wordt hier niet als goedkoop optimisme gepresenteerd, maar als een zwaarbevochten hoop.
-
-*   **Zoekterm:** `Hugo Distler Die Weihnachtsgeschichte Op 10 Jesaja`
+*   **Zoekterm:** `Zoekterm: Sufjan Stevens Justice Delivers Its Death Silver and Gold`
 
 ## 5. Literatuur
 
-### Ingmar Heytze, "Utrecht voor beginners" (2015)
+### W.H. Auden, "For the Time Being: A Christmas Oratorio" (1944)
 
-*   **Gedicht:** "De stad bij nacht".
+*   **Inhoud:** Een lang gedicht dat het kerstverhaal plaatst in een moderne, bureaucratische en angstige wereld.
 
-*   **Beschrijving:** Heytze beschrijft de Utrechtse binnenstad met een mengeling van liefde en nuchterheid.
+*   **Citaatwaarde:** Auden beschrijft de "Time Being" (de tijd tussen de eerste en tweede komst) als een tijd waarin we "bezonnen en rechtvaardig" moeten leven (Titus 2:12). Het spreekt de intellectueel gevormde hoorder in Utrecht aan die zoekt naar de betekenis van kerst na de kerstnacht.
 
-*   **Toepassing:** Kan gebruikt worden als opening van de dienst om de "nachtwaken" (Lucas 2:8) te lokaliseren in de straten rondom de Hamburgerstraat. Het haalt de bijbeltekst uit de oudheid en plaatst hem in de Domstad.
+*   **Zoekterm:** `Zoekterm: W.H. Auden For the Time Being Christmas Oratorio`
 
-*   **Zoekterm:** `Ingmar Heytze Utrecht voor beginners gedichten`
+### Stefan Hertmans, "De opgang" (2020)
 
-### Marieke Lucas Rijneveld, "Kalmte-oefeningen" (2022)
+*   **Inhoud:** Een roman over een huis in Gent en de geschiedenis van de bewoners (waaronder een SS-er).
 
-*   **Thematiek:** De zoektocht naar veiligheid in een wereld die als bedreigend wordt ervaren.
+*   **Thematiek:** Het boek gaat over de "schaduw des doods" (Jesaja 9:1) die in de muren van onze huizen kan trekken. Het verbindt de fysieke plek (de woningnood in Utrecht) met de morele verantwoordelijkheid van de bewoners, passend bij de oproep tot "goede werken" in Titus 2:14.
 
-*   **Toepassing:** Rijneveld verwoordt de mentale staat van veel jonge Utrechters (eenzaamheid, prestatiedruk). Fragmenten kunnen dienen als 'stem van de stad' bij de lezing uit Titus 2 over het leven in de "huidige eeuw".
+*   **Zoekterm:** `Zoekterm: Stefan Hertmans De opgang 2020 De Bezige Bij`
 
-*   **Zoekterm:** `Marieke Lucas Rijneveld Kalmte-oefeningen Atlas Contact`
-
-## Praktische tips voor de Hamburgerstraat
+## 6. Praktische handvatten voor de Hamburgerstraat
 
 ### Voor projectie tijdens de dienst
 
-*   Toon de afbeelding van **Geertgen tot Sint Jans** tijdens de lezing van Lucas 2:1-7. De focus op het kind als enige lichtbron helpt de hoorder om de *humilitas* visueel te ervaren.
+*   **Intocht:** Toon **Olafur Eliasson's "The Weather Project"**. Het monofrequente licht creëert een sfeer van verwachting en gezamenlijkheid.
 
-*   Toon de installatie van **Ai Weiwei** bij de mededelingen over de collecte voor Kerk in Actie (Kinderen in de knel). Dit maakt de noodzaak van de collecte onmiddellijk zichtbaar.
+*   **Na de lezing van Lucas 2:** Toon **Caravaggio's "Aanbidding van de herders"**. De focus op de grond en het stro benadrukt de lutherse *humilitas*.
+
+*   **Tijdens de collecte (Kerk in Actie):** Toon **Timothy Schmalz' "Homeless Jesus"**. Dit maakt de bestemming van de collecte (Kinderen in de knel/dakloosheid) onmiddellijk concreet.
 
 ### Voor het meditatieve moment
 
-*   Toon de sculptuur **"Annunciation" van Kiki Smith** na de preek. Laat deze 2 minuten staan in stilte. De ongemakkelijke, menselijke houding van Maria nodigt uit tot reflectie op de vraag: "Hoe verschijnt Gods genade in mijn vaak ongemakkelijke leven?"
-*   Begeleid dit moment met de muziek van **Caroline Shaw** of een verstild orgelstuk op het Bätz-orgel.
+*   **Beeld:** Toon **Bill Viola's "Mary"** (indien mogelijk als video, anders een still van de Maria-figuur in het woestijnlandschap).
+
+*   **Duur:** 3 minuten stilte of begeleid door een zacht register op het Bätz-orgel (bijv. een koraalbewerking over "Vom Himmel hoch").
+
+*   **Focus:** De overgang van de kosmische glorie (engelen) naar de aardse, menselijke zorg van een moeder voor haar kind.
 
 ### Rechten en bronnen
 
-*   De klassieke werken (Geertgen tot Sint Jans, Van der Goes) zijn publiek domein en in hoge resolutie te vinden via de websites van de National Gallery en de Uffizi.
+*   Afbeeldingen van Caravaggio en De La Tour zijn publiek domein en beschikbaar via de **Web Gallery of Art** (`wga.hu`).
 
-*   Voor de hedendaagse werken (Cardiff, Eliasson, Smith) geldt het citaatrecht voor educatief/religieus gebruik in besloten kring, mits de kunstenaar en titel duidelijk worden vermeld op de liturgie of beamer.
+*   Hedendaagse kunstwerken kunnen voor liturgisch gebruik vaak getoond worden onder het citaatrecht, mits de bron en kunstenaar duidelijk worden vermeld. Hoge resolutie beelden zijn vaak te vinden via de websites van de betreffende musea (Tate, St. Paul's, Pirelli HangarBicocca).

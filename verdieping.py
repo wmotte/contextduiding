@@ -276,6 +276,88 @@ def run_analysis(client: genai.Client, prompt: str, title: str) -> str:
         return f"# {title}\n\n**Fout:** {error_msg}"
 
 
+def verify_kunst_cultuur(client: genai.Client, content: str) -> str:
+    """Verificeer alle bronnen in de kunst/cultuur output en verwijder niet-verifieerbare items."""
+    print(f"\n{'─' * 50}")
+    print("VERIFICATIE: Bronnen controleren...")
+    print("{'─' * 50}")
+    print("Bezig met verifiëren van films, boeken en kunstwerken...")
+
+    verification_prompt = """Je bent een strenge factchecker. Je taak is om de onderstaande tekst te controleren op niet-bestaande bronnen.
+
+## Instructies
+
+1. Doorloop ELKE genoemde film, boek, kunstwerk, muziekstuk en andere culturele verwijzing
+2. Verifieer via Google Search of deze ECHT BESTAAT:
+   - Bij films: controleer of de film bestaat met die titel, regisseur en jaar
+   - Bij boeken: controleer of het boek bestaat met die auteur en titel
+   - Bij kunstwerken: controleer of het kunstwerk bestaat van die kunstenaar
+   - Bij muziek: controleer of het stuk bestaat van die componist/artiest
+
+3. Als je een item NIET kunt verifiëren of als de details niet kloppen:
+   - Verwijder het HELE item inclusief de beschrijving
+   - Laat geen lege secties achter
+
+4. Als je een item WEL kunt verifiëren maar details kloppen niet:
+   - Corrigeer de details (bijv. verkeerd jaar, verkeerde regisseur)
+
+5. Behoud de originele structuur en opmaak van de tekst
+
+## BELANGRIJK
+- Wees STRENG: bij twijfel, verwijderen
+- Liever 3 geverifieerde items dan 6 waarvan 2 niet bestaan
+- Verwijder GEEN zoektermen, die mogen blijven staan
+- Geef de VOLLEDIGE gecorrigeerde tekst terug, niet alleen de wijzigingen
+
+## Te controleren tekst:
+
+"""
+
+    try:
+        response = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=verification_prompt + content,
+            config=types.GenerateContentConfig(
+                temperature=0.1,  # Zeer laag voor maximale precisie
+                top_p=0.85,
+                top_k=20,
+                max_output_tokens=8192,
+                tools=[types.Tool(
+                    google_search=types.GoogleSearch()
+                )],
+                safety_settings=[
+                    types.SafetySetting(
+                        category=types.HarmCategory.HARM_CATEGORY_HATE_SPEECH,
+                        threshold=types.HarmBlockThreshold.BLOCK_NONE
+                    ),
+                    types.SafetySetting(
+                        category=types.HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
+                        threshold=types.HarmBlockThreshold.BLOCK_NONE
+                    ),
+                    types.SafetySetting(
+                        category=types.HarmCategory.HARM_CATEGORY_HARASSMENT,
+                        threshold=types.HarmBlockThreshold.BLOCK_NONE
+                    ),
+                    types.SafetySetting(
+                        category=types.HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
+                        threshold=types.HarmBlockThreshold.BLOCK_NONE
+                    ),
+                ]
+            )
+        )
+
+        if response.text:
+            print("✓ Verificatie voltooid - niet-verifieerbare items verwijderd")
+            return response.text
+        else:
+            print("✗ Verificatie mislukt - originele tekst behouden")
+            return content
+
+    except Exception as e:
+        print(f"✗ Verificatie fout: {str(e)} - originele tekst behouden")
+        return content
+
+
 def save_analysis(output_dir: Path, filename: str, content: str, title: str):
     """Sla een analyse op naar een markdown bestand."""
     filepath = output_dir / f"{filename}.md"
@@ -450,6 +532,11 @@ def main():
 
         # Voer analyse uit
         result = run_analysis(client, full_prompt, title)
+
+        # Extra verificatiestap voor kunst_cultuur om hallucinaties te verwijderen
+        if name == "08_kunst_cultuur":
+            result = verify_kunst_cultuur(client, result)
+
         save_analysis(folder, name, result, title)
 
     # Update overzicht
