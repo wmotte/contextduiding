@@ -3,242 +3,307 @@
 ### Jesaja 9:1-6
 
 **9:1** De gemeenschap van wie voortgaan in het duister, zien zullen zij een groot licht; wie zijn gezeten in het land van de schaduw des doods, licht zal over hen stralen.
+
 **9:2** Hebt gij het juichen vermeerderd, de vreugde groot gemaakt,- verheugen zullen zij zich voor uw aanschijn zoals er vreugde is in de oogst, zoals ze juichen wanneer ze het roofgoed verdelen.
+
 **9:3** Want het juk dat hem belast, de stang op zijn schouder, de stok van de drijver op hem,- hebt gij gebroken als op de dag van Midjan.
+
 **9:4** Want elke marsschoen die dreunend marcheert en elke mantel gewenteld in stromen bloed,- zal worden tot brandstof, vreetwaar voor vuur.
+
 **9:5** Want een kind is ons geboren, een zoon aan ons gegeven, nu komt de heerschappij op zijn schouder; men zal als naam voor hem roepen: wonderbare raadsman, heldhaftige God, vader voor immer, vredevorst!,
+
 **9:6** voor heerschappij over velen en vrede zonder einde op de troon van David en over diens koninkrijk, om dat te bevestigen en te schragen met recht en gerechtigheid,- van nu af en tot in eeuwigheid; de naijver van de Ene , de Omschaarde, zal dit doen!
-
-### Lucas 2:1-14
-
-**2:1** Maar het geschiedt in die dagen: er gaat een besluit uit van Caesar Augustus dat elke familie moet worden ingeschreven;
-**2:2** deze -eerste- inschrijving geschiedt als Quirinius landvoogd van Syrië is.
-**2:3** Allen zijn op reis gegaan om te worden ingeschreven, ieder naar zijn eigen stad.
-**2:4** Maar ook Jozef klimt op van Galilea, uit de stad Nazaret, naar Judea, naar de stad van David die Betlehem wordt geroepen, omdat hij is uit het huis en de vaderlijn van David,
-**2:5** om te worden ingeschreven samen met Maria, die aan hem uitgehuwelijkt is en zwanger is.
-**2:6** Maar het geschiedt als zij dáár zijn, dat de dagen vervuld zijn dat zij bevallen moet,
-**2:7** en zij bevalt van haar eerstgeboren zoon; zij wikkelt hem in doeken en legt hem omhoog in een kribbe, omdat er voor hen geen plaats is geweest in de herberg.
-**2:8** Er zijn in die landstreek herders geweest die in het open veld vertoevend door de nachtwaken heen waakten over hun kudde.
-**2:9** Dan staat een aankondig-engel van de Heer bij hen; glorie van de Heer omstraalt hen; ze worden bevreesd, in grote vrees.
-**2:10** De aankondig-engel zegt tot hen: vreest niet!, want zie, ik kondig u u aan: grote vreugde, die voor heel de gemeenschap wezen zal:
-**2:11** voor u is heden geboren een redder; hij is een Gezalfde, Heer,- in de stad van David;
-**2:12** dit is u ten teken: ge zult vinden een zuigeling in doeken gewikkeld en liggend in een kribbe!
-**2:13** Plotseling geschiedt het: bij de aankondig-engel is de veelheid van een hemelse strijdschaar; zij loven God en zeggen:
-**2:14** glorie aan God in den hoge, en op aarde vrede in mensen van welbehagen!
 
 ### Psalm 96
 
 **96:1** Zingt voor de Ene een nieuw gezang, zingt voor de Ene, heel de aarde!
+
 **96:2** Zingt voor de Ene, zegent zijn naam, boodschapt van dag tot dag zijn reddende werk!
+
 **96:3** Vertelt bij de volkeren zijn glorie, zijn wonderen bij alle gemeenschappen!
+
 **96:4** Want groot is de Ene en zeer te loven, te vrezen is hij boven alle goden.
+
 **96:5** Want alle goden der gemeenschappen zijn godjes van niks, de Ene is de Maker van de hemel.
+
 **96:6** Lichtglans en luister zijn voor zijn aanschijn, kracht en sieraad in zijn heiligdom!
+
 **96:7** Brengt aan de Ene, families van gemeenschappen, brengt aan de Ene glorie en kracht;
+
 **96:8** brengt aan de Ene de glorie van zijn naam, heft op een broodgift en komt naar zijn voorhoven.
+
 **96:9** Buigt voor de Ene in heilige luister, beeft voor zijn aanschijn, allen op aarde!
+
 **96:10** Zegt bij de volkeren: de Ene werd koning, vast staat nu de wereld, zij wankelt niet, hij oordeelt gemeenschappen met rechte maten!
+
 **96:11** Laat verheugd zijn de hemelen, laat juichen de aarde, laat donderen de zee en wat hem vervult!
+
 **96:12** Laat jubelen het veld en al wat daarop is, eens zullen juichen alle bomen van het woud!-
+
 **96:13** voor het aanschijn van de Ene, want hij komt, want hij komt om te richten de aarde, hij zal de wereld in gerechtigheid richten, gemeenschappen met zijn trouw!
 
 ### Titus 2:11-14
 
 **2:11** Want verschenen is Gods genade als redding voor alle mensen;
+
 **2:12** zij voedt ons op om met verzaking van de goddeloosheid en de wereldse verlangens bezonnen en rechtvaardig en godvruchtig in de huidige eeuw te leven,
+
 **2:13** in verwachting van de zalige hoop en verschijning in heerlijkheid van onze grote God en redder Christus Jezus,
+
 **2:14** die zichzelf ter wille van ons heeft gegeven om ons ‘te verlossen van alle ongerechtigheid’ (Ps. 130,8) en ‘zich een gemeente ten eigendom te reinigen’ (Ex. 19,5) , ijverig in goede werken.
 
+### Lucas 2:1-14
+
+**2:1** Maar het geschiedt in die dagen: er gaat een besluit uit van Caesar Augustus dat elke familie moet worden ingeschreven;
+
+**2:2** deze -eerste- inschrijving geschiedt als Quirinius landvoogd van Syrië is.
+
+**2:3** Allen zijn op reis gegaan om te worden ingeschreven, ieder naar zijn eigen stad.
+
+**2:4** Maar ook Jozef klimt op van Galilea, uit de stad Nazaret, naar Judea, naar de stad van David die Betlehem wordt geroepen, omdat hij is uit het huis en de vaderlijn van David,
+
+**2:5** om te worden ingeschreven samen met Maria, die aan hem uitgehuwelijkt is en zwanger is.
+
+**2:6** Maar het geschiedt als zij dáár zijn, dat de dagen vervuld zijn dat zij bevallen moet,
+
+**2:7** en zij bevalt van haar eerstgeboren zoon; zij wikkelt hem in doeken en legt hem omhoog in een kribbe, omdat er voor hen geen plaats is geweest in de herberg.
+
+**2:8** Er zijn in die landstreek herders geweest die in het open veld vertoevend door de nachtwaken heen waakten over hun kudde.
+
+**2:9** Dan staat een aankondig-engel van de Heer bij hen; glorie van de Heer omstraalt hen; ze worden bevreesd, in grote vrees.
+
+**2:10** De aankondig-engel zegt tot hen: vreest niet!, want zie, ik kondig u aan: grote vreugde, die voor heel de gemeenschap wezen zal:
+
+**2:11** voor u is heden geboren een redder; hij is een Gezalfde, Heer,- in de stad van David;
+
+**2:12** dit is u ten teken: ge zult vinden een zuigeling in doeken gewikkeld en liggend in een kribbe!
+
+**2:13** Plotseling geschiedt het: bij de aankondig-engel is de veelheid van een hemelse strijdschaar; zij loven God en zeggen:
+
+**2:14** glorie aan God in den hoge, en op aarde vrede in mensen van welbehagen!
+
 ---
 
-# Exegese Jesaja 9:1-6
+## Exegese Jesaja 9:1-6
 
-## 1. Afbakening en vertaling
+### 1. Afbakening en vertaling
 
-De perikoop Jesaja 9:1-6 (in de Hebreeuwse telling 8:23b-9:6) vormt een literair geheel dat de overgang markeert van de dreiging van de Assyrische invasie naar de hoop op een nieuwe Davidische koning. De afbakening is logisch omdat vers 1 een scherpe tegenstelling introduceert met de duisternis van hoofdstuk 8, en vers 6 eindigt met een plechtige bekrachtiging door de "naijver van de Ene".
+De perikoop Jesaja 9:1-6 (in sommige tellingen 8:23b-9:6) vormt een literair geheel dat gemarkeerd wordt door de overgang van de duisternis van de Assyrische dreiging naar het licht van de messiaanse belofte. De afbakening in het leesrooster is logisch, daar het de focus legt op de geboorte van het kind als keerpunt. De Naardense Bijbel vertaalt vers 1 met "De gemeenschap van wie voortgaan in het duister", wat de collectieve ervaring van het volk benadrukt. Waar de NBV21 spreekt over "het volk dat in duisternis wandelt", kiest Oussoren voor een meer dynamische weergave van het proces van 'voortgaan'. Een cruciaal vertaalverschil zit in vers 5: "heldhaftige God" (*’el gibbor*). Oudere vertalingen kozen vaak voor "Sterke God". De term *gibbor* verwijst echter naar een krijgsheld, wat een spanningsveld oproept met de titel "Vredevorst" aan het einde van het vers.
 
-In de Naardense Bijbel valt op dat vers 1 spreekt over de "gemeenschap van wie voortgaan in het duister". Waar de NBV21 kiest voor "het volk", benadrukt Oussoren met *gemeenschap* de collectieve identiteit. Een cruciaal vertaalverschil zit in vers 5: de Naardense Bijbel vertaalt de namen van het kind als een reeks titels, waarbij "heldhaftige God" (*el gibbor*) opvalt. Sommige exegeten (zoals Wildberger) wijzen erop dat dit niet noodzakelijkerwijs de goddelijkheid van het kind claimt in ontologische zin, maar de goddelijke kracht die in zijn heerschappij werkzaam is.
+### 2. Tekstkritiek
 
-## 2. Tekstkritiek
+De tekst van Jesaja 9 is in de Masoretische Tekst (MT) goed overgeleverd. In de Dode Zeerollen (1QIsa-a) zijn minieme varianten te vinden die de betekenis niet wezenlijk veranderen, maar wel de vroege datering van deze poëtische structuur bevestigen. Een bekend probleem is de overgang tussen hoofdstuk 8 en 9. De Septuaginta (LXX) wijkt hier en daar af in de titels van het kind, wat duidt op een vroege exegetische traditie die de titels probeerde te duiden binnen een hellenistisch-joodse context.
 
-De tekst van Jesaja 9 is in de Masoretische Tekst (MT) relatief goed bewaard gebleven. Een bekend tekstkritisch probleem bevindt zich in vers 2: *lo higdalta ha-simcha* ("u hebt de vreugde niet groot gemaakt"). De *Qere* (de gelezen traditie) corrigeert dit naar *lo* (met een *waw*), wat "voor hem/haar" betekent: "u hebt voor hen de vreugde groot gemaakt". De Naardense Bijbel volgt deze logische correctie, die ook in de Septuaginta (LXX) en de Pesjitta wordt ondersteund. Zonder deze correctie zou de tekst zichzelf tegenspreken.
+### 3. Woordstudie
 
-## 3. Woordstudie
+- **’Or (Licht):** In vers 1 is het licht niet slechts een natuurverschijnsel, maar een metafoor voor Gods reddende presentie. Het staat tegenover *chosjek* (duisternis), wat in de profetische literatuur vaak symbool staat voor ballingschap, oordeel en godverlatenheid.
 
-*   **Or (Licht):** In vers 1 staat *or gadol*. In de context van Jesaja is licht niet slechts een natuurverschijnsel, maar een metafoor voor verlossing en de aanwezigheid van God (vgl. Jes. 60:1).
+- **Yeled (Kind):** Het woord *yeled* in vers 5 duidt op een pasgeborene of een jong kind. De nadruk ligt op de kwetsbaarheid van het begin. De heerschappij rust op de schouder van een kind, wat een bewuste paradox is.
 
-*   **Yeled (Kind) / Ben (Zoon):** Het gebruik van beide termen in vers 5 benadrukt zowel de menselijke geboorte als de adoptie in de koninklijke waardigheid (Ps. 2:7).
+- **Misrah (Heerschappij):** Dit woord komt alleen hier en in vers 6 voor. Het duidt op een vorstelijke waardigheid die niet door geweld, maar door goddelijke aanstelling wordt verkregen.
 
-*   **Misrah (Heerschappij):** Een zeldzaam woord dat alleen hier en in vers 6 voorkomt. Het duidt op de uitoefening van gezag, letterlijk "het vorst-zijn".
+### 4. Literaire analyse
 
-*   **Sjalom (Vrede):** In vers 5 en 6 is dit niet slechts de afwezigheid van oorlog, maar *integriteit*, welzijn en een herstelde orde onder recht en gerechtigheid.
-
-## 4. Literaire analyse
-
-**Genre:** Dit is een profetisch heilsorakel, waarschijnlijk gemodelleerd naar een troonbestijgingslied of een koninklijke geboorteaankondiging.
+**Genre en vorm:** De tekst is een profetisch heilsorakel in poëtische vorm. Het vertoont kenmerken van een troonsbestijgingslied of een koningspsalm.
 **Structuur:**
-1.  Vers 1: De ommekeer van duisternis naar licht.
-2.  Vers 2-4: De redenen voor vreugde (bevrijding van het juk, einde van de oorlog).
-3.  Vers 5-6: De oorzaak van de bevrijding: de geboorte van de ideale koning en zijn eeuwige rijk.
-**Stijl:** De tekst maakt gebruik van sterke contrasten (duisternis/licht, juk/vrijheid, oorlogstuig/brandstof). De opeenstapeling van titels in vers 5 werkt toe naar een retorische climax.
 
-## 5. Directe context
+- 9:1-2: De ommekeer van duisternis naar licht en vreugde.
 
-Hoofdstuk 8 eindigt in diepe duisternis, honger en wanhoop als gevolg van de Assyrische dreiging. Hoofdstuk 9:1 breekt hier radicaal doorheen. De perikoop functioneert als het antwoord op de crisis van de Syro-Efraïmitische oorlog (ca. 734-732 v.Chr.). Waar de huidige koning (Achaz) faalt door op menselijke bondgenootschappen te vertrouwen, kondigt de profeet een koning aan die volledig op God steunt.
+- 9:3-4: De bevrijding van het juk en de vernietiging van oorlogstuig.
 
-## 6. Historische context
+- 9:5-6: De aankondiging van het kind en zijn titels.
+**Stijl:** De tekst maakt gebruik van sterke contrasten (duisternis/licht, juk/vrijheid, oorlog/vrede). Het parallellisme in de titels in vers 5 versterkt de plechtstatigheid van de proclamatie.
 
-De historische achtergrond is de expansie van het Assyrische Rijk onder Tiglatpileser III. De gebieden die in vers 1 (MT 8:23) worden genoemd — Zebulon en Naftali — waren de eerste gebieden die door Assyrië werden geannexeerd en tot provincies werden gemaakt. De "duisternis" is dus zeer concreet: militaire bezetting, deportatie en verlies van nationale identiteit. De belofte van een kind-koning (mogelijk Hizkia, de zoon van Achaz) bood de oorspronkelijke hoorders hoop op herstel van het Davidische rijk.
+### 5. Directe context
 
-## 7. Theologische analyse
+Jesaja 9 staat midden in het 'Boek van Immanuel' (Jesaja 7-12). Het volgt op de waarschuwingen tegen het raadplegen van doden en de dreiging van de Assyrische invasie (hoofdstuk 8). De tekst fungeert als een eschatologisch venster: midden in de politieke catastrofe van de 8e eeuw v.Chr. opent zich een perspectief op een nieuwe Davidische koning.
 
-De centrale boodschap is dat God ingrijpt in de politieke geschiedenis om zijn volk te bevrijden. Het Godsbeeld is dat van de "Omschaarde" (*JHWH Sebaot*), de God van de hemelse legermachten die de aardse machten ontmantelt. De mens wordt getekend als lijdend onder onderdrukking ("het juk"), maar ook als ontvanger van een onverdiend geschenk ("een kind is ons geboren"). De "naijver" (*qinah*) van God garandeert dat dit rijk van recht en gerechtigheid er zal komen; het is geen menselijk project, maar een goddelijk besluit.
+### 6. Historische context
 
-## 8. Gods- en mensbeelden (Snoek)
+De historische achtergrond is de Syro-Efraïmitische oorlog (ca. 734-732 v.Chr.). Koning Achaz van Juda werd bedreigd door Israël en Syrië en zocht steun bij Assyrië, wat leidde tot vazalschap en religieuze corruptie. De "dag van Midjan" (vers 3) verwijst naar de overwinning van Gideon (Rechters 7), een overwinning die niet door menselijke overmacht maar door goddelijk ingrijpen tot stand kwam. Dit is een directe kritiek op de militaire allianties van Achaz.
 
-**Godsbeeld in Jesaja 9**
-In Jesaja 9 ontmoeten we een God die primair handelt via **werkwoordelijke uitspraken** die zijn betrokkenheid bij de geschiedenis onderstrepen. Hij is degene die het licht doet stralen, de vreugde vermeerdert en het juk breekt. Dit Godsbeeld is enerzijds diep **overstijgend**: Hij is de "Ene, de Omschaarde", de ontwerper van een rijk dat "tot in eeuwigheid" zal duren. Zijn macht staat boven die van de Assyrische wereldmacht. Anderzijds is Hij opvallend **toebuigend**. Zijn handelen concentreert zich op de kwetsbaarheid van een "kind" en een "zoon". De spanning in deze tekst zit in het feit dat de almachtige God van de legerscharen zijn bevrijding niet realiseert door een nog groter leger, maar door de gave van een nieuw leven. De "naijver" van God is hier geen negatieve jaloezie, maar een vurige, gepassioneerde trouw aan zijn belofte en aan zijn volk. Voor de gemeente in Utrecht, die vaak leeft met een abstract of ver weg geplaatst Godsbeeld, presenteert Jesaja een God die de "marsschoen" en de "bloedige mantel" tot brandstof maakt — een God die de rauwe realiteit van geweld en onrecht niet negeert, maar actief beëindigt.
+### 7. Theologische analyse en Snoek-model
 
-**Mensbeeld in Jesaja 9**
-Het mensbeeld in deze perikoop beweegt zich langs de as van **lijden naar bevrijding**. De mens wordt aanvankelijk getekend als "gezeten in het land van de schaduw des doods". Dit is een mensbeeld van passiviteit en onderdrukking; men kan niet anders dan "voortgaan in het duister". De mens is hier het slachtoffer van de "stok van de drijver". Echter, zodra het licht straalt, verandert de positie van de mens radicaal naar een **gerichtheid op God** in vreugde en aanbidding ("verheugen zullen zij zich voor uw aanschijn"). Er is sprake van een collectieve karakterontwikkeling: van een verslagen gemeenschap naar een jubelende oogstgemeenschap. De mens wordt hier niet aangesproken op wat hij moet *doen* om de bevrijding te bewerkstelligen — de tekst zwijgt over menselijke inspanning — maar op zijn vermogen om de gave van God (het kind) te ontvangen. Het is een mensbeeld van afhankelijkheid dat wordt omgezet in waardigheid door de komst van de "Vredevorst".
+**Godsbeeld:**
+In Jesaja 9 domineert een God die handelt als actor in de geschiedenis (*werkwoordelijk*). Hij is degene die het licht doet stralen, de vreugde vermeerdert en het juk breekt. Tegelijkertijd is er een sterke *overstijgende* component: de "naijver van de Ene" (vers 6) is de drijvende kracht achter de heilsgeschiedenis. God wordt hier gepresenteerd als de "Omschaarde" (*Sebaoth*), de aanvoerder van de hemelse machten, die echter kiest voor een kind als instrument van zijn vrede. Er is een spanning tussen de "heldhaftige God" die oorlogstuig verbrandt en de "Vredevorst" die recht en gerechtigheid vestigt. Voor de hoorder in Utrecht 2025 betekent dit dat Gods macht zich niet manifesteert in de 'marsschoen' van de wereldmachten, maar in de kwetsbare continuïteit van een kind.
+
+**Mensbeeld:**
+De mens wordt hier getekend als iemand die "voortgaat in het duister". Dit is een beeld van existentiële en politieke desoriëntatie. De mens is passief in de bevrijding; het juk wordt *hem* afgenomen. De gerichtheid van de mens verandert van "zitten in de schaduw des doods" naar "verheugen voor Gods aanschijn". Het mensbeeld is hier dat van de *homo religiosus* die afhankelijk is van een ingreep van buitenaf om uit de cirkel van geweld en onderdrukking te breken.
 
 ---
 
-# Exegese Lucas 2:1-14
+## Exegese Psalm 96
 
-## 1. Afbakening en vertaling
+### 1. Afbakening en vertaling
 
-Lucas 2:1-14 is het hart van het geboorteverhaal. De perikoop begint met de wereldwijde context van het Romeinse Rijk (Augustus) en eindigt met de hemelse lofzang. De afbakening is klassiek; vers 15 markeert de overgang naar de reactie van de herders.
-In de Naardense Bijbel valt de vertaling van *oikoumenē* in vers 1 op als "elke familie" (met de voetnoot over het huizen-bestand). Dit is een eigenzinnige keuze van Oussoren; de meeste vertalingen kiezen voor "de hele wereld". Oussorens keuze benadrukt de administratieve greep van de macht op de kleinste eenheid van de samenleving: het huisgezin. In vers 7 vertaalt hij *katalyma* met "herberg", hoewel modern onderzoek (o.a. Kenneth Bailey) suggereert dat het hier gaat om het gastenverblijf van een woonhuis.
+Psalm 96 is een klassieke lofpsalm die de gehele schepping oproept tot aanbidding. De Naardense Bijbel vertaalt vers 5 scherp: "godjes van niks" (*’elilim*), een woordspel op *’elohim* (God). Waar de goden van de volkeren nietig zijn, is de Ene de Maker van de hemel. De afbakening is de volledige psalm, wat essentieel is voor de beweging van de individuele lofzang naar het kosmische oordeel.
 
-## 2. Tekstkritiek
+### 2. Tekstkritiek
 
-Een cruciaal punt is vers 14. De MT-traditie (en de Textus Receptus) leest *eudokia* (nominatief: "welbehagen"), wat leidt tot de vertaling "in mensen een welbehagen". De oudste en beste handschriften (Sinaiticus, Vaticanus) lezen echter *eudokias* (genitief: "van welbehagen"). Dit betekent: "vrede op aarde voor mensen van [Gods] welbehagen". De Naardense Bijbel volgt deze laatste lezing. Dit is theologisch significant: de vrede is niet een algemeen menselijk gevoel, maar een geschenk aan hen op wie Gods genadige keuze rust.
+De psalm is nagenoeg identiek aan 1 Kronieken 16:23-33, waar hij wordt toegeschreven aan David bij het overbrengen van de ark naar Jeruzalem. Dit onderstreept de liturgische functie van de tekst als troonsbestijgingslied van JHWH.
 
-## 3. Woordstudie
+### 3. Woordstudie
 
-*   **Apographē (Inschrijving):** Meer dan een volkstelling; het was een instrument voor belastingheffing en controle door de bezetter.
+- **Sjir chadasj (Nieuw gezang):** Dit duidt niet alleen op een nieuwe compositie, maar op een nieuwe heilsfase. Het 'nieuwe' is de reactie op een nieuwe daad van God.
 
-*   **Sōtēr (Redder):** Een titel die in de Grieks-Romeinse wereld direct concurreerde met de keizercultus. Augustus werd geëerd als *sōtēr* van de wereld.
+- **Tebèl (Wereld):** In vers 10 staat dat de *tebèl* vaststaat. Dit verwijst naar de bewoonbare wereld, de geordende schepping die door Gods koningschap wordt behoed voor chaos.
 
-*   **Phatnē (Kribbe):** Een voederbak. Het contrast met de koninklijke geboorteplaatsen is maximaal.
+### 4. Literaire analyse
 
-*   **Evangelizomai (Ik verkondig u):** De engel brengt een "evangelie", een term die ook werd gebruikt voor de geboortedag of overwinningen van de keizer.
-
-## 4. Literaire analyse
-
-**Genre:** Narratieve geboortegeschiedenis met hymmische elementen.
+**Genre:** Hymne / Troonsbestijgingspsalm.
 **Structuur:**
-1.  Vers 1-3: De wereldlijke macht (Augustus).
-2.  Vers 4-7: De nederige geboorte (Jozef, Maria, het kind).
-3.  Vers 8-12: De hemelse boodschap aan de herders.
-4.  Vers 13-14: De kosmische lofzang.
-**Stijl:** Lucas gebruikt een techniek van *syncrisis* (vergelijking). Hij plaatst de grote keizer Augustus tegenover het kleine kind in de kribbe. De retoriek is er een van omkering: de werkelijke vrede komt niet van de keizerlijke *Pax Romana*, maar van de hemelse *Pax Christiana*.
 
-## 5. Directe context
+- 1-3: Oproep aan Israël en de volkeren.
 
-Lucas 2 volgt op de aankondigingen aan Zacharias en Maria in hoofdstuk 1. Het vormt de vervulling van de beloften die in het *Magnificat* en het *Benedictus* zijn bezongen. De nadruk op de "stad van David" legt de link met de oudtestamentische messiaanse verwachting (Micha 5:1).
+- 4-6: De grootheid van God tegenover de afgoden.
 
-## 6. Historische context
+- 7-9: Oproep aan de families der volkeren.
 
-De historische betrouwbaarheid van de volkstelling onder Quirinius is een punt van debat, aangezien Quirinius pas in 6 n.Chr. landvoogd werd. Lucas lijkt echter de geboorte van Jezus te willen inbedden in de wereldgeschiedenis. De politieke situatie was die van een bezet land onder een efficiënt, bureaucratisch Romeins regime dat door middel van inschrijvingen zijn macht consolideerde.
+- 10-13: De proclamatie van Gods koningschap en het komende oordeel.
+**Stijl:** De psalm is rijk aan imperatieven (zingt, zegent, boodschapt, vertelt). De personificatie van de natuur in de verzen 11-12 (de zee die dondert, de bomen die juichen) geeft de tekst een universeel en ecologisch karakter.
 
-## 7. Oudtestamentische achtergrond
+### 5. Historische context
 
-De "kribbe" doet denken aan Jesaja 1:3 ("Een rund kent zijn bezitter en een ezel de kribbe van zijn heer, maar Israël heeft geen begrip"). De herders roepen beelden op van David, de herder-koning. De "heerlijkheid van de Heer" (*doxa*) is de *Sjekina*, de tastbare aanwezigheid van God die vroeger de tabernakel en de tempel vulde.
+Hoewel de psalm verbonden wordt met David, weerspiegelt de theologie van de universele erkenning van JHWH vaak de periode na de ballingschap (Tweede Tempelperiode). Het is een tijd waarin Israël temidden van de wereldmachten belijdt dat hun God de werkelijke Koning is.
 
-## 8. Jezusbeeld (Snoek)
+### 6. Theologische analyse en Snoek-model
 
-In Lucas 2:1-14 wordt een Jezusbeeld geschetst dat een enorme spanning vertoont tussen de verschillende assen van het model van Snoek.
+**Godsbeeld:**
+God wordt hier primair *metaforisch* beschreven als Koning en Maker. Zijn eigenschappen zijn zowel *overstijgend* (lichtglans, luister, kracht) als *toebuigend* (hij oordeelt met rechte maten en trouw). De spanning in deze psalm ligt in het feit dat God "komt om te richten". In de moderne oren klinkt 'oordeel' vaak negatief, maar in Psalm 96 is het oordeel de herstelling van de gerechtigheid. God is de rechter die de wereld weer 'vast' zet. Voor de hoorder in Utrecht, die geconfronteerd wordt met mondiale instabiliteit, biedt dit beeld van een God die de chaos begrenst een diep fundament.
 
-**Van beneden (mens)**: Dit perspectief is in deze perikoop dominant aanwezig. Jezus wordt getekend in zijn uiterste kwetsbaarheid: een "eerstgeboren zoon", een "zuigeling", "in doeken gewikkeld" en "liggend in een kribbe". Er is geen sprake van paleizen of goddelijke onkwetsbaarheid. Hij is volledig onderworpen aan de menselijke geschiedenis, inclusief de bureaucratie van Augustus. Dit beeld van beneden benadrukt de *incarnatie*: God wordt werkelijk vlees, onderworpen aan kou, honger en de noodzaak van verzorging.
-
-**Van boven (Zoon van God)**: Tegelijkertijd wordt dit kind door de engel geduid met de hoogste titels: "Redder", "Gezalfde" (Messias) en "Heer" (*Kyrios*). De "glorie van de Heer" omstraalt de gebeurtenis. Het kind is niet slechts een mens, maar de drager van de goddelijke heerschappij. De spanning tussen de kribbe (beneden) en de glorie (boven) is het hart van het kerstevangelie.
-
-**Van achteren (Jood)**: Jezus is diep geworteld in de traditie van Israël. Hij wordt geboren in de "stad van David", uit de "vaderlijn van David". Hij is de vervulling van de Schriften. Zijn komst is geen breuk met het verleden, maar de climax van Gods weg met zijn volk.
-
-**Van voren (Koninkrijk)**: De aankondiging van "vrede op aarde" wijst vooruit naar de eschatologische horizon van het Koninkrijk van God. Dit kind is de "aankondiger" van een nieuwe orde die de macht van Augustus relativeert. Voor de hoorder in Utrecht betekent dit Jezusbeeld dat God niet gezocht moet worden in de structuren van macht en succes, maar in de marge, in de kwetsbaarheid die desondanks de drager is van de hoogste goddelijke autoriteit.
+**Mensbeeld:**
+De mens wordt hier aangesproken als onderdeel van de "families van gemeenschappen". Er is geen onderscheid tussen Israël en de volkeren in de plicht tot aanbidding. De mens is "gericht op God" door het brengen van een "broodgift" en het "beven voor zijn aanschijn". Tegelijkertijd is de mens "gericht op de wereld" door het boodschappen van Gods reddende werk. Het mensbeeld is dat van de 'liturgische mens' wiens hoogste bestemming het erkennen van de werkelijkheid van God is.
 
 ---
 
-# Exegese Psalm 96
+## Exegese Titus 2:11-14
 
-## 1. Afbakening en vertaling
+### 1. Afbakening en vertaling
 
-Psalm 96 is een zogeheten 'troonbestijgingspsalm' of 'JHWH-koningspsalm'. De afbakening in het leesrooster (de gehele psalm) is noodzakelijk om de beweging van de universele lofzang naar het komende oordeel te vatten. De Naardense Bijbel vertaalt vers 5 scherp: "godjes van niks" voor *elilim*. Dit woordspel in het Hebreeuws (*elohim* vs. *elilim*) benadrukt de nietigheid van de afgoden tegenover de Maker van de hemel.
+Titus 2:11-14 vormt de dogmatische kern van de brief. Het is een compacte samenvatting van het christelijk geloof in een ethische context. De Naardense Bijbel vertaalt *epephanè* met "verschenen is", wat direct aansluit bij het thema van Epifanie. Een belangrijk detail is vers 12: de genade "voedt ons op" (*paideuousa*). Genade is hier geen statisch bezit, maar een actieve, opvoedende kracht.
 
-## 2. Literaire analyse
+### 2. Woordstudie
 
-**Genre:** Hymne / JHWH-koningspsalm.
+- **Charis (Genade):** In deze context is genade de personificatie van Gods reddende handelen in Christus.
+
+- **Epiphaneia (Verschijning):** Dit woord werd in de Grieks-Romeinse wereld gebruikt voor de komst van een keizer of de manifestatie van een godheid. De auteur claimt dit woord voor Christus.
+
+- **Sōtērios (Redding/Heilzaam):** De genade is verschenen als redding voor *alle* mensen, wat de exclusiviteit van de Romeinse keizercultus doorbreekt.
+
+### 3. Literaire analyse
+
+**Genre:** Brief (paranese/vermaning). De perikoop heeft het karakter van een vroege christelijke belijdenis of hymne.
 **Structuur:**
-1.  Vers 1-3: Oproep tot lofzang (universeel).
-2.  Vers 4-6: De grootheid van JHWH versus de afgoden.
-3.  Vers 7-9: Oproep aan de volkeren om JHWH te eren.
-4.  Vers 10-13: De komst van JHWH als koning en rechter.
-**Stijl:** De psalm is rijk aan parallellismen en antropomorfismen (de zee die dondert, de bomen die juichen). De retoriek is die van een kosmische proclamatie.
 
-## 3. Theologische analyse
+- Vers 11: De basis (het verleden): de verschijning van de genade.
 
-De centrale boodschap is de universele heerschappij van God. Hij is niet slechts de God van Israël, maar de "Maker van de hemel". Het Godsbeeld is dat van de rechtvaardige Rechter die komt om de wereld te "richten" (*sjaphat*). Dit richten is in de psalmen geen angstaanjagend juridisch proces, maar een herstel van de orde: het rechtzetten van wat krom is. De schepping (zee, veld, woud) deelt in deze vreugde, wat een ecologische dimensie aan de tekst geeft.
+- Vers 12: De uitwerking (het heden): de ethische opvoeding.
 
-## 4. Gods- en mensbeelden (Snoek)
+- Vers 13: De hoop (de toekomst): de verwachting van de heerlijkheid.
 
-**Godsbeeld in Psalm 96**
-Het Godsbeeld in Psalm 96 is overwegend **overstijgend** en wordt gekenmerkt door **metaforische uitspraken**. God is de "Koning" en de "Maker van de hemel". Zijn eigenschappen zijn "lichtglans", "luister", "kracht" en "sieraad". Hij staat ver boven de "godjes van niks". Echter, deze overstijgende God is ook een handelende God (**werkwoordelijke uitspraken**): Hij "oordeelt", Hij "komt", Hij "richt". De spanning in deze psalm ligt in het feit dat de God die de kosmos overstijgt, tegelijkertijd degene is die de aarde bezoekt om recht te doen. Zijn "trouw" (*emuna*) is de basis van zijn oordeel. Voor de hoorder is dit een troostrijk Godsbeeld: de wereld wankelt niet omdat zij in de handen van deze Koning rust.
+- Vers 14: Het doel: de reiniging van een eigen volk.
 
-**Mensbeeld in Psalm 96**
-De mens wordt in deze psalm aangesproken als onderdeel van de "families van gemeenschappen". Het mensbeeld is primair **gericht op God** in aanbidding en getuigenis ("vertelt bij de volkeren zijn glorie"). De mens wordt opgeroepen tot **goed doen** door de erkenning van Gods naam en het brengen van een "broodgift". Er is een sterke horizontale as: de erkenning van God leidt tot een universele solidariteit tussen de volkeren. De mens is hier niet een autonoom individu, maar een liturgisch wezen dat zijn bestemming vindt in het prijzen van de Schepper.
+### 4. Historische context
 
----
+De brief aan Titus is gericht aan een gemeente op Kreta, een omgeving die in de oudheid bekend stond om haar morele laksheid. De tekst probeert een christelijke levensstijl te definiëren die getuigt van het geloof in een hellenistische cultuur. De nadruk op "bezonnenheid" (*sōphronōs*) was een klassieke Griekse deugd die hier een christelijke invulling krijgt.
 
-# Exegese Titus 2:11-14
+### 5. Oudtestamentische achtergrond
 
-## 1. Afbakening en vertaling
+Vers 14 bevat duidelijke toespelingen op Psalm 130:8 ("verlossen van alle ongerechtigheid") en Exodus 19:5 ("een volk als eigen bezit"). De kerk wordt hier gepresenteerd als het nieuwe Israël, dat door het offer van Christus is vrijgekocht.
 
-Deze perikoop vormt een theologische samenvatting van het christelijk leven. De afbakening is scherp: vers 11 begint met "Want" (*gar*), wat de voorgaande ethische vermaningen fundeert in de genade.
-In de Naardense Bijbel valt op dat vers 12 spreekt over "bezonnen en rechtvaardig en godvruchtig" leven. Het Griekse *sōphronōs* (bezonnen/beheerst) is een kernbegrip in de pastorale brieven en duidt op een levensstijl die getuigt van innerlijke orde.
+### 6. Theologische analyse en Snoek-model
 
-## 2. Woordstudie
-
-*   **Epephanē (Verschenen):** Hier komt ons woord 'epifanie' vandaan. Het duidt op de zichtbare verschijning van een godheid of een koning.
-
-*   **Paideuousa (Opvoeden/Voeden):** Genade is hier geen passief begrip, maar een actieve opvoeder die de gelovige traint in een nieuwe levensstijl.
-
-*   **Periousios (Ten eigendom):** Een directe verwijzing naar de status van Israël als Gods kostbare bezit (Ex. 19:5).
-
-## 3. Theologische analyse
-
-De tekst verbindt de eerste verschijning van Christus (de incarnatie, vers 11) met de toekomstige verschijning (de wederkomst, vers 13). De "tussentijd" waarin de gemeente leeft, wordt gekenmerkt door een ethiek van de genade. Het Godsbeeld is dat van de "Redder" die zichzelf geeft om te verlossen. De mens wordt getekend als iemand die "opvoeding" nodig heeft, weg van de "wereldse verlangens" naar een leven van "goede werken".
-
-## 4. Jezusbeeld (Snoek)
-
-In Titus 2:11-14 zien we een Jezusbeeld dat sterk gericht is op de assen **van boven** en **van voren**.
-
-**Van boven**: Jezus wordt expliciet "onze grote God en redder" genoemd. Zijn goddelijke status staat buiten kijf. Hij is de bron van de genade die redding brengt voor alle mensen. Zijn zelfgave (vers 14) wordt gezien als een goddelijke daad van verlossing.
-
-**Van voren**: Er is een sterke eschatologische gerichtheid. De gemeente leeft "in verwachting van de zalige hoop". Jezus is degene die zal verschijnen in heerlijkheid. Dit geeft het huidige leven een dynamisch karakter: het is een voorbereiding op wat komt.
-
-**Van achteren**: Hoewel minder expliciet dan in Lucas, klinkt de Joodse achtergrond door in de term "volk ten eigendom" en de citaten uit de Psalmen en Exodus. Jezus is degene die de beloften aan Israël universaliseert voor "alle mensen".
-
-**Van beneden**: De menselijkheid van Jezus wordt hier verondersteld in zijn "zichzelf geven", wat verwijst naar zijn lijden en dood. Voor de hoorder in Utrecht biedt dit beeld een krachtig fundament voor de ethiek: genade is niet vrijblijvend, maar vormt de mens om tot een "ijveraar in goede werken".
+**Jezusbeeld:**
+In Titus 2 zien we een Jezusbeeld dat sterk "van boven" en "van voren" is georiënteerd. Hij is de "grote God en redder", een titel die zijn goddelijke identiteit onderstreept. Tegelijkertijd is hij degene die "zichzelf heeft gegeven", wat wijst op zijn mensheid en offer ("van beneden"). De spanning zit in de "zalige hoop": Jezus is de komende Heer die de huidige eeuw begrenst. Voor de hoorder in 2025, die leeft in een tijd van 'wereldse verlangens' en consumptisme, biedt dit beeld van Christus als 'opvoeder' een kritisch tegenwicht. De genade is niet vrijblijvend, maar vormt een nieuwe mens die "ijverig is in goede werken".
 
 ---
 
-# Samenhang van de lezingen
+## Exegese Lucas 2:1-14
 
-De rode draad door deze vier lezingen is de **beweging van duisternis naar licht** en van **belofte naar verschijning**.
+### 1. Afbakening en vertaling
 
-*   **Jesaja 9** geeft de profetische blauwdruk: in de diepste politieke en existentiële duisternis belooft God een kind dat de vrede zal herstellen.
+Lucas 2:1-14 is het hart van het geboorteverhaal. De afbakening eindigt bij de lofzang van de engelen, wat de overgang markeert van de aardse omstandigheden naar de hemelse duiding. De Naardense Bijbel vertaalt *oikoumenè* in vers 1 met "elke familie" (letterlijk: het hele huizenbestand), wat de nadruk legt op de administratieve grip van Rome op het persoonlijke leven. Vers 7 bevat de beroemde *phatnè* (kribbe/voederbak). Oussoren vertaalt "legt hem omhoog in een kribbe", wat suggereert dat de kribbe wellicht een verhoogde voederbak was in een woonvertrek waar ook dieren verbleven.
 
-*   **Psalm 96** bezingt de kosmische vreugde over de heerschappij van deze God, die komt om de aarde in gerechtigheid te richten.
+### 2. Tekstkritiek
 
-*   **Lucas 2** vertelt de concrete, historische vervulling: de beloofde Vredevorst verschijnt niet in keizerlijke pracht, maar in de kwetsbaarheid van een kribbe, herkend door de marginalen (herders).
+In vers 14 is er een bekende variant: *eudokias* (genitief) versus *eudokia* (nominatief). De oudste en beste handschriften (Sinaiticus, Vaticanus) hebben de genitief: "vrede onder mensen van het welbehagen" (mensen op wie Gods welbehagen rust). Dit benadrukt dat de vrede een geschenk van God is aan degenen die Hij uitkiest, in plaats van een algemene menselijke goede wil.
 
-*   **Titus 2** trekt de theologische en ethische conclusies: de verschijning van deze genade is een redding voor alle mensen en roept op tot een nieuwe, bezonnen levensstijl in de huidige tijd.
+### 3. Woordstudie
 
-Samen corrigeren de teksten een te sentimentele kerstviering. Ze plaatsen de geboorte van Jezus midden in de spanning van machtspolitiek (Augustus/Assyrië), kosmisch recht (Psalm 96) en ethische transformatie (Titus). De lutherse focus op de *vrolijke ruil* vindt in al deze teksten een fundament: de God van de legerscharen (Jesaja) en de Maker van de hemel (Psalm) wordt een zuigeling in doeken (Lucas) om ons te verlossen van alle ongerechtigheid (Titus).
+- **Apographè (Inschrijving/Volkstelling):** Dit was een instrument van imperiale macht voor belastingheffing en militaire dienst. Het zet de toon voor de politieke context.
 
-# Receptiegeschiedenis
+- **Sōtēr (Redder):** Een titel die zowel voor de keizer als voor God werd gebruikt. In vers 11 wordt deze titel geclaimd voor het kind in de kribbe.
 
-De interpretatie van Jesaja 9:5 is in de christelijke traditie onlosmakelijk verbonden met de christologie. Waar de joodse exegese (zoals Rashi) de titels vaak betrekt op God zelf die het kind namen geeft, heeft de kerkvader Hiëronymus de titels direct op Christus toegepast. In de lutherse traditie is vooral de titel "Vredevorst" centraal komen te staan in de context van de innerlijke vrede van het geweten.
-Lucas 2:7 ("geen plaats in de herberg") heeft in de receptiegeschiedenis geleid tot talloze preken over de gastvrijheid van het menselijk hart, hoewel de tekst historisch-kritisch gezien eerder wijst op de overbevolking van familiehuizen tijdens een census dan op een morele afwijzing door een herbergier. De "herders" zijn in de loop der eeuwen gesymboliseerd als de eersten die het evangelie verstaan
+- **Evangelizomai (Ik verkondig/breng de goede boodschap):** De engel gebruikt de taal van de keizerlijke overwinningsberichten om de geboorte van Jezus aan te kondigen.
+
+### 4. Literaire analyse
+
+**Genre:** Geboortenarratief met hymmische elementen.
+**Structuur:**
+
+- 1-5: De politieke context en de reis naar Betlehem.
+
+- 6-7: De geboorte in armoede.
+
+- 8-12: De verschijning aan de herders en de boodschap.
+
+- 13-14: Het hemelse koor.
+**Plot:** De spanning wordt opgebouwd door het contrast tussen de wereldmacht (Augustus) en de marginale geboorte. De climax is de engelenzang, de ontknoping is de feitelijke vondst van het kind (in de verzen na de perikoop).
+
+### 5. Historische context
+
+**Augustus en Quirinius:** Caesar Augustus (31 v.Chr.
+
+- 14 n.Chr.) stond bekend als de brenger van de *Pax Romana*. Lucas plaatst de geboorte van de werkelijke Vredevorst lijnrecht tegenover deze keizerlijke vrede. De kwestie Quirinius is historisch complex, daar zijn landvoogdschap over Syrië pas in 6 n.Chr. begon. Lucas gebruikt deze namen waarschijnlijk om de geboorte te verankeren in de wereldgeschiedenis en de impact van de Romeinse bezetting te schetsen.
+**De herders:** In de 1e eeuw stonden herders sociaal laag aangeschreven; hun werk maakte hen ceremonieel onrein en ze werden vaak gewantrouwd. Dat zij de eerste getuigen zijn, is een krachtig theologisch statement over de omkering van waarden.
+
+### 6. Oudtestamentische achtergrond
+
+De "stad van David" en de "vaderlijn van David" verbinden Jezus direct met de messiaanse beloften uit 2 Samuel 7 en Jesaja 11. De kribbe kan een toespeling zijn op Jesaja 1:3: "Een rund kent zijn bezitter en een ezel de kribbe van zijn heer, maar Israël heeft geen begrip."
+
+### 7. Theologische analyse en Snoek-model
+
+**Jezusbeeld:**
+In Lucas 2 komt een Jezusbeeld naar voren dat alle assen van het model van Snoek raakt.
+
+- **Van achteren:** Hij is de zoon van David, de vervulling van Israëls hoop.
+
+- **Van beneden:** Hij is de "zuigeling in doeken gewikkeld", volledig mens, kwetsbaar en afhankelijk. De kribbe is het ultieme symbool van zijn mensheid "van beneden".
+
+- **Van boven:** Hij is de "Gezalfde, Heer" (*Christos Kyrios*), wiens geboorte door engelen wordt gevierd. De "glorie van de Heer" omstraalt de gebeurtenis.
+
+- **Van voren:** Hij brengt "vrede op aarde", het eschatologische heil dat nu reeds begint.
+De spanning tussen de keizerlijke pretentie van Augustus en de realiteit van de kribbe dwingt de hoorder tot een keuze: waar wordt de werkelijke macht gevonden? Voor de hoorder in Utrecht 2025, die leeft in een stad van status en succes, is dit beeld van een 'God in doeken' een radicale herdefinitie van goddelijkheid.
+
+**Mensbeeld:**
+De mensen in dit verhaal zijn ofwel de machthebbers die bevelen geven (Augustus), ofwel degenen die gehoorzamen en op reis gaan (Jozef en Maria), ofwel de marginalen in het veld (de herders). De herders vertegenwoordigen de mens die "bevreesd" is voor het heilige, maar die door de boodschap wordt getransformeerd tot getuige. Het mensbeeld is dat van de 'ontvanger': de mens kan het heil niet bewerken, hij kan het slechts vinden als een "teken" in een voederbak.
+
+---
+
+## Samenhang van de lezingen
+
+De rode draad door deze vier lezingen is de **paradox van de macht**.
+
+- **Jesaja 9** spreekt over een kind dat de heerschappij draagt en oorlogstuig vernietigt. De macht van God is een bevrijdende macht die het juk breekt.
+
+- **Psalm 96** bezingt God als de Maker en Rechter die de wereld vastzet. De schepping juicht omdat de rechtvaardigheid hersteld wordt.
+
+- **Titus 2** duidt de verschijning van Christus als de komst van de genade die ons opvoedt. De macht van God is hier een vormende, ethische kracht.
+
+- **Lucas 2** concretiseert dit alles in de geboorte van Jezus. De keizerlijke macht van Rome wordt geflankeerd door de hemelse macht van de engelen, maar het middelpunt is een kwetsbaar kind in een kribbe.
+
+De teksten versterken elkaar in de beweging van belofte (Jesaja) naar lofprijzing (Psalm) naar ethische consequentie (Titus) en historische realisatie (Lucas). De "vrede" waar Jesaja en Lucas over spreken, is niet de afwezigheid van conflict, maar de aanwezigheid van Gods gerechtigheid (*sjalom*) in een gebroken wereld.
+
+---
+
+## Receptiegeschiedenis
+
+De interpretatie van deze teksten is door de eeuwen heen bepalend geweest voor de christologie.
+
+- **De Vroege Kerk** zag in de titels van Jesaja 9 de pre-existentie van het Woord (Logos). De kribbe in Lucas werd door de kerkvaders (zoals Origenes) uitgelegd als een altaar: Christus is het brood des levens dat in de voederbak ligt voor de mensheid.
+
+- **Maarten Luther** legde in zijn kerstpreken grote nadruk op de *humilitas* (nederigheid) van Christus. Hij stelde dat God zich "in het vlees wikkelt" om ons te bereiken. Voor Luther was de kribbe het bewijs dat God niet in de filosofie of de hoge speculatie te vinden is, maar in de laagte van het menselijk bestaan.
+
+- **In de moderne tijd** is de politieke dimensie van Lucas 2 herontdekt. Bevrijdingstheologen wijzen op de volkstelling en de herders als bewijs voor Gods voorkeursoptie voor de armen. De "vrede op aarde" wordt in de 20e en 21e eeuw vaak verbonden met de strijd tegen kernbewapening en ecologische gerechtigheid, waarbij Psalm 96 fungeert als een pleidooi voor de integriteit van de schepping.
+
+De spanning tussen de 'zoete' kerstidylle en de rauwe politieke en existentiële werkelijkheid van de teksten blijft het centrale punt in de homiletische verwerking. De teksten weigeren zich te laten opsluiten in een sentimenteel kader; ze spreken over jukken die breken, goden die niks zijn, genade die tuchtigt en een redder die in een voederbak ligt omdat de wereld geen plaats voor hem heeft.
