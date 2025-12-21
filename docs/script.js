@@ -31,7 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '09_focus_en_functie.md',
         '10_kalender.md',
         '11_representatieve_hoorders.md',
-        '12_homiletische_analyse.md'
+        '12_homiletische_analyse.md',
+        '13_gebeden.md'
     ];
 
     // Readable labels for section menu
@@ -48,7 +49,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '09_focus_en_functie.md': 'Focus & Functie',
         '10_kalender.md': 'Kalender',
         '11_representatieve_hoorders.md': 'Representatieve Hoorders',
-        '12_homiletische_analyse.md': 'Homiletische Analyse'
+        '12_homiletische_analyse.md': 'Homiletische Analyse',
+        '13_gebeden.md': 'Gebeden'
     };
 
     // Current active municipality for submenu
