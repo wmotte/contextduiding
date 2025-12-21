@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 """
-Verdieping: Exegese en Kunst/Cultuur voor Preekvoorbereiding
+Verdieping: Exegese, Kunst/Cultuur en Homiletiek voor Preekvoorbereiding
 
 Dit script bouwt voort op de basisanalyse van contextduiding.py en voegt toe:
 - 07_exegese: Exegetische analyse van de Schriftlezingen
 - 08_kunst_cultuur: Kunst, cultuur en film bij de lezingen
+- 09_focus_en_functie: Focus en functie van de preek
+- 10_kalender: Gedenkdagen en bijzondere momenten
+- 11_representatieve_hoorders: Hoordersprofielen
+- 12_homiletische_analyse: Homiletische analyse (Lowry's Plot)
+- 13_gebeden: Gebeden voor de eredienst
 
 Het leest de output van de vorige analyses (00-06) en gebruikt deze als context.
 Voor de exegese worden de bijbelteksten opgehaald van naardensebijbel.nl.
@@ -102,7 +107,7 @@ def select_folder() -> Path:
     for i, folder in enumerate(folders, 1):
         # Tel bestaande analyses
         existing = []
-        for num in range(13):
+        for num in range(14):
             pattern = f"{num:02d}_*.md"
             if list(folder.glob(pattern)):
                 existing.append(f"{num:02d}")
@@ -143,6 +148,7 @@ def read_previous_analyses(folder: Path) -> dict:
         ("10_kalender.md", "kalender"),
         ("11_representatieve_hoorders.md", "representatieve_hoorders"),
         ("12_homiletische_analyse.md", "homiletische_analyse"),
+        ("13_gebeden.md", "gebeden"),
     ]
 
     for filename, key in files_to_read:
@@ -262,6 +268,10 @@ def build_context_string(previous_analyses: dict, limited: bool = False) -> str:
     if previous_analyses.get("homiletische_analyse"):
         sections.append("## Homiletische Analyse\n\n" +
                        previous_analyses["homiletische_analyse"])
+
+    if previous_analyses.get("gebeden"):
+        sections.append("## Gebeden\n\n" +
+                       previous_analyses["gebeden"])
 
     return "\n\n---\n\n".join(sections)
 
@@ -450,6 +460,7 @@ def update_summary(output_dir: Path):
         ("10_kalender", "Kalender"),
         ("11_representatieve_hoorders", "Representatieve Hoorders"),
         ("12_homiletische_analyse", "Homiletische Analyse (Lowry's Plot)"),
+        ("13_gebeden", "Gebeden voor de Eredienst"),
     ]
 
     for name, title in new_analyses:
@@ -542,6 +553,7 @@ def main():
         ("10_kalender", "Kalender: Gedenkdagen en Bijzondere Momenten"),
         ("11_representatieve_hoorders", "Representatieve Hoorders"),
         ("12_homiletische_analyse", "Homiletische Analyse (Lowry's Plot)"),
+        ("13_gebeden", "Gebeden voor de Eredienst"),
     ]
 
     # Mapping van oude naar nieuwe bestandsnamen (voor backwards compatibility)

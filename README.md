@@ -4,7 +4,13 @@
 
 # Contextduiding voor Preekvoorbereiding
 
-Dit is een tool die een uitgebreide hoordersanalyse uitvoert voor protestantse preekvoorbereiding in de PKN, gebaseerd op de homiletische methodiek van De Leede & Stark (2017).
+Een hulpmiddel voor protestantse preekvoorbereiding in de PKN dat twee functies combineert:
+
+1. **Hoordersanalyse** — Uitgebreide contextanalyse gebaseerd op de homiletische methodiek van De Leede & Stark (2017): sociaal-maatschappelijke context, waardenoriëntatie, geloofsoriëntatie, actueel nieuws en politieke oriëntatie.
+
+2. **Liturgische bouwstenen** — Concrete aanzetten voor de eredienst: liedsuggesties uit het Liedboek, exegese van de Schriftlezingen, kunst en cultuur bij de lezingen, een preekschets volgens Lowry's narratieve methode, en vijf gebeden (drempelgebed, kyrie, epiclese, dankgebed, voorbeden).
+
+Het script brengt deze elementen samen in een coherent geheel, waarbij de lokale context, de Schriftlezingen en de liturgische tijd op elkaar worden afgestemd.
 
 ## ⚠️ Beperkingen en waarschuwingen
 
@@ -51,7 +57,13 @@ In de `output/` map staan concrete voorbeelden van gegenereerde analyses:
 
 ## 📖 Achtergrond
 
-Friedrich Niebergall constateerde: *"Menige preek geeft antwoorden op vragen die niemand stelt, en gaat niet in op vragen die iedereen stelt."* Dit script helpt predikanten om hun hoorders beter te kennen door systematisch de context in kaart te brengen.
+Friedrich Niebergall constateerde: *"Menige preek geeft antwoorden op vragen die niemand stelt, en gaat niet in op vragen die iedereen stelt."*
+
+Dit script helpt predikanten op twee manieren:
+- **Kennen:** Systematisch de context in kaart brengen — wie zijn de hoorders, wat houdt hen bezig, welke vragen leven er?
+- **Vormgeven:** Concrete bouwstenen aanreiken voor de liturgie — van liedkeuze tot gebeden, van exegese tot preekschets.
+
+De analyses en suggesties zijn geen kant-en-klare producten, maar *aanzetten* die de predikant kan gebruiken, aanpassen of terzijde leggen. Het eigenlijke werk — de ontmoeting tussen Woord en gemeente — blijft mensenwerk.
 
 ## 🔍 Wat doet dit script?
 
@@ -72,7 +84,7 @@ De liturgische context uit fase 1 wordt meegegeven aan alle analyses in fase 2, 
 
 ### 📚 Verdieping (verdieping.py)
 
-Na de basisanalyse kan een verdieping worden uitgevoerd met zes extra analyses:
+Na de basisanalyse kan een verdieping worden uitgevoerd met zeven extra analyses:
 
 7. **Exegese** - Gedegen schriftuitleg van de lezingen (tekstkritiek, literaire analyse, theologische lijnen)
 8. **Kunst en Cultuur** - Schilderijen, iconen, films en muziek die aansluiten bij de lezingen en gemeentecontext
@@ -80,6 +92,7 @@ Na de basisanalyse kan een verdieping worden uitgevoerd met zes extra analyses:
 10. **Kalender** - Gedenkdagen, heiligen, Joodse feestdagen, VN-dagen, nationale feestdagen, schoolvakanties, astronomie en weer
 11. **Representatieve Hoorders** - Vijf fictieve personages (16-80 jaar) die de diversiteit van de gemeente representeren
 12. **Homiletische Analyse** - [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_Homiletical_Plot.md) - Preekschets volgens de vijf stadia van Eugene Lowry (OOPS! → UGH! → AHA! → WHEE! → YEAH!)
+13. **Gebeden** - [Liturgische Gebeden in de PKN](misc/Liturgische_Gebeden.md) - Drempelgebed, kyrie, epiclese, dankgebed en voorbeden voor de eredienst
 
 Deze verdieping leest de output van de basisanalyse (00-06) en gebruikt deze als context.
 
@@ -171,6 +184,7 @@ output/Plaatsnaam_datum_timestamp/
 ├── 10_kalender.md                         # Kalender met gedenkdagen (via verdieping.py)
 ├── 11_representatieve_hoorders.md         # Vijf personages (via verdieping.py)
 ├── 12_homiletische_analyse.md             # Lowry's Homiletical Plot (via verdieping.py)
+├── 13_gebeden.md                          # Gebeden voor de eredienst (via verdieping.py)
 └── bijbelteksten/                         # Naardense Bijbel teksten (via verdieping.py)
     ├── jesaja_91-6.txt
     ├── lucas_21-14.txt
@@ -199,7 +213,8 @@ contextduiding/
 │   ├── 09_focus_en_functie.md              # Focus en Functie (verdieping)
 │   ├── 10_kalender.md                      # Kalender met gedenkdagen (verdieping)
 │   ├── 11_representatieve_hoorders.md      # Personages (verdieping)
-│   └── 12_homiletische_analyse.md          # Lowry's Homiletical Plot (verdieping)
+│   ├── 12_homiletische_analyse.md          # Lowry's Homiletical Plot (verdieping)
+│   └── 13_gebeden.md                       # Gebeden voor de eredienst (verdieping)
 ├── system_prompt_contextduiding.md         # Referentiedocumentatie methodiek
 ├── homiletisch_kader_hoordersanalyse.md    # Theoretisch kader De Leede & Stark
 ├── .env                                    # API key (niet in git)
@@ -390,6 +405,23 @@ De schets maakt expliciet gebruik van de sociaal-maatschappelijke context, repre
 
 Zie: [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_Homiletical_Plot.md)
 
+### 13. Gebeden voor de Eredienst (verdieping)
+Vijf liturgische gebeden voor de Protestantse eredienst, afgestemd op de Schriftlezingen en de lokale context:
+
+1. **Drempelgebed** - Het openingsgebed bij binnenkomst dat de overgang markeert van het dagelijks leven naar de ontmoeting met God. Bevat verootmoediging en verlangen.
+2. **Kyrie** - Het gebed om ontferming dat de nood van de wereld en de schepping voor Gods aangezicht brengt. Concreet en actueel, gevolgd door het Gloria.
+3. **Epiclese** - Het gebed om de Heilige Geest voordat de Schriften opengaan. Vraagt om verlichting van het verstand en opening van het hart.
+4. **Dankgebed** - Het gebed na de verkondiging dat dankt voor het gehoorde Woord en vraagt om kracht het te bewaren en te doen.
+5. **Voorbeden** - De gebeden der gemeente in concentrische cirkels: de wereld, de kerk, de naasten, de eigen gemeente. Afgesloten met het Onze Vader.
+
+**Theologische uitgangspunten:**
+- Trinitarisch: tot de Vader, door Christus, in de kracht van de Geest
+- Bijbels gefundeerd: de Schriftlezingen klinken door in de gebeden
+- Contextueel: lokale situatie en actuele context worden meegenomen
+- Liturgische economie: elk gebed heeft zijn eigen "toonhoogte", geen overlappingen
+
+Zie: [Liturgische Gebeden in de PKN](misc/Liturgische_Gebeden.md)
+
 ## 📚 Bronnen
 
 ### Gebruikte bronnen door het script
@@ -407,6 +439,7 @@ Zie: [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_H
 - [Focus en Functie: Kern van de Preekvoorbereiding](misc/Focus_en_Functie.md) (Gebaseerd op De Leede & Stark)
 - Lowry, E.L. (1980/2001). *The Homiletical Plot: The Sermon as Narrative Art Form*. Expanded Edition. Louisville: Westminster John Knox Press.
 - [Lowry's Homiletical Plot: De Preek als Narratieve Kunstvorm](misc/Lowrys_Homiletical_Plot.md) (Uitgebreide samenvatting in het Nederlands)
+- [Liturgische Gebeden in de PKN](misc/Liturgische_Gebeden.md) (Analyse van karakteristieken, structuur en best practices)
 - Niebergall, F. (1971). 'Die moderne Predigt', in: Hummel, G., *Aufgabe der Predigt*. Darmstadt: Wissenschaftliche Buchgesellschaft.
 - Snoek, H. (2010). *Een huis om in te wonen: Uitleg en interpretatie van de Bijbel*. Kampen: Kok, 2e druk, pp. 180-199. (Zoekmodellen voor Gods-, mens- en Jezusbeelden)
 - Motivaction. *Mentality-model*. https://www.motivaction.nl/mentality
