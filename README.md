@@ -2,6 +2,8 @@
 
 **Bekijk concrete voorbeelden op: [wmotte.github.io/contextduiding/](https://wmotte.github.io/contextduiding/)**
 
+**Verbeterde versie beschikbaar op: [https://wmotte.github.io/voorbereiding/](https://wmotte.github.io/voorbereiding/)**
+
 # Contextduiding voor Preekvoorbereiding
 
 Een hulpmiddel voor protestantse preekvoorbereiding in de PKN dat twee functies combineert:
